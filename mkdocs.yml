@@ -1,0 +1,17 @@
+
+site_name: New Zealand Dictionary Centre Database
+nav: 
+  - Overview: 'index.md'
+  - Lexicon:
+    - 'A' : 'A.md'
+    - 'B' : 'B.md'
+
+theme: readthedocs
+
+markdown_extensions:
+  - toc:
+      permalink: True
+      baselevel: 1
+      toc_depth: 3
+ 
+extra_css: [extra.css]
