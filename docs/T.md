@@ -867,7 +867,7 @@
 
 >  <i>(1968,Landfall,221/359</i>)
 
->  <i>taiaha</.i> ... n. Maori spear-like weapon used for striking rather than thrusting; lighter version used as chief's staff [Maori]. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
+>  <i>taiaha</i> ... n. Maori spear-like weapon used for striking rather than thrusting; lighter version used as chief's staff [Maori]. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
 
 >  <b>TAYLOR</b> I am the taiaha left among people/ who dance and twirl poi/ in gaudy halls/ of plastic maoridom. <i>(1979,Eyes of the Ruru,13</i>) [NOTES: (Taiaha Haka Poem)]
 

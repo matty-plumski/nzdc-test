@@ -66,3 +66,8 @@ a {
     color: #0280A1;
     text-decoration: none;
 }
+
+.wy-side-scroll {
+    width: auto;
+    overflow-y: auto;
+  }
