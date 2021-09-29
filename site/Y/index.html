@@ -1,517 +1,929 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  
-  
-  <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Y - New Zealand Dictionary Centre Database</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Y - New Zealand Dictionary Centre Database</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+        <link href="../extra.css" rel="stylesheet">
 
-  <link rel="stylesheet" href="../css/theme.css" />
-  <link rel="stylesheet" href="../css/theme_extra.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
-  <link href="../extra.css" rel="stylesheet" />
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "Y";
-    var mkdocs_page_input_path = "Y.md";
-    var mkdocs_page_url = null;
-  </script>
-  
-  <script src="../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script> 
-</head>
+        <script src="../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
 
-<body class="wy-body-for-nav" role="document">
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="..">New Zealand Dictionary Centre Database</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-  <div class="wy-grid-for-nav">
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Overview</a>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Lexicon <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../A/" class="dropdown-item">A</a>
+</li>
+                                    
+<li>
+    <a href="../B/" class="dropdown-item">B</a>
+</li>
+                                    
+<li>
+    <a href="../C/" class="dropdown-item">C</a>
+</li>
+                                    
+<li>
+    <a href="../D/" class="dropdown-item">D</a>
+</li>
+                                    
+<li>
+    <a href="../E/" class="dropdown-item">E</a>
+</li>
+                                    
+<li>
+    <a href="../F/" class="dropdown-item">F</a>
+</li>
+                                    
+<li>
+    <a href="../G/" class="dropdown-item">G</a>
+</li>
+                                    
+<li>
+    <a href="../H/" class="dropdown-item">H</a>
+</li>
+                                    
+<li>
+    <a href="../I/" class="dropdown-item">I</a>
+</li>
+                                    
+<li>
+    <a href="../J/" class="dropdown-item">J</a>
+</li>
+                                    
+<li>
+    <a href="../K/" class="dropdown-item">K</a>
+</li>
+                                    
+<li>
+    <a href="../L/" class="dropdown-item">L</a>
+</li>
+                                    
+<li>
+    <a href="../M/" class="dropdown-item">M</a>
+</li>
+                                    
+<li>
+    <a href="../N/" class="dropdown-item">N</a>
+</li>
+                                    
+<li>
+    <a href="../O/" class="dropdown-item">O</a>
+</li>
+                                    
+<li>
+    <a href="../P/" class="dropdown-item">P</a>
+</li>
+                                    
+<li>
+    <a href="../Q/" class="dropdown-item">Q</a>
+</li>
+                                    
+<li>
+    <a href="../R/" class="dropdown-item">R</a>
+</li>
+                                    
+<li>
+    <a href="../S/" class="dropdown-item">S</a>
+</li>
+                                    
+<li>
+    <a href="../T/" class="dropdown-item">T</a>
+</li>
+                                    
+<li>
+    <a href="../U/" class="dropdown-item">U</a>
+</li>
+                                    
+<li>
+    <a href="../V/" class="dropdown-item">V</a>
+</li>
+                                    
+<li>
+    <a href="../W/" class="dropdown-item">W</a>
+</li>
+                                    
+<li>
+    <a href="../X/" class="dropdown-item">X</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Y</a>
+</li>
+                                    
+<li>
+    <a href="../Z/" class="dropdown-item">Z</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
 
-    
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-    <div class="wy-side-scroll">
-      <div class="wy-side-nav-search">
-        <a href=".." class="icon icon-home"> New Zealand Dictionary Centre Database</a>
-        <div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
-  </form>
-</div>
-      </div>
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../X/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../Z/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="..">Overview</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Lexicon</span></p>
-                <ul class="current">
-                    <li class="toctree-l1"><a class="reference internal" href="../A/">A</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../B/">B</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../C/">C</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../D/">D</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../E/">E</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../F/">F</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../G/">G</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../H/">H</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../I/">I</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../J/">J</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../K/">K</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../L/">L</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../M/">M</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../N/">N</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../O/">O</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../P/">P</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../Q/">Q</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../R/">R</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../S/">S</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../T/">T</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../U/">U</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../V/">V</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../W/">W</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../X/">X</a>
-                    </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Y</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#y-cutter">Y-cutter</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ya">YA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ya-ma-ness">ya ma-ness</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ya-station">YA station</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yaapie">Yaapie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yaba">yaba</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yabber">yabber</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yacca">yacca</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yachterati">yachterati</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yachtie">yachtie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yackyak">yack/yak</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yacker">yacker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yackeryakker">yacker/yakker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yacketing">yacketing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yackety-yak">yackety-yak</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yah-yah">yah yah</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yahoo">yahoo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yahoo-aboutaround">yahoo about/around</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yahooing">yahooing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yahooism">yahooism</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yakka">yakka</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yakker">yakker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yam">yam</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yam-creeper">yam-creeper</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yammer">yammer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yank-tank">Yank tank</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yanked">yanked</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee">Yankee</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-axe">Yankee axe</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-clock">Yankee clock</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-grab">Yankee grab</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-shout">Yankee shout</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-start">Yankee start</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-sweat">Yankee sweat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-tomahawk">Yankee tomahawk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-tournament">Yankee tournament</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-wagon">Yankee wagon</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yankee-weed">Yankee weed</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yaq">YAQ</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard">yard</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-boy">yard boy</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-dog">yard dog</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-hand">yard hand</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-job">yard job</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-sheep">yard sheep</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-shepherd">yard shepherd</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-up">yard up</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-work">yard work</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yard-arm">yard-arm</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarded">yarded</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarder">yarder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarder-up">yarder-up</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarding">yarding</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarding-up">yarding-up</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yardman">yardman</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yards">yards</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarn">yarn</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yarr">yarr</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yb">YB</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yc">YC</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yc-station">YC station</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ydub">Ydub</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yeah-right">yeah, right</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yeah-na-syndrome">yeah-na syndrome</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yearling">yearling</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yearling-sales">yearling sales</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yearly-man">yearly man</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yeast-pikelet">yeast pikelet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yeast-plant">yeast plant</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-admiral">yellow admiral</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-akeake">yellow akeake</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-birch">yellow birch</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-boarfish">yellow boarfish</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-card">yellow card</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-cod">yellow cod</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-fever">yellow fever</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-flag">yellow flag</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-flax">yellow flax</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-flounder">yellow flounder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-headed-penguin">yellow headed penguin</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-jacket">yellow jacket</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-kowhai">yellow kowhai</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-line">yellow line</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-lucerne">yellow lucerne</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-mistletoe">yellow mistletoe</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-moray">yellow moray</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-mountain-lily">yellow mountain lily</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-peril">yellow peril</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-pine">yellow pine</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-shrub">yellow shrub</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-silver-pine">yellow silver pine</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-tree-daisy">yellow tree daisy</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-tussock">yellow tussock</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-union">yellow union</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-weed">yellow weed</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-weever">yellow weever</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-belly">yellow-belly</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-breasted-tit">yellow-breasted tit</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-button">yellow-button</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-crowned-parakeet">yellow-crowned parakeet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-crowned-penguin">yellow-crowned penguin</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-eye">yellow-eye</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-eyed-mullet">yellow-eyed mullet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-eyed-penguin">yellow-eyed penguin</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-fronted-parakeet">yellow-fronted parakeet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-hammer">yellow-hammer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-headed-tit">yellow-headed tit</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-leaf">yellow-leaf</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-prickled-lawyer">yellow-prickled lawyer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-topped-parakeet">yellow-topped parakeet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-wattled-crow">yellow-wattled crow</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellow-wood">yellow-wood</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowbanded-hussar">yellowbanded hussar</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowbanded-perch">yellowbanded perch</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowbelly-flounder">yellowbelly flounder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowfin">yellowfin</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowfinned-tuna">yellowfin(ned) tuna</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowfoot">yellowfoot</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowhead">yellowhead</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowtail">yellowtail</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yellowtail-kingfish">yellowtail kingfish</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yense">yense</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yep">yep</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yerk">yerk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yes">YES</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yes-buttery">yes, buttery</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yew">yew</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yield">yield</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yig-yag">yig yag</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yips">yips</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yl">YL</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ym">YM</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yo-yo">yo-yo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yo-yo-summer">yo-yo summer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yob">yob</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yodel-over-the-mahogany">yodel over the mahogany</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yogi">yogi</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yoke">yoke</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yoke-up">yoke up</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yolk">yolk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yolk-stain">yolk stain</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yorker">yorker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yorkshire-fog">Yorkshire fog</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-all">you all</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-can-say-that-again">you can say that again</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-cant-fatten-thoroughbreds">you can't fatten thoroughbreds</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-could-whip-a-cricket-over-it">you could whip a cricket over it</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-do-that">you do that</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-fullas">you fullas</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-get-that">you get that</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-go">you go</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-make-a-better-door-than-a-window">you make a better door than a window</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-think-youre-a-flowerpot-because">you think you're a flowerpot because...</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-wouldnt-read-about-it">you wouldn't read about it</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youd-moan-if-your-arse-was-on-fire">you'd moan if your arse was on fire</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youre-not-in-guatemala-now-dr-ropata">you're not in Guatemala now, Dr Ropata</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youre-not-too-foul">you're not too foul</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youre-telling-i">you're telling I</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youre-telling-joe">you're telling Joe</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-i-and-paddy-mcgintys-goat">you, I, and Paddy McGinty's goat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-and-me">you-and-me</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-beaut">you-beaut</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#you-know-where-house">you-know-where-house</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-colonial">young colonial</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-country">young country</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-farmers-club">Young Farmers' Club</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-guns">Young Guns</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-mans-country">young man's country</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-maori-movement">Young Maori Movement</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-maori-party">Young Maori Party</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-nat">Young Nat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-new-zealand">Young New Zealand</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-new-zealand-party">Young New Zealand Party</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#young-turk">Young Turk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#younger-drift">younger drift</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youngkie">youngkie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#younker">younker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yous-all">yous all</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yousyouse">yous/youse</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#youth">youth</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yuk">YUK</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yukon-pack">Yukon pack</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#yummy-mummy-car">Yummy Mummy car</a>
-    </li>
-    </ul>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../Z/">Z</a>
-                    </li>
-                </ul>
-      </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
     </div>
-    </nav>
 
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="..">New Zealand Dictionary Centre Database</a>
-      </nav>
-
-      
-      <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="..">Docs</a> &raquo;</li>
     
-      
-        
-          <li>Lexicon &raquo;</li>
-        
-      
-    
-    <li>Y</li>
-    <li class="wy-breadcrumbs-aside">
-      
-    </li>
-  </ul>
-  
-  <hr/>
-</div>
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#y" class="nav-link">Y</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#y-cutter" class="nav-link">Y-cutter</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ya" class="nav-link">YA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ya-ma-ness" class="nav-link">ya ma-ness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ya-station" class="nav-link">YA station</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yaapie" class="nav-link">Yaapie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yaba" class="nav-link">yaba</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yabber" class="nav-link">yabber</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yacca" class="nav-link">yacca</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yachterati" class="nav-link">yachterati</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yachtie" class="nav-link">yachtie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yackyak" class="nav-link">yack/yak</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yacker" class="nav-link">yacker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yackeryakker" class="nav-link">yacker/yakker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yacketing" class="nav-link">yacketing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yackety-yak" class="nav-link">yackety-yak</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yah-yah" class="nav-link">yah yah</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yahoo" class="nav-link">yahoo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yahoo-aboutaround" class="nav-link">yahoo about/around</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yahooing" class="nav-link">yahooing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yahooism" class="nav-link">yahooism</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yakka" class="nav-link">yakka</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yakker" class="nav-link">yakker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yam" class="nav-link">yam</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yam-creeper" class="nav-link">yam-creeper</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yammer" class="nav-link">yammer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yank-tank" class="nav-link">Yank tank</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yanked" class="nav-link">yanked</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee" class="nav-link">Yankee</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-axe" class="nav-link">Yankee axe</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-clock" class="nav-link">Yankee clock</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-grab" class="nav-link">Yankee grab</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-shout" class="nav-link">Yankee shout</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-start" class="nav-link">Yankee start</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-sweat" class="nav-link">Yankee sweat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-tomahawk" class="nav-link">Yankee tomahawk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-tournament" class="nav-link">Yankee tournament</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-wagon" class="nav-link">Yankee wagon</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yankee-weed" class="nav-link">Yankee weed</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yaq" class="nav-link">YAQ</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard" class="nav-link">yard</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-boy" class="nav-link">yard boy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-dog" class="nav-link">yard dog</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-hand" class="nav-link">yard hand</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-job" class="nav-link">yard job</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-sheep" class="nav-link">yard sheep</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-shepherd" class="nav-link">yard shepherd</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-up" class="nav-link">yard up</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-work" class="nav-link">yard work</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yard-arm" class="nav-link">yard-arm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarded" class="nav-link">yarded</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarder" class="nav-link">yarder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarder-up" class="nav-link">yarder-up</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarding" class="nav-link">yarding</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarding-up" class="nav-link">yarding-up</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yardman" class="nav-link">yardman</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yards" class="nav-link">yards</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarn" class="nav-link">yarn</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yarr" class="nav-link">yarr</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yb" class="nav-link">YB</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yc" class="nav-link">YC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yc-station" class="nav-link">YC station</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ydub" class="nav-link">Ydub</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yeah-right" class="nav-link">yeah, right</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yeah-na-syndrome" class="nav-link">yeah-na syndrome</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yearling" class="nav-link">yearling</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yearling-sales" class="nav-link">yearling sales</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yearly-man" class="nav-link">yearly man</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yeast-pikelet" class="nav-link">yeast pikelet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yeast-plant" class="nav-link">yeast plant</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-admiral" class="nav-link">yellow admiral</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-akeake" class="nav-link">yellow akeake</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-birch" class="nav-link">yellow birch</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-boarfish" class="nav-link">yellow boarfish</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-card" class="nav-link">yellow card</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-cod" class="nav-link">yellow cod</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-fever" class="nav-link">yellow fever</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-flag" class="nav-link">yellow flag</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-flax" class="nav-link">yellow flax</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-flounder" class="nav-link">yellow flounder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-headed-penguin" class="nav-link">yellow headed penguin</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-jacket" class="nav-link">yellow jacket</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-kowhai" class="nav-link">yellow kowhai</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-line" class="nav-link">yellow line</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-lucerne" class="nav-link">yellow lucerne</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-mistletoe" class="nav-link">yellow mistletoe</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-moray" class="nav-link">yellow moray</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-mountain-lily" class="nav-link">yellow mountain lily</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-peril" class="nav-link">yellow peril</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-pine" class="nav-link">yellow pine</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-shrub" class="nav-link">yellow shrub</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-silver-pine" class="nav-link">yellow silver pine</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-tree-daisy" class="nav-link">yellow tree daisy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-tussock" class="nav-link">yellow tussock</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-union" class="nav-link">yellow union</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-weed" class="nav-link">yellow weed</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-weever" class="nav-link">yellow weever</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-belly" class="nav-link">yellow-belly</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-breasted-tit" class="nav-link">yellow-breasted tit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-button" class="nav-link">yellow-button</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-crowned-parakeet" class="nav-link">yellow-crowned parakeet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-crowned-penguin" class="nav-link">yellow-crowned penguin</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-eye" class="nav-link">yellow-eye</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-eyed-mullet" class="nav-link">yellow-eyed mullet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-eyed-penguin" class="nav-link">yellow-eyed penguin</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-fronted-parakeet" class="nav-link">yellow-fronted parakeet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-hammer" class="nav-link">yellow-hammer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-headed-tit" class="nav-link">yellow-headed tit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-leaf" class="nav-link">yellow-leaf</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-prickled-lawyer" class="nav-link">yellow-prickled lawyer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-topped-parakeet" class="nav-link">yellow-topped parakeet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-wattled-crow" class="nav-link">yellow-wattled crow</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellow-wood" class="nav-link">yellow-wood</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowbanded-hussar" class="nav-link">yellowbanded hussar</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowbanded-perch" class="nav-link">yellowbanded perch</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowbelly-flounder" class="nav-link">yellowbelly flounder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowfin" class="nav-link">yellowfin</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowfinned-tuna" class="nav-link">yellowfin(ned) tuna</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowfoot" class="nav-link">yellowfoot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowhead" class="nav-link">yellowhead</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowtail" class="nav-link">yellowtail</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yellowtail-kingfish" class="nav-link">yellowtail kingfish</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yense" class="nav-link">yense</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yep" class="nav-link">yep</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yerk" class="nav-link">yerk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yes" class="nav-link">YES</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yes-buttery" class="nav-link">yes, buttery</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yew" class="nav-link">yew</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yield" class="nav-link">yield</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yig-yag" class="nav-link">yig yag</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yips" class="nav-link">yips</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yl" class="nav-link">YL</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ym" class="nav-link">YM</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yo-yo" class="nav-link">yo-yo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yo-yo-summer" class="nav-link">yo-yo summer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yob" class="nav-link">yob</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yodel-over-the-mahogany" class="nav-link">yodel over the mahogany</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yogi" class="nav-link">yogi</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yoke" class="nav-link">yoke</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yoke-up" class="nav-link">yoke up</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yolk" class="nav-link">yolk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yolk-stain" class="nav-link">yolk stain</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yorker" class="nav-link">yorker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yorkshire-fog" class="nav-link">Yorkshire fog</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-all" class="nav-link">you all</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-can-say-that-again" class="nav-link">you can say that again</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-cant-fatten-thoroughbreds" class="nav-link">you can't fatten thoroughbreds</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-could-whip-a-cricket-over-it" class="nav-link">you could whip a cricket over it</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-do-that" class="nav-link">you do that</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-fullas" class="nav-link">you fullas</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-get-that" class="nav-link">you get that</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-go" class="nav-link">you go</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-make-a-better-door-than-a-window" class="nav-link">you make a better door than a window</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-think-youre-a-flowerpot-because" class="nav-link">you think you're a flowerpot because...</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-wouldnt-read-about-it" class="nav-link">you wouldn't read about it</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youd-moan-if-your-arse-was-on-fire" class="nav-link">you'd moan if your arse was on fire</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youre-not-in-guatemala-now-dr-ropata" class="nav-link">you're not in Guatemala now, Dr Ropata</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youre-not-too-foul" class="nav-link">you're not too foul</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youre-telling-i" class="nav-link">you're telling I</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youre-telling-joe" class="nav-link">you're telling Joe</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-i-and-paddy-mcgintys-goat" class="nav-link">you, I, and Paddy McGinty's goat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-and-me" class="nav-link">you-and-me</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-beaut" class="nav-link">you-beaut</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#you-know-where-house" class="nav-link">you-know-where-house</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-colonial" class="nav-link">young colonial</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-country" class="nav-link">young country</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-farmers-club" class="nav-link">Young Farmers' Club</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-guns" class="nav-link">Young Guns</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-mans-country" class="nav-link">young man's country</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-maori-movement" class="nav-link">Young Maori Movement</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-maori-party" class="nav-link">Young Maori Party</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-nat" class="nav-link">Young Nat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-new-zealand" class="nav-link">Young New Zealand</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-new-zealand-party" class="nav-link">Young New Zealand Party</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#young-turk" class="nav-link">Young Turk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#younger-drift" class="nav-link">younger drift</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youngkie" class="nav-link">youngkie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#younker" class="nav-link">younker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yous-all" class="nav-link">yous all</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yousyouse" class="nav-link">yous/youse</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#youth" class="nav-link">youth</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yuk" class="nav-link">YUK</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yukon-pack" class="nav-link">Yukon pack</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#yummy-mummy-car" class="nav-link">Yummy Mummy car</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
 
-          <div role="main">
-            <div class="section">
-              
-                <h1 id="y">Y<a class="headerlink" href="#y" title="Permanent link">&para;</a></h1>
+<h1 id="y">Y<a class="headerlink" href="#y" title="Permanent link">&para;</a></h1>
 <h2 id="y-cutter">Y-cutter<a class="headerlink" href="#y-cutter" title="Permanent link">&para;</a></h2>
 <p><i>n.</i> freezing worker</p>
 <blockquote>
@@ -2048,59 +2460,81 @@
 <p><i>n.</i> a four-wheel drive vehicle</p>
 <blockquote>
 <p>Boom boom - and bang. That's the sound of the hefty door on a $94,000 Discovery Land Rover 2003, the kind of four-wheel drive that makes columnist Frank Haden writhe, a Yummy Mummy car designed for the off-road, bought by the in-crowd... "I can look down on chicks' laps while driving," says Greg Grieves.. another Honda CRV driver who's sold on the 4WD experience. He's a Yummy Daddy, a Ponsonby father of two whose last car was an Audi S6. <i>(Jan 26, 2003,Sunday Star Times,C4</i>)</p>
-</blockquote>
-              
+</blockquote></div>
             </div>
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../Z/" class="btn btn-neutral float-right" title="Z">Next <span class="icon icon-circle-arrow-right"></span></a>
-      
-      
-        <a href="../X/" class="btn btn-neutral" title="X"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-      
-    </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
-    
-  </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
-      
         </div>
-      </div>
 
-    </section>
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js" defer></script>
+        <script src="../search/main.js" defer></script>
 
-  </div>
-
-  <div class="rst-versions" role="note" aria-label="versions">
-  <span class="rst-current-version" data-toggle="rst-current-version">
-    
-    
-      <span><a href="../X/" style="color: #fcfcfc">&laquo; Previous</a></span>
-    
-    
-      <span><a href="../Z/" style="color: #fcfcfc">Next &raquo;</a></span>
-    
-  </span>
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
 </div>
-    <script>var base_url = '..';</script>
-    <script src="../js/theme_extra.js" defer></script>
-    <script src="../js/theme.js" defer></script>
-      <script src="../search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
-            SphinxRtdTheme.Navigation.enable(true);
-        };
-    </script>
 
-</body>
+    </body>
 </html>

@@ -6,7 +6,7 @@ nav:
     - 'A' : 'A.md'
     - 'B' : 'B.md'
 
-theme: mkdocs
+theme: readthedocs
    icon: fa-book
 markdown_extensions:
   - toc:

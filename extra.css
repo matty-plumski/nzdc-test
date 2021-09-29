@@ -68,3 +68,8 @@ code, .rst-content tt {
     max-width: 1200px;
     margin: auto;
 }
+
+/* changes width of navigation bar to accomodate scroll bar */
+.wy-nav-side {
+    width: 315px;
+}
