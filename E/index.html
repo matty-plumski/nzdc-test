@@ -1,879 +1,1653 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  
-  
-  <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>E - New Zealand Dictionary Centre Database</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>E - New Zealand Dictionary Centre Database</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+        <link href="../extra.css" rel="stylesheet">
 
-  <link rel="stylesheet" href="../css/theme.css" />
-  <link rel="stylesheet" href="../css/theme_extra.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
-  <link href="../extra.css" rel="stylesheet" />
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "E";
-    var mkdocs_page_input_path = "E.md";
-    var mkdocs_page_url = null;
-  </script>
-  
-  <script src="../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script> 
-</head>
+        <script src="../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
 
-<body class="wy-body-for-nav" role="document">
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="..">New Zealand Dictionary Centre Database</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-  <div class="wy-grid-for-nav">
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Overview</a>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Lexicon <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../A/" class="dropdown-item">A</a>
+</li>
+                                    
+<li>
+    <a href="../B/" class="dropdown-item">B</a>
+</li>
+                                    
+<li>
+    <a href="../C/" class="dropdown-item">C</a>
+</li>
+                                    
+<li>
+    <a href="../D/" class="dropdown-item">D</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">E</a>
+</li>
+                                    
+<li>
+    <a href="../F/" class="dropdown-item">F</a>
+</li>
+                                    
+<li>
+    <a href="../G/" class="dropdown-item">G</a>
+</li>
+                                    
+<li>
+    <a href="../H/" class="dropdown-item">H</a>
+</li>
+                                    
+<li>
+    <a href="../I/" class="dropdown-item">I</a>
+</li>
+                                    
+<li>
+    <a href="../J/" class="dropdown-item">J</a>
+</li>
+                                    
+<li>
+    <a href="../K/" class="dropdown-item">K</a>
+</li>
+                                    
+<li>
+    <a href="../L/" class="dropdown-item">L</a>
+</li>
+                                    
+<li>
+    <a href="../M/" class="dropdown-item">M</a>
+</li>
+                                    
+<li>
+    <a href="../N/" class="dropdown-item">N</a>
+</li>
+                                    
+<li>
+    <a href="../O/" class="dropdown-item">O</a>
+</li>
+                                    
+<li>
+    <a href="../P/" class="dropdown-item">P</a>
+</li>
+                                    
+<li>
+    <a href="../Q/" class="dropdown-item">Q</a>
+</li>
+                                    
+<li>
+    <a href="../R/" class="dropdown-item">R</a>
+</li>
+                                    
+<li>
+    <a href="../S/" class="dropdown-item">S</a>
+</li>
+                                    
+<li>
+    <a href="../T/" class="dropdown-item">T</a>
+</li>
+                                    
+<li>
+    <a href="../U/" class="dropdown-item">U</a>
+</li>
+                                    
+<li>
+    <a href="../V/" class="dropdown-item">V</a>
+</li>
+                                    
+<li>
+    <a href="../W/" class="dropdown-item">W</a>
+</li>
+                                    
+<li>
+    <a href="../X/" class="dropdown-item">X</a>
+</li>
+                                    
+<li>
+    <a href="../Y/" class="dropdown-item">Y</a>
+</li>
+                                    
+<li>
+    <a href="../Z/" class="dropdown-item">Z</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
 
-    
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-    <div class="wy-side-scroll">
-      <div class="wy-side-nav-search">
-        <a href=".." class="icon icon-home"> New Zealand Dictionary Centre Database</a>
-        <div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
-  </form>
-</div>
-      </div>
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../D/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../F/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="..">Overview</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Lexicon</span></p>
-                <ul class="current">
-                    <li class="toctree-l1"><a class="reference internal" href="../A/">A</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../B/">B</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../C/">C</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../D/">D</a>
-                    </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">E</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#e-hoa-ma">e hoa ma</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#e-to-ki">e-to-ki</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#e-tootoo">e-tootoo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ea">EA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eab">EAB</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eagle">eagle</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eagle-ray">eagle ray</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eaglewist">eaglewist</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ear-shell">ear shell</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ear-piece">ear-piece</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earbash">earbash</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earbashing">earbashing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earina">earina</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early">early</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-bird">early bird</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-childhood-centre">Early Childhood Centre</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-childhood-council">Early Childhood Council</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-closing">early closing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-country">early country</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-cup">early cup</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-lamber">early lamber</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-morning-tea">early morning tea</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-opener">early opener</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-settler">early settler</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-shearing">early shearing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#early-shower">early shower</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earmarker">earmarker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earn">earn</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ears-laid-back">ears laid back</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eartag">eartag</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earth-oven">earth oven</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earth-crowder">earth-crowder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earth-hungry">earth-hungry</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earth-star">earth-star</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earthflow">earthflow</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earthquake">earthquake</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earthquake-commission">Earthquake Commission</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earthquake-weather">earthquake weather</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earwagging">earwagging</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#earwig">earwig</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ease-off">ease off</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easer">easer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easies">easies</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#east-cape-groundsel">East Cape groundsel</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#east-coast">East Coast</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#east-coast-leggings">East Coast leggings</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#east-coast-strum">East Coast strum</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#east-coaster">East Coaster</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easterly-buster">easterly buster</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eastern-falcon">eastern falcon</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eastern-kiwi">eastern kiwi</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eastern-knot">eastern knot</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eastland">Eastland</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easy">easy</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easy-as-putty">easy as putty</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easy-country">easy country</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easy-mutton">easy mutton</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easy-lambing">easy-lambing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#easybeat">easybeat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat">eat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-ones-tutu">eat (one's) tutu</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-ones-tututoot">eat (one's) tutu/toot</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-down">eat down</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-out">eat out</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-sausage">eat sausage</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-sheet">eat sheet</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eat-the-leek">eat the leek</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eater-of-stars">eater-of-stars</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eating-off">eating-off</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eau-de-cologne">eau de cologne</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eau-dear">eau dear</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eba">EBA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ebv">EBV</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eca">ECA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ecc">ECC</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eccentric-as-a-rabbit-on-skates">eccentric as a rabbit on skates</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ece">ECE</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ech">Ech</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#echelon">echelon</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#echo">echo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eckie">eckie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ecnz">ECNZ</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-bacheco-inn">Eco Bach/Eco Inn</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-country-estate">eco-country estate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-farmer">eco-farmer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-loo">eco-loo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-sourced">eco-sourced</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-trooper">eco-trooper</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-whare">eco-whare</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eco-whinger">eco-whinger</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#economic-unit">economic unit</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#economiser">economiser</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ecw">ECW</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eddoes">eddoes</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edelweiss">edelweiss</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eden-of-the-southern-sea">Eden of the Southern Sea</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eden-park-syndrome">Eden Park syndrome</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eden-parker">Eden Parker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edger">edger</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edinburgh-of-the-south">Edinburgh of the South</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edmonds">Edmonds</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edmonds-cookbook">Edmonds Cookbook</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#edmund-hillary">Edmund Hillary</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#educarer">educarer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#education-board">Education Board</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eeca">EECA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel">eel</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-basket">eel basket</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-grass">eel grass</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-trap">eel trap</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-trout">eel trout</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-bob">eel-bob</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-bobbing">eel-bobbing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-hawk">eel-hawk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-pa">eel-pa</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-station">eel-station</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eel-weir">eel-weir</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eels-blanket">eels' blanket</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eez">EEZ</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#effluent-station">effluent station</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#efts">EFTS</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg">egg</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-cap">egg cap</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-fart">egg fart</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-floor">egg floor</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-out">egg out</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-in-the-hat">egg-in-the-hat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-laying-skink">egg-laying skink</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egg-shell-blonde">egg-shell blonde</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eggbird">eggbird</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eggie">eggie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eggroll">eggroll</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egmont-cake">Egmont cake</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egmont-cheese">Egmont cheese</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egmont-fern">Egmont fern</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egna-brit">Egna Brit</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#egret">egret</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eh">eh</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ehoa">Ehoa</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ehoa_1">ehoa</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ehouhounamu">ehouhounamu</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight">eight</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-and-a-bender">eight and a bender</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-hourseight-hour-day">eight hours/eight-hour day</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-oclocker">eight o'clocker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-ounce">eight ounce</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-pennorth">eight penn'orth</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-horse-hat">eight-horse hat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-hour-man">eight-hour man</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-stand">eight-stand</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eight-tooth">eight-tooth</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eketera">eketera</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#el-cheapo">el cheapo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#el-dorado">El Dorado</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#el-lemon">El Lemon</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elastrator">elastrator</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elbow">elbow</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elder">elder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electoral-commission">Electoral Commission</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electoral-roll">electoral roll</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electorate">electorate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-fence">electric fence</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-fencing">electric fencing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-heater">electric heater</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-puha">electric puha</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-ray">electric ray</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-skate">electric skate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electric-stove">electric stove</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electricorp">Electricorp</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#electroluxing">electroluxing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elegant-wrasse">elegant wrasse</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant">elephant</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant-ear">elephant ear</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant-fish">elephant fish</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant-gun">elephant gun</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant-seal">elephant seal</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elephant-shark">elephant shark</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elingamite">Elingamite</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elingamite-weather">Elingamite weather</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elite">elite</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elk">elk</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elle-black">Elle Black</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elo">ELO</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elongate-dory">elongate dory</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#elytes">Elytes</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ema">EMA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#embushed">embushed</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emergency">emergency</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emfat">Emfat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrant">emigrant</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrant-barracks">emigrant barracks</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrant-ship">emigrant ship</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrant-stove">emigrant stove</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrant-vessel">emigrant vessel</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigrate">emigrate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigration">emigration</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigration-agent">emigration agent</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigration-barracks">emigration barracks</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigration-commissioner">emigration commissioner</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emigration-fever">emigration fever</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emotional-harm-reparation">emotional harm reparation</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emperor-shag">emperor shag</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empire-city">Empire City</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empire-disease">Empire disease</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empire-ring">Empire ring</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empires-dairy-farm">Empire's Dairy Farm</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empires-outlying-farm">Empire's outlying farm</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#employers-federation">Employers' Federation</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#employment-contracts-act">Employment Contracts Act</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#employment-court">Employment Court</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empty">empty</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#empty-rate">empty rate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emtr">EMTR</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emu">emu</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emu-parade">emu parade</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#emu-scratching">emu-scratching</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#en-suite">en suite</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enaki">enaki</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#encamp">encamp</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#encroachment">encroachment</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#end-check">end check</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#end-of-ones-golden-tethers">end of one's golden tethers</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#end-of-the-golden-weather">end of the golden weather</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#end-of-the-penny-section">end of the penny section</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#endo">endo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#endsville">Endsville</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#energy-chocolate">energy chocolate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enforcer">enforcer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#engine-room">engine room</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#engineer">engineer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#englands-last-ope">England's Last 'Ope</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english">English</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english-flax">English flax</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english-grass">English grass</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english-johnny">English Johnny</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english-mackerel">English mackerel</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#english-rat">English rat</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#engo">engo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enoko">enoko</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enrichment">enrichment</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enrolment-zone">enrolment zone</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ensign">ensign</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ensilage">ensilage</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ensilage-making">ensilage-making</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ensuited">ensuited</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entail">entail</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entebbe-operation">Entebbe Operation</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entertrainer">entertrainer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entire-leaved-beech">entire-leaved beech</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entire-leaved-birch">entire-leaved birch</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entree">entree</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entrepreneurial-worker">entrepreneurial worker</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#entry-level-farm">entry level farm</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enunga-smelt">enunga smelt</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enz-the">Enz, the</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enza">Enza</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enzed">Enzed</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#enzedder">Enzedder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eoi">EOI</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epa">EPA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epacris">epacris</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epakeke">ePakeke</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epakeke-roa">ePakeke Roa</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epakeke-tiketike">ePakeke Tiketike</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epb">EPB</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#epirb">epirb</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eppa">eppa</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eqc">EQC</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#equalisator">equalisator</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#equity-manager">equity manager</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#era">ERA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erb">ERB</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erbo">erbo</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erebus-disaster">Erebus disaster</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erewhonitis">Erewhonitis</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ergot">ergot</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ergotised">ergotised</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ergoty">ergoty</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erica-caffra">erica caffra</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#erma">ERMA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ero">ERO</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eschcholtzia">eschcholtzia</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#escolar">escolar</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#escort">escort</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eskimo-pie">Eskimo Pie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#esplanade-reserve">esplanade reserve</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#esplanade-strip">esplanade strip</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#esr">ESR</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#estate">estate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#estuary-flounder">estuary flounder</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#etabu">etabu</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ethered">ethered</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ethnic-hay">ethnic hay</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#etohora">etohora</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eucalyptus">eucalyptus</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#euchre">euchre</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#euchre-party">euchre party</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#euchred">euchred</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#euphrosyne-dolphin">Euphrosyne dolphin</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#european">European</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#european-flax">European flax</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eurybia">eurybia</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eva">EVA</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#evai">evai</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#even-terms">even terms</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#even-woolled">even-woolled</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#evening-hate">evening hate</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#evening-primrose">evening primrose</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#evening-rise">evening rise</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#everlasting-lease">everlasting lease</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#everlasting-pea">everlasting pea</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#evil">evil</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewananga">eWananga</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewe-block">ewe block</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewe-country">ewe country</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewe-equivalent">ewe equivalent</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewe-paddock">ewe paddock</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ewesterer">ewesterer</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex">ex</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex-coaster">ex-Coaster</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex-dig">ex-dig</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex-new-zealander">ex-New Zealander</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex-nuptial">ex-nuptial</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ex-pat-kiwi">ex-pat Kiwi</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#excess-condition">excess condition</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#exclosure-plot">exclosure plot</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#exclude">exclude</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#execkie">execkie</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#executive-council">Executive Council</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#executive-lease">executive lease</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#executive-leasing">executive leasing</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#exodus">Exodus</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#exotic">exotic</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#experimental-farm">experimental farm</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#expert">expert</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#experting">experting</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#export-mutton">export mutton</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#export-of-brains">export of brains</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#express">express</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#express-wagon">express wagon</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#expressman">expressman</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extax">extax</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extended-whanau">extended whanau</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#external-affairs">External Affairs</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extra">extra</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extra-curly">extra curly</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extras">extras</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extravaganza">extravaganza</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#extremoenzyme">extremoenzyme</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye">eye</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-dog">eye dog</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-roll">eye roll</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-trouble">eye trouble</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-blight">eye-blight</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-clip">eye-clip</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-clipping">eye-clipping</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-clips">eye-clips</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-drop">eye-drop</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-opener">eye-opener</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-wig">eye-wig</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eye-wigging">eye-wigging</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eyebright">eyebright</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eyes-out">eyes out</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#eyes-off-operator">eyes-off operator</a>
-    </li>
-    </ul>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../F/">F</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../G/">G</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../H/">H</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../I/">I</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../J/">J</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../K/">K</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../L/">L</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../M/">M</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../N/">N</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../O/">O</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../P/">P</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../Q/">Q</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../R/">R</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../S/">S</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../T/">T</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../U/">U</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../V/">V</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../W/">W</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../X/">X</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../Y/">Y</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../Z/">Z</a>
-                    </li>
-                </ul>
-      </div>
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
     </div>
-    </nav>
 
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="..">New Zealand Dictionary Centre Database</a>
-      </nav>
-
-      
-      <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="..">Docs</a> &raquo;</li>
     
-      
-        
-          <li>Lexicon &raquo;</li>
-        
-      
-    
-    <li>E</li>
-    <li class="wy-breadcrumbs-aside">
-      
-    </li>
-  </ul>
-  
-  <hr/>
-</div>
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#e" class="nav-link">E</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#e-hoa-ma" class="nav-link">e hoa ma</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#e-to-ki" class="nav-link">e-to-ki</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#e-tootoo" class="nav-link">e-tootoo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ea" class="nav-link">EA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eab" class="nav-link">EAB</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eagle" class="nav-link">eagle</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eagle-ray" class="nav-link">eagle ray</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eaglewist" class="nav-link">eaglewist</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ear-shell" class="nav-link">ear shell</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ear-piece" class="nav-link">ear-piece</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earbash" class="nav-link">earbash</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earbashing" class="nav-link">earbashing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earina" class="nav-link">earina</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early" class="nav-link">early</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-bird" class="nav-link">early bird</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-childhood-centre" class="nav-link">Early Childhood Centre</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-childhood-council" class="nav-link">Early Childhood Council</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-closing" class="nav-link">early closing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-country" class="nav-link">early country</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-cup" class="nav-link">early cup</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-lamber" class="nav-link">early lamber</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-morning-tea" class="nav-link">early morning tea</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-opener" class="nav-link">early opener</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-settler" class="nav-link">early settler</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-shearing" class="nav-link">early shearing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#early-shower" class="nav-link">early shower</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earmarker" class="nav-link">earmarker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earn" class="nav-link">earn</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ears-laid-back" class="nav-link">ears laid back</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eartag" class="nav-link">eartag</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earth-oven" class="nav-link">earth oven</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earth-crowder" class="nav-link">earth-crowder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earth-hungry" class="nav-link">earth-hungry</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earth-star" class="nav-link">earth-star</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earthflow" class="nav-link">earthflow</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earthquake" class="nav-link">earthquake</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earthquake-commission" class="nav-link">Earthquake Commission</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earthquake-weather" class="nav-link">earthquake weather</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earwagging" class="nav-link">earwagging</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#earwig" class="nav-link">earwig</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ease-off" class="nav-link">ease off</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easer" class="nav-link">easer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easies" class="nav-link">easies</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#east-cape-groundsel" class="nav-link">East Cape groundsel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#east-coast" class="nav-link">East Coast</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#east-coast-leggings" class="nav-link">East Coast leggings</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#east-coast-strum" class="nav-link">East Coast strum</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#east-coaster" class="nav-link">East Coaster</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easterly-buster" class="nav-link">easterly buster</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eastern-falcon" class="nav-link">eastern falcon</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eastern-kiwi" class="nav-link">eastern kiwi</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eastern-knot" class="nav-link">eastern knot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eastland" class="nav-link">Eastland</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easy" class="nav-link">easy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easy-as-putty" class="nav-link">easy as putty</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easy-country" class="nav-link">easy country</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easy-mutton" class="nav-link">easy mutton</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easy-lambing" class="nav-link">easy-lambing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#easybeat" class="nav-link">easybeat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat" class="nav-link">eat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-ones-tutu" class="nav-link">eat (one's) tutu</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-ones-tututoot" class="nav-link">eat (one's) tutu/toot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-down" class="nav-link">eat down</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-out" class="nav-link">eat out</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-sausage" class="nav-link">eat sausage</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-sheet" class="nav-link">eat sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eat-the-leek" class="nav-link">eat the leek</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eater-of-stars" class="nav-link">eater-of-stars</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eating-off" class="nav-link">eating-off</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eau-de-cologne" class="nav-link">eau de cologne</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eau-dear" class="nav-link">eau dear</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eba" class="nav-link">EBA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ebv" class="nav-link">EBV</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eca" class="nav-link">ECA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ecc" class="nav-link">ECC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eccentric-as-a-rabbit-on-skates" class="nav-link">eccentric as a rabbit on skates</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ece" class="nav-link">ECE</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ech" class="nav-link">Ech</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#echelon" class="nav-link">echelon</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#echo" class="nav-link">echo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eckie" class="nav-link">eckie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ecnz" class="nav-link">ECNZ</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-bacheco-inn" class="nav-link">Eco Bach/Eco Inn</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-country-estate" class="nav-link">eco-country estate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-farmer" class="nav-link">eco-farmer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-loo" class="nav-link">eco-loo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-sourced" class="nav-link">eco-sourced</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-trooper" class="nav-link">eco-trooper</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-whare" class="nav-link">eco-whare</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eco-whinger" class="nav-link">eco-whinger</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#economic-unit" class="nav-link">economic unit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#economiser" class="nav-link">economiser</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ecw" class="nav-link">ECW</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eddoes" class="nav-link">eddoes</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edelweiss" class="nav-link">edelweiss</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eden-of-the-southern-sea" class="nav-link">Eden of the Southern Sea</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eden-park-syndrome" class="nav-link">Eden Park syndrome</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eden-parker" class="nav-link">Eden Parker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edger" class="nav-link">edger</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edinburgh-of-the-south" class="nav-link">Edinburgh of the South</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edmonds" class="nav-link">Edmonds</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edmonds-cookbook" class="nav-link">Edmonds Cookbook</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#edmund-hillary" class="nav-link">Edmund Hillary</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#educarer" class="nav-link">educarer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#education-board" class="nav-link">Education Board</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eeca" class="nav-link">EECA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel" class="nav-link">eel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-basket" class="nav-link">eel basket</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-grass" class="nav-link">eel grass</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-trap" class="nav-link">eel trap</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-trout" class="nav-link">eel trout</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-bob" class="nav-link">eel-bob</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-bobbing" class="nav-link">eel-bobbing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-hawk" class="nav-link">eel-hawk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-pa" class="nav-link">eel-pa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-station" class="nav-link">eel-station</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eel-weir" class="nav-link">eel-weir</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eels-blanket" class="nav-link">eels' blanket</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eez" class="nav-link">EEZ</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#effluent-station" class="nav-link">effluent station</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#efts" class="nav-link">EFTS</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg" class="nav-link">egg</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-cap" class="nav-link">egg cap</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-fart" class="nav-link">egg fart</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-floor" class="nav-link">egg floor</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-out" class="nav-link">egg out</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-in-the-hat" class="nav-link">egg-in-the-hat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-laying-skink" class="nav-link">egg-laying skink</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egg-shell-blonde" class="nav-link">egg-shell blonde</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eggbird" class="nav-link">eggbird</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eggie" class="nav-link">eggie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eggroll" class="nav-link">eggroll</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egmont-cake" class="nav-link">Egmont cake</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egmont-cheese" class="nav-link">Egmont cheese</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egmont-fern" class="nav-link">Egmont fern</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egna-brit" class="nav-link">Egna Brit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#egret" class="nav-link">egret</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eh" class="nav-link">eh</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ehoa" class="nav-link">Ehoa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ehoa_1" class="nav-link">ehoa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ehouhounamu" class="nav-link">ehouhounamu</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight" class="nav-link">eight</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-and-a-bender" class="nav-link">eight and a bender</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-hourseight-hour-day" class="nav-link">eight hours/eight-hour day</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-oclocker" class="nav-link">eight o'clocker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-ounce" class="nav-link">eight ounce</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-pennorth" class="nav-link">eight penn'orth</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-horse-hat" class="nav-link">eight-horse hat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-hour-man" class="nav-link">eight-hour man</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-stand" class="nav-link">eight-stand</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eight-tooth" class="nav-link">eight-tooth</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eketera" class="nav-link">eketera</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#el-cheapo" class="nav-link">el cheapo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#el-dorado" class="nav-link">El Dorado</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#el-lemon" class="nav-link">El Lemon</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elastrator" class="nav-link">elastrator</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elbow" class="nav-link">elbow</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elder" class="nav-link">elder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electoral-commission" class="nav-link">Electoral Commission</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electoral-roll" class="nav-link">electoral roll</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electorate" class="nav-link">electorate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-fence" class="nav-link">electric fence</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-fencing" class="nav-link">electric fencing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-heater" class="nav-link">electric heater</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-puha" class="nav-link">electric puha</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-ray" class="nav-link">electric ray</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-skate" class="nav-link">electric skate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electric-stove" class="nav-link">electric stove</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electricorp" class="nav-link">Electricorp</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#electroluxing" class="nav-link">electroluxing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elegant-wrasse" class="nav-link">elegant wrasse</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant" class="nav-link">elephant</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant-ear" class="nav-link">elephant ear</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant-fish" class="nav-link">elephant fish</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant-gun" class="nav-link">elephant gun</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant-seal" class="nav-link">elephant seal</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elephant-shark" class="nav-link">elephant shark</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elingamite" class="nav-link">Elingamite</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elingamite-weather" class="nav-link">Elingamite weather</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elite" class="nav-link">elite</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elk" class="nav-link">elk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elle-black" class="nav-link">Elle Black</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elo" class="nav-link">ELO</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elongate-dory" class="nav-link">elongate dory</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#elytes" class="nav-link">Elytes</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ema" class="nav-link">EMA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#embushed" class="nav-link">embushed</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emergency" class="nav-link">emergency</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emfat" class="nav-link">Emfat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrant" class="nav-link">emigrant</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrant-barracks" class="nav-link">emigrant barracks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrant-ship" class="nav-link">emigrant ship</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrant-stove" class="nav-link">emigrant stove</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrant-vessel" class="nav-link">emigrant vessel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigrate" class="nav-link">emigrate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigration" class="nav-link">emigration</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigration-agent" class="nav-link">emigration agent</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigration-barracks" class="nav-link">emigration barracks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigration-commissioner" class="nav-link">emigration commissioner</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emigration-fever" class="nav-link">emigration fever</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emotional-harm-reparation" class="nav-link">emotional harm reparation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emperor-shag" class="nav-link">emperor shag</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empire-city" class="nav-link">Empire City</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empire-disease" class="nav-link">Empire disease</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empire-ring" class="nav-link">Empire ring</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empires-dairy-farm" class="nav-link">Empire's Dairy Farm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empires-outlying-farm" class="nav-link">Empire's outlying farm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#employers-federation" class="nav-link">Employers' Federation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#employment-contracts-act" class="nav-link">Employment Contracts Act</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#employment-court" class="nav-link">Employment Court</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empty" class="nav-link">empty</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#empty-rate" class="nav-link">empty rate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emtr" class="nav-link">EMTR</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emu" class="nav-link">emu</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emu-parade" class="nav-link">emu parade</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#emu-scratching" class="nav-link">emu-scratching</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#en-suite" class="nav-link">en suite</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enaki" class="nav-link">enaki</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#encamp" class="nav-link">encamp</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#encroachment" class="nav-link">encroachment</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#end-check" class="nav-link">end check</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#end-of-ones-golden-tethers" class="nav-link">end of one's golden tethers</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#end-of-the-golden-weather" class="nav-link">end of the golden weather</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#end-of-the-penny-section" class="nav-link">end of the penny section</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#endo" class="nav-link">endo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#endsville" class="nav-link">Endsville</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#energy-chocolate" class="nav-link">energy chocolate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enforcer" class="nav-link">enforcer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#engine-room" class="nav-link">engine room</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#engineer" class="nav-link">engineer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#englands-last-ope" class="nav-link">England's Last 'Ope</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english" class="nav-link">English</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english-flax" class="nav-link">English flax</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english-grass" class="nav-link">English grass</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english-johnny" class="nav-link">English Johnny</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english-mackerel" class="nav-link">English mackerel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#english-rat" class="nav-link">English rat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#engo" class="nav-link">engo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enoko" class="nav-link">enoko</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enrichment" class="nav-link">enrichment</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enrolment-zone" class="nav-link">enrolment zone</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ensign" class="nav-link">ensign</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ensilage" class="nav-link">ensilage</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ensilage-making" class="nav-link">ensilage-making</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ensuited" class="nav-link">ensuited</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entail" class="nav-link">entail</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entebbe-operation" class="nav-link">Entebbe Operation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entertrainer" class="nav-link">entertrainer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entire-leaved-beech" class="nav-link">entire-leaved beech</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entire-leaved-birch" class="nav-link">entire-leaved birch</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entree" class="nav-link">entree</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entrepreneurial-worker" class="nav-link">entrepreneurial worker</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#entry-level-farm" class="nav-link">entry level farm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enunga-smelt" class="nav-link">enunga smelt</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enz-the" class="nav-link">Enz, the</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enza" class="nav-link">Enza</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enzed" class="nav-link">Enzed</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#enzedder" class="nav-link">Enzedder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eoi" class="nav-link">EOI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epa" class="nav-link">EPA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epacris" class="nav-link">epacris</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epakeke" class="nav-link">ePakeke</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epakeke-roa" class="nav-link">ePakeke Roa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epakeke-tiketike" class="nav-link">ePakeke Tiketike</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epb" class="nav-link">EPB</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#epirb" class="nav-link">epirb</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eppa" class="nav-link">eppa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eqc" class="nav-link">EQC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#equalisator" class="nav-link">equalisator</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#equity-manager" class="nav-link">equity manager</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#era" class="nav-link">ERA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erb" class="nav-link">ERB</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erbo" class="nav-link">erbo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erebus-disaster" class="nav-link">Erebus disaster</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erewhonitis" class="nav-link">Erewhonitis</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ergot" class="nav-link">ergot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ergotised" class="nav-link">ergotised</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ergoty" class="nav-link">ergoty</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erica-caffra" class="nav-link">erica caffra</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#erma" class="nav-link">ERMA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ero" class="nav-link">ERO</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eschcholtzia" class="nav-link">eschcholtzia</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#escolar" class="nav-link">escolar</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#escort" class="nav-link">escort</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eskimo-pie" class="nav-link">Eskimo Pie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#esplanade-reserve" class="nav-link">esplanade reserve</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#esplanade-strip" class="nav-link">esplanade strip</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#esr" class="nav-link">ESR</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#estate" class="nav-link">estate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#estuary-flounder" class="nav-link">estuary flounder</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#etabu" class="nav-link">etabu</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ethered" class="nav-link">ethered</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ethnic-hay" class="nav-link">ethnic hay</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#etohora" class="nav-link">etohora</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eucalyptus" class="nav-link">eucalyptus</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#euchre" class="nav-link">euchre</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#euchre-party" class="nav-link">euchre party</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#euchred" class="nav-link">euchred</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#euphrosyne-dolphin" class="nav-link">Euphrosyne dolphin</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#european" class="nav-link">European</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#european-flax" class="nav-link">European flax</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eurybia" class="nav-link">eurybia</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eva" class="nav-link">EVA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#evai" class="nav-link">evai</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#even-terms" class="nav-link">even terms</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#even-woolled" class="nav-link">even-woolled</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#evening-hate" class="nav-link">evening hate</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#evening-primrose" class="nav-link">evening primrose</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#evening-rise" class="nav-link">evening rise</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#everlasting-lease" class="nav-link">everlasting lease</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#everlasting-pea" class="nav-link">everlasting pea</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#evil" class="nav-link">evil</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewananga" class="nav-link">eWananga</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewe-block" class="nav-link">ewe block</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewe-country" class="nav-link">ewe country</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewe-equivalent" class="nav-link">ewe equivalent</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewe-paddock" class="nav-link">ewe paddock</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ewesterer" class="nav-link">ewesterer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex" class="nav-link">ex</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex-coaster" class="nav-link">ex-Coaster</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex-dig" class="nav-link">ex-dig</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex-new-zealander" class="nav-link">ex-New Zealander</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex-nuptial" class="nav-link">ex-nuptial</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ex-pat-kiwi" class="nav-link">ex-pat Kiwi</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#excess-condition" class="nav-link">excess condition</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#exclosure-plot" class="nav-link">exclosure plot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#exclude" class="nav-link">exclude</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#execkie" class="nav-link">execkie</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#executive-council" class="nav-link">Executive Council</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#executive-lease" class="nav-link">executive lease</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#executive-leasing" class="nav-link">executive leasing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#exodus" class="nav-link">Exodus</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#exotic" class="nav-link">exotic</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#experimental-farm" class="nav-link">experimental farm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#expert" class="nav-link">expert</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#experting" class="nav-link">experting</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#export-mutton" class="nav-link">export mutton</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#export-of-brains" class="nav-link">export of brains</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#express" class="nav-link">express</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#express-wagon" class="nav-link">express wagon</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#expressman" class="nav-link">expressman</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extax" class="nav-link">extax</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extended-whanau" class="nav-link">extended whanau</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#external-affairs" class="nav-link">External Affairs</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extra" class="nav-link">extra</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extra-curly" class="nav-link">extra curly</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extras" class="nav-link">extras</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extravaganza" class="nav-link">extravaganza</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#extremoenzyme" class="nav-link">extremoenzyme</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye" class="nav-link">eye</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-dog" class="nav-link">eye dog</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-roll" class="nav-link">eye roll</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-trouble" class="nav-link">eye trouble</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-blight" class="nav-link">eye-blight</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-clip" class="nav-link">eye-clip</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-clipping" class="nav-link">eye-clipping</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-clips" class="nav-link">eye-clips</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-drop" class="nav-link">eye-drop</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-opener" class="nav-link">eye-opener</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-wig" class="nav-link">eye-wig</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eye-wigging" class="nav-link">eye-wigging</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eyebright" class="nav-link">eyebright</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eyes-out" class="nav-link">eyes out</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eyes-off-operator" class="nav-link">eyes-off operator</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
 
-          <div role="main">
-            <div class="section">
-              
-                <h1 id="e">E<a class="headerlink" href="#e" title="Permanent link">&para;</a></h1>
+<h1 id="e">E<a class="headerlink" href="#e" title="Permanent link">&para;</a></h1>
 <h2 id="e-hoa-ma">e hoa ma<a class="headerlink" href="#e-hoa-ma" title="Permanent link">&para;</a></h2>
 <p><i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See <a href="../E#ehoa">ehoa</a>)</p>
 <blockquote>
@@ -4092,59 +4866,81 @@
 <p><i>n.</i></p>
 <blockquote>
 <p>With this turnstyle the eyes-off operator was not fully employed. <i>(May 1972,NZ Dairy Exporter,00</i>) [NOTES: Check pagination]</p>
-</blockquote>
-              
+</blockquote></div>
             </div>
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="../F/" class="btn btn-neutral float-right" title="F">Next <span class="icon icon-circle-arrow-right"></span></a>
-      
-      
-        <a href="../D/" class="btn btn-neutral" title="D"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-      
-    </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
-    
-  </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
-      
         </div>
-      </div>
 
-    </section>
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js" defer></script>
+        <script src="../search/main.js" defer></script>
 
-  </div>
-
-  <div class="rst-versions" role="note" aria-label="versions">
-  <span class="rst-current-version" data-toggle="rst-current-version">
-    
-    
-      <span><a href="../D/" style="color: #fcfcfc">&laquo; Previous</a></span>
-    
-    
-      <span><a href="../F/" style="color: #fcfcfc">Next &raquo;</a></span>
-    
-  </span>
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
 </div>
-    <script>var base_url = '..';</script>
-    <script src="../js/theme_extra.js" defer></script>
-    <script src="../js/theme.js" defer></script>
-      <script src="../search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
-            SphinxRtdTheme.Navigation.enable(true);
-        };
-    </script>
 
-</body>
+    </body>
 </html>
