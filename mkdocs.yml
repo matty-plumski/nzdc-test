@@ -30,7 +30,7 @@ nav:
     - 'Y' : 'Y.md'
     - 'Z' : 'Z.md'
 
-theme: readthedocs
+theme: mkdocs
 
 markdown_extensions:
   - toc:
