@@ -39,5 +39,7 @@ markdown_extensions:
       permalink: True
       baselevel: 1
       toc_depth: 3
+  - codehilite:
+      guess_lang: False
  
 extra_css: [extra.css]
