@@ -1,3477 +1,2417 @@
-# U
-## U-bath
+# V
+## V
  
-<b>1</b> <i>n.</i> (Rural) a type of swim dip used for ridding sheep of keds and lice.
+ <i>v.</i>
 
->  <b>STEVENS</b> A modification of the straight swim is the U-bath, which is in effect a straight swim dip turned back on itself with the two baths separated by a narrow concrete wall. <i>(1958,Sheep.  Part 1, Sheep husbandry,86</i>)
+>  <b>REED</b> One method used on leaning trees was to cut the centre of the scarves deeper than the sides - to `V' them as it was called. <i>(1953,Story of the Kauri, The,157</i>)
 
 
 
-## U-board
  
- <i>n.</i> a design of woolshed with a U-shaped board that is either level with the floor or raised as in a raised-board shed.
+ <i>n.</i> a Victory cigarette q.v. [see also Veefer]
 
->  Variations include centre-board, side-port, across-the-board, U-board, raised board and return race. <i>(Apr 24, 1980,NZ Farmer,36</i>)
+>  Give me the fragrant, yet much despised "V", Standing for Victory and issued out - Free. <i>(Mar 13, 1944,NZEF Times,III/142 : 7</i>)
+
+>  I've smoked a few thousand V's in my time. <i>(Jul 24, 1944,NZEF Times,IV/161 : 5</i>)
+
+>  <b>YSKA</b> According to one veteran the "V" cigarettes were coarse, low-grade tobacco rolled in India but "someone alleged they'd found some Indian hemp seeds in them." <i>(1990,NZ Green,44</i>)
+
+>  Save them to swap for V's. <i>(1946,Johnny Enzed in the Middle East,45</i>)
+
+>  More and more people agree that V's were so much better. <i>(Sep 10, 1945,NZEF Times,IV/220:2</i>)
 
 
 
-## u-ie
+## V's
  
- <i>n.</i> a U-turn, an about turn
+ <i>n.</i> men's ? brief swimming togs, i.e. not neck to knee, or with upper body covered or shoulder straps [reference to early 1920s]
 
->  He was forced to do a U-ie and catch hisreturn flight home when he got lost andran out of time. <i>(Jun 1, 1993,Dominion,8</i>)
-
->  While I think the tag of bistro is a bit of a nmisnomer for the Roxburgh's style of food and service, he could hardly do a "U-ie" and brand his new baby with the same bistro sticker. <i>(Oct 6, 2001,Dominion Weekend Magazine,6</i>)
-
->  He planted his foot, did a U-ie and took off. <i>(Jun 7, 1997,Listener (New Zealand Listener),12</i>)
-
->  <b>Hone Kouka (ed)</b> Hey, he's doing a U-ee <i>(1999,Ta Matou Mangai (Our Own Voice),61</i>)
+>  <b>HYDE</b> On the far side of the wharf a notice says, `Danger! Twelve Feet Deep'. Boys with dark gold bodies, wearing only V's, jump on the stanchions, ... then plunge down like gannets. <i>(1938,Godwits Fly, The,114,1970 ed.</i>)
 
 
 
-## U.P.
+## V-Force
  
- <i>abbr.</i> up
+ <i>n.</i> the NZ detachment serving in the Vietnam War
 
->  <b>GORDON</b> I should have realised it was all U.P. this morning when she didn't get up for breakfast. <i>(1974,Undiscovered Country,10</i>) [NOTES: 1921 Mansfield A Bad Idea in 1974 Gordon Undiscovered Country]
+>  V-Force to leave this month, says Mr Holyoake. A New Zealand artillery battery would leave for South Vietnam in the latter part of this month ... <i>(Jul 2, 1965,Dominion,1</i>)
+
+>  <b>BARBER</b> HELPFUL HINTS NO 6 ESPECIALLY FOR V-FORCE <i>(1984,Red Coat to Jungle Green,after 96</i>) [NOTES: 1965 Nov Action vol 1 in 1984 Barber Red Coat to Jungle Green]
 
 
 
-## UE
+## V-house
  
- <i>abbr.</i> University Entrance (former school qualification, by exam or accrediting) [ca1954 Oct R. Mason Used by Christchurch parents who were discussing their son's exams. ca1957 Wellington Would seem now to be general]
+ <i>n.</i> V-hut [Canterbury hist] (See [V-hut](../V#v-hut))
 
->  His nieces and nephews here were talking about taking "U.E." - it was "matric" when he left. <i>(Mar 3, 1963,Evening Post,17</i>)
+>  SUBSTANTIAL V HOUSE TO BE SOLD BY AUCTION ... a strong and well-built V HOUSE situate on Section 55, in the town of Lyttelton. <i>(Apr 5, 1851,Lyttelton Times,1</i>)
 
->  <b>SHADBOLT</b> `You know these days Shadbolt School Cert doesn't mean very much. ... What you need in life is UE. <i>(1971,Bullshit and Jellybeans,30</i>)
-
->  <b>LELAND</b> U.E. or sit U.E.: This is the UNIVERSITY ENTRANCE certificate, which entitles those 6th formers (around 17 years old) to go to University. <i>(1980,Personal Kiwi-Yankee Dictionary, A,107</i>)
-
->  <b>LAY</b> `Got to get yew-wee first,' said Helen ... <i>(1988,Fools on the Hill, The,47</i>)
-
->  The sons had the same problem. Two years to get the you-wee. <i>(1988,Short Stories from NZ,53</i>)
+>  V. House for sale. here and there; ... <i>(Jun 28, 1851,Lyttelton Times,4</i>)
 
 
 
-## UEBS
+## V-hut
  
- <i>abbr.</i> Universities Entrance, Bursaries and Scholarships
+ <i>n.</i> (Rural) an early shelter or house, resembling an inverted V shape, with roof and walls in one. [aka v hut]
 
->  It was good enough for a student to have passed any three subjects in the Universities Entrance, Bursaries and Scholarship (UEBS) examinations. <i>(Dec 9, 2004,Dominion Post,B7</i>)
+>  <b>PAUL</b> .. the rickety sheds (V huts they are called here, from being in the shape of an inverted V) in which they sought shelter ... <i>(1853,Spring in the Canterbury Settlement, A,13</i>)
+
+>  I am now going to put up a V hut on the country that I took up on the Rangitata, meaning to hibernate there ... <i>(1860,In Fifteen Minutes,65</i>) [NOTES: in BUTLER First Year (1863)]
+
+>  <b>CAIRD</b> Here, on the banks of a small river, was a sort of permanent camp, consisting of a small hut, commonly called a V-hut, as it is shaped like a V turned upside down. <i>(1874,Notes on Sheepfarming in NZ,13</i>)
+
+>  <b>PRATT</b> The temporary one [house] was of the V hut fashion. <i>(1877,Colonial Experiences,70</i>)
+
+>  <b>HUNT</b> At first they lived in a V-hut, two poles put in the ground like a V ... [V-hut] <i>(1981,Speaking a Silence,120</i>)
+
+>  <b>HUNT</b> At first they lived in a V-hut, two poles put in the ground like a V, poles lashed right along them and the whole outfit thatched with rushes. <i>(1981,Speaking a Silence,120</i>)
+
+>  On 1 February 1851 the V hut is mentioned. It was a roof without walls. The poet's corner on this day celebrated `a land of our own' but probably meant a separate land rather than a land belonging to the newcomers: `We may still be her sons in a land of our own.' <i>(Feb 1, 1851,Lyttelton Times</i>) [NOTES: in 1966 Turner English Language in Australia and NZ 165]
+
+>  On Saturday last, Lyttelton was visited by one of those strong winds of which we heard so much in England ... Some houses of fern and wattles were blown down; some tents overset; and we have heard of one V hut being blown away. <i>(Jan 1, 1851,Lyttelton Times,3</i>)
+
+>  You would laugh if you saw the place from which I am writing. It is a little `plank tent' or `V. hut', as a thing made of long boards leaning against each other is indiscriminately called; its locality is the side of a small wood, by which runs a clear stream, on the plain, about ten miles from Lyttelton. <i>(Feb 27, 1851,Letter</i>) [NOTES: Godley letter in 1950 Carrington Godley 125]
+
+>  One of the makeshifts [sc houses in early Christchurch] is a simple structure, being like the roof of a high-peaked house placed on the ground. It is called a `V-hut', because, I presume, it is like that letter, inverted; but it does very well for a bachelor to start with. <i>(1852,Saunders' Monthly Magazine,vol. 1</i>) [NOTES: in 1976 Canterbury Colony 59]
+
+>  We have erected in Christchurch a `V hut', in which P -, his wife and his little daughter live. <i>(1853,Australian & NZ Gazette,64/64</i>) [NOTES: 1852 Christchurch letter]
+
+>  <b>PAUL</b> The form [of the church] is that of a V hut, the extremities of the rafters being left bare so as to form buttresses to the walls. <i>(1857,Letters from Canterbury, NZ,57</i>)
+
+>  <b>BUTLER</b> A V hut is a roof, in shape of course like the letter V, set down without any walls upon the ground - mine is 12 foot long by 8 foot broad. It is not customary to have a fireplace in a hut of this description ... <i>(Jun 1860,Forest Creek MS,47,1960 ed.</i>)
+
+>  <b>PAUL</b> [The newly-arrived immigrant] perhaps sets up a tent, or what is termed a V-hut, from being in the form of a V turned upside down. <i>(1861,New Zealand, As It Was and As It Is,7</i>)
+
+>  V hut ... It consists of a small roof set upon the ground; it is a hut, all roof and no walls. <i>(1863,First Year in Canterbury Settlement,vi 73</i>)
+
+>  <b>MUTER</b> ... a V Hut standing among the grass tussacks ...[check spg???] <i>(1864,Travels and Adventures,2/215</i>)
+
+>  <b>THOMSON</b> Many of the first habitations were of the most primitive description, some being composed simply of slanting sides, meeting in a peak at the top, in the form of an inverted V, and thence called V-huts. They were constructed of wood, mud, boughs of trees, or anything that came to hand. <i>(1867,Twelve Years in Canterbury,6 fn</i>)
+
+>  <b>KENNAWAY</b> ... we found we had steered within a quarter of a mile of a low slab V hut, which we had knocked up there a short time before. <i>(1874,Crusts: a settler's fare due south,89</i>)
+
+>  There are one and two storey weather-boarded houses, square and bell-shaped tents, T houses and V huts. <i>(Oct 21, 1857,Nelson Examiner,4</i>)
+
+>  The "V" hut was the most popular style of building in Canterbury in the early days. It was so called after the letter V inverted, and many of the first Christchurch houses and places of business were of the same pleasing style of architecture. <i>(Oct 16, 1890,Otago Witness,30</i>)
+
+>  Mrs Buchanan's first experience of colonial life was in a V hut built by her father, with such materials as could be procured at the time, but in the absence of timber the hut was very primitive. <i>(Dec 6, 1900,Star, The,1</i>)
+
+>  Fern, scrub, and flax, with an occasional tree, bordered the road, and the little V-huts, with their weatherboard sides, had high board fences. <i>(Nov 17, 1928,Evening Post,17</i>)
+
+>  And they did win out, their V-huts, their bullock waggons, their scant store of seeds and implements; but their great supracortical brain cells were charged with enthusiasm, without which a human must have something amiss. <i>(May 27, 1938,Ellesmere Guardian,2</i>)
 
 
 
-## UFB
  
- <i>abbr.</i> ultrafast broadband [ORIGIN: acronym]
-
->  The TCF established the TCF UFB Working Party in January 2010 to support the Government's UFB initiative with its aim, working in conjunction with CFH, to prepare standards on product, technical, and operational matters where a combined industry-developed solution is desirable. <i>(2010,Internet - see Notes</i>) [NOTES: tcf.org.nz]
-
->  Telecom yesterday laid down a challenge to the Government to involve the company in the ultra-fast broadband project and avoid unnecessary duplication. Both chairman Wayne Boyd and chief executive Paul Reynolds made it clear Telecom wanted to be at the heart of the much-talked-about UFB project and was prepared to work hard for its involvement. <i>(Oct 1, 2010,Otago Daily Times,Internet ed.</i>)
+ <i>n.</i> an antipodean reversal of A-frame -->a hut shaped like an inverted V, built as a (?temporary) house or shelter by the first settlers in Canterbury (?from pre-sawn imported parts) (cf. modern A-FRAME) [Canterbury hist]
 
 
 
-## UG
+## V-pen
  
- <i>abbr.</i> as derogatory, could this be from abbrev or shortening of Ungraded `UG' in old AA manuals for establishments with no `star' rating.
+<b>1</b> <i>n.</i> a pen that is funnelled toward the release pen on a dog trial course.
+
+>  HALL A Shepherd's Year 60 I was in front of the V-pen with my back to the judge and a few onlookers. <i>(1987</i>)
 
 
 
-## Ugg-booted
+## V-roof
  
- <i>adj.</i> of Ugg boot culture
+ <i>n.</i> (See [V-hut](../V#v-hut))
 
->  "I think a lot of my look right now comes from my West Auckland upbringing," Heathermary Jackson says without a trace of Ugg-booted sarcasm. <i>(Jul 3, 2005,Sunday Star Times,30</i>)
+>  A V ROOF FOR SALE. <i>(Nov 29, 1851,Lyttelton Times,1</i>)
 
 
 
-## ugh boot/ug boot/ugg boot
+## V-whare
  
- <i>n.</i> (trademark) Macquarie : a fleecy-lined boot with an untanned upper. AOD: Aust. a boot made of sheepskin with the wool on the inside [Australian origin, now worldwide (e.g. seen in Private Eye 1155 31.3.2006)]
+ <i>n.</i> a small hut with roof and walls resembling an inverted V. (See [V-hut](../V#v-hut))
 
->  [Hdg] Stars put Uggs on map.Actress Gwynneth Paltrow's fetish for Kiwi Ugg boots has led to a mini jobs boom in Christchurch. <i>(Oct 17, 2003,Dominion Post,A3</i>)
+>  BALFOUR Diary Aug 18 Rode with Hickman to V whare. <i>(1872</i>)
 
->  Ug boots have trod their way back onto innocent feet. <i>(Jun 29, 2002,Listener (New Zealand Listener),58</i>)
-
->  It used to be that the whole point of ugg boots was their ugliness - that's why there were no attempts to make them anything but sheep-coloured. <i>(Feb 29, 2004,Sunday (Sunday Star Times Magazine),9</i>)
-
->  "You should never throw out your gumboots or your ug boots,though - that is just as much part of New Zealand as going down to the Viaduct for an overpriced coffee." <i>(Mar 22, 2003,Dominion Post,F3</i>)
-
->  [Hdg] Snug ugs. Ug boots have had a renaissance this winter. <i>(Jul 24, 2003,Dominion Post,D2</i>)
-
->  Kiwi couture's piece de resistance, the ugg boot, is being slapped into Australian Chanel stores, this month, causing squeals of delight from glamour-trash Bondi babes and suburban Ocker housewives. <i>(Jul 22, 2001,Sunday Star Times,D2</i>)
-
->  [Hdg] Oprah's boost for Ugg botts... Canterbury Leather International was told nearly a month ago its baby pink and powder blue US$165 (NZ$260) Ugg boots would feature on the talk show aired in 109 countries and watched by 21 million people every week in the United States alone. Ugg boots - originally designed to warm the tootsies of chilly Australian surfers - are experiencing a renaissance after being seen on some of the world's most famous feet. <i>(Nov 15, 2003,Dominion Post,C2</i>)
-
->  I was sat in the armchair with my feet up on a stool and a towel was snugly wrapped ugg-boot style around one foot while the other was massaged - and I mean massaged. <i>(Nov 16, 2003,Sunday Star Times,7</i>)
+>  BALFOUR Diary Sept 10 Laid off a cutting at V whare. <i>(1873</i>)
 
 
 
-## ugly pills
- 
- <i>n.</i> HAVE YOU HAD YOUR UGLY PILLS TODAY, said (often? humorously) to an ugly person, but especially of a third person: eg. `That bird has taken her ugly pills, eh?' [ca1957 Hawkes Bay and Waikato p.c. Jack Sutherland 1983]
-
-
-
-## uianui
- 
- <i>n.</i> [check spelling uianui or uanui]
-
->  <b>POLACK</b> The gentlemen arranged the hair of each other, and being all sons of chiefs, placed with the gout[u-circumflex] of connoisseurs the plucked feathers of the albatross (Uianui), gannet (tara[a1-acute]), and other sea-fowl in various parts. <i>(1840,Manners & Customs of the NZers,1/80</i>)
-
-
-
-## uku
- 
- <i>n.</i> a white clay used as soap [ORIGIN: Maori]
-
-
-
-## ultimate
- 
- <i>n.</i> ultimate (frisbee) is a non-contact sport played by two seven player teams. The disc may only be moved by passing as the thrower is not allowed to take any steps. Any time a pass is incomplete, intercepted, knocked-down, or contacts an out-of-bounds area, a turnover occurs, resulting in an immediate change of possession of the disc. A goal is scored when a player successfully passes the disc to a teammate in the endzone which that team is attacking. [definition from Ultilingo.com (http://mypage.direct.ca/r/rulegal/all.html)]
-
->  Ul.ti.mate.. noun 1. a bloody great sport with a cheesy name. Example sentence: "Juan is cool because he plays ultimate." Ultimate Frisbee. <i>(Oct 1, 2001,Ephemera</i>) [NOTES: VUW notice board]
-
-
-
-## ultra-provincial
- 
- <i>adj.</i>
-
->  I will not reply to your insinuations about our being `ultraprovincial'. <i>(Apr 11, 1858,Richmond-Atkinson Papers,1/383,1960 ed.</i>) [NOTES: J.C. Richmond]
-
-
-
+## V8 gang
  
  <i>n.</i>
 
->  The blind Southerns and Ultra-provincials will support [Fox] through all. <i>(Jun 30, 1869,Richmond-Atkinson Papers,2/289,1960 ed.</i>) [NOTES: J.C. Richmond]
+>  <b>LELAND</b> V8 gang: Teenage gang that specializes in using Yank tanks as transportation. An 8 cylinder engine being unusually large and powerful in N.Z. motoring. <i>(1980,Personal Kiwi-Yankee Dictionary, A,108</i>)
 
 
 
-## ultra-provincialism
- 
- <i>n.</i> [hist.]
-
->  Their object, indeed, is open and undisguised, - in this Province, finding themselves in the direction of affairs, under the plea of getting power for the Provinces they really are aiming at getting all power into their own hands; - the cry of ultra Provincialism with them really means personal aggrandizement; - while they talk of British Institutions, of British rights and privileges, they breathe a Republican spirit ... <i>(Jul 29, 1854,New Zealand Spectator & Cook's Strait Guardian,3</i>)
-
->  Another question to which he would refer, and which had excited great discussion, was what was called ultra-provincialism, and attempts had been made to mislead them on this subject. .. and the great object should be to establish a Federal Government as nearly as possible resembling that of the United States, in which each Province should have the sole power over all matters relating to its exclusive welfare, and where there was a community of interest then the Central Government should be called upon to administer ... <i>(Jun 28, 1854,New Zealand Spectator & Cook's Strait Guardian,3</i>)
-
->  They carried their ultra-provincialism to such a length as to propose practically to make the General Government a mere machine for collecting revenue for the Provincial Governments; and on the 28th of May, Sir Edward Stafford carried a motion of want of confidence condemning the financial policy. <i>(Sep 9, 1885,Nelson Evening Mail,4</i>)
-
->  (Archdeacon O. Hadfield) I believe no man in this Province ... has done more to let down ultra-provincialism & to strengthen the hands of General Government. <i>(Feb 24, 1858,Richmond-Atkinson Papers,1/355,1960 ed.</i>)
-
->  The localisation of the land fund ... was the inevitable result of the Ultra-Provincialism which he [sc. Sir George Grey] did his best to introduce. <i>(Dec 27, 1877,Richmond-Atkinson Papers,2/440,1960 ed.</i>) [NOTES: C.W. Richmond]
-
-
-
-## ultra-provincialist
- 
- <i>n.</i> [also adjective (1855 cit.)]
-
->  [From the <i>Lyttleton Times</i> 21 November] But we cannot shut our eyes to the fact that the successful candidates came in on an ultra-provincialist cry. <i>(Dec 18, 1855,Daily Southern Cross,4</i>)
-
->  It is difficult to understand as to whether the lecturer is an ultra-provincialist or a centralist. .. My humble opinion is that one able administrator like Sir George Grey, with an Executive and fifty clerks, of course giving each province local boards, would meet the requirements of this over-taxed country. <i>(Aug 28, 1872,Daily Southern Cross,3</i>)
-
-
-
-## uma rapiti
- 
- <i>v.</i> to escape
-
->  Boobslang terms of Maori origin include.. <i>uma rapiti</i> meaning to escape or run away (lit. 'run rabbit'). <i>(Oct 1999,NZWords,2(2) : 3</i>)
-
-
-
-## umbles
+## V8-head
  
  <i>n.</i>
 
->  <b>PARK</b> I didn't care for insides, or umbles as my father called them. <i>(1992,Fence Around the Cuckoo,31</i>)
+>  Although he was wearing a black jacket he looked more like a cheerful uncle than a hard-ass V8-head. <i>(Aug 15, 2001,Evening Post Drive,7</i>)
 
 
 
-## umbrella fern
+## Vag
  
- <i>n.</i> <i>Gleichenia</i> spp. (or <i>G. dicarpa (=circinata), G. microphylla</i>; and<i> Sticherus</i> (formerly <i>Gleichenia) cunninghamii</i> and <i>S. flabellatus</i>), a fern of swampy places. Compare umbrella plant. [OED2 10 b. denoting `shaped like, resembling an umbrella'. Both cits NZ] [JD notes: Brownsey 1989 follows some botanists elsewhere in splitting <i>Gleichenia</i> into three divisions (1) <i>Gleichenia</i> for <i>G. dicarpa (=circinata)</i> and <i>G. microphylla</i> called `tangleferns'; (2) <i>Sticherus cunninghamii</i> and <i>S. flabellatus</i> called `umbrella ferns'; and (3) <i>Dicranopteris linearis</i> for which he gives no common name. `Umbrella ferns' could be taken to refer to all of them.] Umbrella fern takes numerous descriptive sub-epithets alpine, bog, bush, climbing, fan(-like), forest, forked, mountain, scrambling, swamp
+ <i>n.</i> [The Vag, a particular newspaper columnist]
 
->  Persistent walking/ brings these rewards:/ one high garland of clematis/ one green manuka beetle/ playing dead in my hand/ two arthritic umbrella fern <i>(Jun 3, 1986,Campus News,21</i>) [NOTES: (K.Jackson)]
+>  We are pleased the "Vag" is contributing to our Labour paper, and trust that he will long continue his good advice to "Henry." <i>(Jul 3, 1920,Grey River Argus,3</i>)
 
->  <b>DAWSON</b> [On gumland] other characteristic shrubs are <i>Dracophyllum lessonianum</i> and the strikingly yellow-flowered kumarahou or `Gumdigger's Soap' (<i>Pomaderris kumeraho</i>). Among herbs, sedges and the umbrella fern (<i>Gleichenia circinata</i>) are prominent. [253: fn 80] Kumarahou flowers rubbed together with water form a sort of lather. <i>(1988,Forest Vines to Snow Tussocks,114</i>)
+>  In the official organ of Labor, "The Vag" tells the workers that wages will be knocked sidewards, "unless you give us more representatives in Parliament ..." <i>(Sep 2, 1922,NZ Truth,4</i>)
 
->  <b>MORELAND</b> Where else does one see ferns growing in stories like a pagoda - whole colonies of them, two or three feet high. The settlers call it the umbrella fern... [Note]. <i>Gleichenia Cunninghami</i>. <i>(1911,Through South Westland,58</i>)
 
->  Only a small cartel of particularly hardy plants could survive - titree, gorse, umbrella fern and small red carnivorous sundews are major components <i>(Apr 1991,NZ Geographic,112</i>)
+
+## vag
+ 
+ <i>n.</i> a vagrant, specifically one charged under the provisions of the Vagrancy Act (1866) [see 'on the vag']
+
+>  The auditorium glows in anticipation of agood morning's fun, especially if thedrunks and "vags" list is fairly long. <i>(Dec 22, 1920,NZ Free Lance,2</i>)
+
+>  ... was dealt with as a `vag.' <i>(Sep 9, 1905,NZ Truth,12/1/5</i>)
+
+>  Stoney-broke and friendless, he was, with a number of others, nabbed at Napier as a `vag', and pleaded guilty. <i>(Jul 21, 1906,NZ Truth,57/2/3</i>)
+
+>  ... as soon as a woman vag is released from Lyttelton Gaol. <i>(Mar 24, 1906,NZ Truth,40/1/5</i>)
+
+>  Last Friday, before Mr. Bartholomew, S.M., a batch of Dunedin's touts and vags. stood in succession in the dock. <i>(Jul 4, 1914,NZ Truth,4</i>)
 
 
 
  
- <i>n.</i> <i>Gleichenia</i> spp. (or <i>G. dicarpa (=circinata), G. microphylla</i>; and<i> Sticherus</i> (formerly <i>Gleichenia) cunninghamii</i> and <i>S. flabellatus</i>), a fern of swampy places. Compare umbrella plant. [OED2 10 b. denoting `shaped like, resembling an umbrella'. Both cits NZ] [JD notes: Brownsey 1989 follows some botanists elsewhere in splitting <i>Gleichenia</i> into three divisions (1) <i>Gleichenia</i> for <i>G. dicarpa (=circinata)</i> and <i>G. microphylla</i> called `tangleferns'; (2) <i>Sticherus cunninghamii</i> and <i>S. flabellatus</i> called `umbrella ferns'; and (3) <i>Dicranopteris linearis</i> for which he gives no common name. `Umbrella ferns' could be taken to refer to all of them.] Umbrella fern takes numerous descriptive sub-epithets alpine, bog, bush, climbing, fan(-like), forest, forked, mountain, scrambling, swamp
+ <i>n.</i> the Vagrancy act q.v., esp in phrase (charged)under the vag
 
->  Umbrella ferns abound, and when you see the mats of algae and lush carpets of club mosses luxuriating in the steamy atmosphere, you're looking at a scene from the beginning of life on earth. <i>(Dec 31, 2003,Dominion Post,C3</i>)
+>  Under the Vag. ... Cassidy was carpeted by the `demons' under the ... Vagrancy Act. <i>(Jul 21, 1906,NZ Truth,57/6/4</i>)
 
->  <b>POTTS</b> There Cunningham's <i>Gleichenia</i> grows marvellously robust, its stiff many-branched fronds rise, tier above tier, in curved fan-like form - which habit, doubtless, induced settlers to call this species the `umbrella fern'. <i>(1882,Out in the Open,53</i>)
-
->  A well excavated [kakapo] home ...was near the top of a ... terrace on which ... flourished a fine growth of the umbrella fern (<i>Gleichenia Cunninghami</i>). <i>(Jul 1885,NZ Journal of Science,479</i>) [NOTES: (T.H. Potts)]
-
->  (And) <i>(1877,NZ Country Journal</i>)
-
->  <b>THOMSON</b> (And) <i>Gleichenia Cunninghamii</i umbrella-fern <i>(1882,Ferns of NZ</i>)
-
->  <b>FIELD</b> (And) <i>(1980,Ferns of NZ</i>)
-
->  <b>CHEESEMAN</b> <i>G[luckenia] Cunninghamii</i>, Heward ... Umbrella Fern; Tapuwaekotuku. <i>(1906,Manual NZ Flora,1019</i>)
-
->  <b>COCKAYNE</b> (And) <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park]
-
->  <b>COCKAYNE</b> (And) <i>Gleichenia flabellata</i> fan-like umbrella-fern <i>(1908,AJHR,C-14</i>) [NOTES: Botanical Survey Waipoua Kauri Forest]
-
->  <b>COCKAYNE</b> (And) <i>Gleichenia alpina</i> alpine umbrella-fern, bog umbrella fern <i>(1909,AJHR,C-12</i>) [NOTES: Botanical Survey Stewart Island]
-
->  <b>TURNER</b> (And) <i>Gleichenia dicarpa</i> bog umbrella-fern <i>(1909,AJHR,C-11</i>) [NOTES: Botanical Examination Higher Waimarino]
-
->  (And) <i>Gleichenia Cunninghamii</i umbrella-fern <i>(1917,Duncan & Davies' Catalogue</i>)
-
->  <b>COCKAYNE</b> (And) <i>Gleichenia dicarpa </i> <i>(1919,NZ Plants & Their Story</i>)
-
->  <b>H.B. DOBBIE</b> (And) <i>Gleichenia Cunninghamii</i umbrella-fern <i>(Nov 21, 1921,Letters</i>) [NOTES: ALSO 1921 Dobbie NZ Ferns (And)]
-
->  <b>MANSFIELD</b> Now they could see quite plainly dark bush. Even the shapes of the umbrella ferns showed, and those strange silvery withered trees that are like skeletons....[sic] <i>(1922,Stories,475,1984 Alpers ed.</i>)
-
->  <b>GUTHRIE-SMITH</b> Each [fern] is a forest species - the one, the umbrella fern (<i>Gleichenia Cunninghamii</i), being usually found on wooded spurs. <i>(1926,Tutira,48</i>)
-
->  <b>GUTHRIE</b> There were carpets of delicate kidney ferns, so called because of their shape; maidenhair, Prince of Wales's feathers, umbrella and many other varieties ... <i>(1930,NZ Memories,171</i>)
-
->  <b>LEVY</b> The development of the kauri to dominance was preceded by scrub and low-forest phases, the chief species being mingimingi, <i>Gaultheria</i>, manoao, kumarahou, tauhinu, <i>Lycopodium</i>, umbrella fern, manuka, kanuka, tree ferns, tanekaha, toro, and rewarewa. <i>Ibid.</i> Appendix II 357 Umbrella fern - <i>Gleichenia circinata. Gleichenia Cunninghamii </i> <i>(1951,Grasslands of NZ,3,1970 ed.</i>)
-
->  <b>RICHARDS</b> <i>GLEICHENIA ... circinata </i>... The ends of the second branches and the leaflets droop downwards like the head of a half-opened umbrella round its handle. ... [16] Umbrella Fern. MATUA ARUHE. <i>(1952,Chatham Islands,15</i>)
-
->  <b>WILLIAMS</b> <i>Waekura, n. Gleichenia cunninghamii, umbrella fern.</i> <i>(1957,Dictionary of the Maori Language,473</i>)
-
->  <b>McLINTOCK</b> Where the forest has been cleared and burnt, the resulting cover is all too often low scrub, rushes, and umbrella fern. <i>(1959,Descriptive Atlas,30</i>)
-
->  <b>MARTIN</b> Of such [umbrella ferns] the finest example is the FOREST UMBRELLA FERN (<i>Sticherus cunninghamii</i>) wholly restricted to New Zealand. <i>(1961,Flora NZ,114,1929 ed.</i>)
-
->  umbrella fern n : an Australasian fern of the genus <i>Gleichenia </i> <i>(1961,Merriam-Webster Third International,2481</i>)
-
->  <b>MOORE & IRWIN</b> <i>GLEICHENIA CUNNINGHAMII</i> (Gleicheniaceae). An umbrella fern that spreads by branching rhizomes and forms large colonies in well-lit sites in forests ... <i>(1978,Oxford Book of NZ Plants,218</i>)
-
->  <b>WILSON</b> <i>Sticherus cunninghamii</i> UMBRELLA FERN ... Tapuwae-kootuku ... Waekura ...Fronds very distinctive, umbrella-shaped on erect brown stalks, sometimes producing an extra one or two umbrellas above the first ... <i>(1982,Stewart Island Plants,43</i>)
-
->  [Caption] The umbrella fern (<i>Sticherus cunninghamii</i>, tapuwae kotuku), commonly found on roadside banks or in dry bush throughout the coutry; known only from New Zealand. <i>(Apr 2, 1990,Listener (New Zealand Listener),109</i>)
+>  A by no means unprepossessing damsel named Winnie Hepburn, charged `under the vag' was given a chance by Dr. McArthur, S.M., at the Magistrate's Court last Monday. <i>(Jul 21, 1906,NZ Truth,57/3/8</i>)
 
 
 
-## umbrella moss
+ 
+<b>3</b> <i>n.</i> vagrancy under the Vagrancy Act; = CRUST
+
+>  As a consequence Albert, the mendicant, was charged with `vag,' otherwise known as `the crust,' and Magistrate Bartholomew let him off when he took a prohibition order out against himself, but told him to be careful. <i>(Jan 13, 1912,NZ Truth,342/7/4</i>)
+
+>  Another old street pest, Mary Bond, alias Parker, came up to see Magistrate Riddell on Saturday last about a charge of "vag." <i>(Oct 2, 1909,NZ Truth,7</i>)
+
+>  As regards the hermit of Island Bay, he probably prefers a hermit's cell, being not plagued by restrictions, to a cell in the Hotel de Garvey under the 'vag.' <i>(Oct 30, 1894,Otago Witness,2</i>)
+
+>  One has only to visit the Magistrate's Court when an individual charged under the vag. denies the allegation of "consorting." <i>(Jun 25, 1910,NZ Truth,6</i>)
+
+
+
+ 
+<b>4</b> <i>v.</i>
+
+>  <b>THATCHER</b> I've got in my pocket for thee, And then in Court I'll jolly soon `vag' you, Months then in quod you'll get two or three. <i>(1862,Dunedin Songster,No.1/9</i>) [NOTES: The Races and the Sharpers in Dunedin Songster Bracelets]
+
+>  A little time ago the police successfully vagged a couple of very unvirtuous, frowsy, filthy females named Annie Evans and Jessie Hay, who used to make everybody miserable that looked at them. <i>(Apr 27, 1907,NZ Truth,97/5/4</i>)
+
+
+
+## Vagrancy Act
  
  <i>n.</i>
 
->  <b>SANSOM</b> There's no better walk for seeing one of the Wonders of the World, the double crepe ferns or Prince of Wales Feathers, carpeted with umbrella mosses. <i>(1982,In the Grip of an Island,31</i>)
+>  An Act to define and restrain Vagrancy... The short Title of this Act shall be "The Vagrant Act 1866"... 1. Any person who shall commit any of the next following offences shall be deemed an idle and disorderly person within the meaning of this Act... 1. Any person who having no visible lawful means of support... <i>(1866,NZ Statutes,VR30, 10/47</i>) [NOTES: Vagrancy Act 1866 later replaced by Police Offenders Act of 6 Nov. 1884]
 
 
 
-## umbrella plant
+## vaine
  
- <i>n.</i> <i>Gleichenia semi-vestita </i>
+ <i>n.</i> woman, cf. Maori wahine
 
->  <b>HAYNES</b> I have heard [the fern Gleichenia semi-vestita] called [in Auckland] the `umbrella plant' on account of the mode in which its spreading fronds divide. <i>(1865,Ramble in the NZ Bush, A,21</i>)
-
-
-
-## umbrella tree
- 
- <i>n.</i> the juvenile form of lancewood. [from the long, downward-pointed leaves resembling the spines of an umbrella. Pseudopanax crassifolium, =LANCEWOOD
-
->  <b>TANCRED</b> The singular umbrella-tree of the colonists ... which grows also in the woods near the sea. The native name is `horoeka' <i>(1856,Natural History of Canterbury,21</i>)
-
->  Pseudopanax ... chathamicum ... A small tree whose original home was probably New Zealand ...; of the young unbranched plants the leaves are horizontal or erect not hanging straight down as in the New Zealand species (and therefore known as the umbrella tree) ... HO-HO. <i>(1952,Chatham Islands,65</i>)
-
->  umbrella tree n. tree with large leaves set like umbrella ribs at the top of numerous stems. [?Aust: HWO] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),21</i>)
+>  I remember seeing him on the Rene Bay bus in my student days, dapper in white shorts and walk socks, on his way to work, so it was a revelation when this statuesque vaine (Maiti was a Cook Islander) appeared behind the bar with fresh bosoms and a flower behind her ear. <i>(Nov 16, 2002,Listener (New Zealand Listener),51</i>)
 
 
 
-## UMF
- 
- <i>abbr.</i> unique manuka factor [ORIGIN: initialism]
-
->  At present, honey firms just make claims about their content of the UMF identified by Waikato University biochemist Professor Peter Molan. <i>(Jul 3, 2007,Dominion Post,A4</i>)
-
->  It contained what he called UMF - unique manuka factor - and its exact chemical identity remains a mystery. ... High-UMF manuka honey sells for up to 10 times the price of ordinary honey and the Commerce Commission has had to prosecute some honey traders for making false claims. ... About half of manuka honey does not contain UMF and is deemed inactive, though some marketers call it active because it has an antibacterial effect like all honeys. <i>(Nov 26, 2005,Dominion Post,E11</i>)
-
-
-
-## umu
- 
- <i>n.</i> Maori oven
-
->  It was like a home game - albeit one played inside an umu. Humidity was higher than Brad Thorne's lineout leaps. <i>(Oct 25, 2003,Dominion Post,C10</i>)
-
->  The primeval savages had evidently thrown back into the umu the remains of each feast and lighted over it the fire to prepare the next. <i>(Aug 27, 1853,New Zealand Gazette & Wellington Spectator,27</i>)
-
->  <b>LEE & KENDALL</b> U'mu, s. An oven. <i>(1820,Grammar & Vocabulary of the Language of NZ,47</i>)
-
->  <b>BOULTBEE</b> oven - oo'hmoo [umu] <i>(1826,Journal,111,1835, 1986 ed.</i>)
-
->  <b>BOULTBEE</b> oven, o|o|hmoo [umu] <i>(1826,Journal,283,1986 ed.</i>) [NOTES: 1826-28 Boultbee Vocabulary in 1979 Begg 283 (|= macron precedes)]
-
->  <b>WAKEFIELD</b> `The tangi had terminated; the umu or `cooking holes' were smoking away for the feast.' <i>(1845,Adventure in NZ,I/75</i>)
-
->  <b>BURTON</b> Collected a quantity of the roots of the ti, or cabbage tree, which we placed in a humu or native oven, for the night. <i>(1982,Two Hundred Years of NZ Food & Cookery,19</i>) [NOTES: 1847 Jan 19 Brunner in 1982 Burton Two Hundred Years of NZ Food]
-
->  Slept on the site of former pah and in the humu's. <i>(Dec 23, 1848,Torlesse Papers,44,1958 ed.</i>)
-
->  We knocked up a warre ... and made a humu to cook our pork. <i>(Mar 14, 1849,Torlesse Papers,68,1858 ed.</i>)
-
->  <b>BRUNNER</b> Collected a quantity of the roots of the ti, or cabbage tree, [which? check??]we placed in a humu, or native oven. <i>(1847,Great Journey,25,1952 ed.</i>)
-
->  There were eight large umus (ovens) some of them not yet opened. <i>(Feb 12, 1864,Richmond-Atkinson Papers,2/87</i>) [NOTES: A.S. Atkinson]
-
->  The bones and egg-shells ... [were] all in and around the umus (or native ovens) in which they had been cooked. <i>(1872,TrNZI,5:96</i>) [NOTES: Morris]
-
->  <b>MORRIS</b> Maori word, signifying a native oven. <i>(1898,Austral English,487</i>)
-
->  The food was cooked in the umu, or Maori oven of which numbers may be seen in any bay on Banks Peninsula. <i>(1900,Canterbury Old & New,153</i>)
-
->  <b>BAUCKE</b> `Coppa Maori,' `Maori oven,' etc. - these are the slang names given by those who know no better. By the natives it is called an `Umu' and universally a `Haangi'. <i>(1905,Where the White Man Treads,102</i>)
-
->  ... the flesh was nearly as good as human flesh when well cooked in an umu or earth oven. <i>(1914,History of North Otago,4,1978 ed.</i>) [NOTES: 1906 W.H.S.Roberts in 1914 History of North Otago]
-
->  ~ n. a native oven. [Maori] <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,12</i>)
-
->  <b>GUTHRIE</b> The ... boys taught them to cook in the umu or cook-holes ... <i>(1930,NZ Memories,49</i>)
-
->  <b>ANDERSON</b> umu, earth oven, more commonly hangi. <i>(1946,Journal of the Polynesian Society,55/60</i>)
-
->  umu: native oven. <i>(1947,Reeds' School Dictionary: NZ Suppl.,176</i>)
-
->  <b>BURTON</b> There are countless ways of preparing food Maori style, but basically there were only three ways of cooking it. The first, which involves steaming in a subterranean oven called an umu or hangi, is known as tao cooking. It was the preferred method of cooking for groups of people, from family size up, in a village setting. <i>(1982,Two Hundred Years of NZ Food & Cookery,1 ed.</i>)
-
->  umu n. NZ Maori earth-oven. [M] <i>(1986,NZ Pocket Oxford Dictionary,836</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict]
-
->  <b>LAMBERT</b> I have offered myself for the umu (Maori oven) in place of you my sister. <i>(1936,Pioneering Reminiscences of Old Wairoa,96</i>)
-
->  The kernels ... were cooked in a native oven, or umu ... <i>(1904,TrNZI,36/11</i>)
-
->  <b>COWAN</b> When the Murisons came first to Puketoi, ... several uma or Maori cooking places were observed. <i>(1948,Down the Years in the Maniototo,4</i>)
-
-
-
-## umukai
+## valance
  
  <i>n.</i>
 
->  <b>HULME & MORRISON</b> We no longer fight each other for the sweet juice that brewed in the curled-up cupping hands of dead people steamed in an umukai... <i>(1989,Homeplaces,12</i>)
+>  The use of valance [by Pitcairners] for a fringe of curtain round the top of a table or cupboard would not seem strange to an older generation of New Zealanders, but the pronunciation [|w l ns] suggests early Pitcairnese use. <i>(1968,Anglia,86/359</i>) [NOTES: G.W.Turner review Pitcairnese Language in Anglia]
 
 
 
-## un-Kiwilike
+## valerian
  
- <i>adj.</i>
+ <i>n.</i> a plant with red or white flowers, a garden escape now a roadside weed in parts of New Zealand.
 
->  PS: Don't let your scepticism show while making your obeisance to these guardians of public morals. That would be most un-Kiwilike. <i>(Oct 15, 1984,National Business Review,7</i>)
-
-
-
-## un-Maori
- 
- <i>adj.</i> not in conformity with Maori ways
-
->  <b>BEAGLEHOLE</b> He is, of course, un-Maori in this respect. <i>(1946,Some Modern Maoris,123</i>)
-
-
-
-## un-New Zealandness
- 
- <i>n.</i> a feature that is unlike the New Zealand culture or character
-
->  And with the same hindsight, Maori leaders may now realise the un-New Zealandness of the notion that the coastline is not everybody's to treasure. <i>(Feb 7, 2009,Listener (New Zealand Listener),5</i>)
-
-
-
-## unalienated
- 
- <i>adj.</i>
-
->  The arguments used ... appear to be based upon an assumption of a right afecting unalienated native territory by virtue of the Crown's right of pre-emption. <i>(Oct 13, 1858,Selected Documents,105.23</i>) [NOTES: ->1858 Oct 13 Memorandum by Native Secretary in 1949 Rutherford ed. Select Documents 105.23]
-
-
-
-## unbracketed
- 
- <i>adj.</i>
-
->  <b>McCARTHY</b> Trainers with two unbracketed horses could arrange for the lesser-backed to win, to the disadvantage of the bettors. <i>(1970,Horse Racing, Trotting & Dog Racing in NZ,234</i>)
-
-
-
-## unbroken
- 
- <i>adj.</i>
-
->  <b>FITTON</b> ... milch cows, and heifers ready to be broken in for milking. [fn] A friend tells me the expression `breaking in' requires explanation. ... A young cow [allowed to run wild] when first milked is generally `baled up', that is, her head is secured between upright posts so that she can raise or lower it, but cannot turn round to use her horns. ... A pint or less of milk is considered a satisfactory result of the first attempt to milk an `unbroken heifer'. When a cow has submitted to this process a few times without much struggling, she is considered to be `well broken in to milk'. <i>(1856,New Zealand (various authors/titles),218 and fn</i>)
+>  There's a red-pink wildflower currently dominating hillsides all over Wellington. Preferring sunny spots on clay banks or cracks in concrete, with reddish blooms made up of a cloud of tiny florets, it goes by many names including Centranthus ruber, Bouncing Bess, Drunken Sailor, Red spur, Spur valerian, Red valerian or False valerian.... In fact, Centranthus and true valerian are not closely related botanically; Centranthus probably gained the names because of a similarity between the flowers of the two plants. <i>(Dec 6, 2003,Dominion Post,E11</i>)
 
 
 
  
-<b>1</b> <i>adj.</i> (Rural) [of land] undeveloped.
+<b>2</b> <i>n.</i> <i>Kentranthus ruber </i>
 
->  <b>TAIT</b> In 1855 a Mr John Hull took up an area of unbroken land. <i>(1956,Farms & Stations of NZ Vol I,127</i>)
+>  <b>HILGENDORF [& CALDER]</b> VALERIAN (<i>Kentranthus ruber </i>), called also red spur valerian, [spur] is immensely `[very] common on roadsides, banks and cuttings in certain of Wellington's suburbs,' and is also found in Southland. [elsewhere.] It is a perennial herb growing 3 ft. or so in height. <i>(1926,Weeds of New Zealand,166,1967 ed.</i>)
 
-
-
-## unbroken country
- 
- <i>n.</i>
-
->  Wakawai consisted mostly of what is known as "unbroken country." A great deal of the property was still heavily bushed, and the bush would have to be felled and burnt off before the station could be put down in grass, and used for sheep and cattle. <i>(Nov 4, 1924,Otago Witness,54</i>)
-
-
-
-## unbuggering
- 
- <i>n.</i> the undoing of work not done well.
-
->  Trouble selling your property? For light building, carpentry, repairs, paving, painting, making things work again or general unbuggering DUNCAN SYME 0272487187 <i>(Apr 30, 2009,4</i>)
-
-
-
-## unbutton the mutton
- 
- <i>adj.</i> urinate
-
->  <b>McGILL</b> unbutton the mutton to urinate; eg `Scuse I while I just go and unbutton the mutton.' ANZ. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
-## uncinia
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, SLENDER UNCINIA <i>Uncinia filiformis</i> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park]
-
-
-
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, STIFF UNCINIA <i>Uncinia rigida </i> <i>(1909,AJHR,C-12:</i>) [NOTES: Report on a Botanical Survey of Stewart Island]
-
-
-
- 
- <i>n.</i> [UNCINIA BROAD-LEAVED UNCINIA Uncinia uncinata -->1908 Cockayne Botanical Survey Tongariro National Park]
-
->  <b>HELMER</b> Ferns and supplejack and uncinia blocked the pathways and crowded down to the creek bed in a choking green tangle. <i>(1964,Stag Party,43</i>) [NOTES: [Urewera]]
-
-
-
- 
- <i>n.</i>
-
->  <b>C-12:</b> UNCINIA, MOUNTAIN UNCINIA <i>Uncinia compacta <i> <i>(1909,AJHR</i>) [NOTES: Report on a Botanical Survey of Stewart Island]
-
-
-
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, NARROW-LEAVED UNCINIA <i>Uncinia caespitosa <i> <i>(1909,AJHR</i>) [NOTES: Report on a Botanical Survey of Stewart Island]
-
-
-
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, RED UNCINIA <i>Uncinia rubra <i> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of t he Tongariro National Park]
-
->  UNCINIA, SLENDER UNCINIA <i>Uncinia filiformis <i> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of t he Tongariro National Park]
-
->  <b>COCKAYNE</b> UNCINIA, SLENDER UNCINIA <i>Uncinia filiformis <i> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park]
-
-
-
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, STEWART ISLAND UNCINIA<i> Uncinia pedicellata <i> <i>(1909,AJHR,c-12 :</i>) [NOTES: Report on a Botanical Survey of Stewart Island (]
-
->  <b>COCKAYNE</b> UNCINIA, STIFF UNCINIA <i>Uncinia rigida </i> <i>(1909,AJHR,C-12 :</i>) [NOTES: Report on a Botanical Survey of Stewart Island (]
-
-
-
- 
- <i>n.</i>
-
->  <b>COCKAYNE</b> UNCINIA, TALL UNCINIA <i>Uncinia leptostachya </i> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park]
+>  <i> red spur valerian [=] spur valerian [s] </i> <i>Ibid.</i> 74 <i> spur valerian [s] Kentranthus ruber </i> (L.) DC. <i>Ibid.</i> 82 <i> valerian, spur [s] Kenthranthus ruber </i> (L.) DC. <i>(1969,Standard Common Names for Weeds,63</i>)
 
 
 
  
 <b>2</b> <i>n.</i>
 
->  <b>COCKAYNE</b> UNCINIA, LEAFY UNCINIA <i>uncinia riparia <i> <i>(1908,AJHR</i>) [NOTES: Botanical Survey Tongariro National Park (And)]
+>  <i> red spur valerian [=] spur valerian [s] </i> <i>Ibid.</i> 82 <i> valerian, red spur [=] spur valerian [s] </i> <i>(1969,Standard Common Names for Weeds,63</i>)
 
 
 
-## Uncle Mo
+## valley gutter
  
- <i>n.</i> the Ministry of Works
+ <i>n.</i>
 
->  Uncle Mo, as the Ministry of Works was known, provided almost everything, from housing to jobs and life was good. Uncle Mo's life force is long gone, but still Mangakino survives - just. <i>(Apr 15, 2000,Listener (New Zealand Listener),32</i>)
+>  <b>SALMOND</b> Valley gutter. a metal drain formed under the roof covering where two roof planes meet onan `internal' angle. <i>(1986,Glossary of Building Terminology,233</i>)
 
 
 
-## Uncle MOW
+## Values Party
  
- <i>n.</i> the Ministry of Works
+ <i>n.</i> a 1970s political party
 
->  <b>BELICH</b> They were run by the Ministry of Works, known as 'Uncle MOW' - a play on 'Uncle Joe' Stalin. <i>(2001,Paradise Reforged,313</i>)
+>  The Green Party Conference in Auckland.. kicked off.. with a reunion to mark the 25th anniversary of the Values Party... The Values Party was the 1972 brainchild of then journalist [Tony] Brunt who, six months out from the general election, realised that he desperately wanted to hear a political voice reflecting the new concerns of the day: population growth, unchecked economic growth and technological change. <i>(May 17, 1997,Listener (New Zealand Listener),27</i>)
+
+>  Values Party a NZ political party (unrepresented in House of Representatives 1984). <i>(1986,NZ Pocket Oxford Dictionary,853</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.]
 
 
 
-## Uncle Ned
+## VAMP
  
- <i>n.</i> head [rhyming slang]
+ <i>abbr.</i> Visitor Asset Management Programme [ORIGIN: acronym]
 
->  <b>TURNER</b> I might have written [of rhyming slang] `none in New Zealand', but in late 1964 I came across uncle ned for `head' in one of the colloquial backblocks books enjoying popularity in New Zealand at that time. <i>(1966,English Language in Aust. & NZ, The,119</i>)
+>  During November and December of last year a series of meetings was held with representatives of groups to discuss the Visitor Asset Management Programme (VAMP) and its application to the facilities in Wellington Conservancy. <i>(Jun 2001,Footnotes,1</i>)
 
 
 
-## Uncle Scrim
+## vampire light
  
- <i>n.</i> Colin Scrimgeour, 1930s private radio pioneer
+ <i>n.</i> a stand-by light
 
->  My father was Colin Scrimgeour, Uncle Scrim, who died on January 16, 1987, at the age of 83. The prime minister's vindictiveness was just one of the honours Scrim received. <i>(Feb 28, 1987,Listener (New Zealand Listener),16</i>)
-
->  <b>SINCLAIR</b> During the depth of the depression Labour Party Meetings were revivalist gatherings where bitterness against evil times mingled with the most pure visions of tomorrow. In Auckland a radio station known as `The Friendly Road' run by the Reverend C.G. Scrimgeour (`Uncle Scrim'), broadcast the same evangelistic message in a programme called `The Man in the Street', ... <i>(1959,History of New Zealand,258</i>)
+>  A further 38 per cent of respondents had also started turning off appliances at the wall to stop the red vampire lights shining at night from appliances left on standby. <i>(Jun 23, 2003,Dominion Post,C1</i>)
 
 
 
-## Uncle Willy
- 
- <i>n.</i> (a) silly (person) [ORIGIN: rhyming slang]
-
->  Don't be Uncle William's half-witted little boy. <i>(Nov 20, 1944,NZEF Times,IV/178 : 4</i>)
-
->  `It was the lady singing the train song', continued the girl. `Aw, look Margaret', said her mother, `don't be Uncle Willy.' <i>(Oct 2, 1964,Listener (New Zealand Listener),5</i>)
-
->  <b>BAXTER</b> SKULLY Don't be Uncle Willy. You're my starlight, Norah. You're sweet poison. <i>(1968,Collected Plays,24,1982 ed.</i>) [NOTES: Wide Open Cage]
-
-
-
-## unclean
- 
- <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See [clean](../C#clean))
-
-
-
-## unco
- 
- <i>adj.</i> (informal) awkward; clumsy, inept [also as noun; an abbreviation of uncoordinated; 1984 14 F E126 Wgton Girls C. 1 UNC [a silly person] -->1984 16 F E29 Pakuranga Coll. 1 UNCO [F16-17 7] -->1984 16 F E29 Pakuranga Coll. 7 UNCO [something not good] -->1984 16 F E29 Pakuranga Coll. 10 UNCO [useless person/thing F3] -->1984 16 F E30 Pakuranga Coll. 2 UNCO [a mad person] -->1984 14 F E127 Wgton Girls C. 10 UNCO (UNCO-ORDINATED) -->1984 14 F E137 Wgton Girls C. 1 UNCO (UNCOORDINATED) MOLE [F 2]]
-
->  They mentor, listen and encourage us even when we're unco as anything or have virtually no brain capacity. <i>(2004,Tearaway,Supplement -Children's day</i>)
-
->  <b>Geary</b> He wanted to test [the scythe] on the lawn. Here, he'd be safe behind the hedge, in case he looked unco. (ibid. p.124) He's not allowed on the table after that ripped felt incident. Wasn't really his fault. Another unco bumped him. <i>(2003,Man of the People, A,118</i>)
-
-
-
-## unconformable
+## Van Diemen's Land
  
  <i>adj.</i>
 
->  UNCONFORMABLE.- When one set of strata lie on the edges of another set. <i>(1868,Thames Miner's Guide, The,56</i>)
+>  <b>LYON</b> [Port Chalmers, ca1850's] ... he felt some slight qualms ... for the sight of slightly framed shacks of two rooms, built of `Van Diemen's Land' palings, was naturally a vivid contrast to the stone and solid houses of England <i>(1952,Faring South,41</i>)
 
 
 
-## uncovenant
- 
-<b>1</b> <i>v.</i> (Rural) to free land from a protective covenant.
-
->  Once that's done, there no going back. You can't uncovenant a block of land, at least not here in New Zealand. Which Bellamy thinks is just fantastic .. 'No other country has the balls to actually have a law that says, 'You covenant it, you can't revoke it.'' <i>(Nov 20, 2002,Dominion Post,B7</i>)
-
-
-
-## uncrowdedness
- 
- <i>n.</i> lack of people
-
->  <i>(1875,Durability NZ Timbers</i>) [NOTES: (And)]
-
->  <b>HECTOR</b> <i>Carpodetus serratus</i>, Forst. Tawiri, White Mapau, White-birch (of Auckland). --A small tree, 10-30 feet high, trunk unusually slender. <i>(1883,Handbook of New Zealand,132</i>)
-
->  The aspects we are talking about are uncrowdedness... <i>(Dec 16, 2004,Radio NZ / National Radio</i>) [NOTES: tourist expert discussing requirements for tourist attractions]
-
-
-
-## Uncrowned King of NZ
- 
- <i>phr.</i> James Roberts (1881- ) -->Mr James (`Big Jim') Roberts, when he was President of the Labour Party, and also President of the Federation of Labour [James Roberts, "The Uncrowned King of New Zealand" lived 1881-1967]
-
->  .. and the opposition was able to gain a special debate in Parliament, memorable only because one of the members coined a phrase which stuck by describig Roberts as "the uncrowned king of New Zealand." <i>(1993,Wharfie,p74</i>)
-
->  [Mr James Roberts] ... now 81, a former president of the New Zealand Labour Party, wasknown as the `uncrowned king of New Zealand' - a nickname bestowed by Sir William Polson in the House of Representatives. <i>(Feb 16, 1963,Dominion,12</i>)
-
->  Because of his influence in the New Zealand Labour movement during the period 1935 to 1949, Roberts was known as `the uncrowned King of New Zealand'. <i>(1966,Encyclopaedia of New Zealand, An,3/108</i>)
-
->  <b>LEE</b> [photo caption] James (`Big Jim') Roberts President of the Labour Party from 1937-1950 and often referred to as the `uncrowned king' of New Zealand. <i>(1981,John A. Lee Diaries,208</i>)
-
-
-
-## uncrutched
- 
-<b>1</b> <i>adj.</i> (Rural) [of sheep] with unshorn rear ends or bellies.
-
->  <b>MOWAT</b> Drafted off uncrutched wethers, put in shed. <i>(Apr 27, 1932,Alexander Mowat Diaries</i>)
-
->  <b>MOWAT</b> Brought uncrutched hoggets to holding paddock. <i>(Feb 2, 1934,Alexander Mowat Diaries</i>)
-
-
-
-## undagged
+## Vandemonian
  
  <i>adj.</i>
 
->  <b>RICHARDS</b> Unfortunately in the afternoon we got ahead of the musterers, so the manager had to run in a mob of undagged cotty sheep that were being held until the cut out. <i>(1986,Off the Sheep's Back,130</i>)
+>  Van'.de-mo'.ni-an, a. 1. of or pertaining to a white inhabitant of Van Diemen's Land. [Obs.] 2. Specifically, of or pertaining to a convict in Van Diemen's Land; hence, violent or ruffianly : as, Vandemonian conduct. <i>(1898,Merriam-Webster Third International,2033</i>)
 
+>  This was an action between two carters at Napier - nominally brought to recover damages for an assault, but virtually instituted to enable the plaintiff to deny on oath the aspersion cast upon him by the defendant, when addressing him as a "Vandemonian lag." <i>(Jan 26, 1861,Hawke's Bay Herald,3</i>)
 
 
-## Undaria
- 
- <i>n.</i> The invasive Japanese seaweed, <i>Undaria</i> sp.; should be possible to get earlier cites from 1987. [Dr Cameron Hay and Dr Penny Luckens (the last, from memory discovered it first in Wellington Harbour in a routine survey), came to me in some excitement about it when it was first discovered here.]
-
->  The easiest way to distinguish undaria from New Zealand native kelps is a frilly, spore-producing structure near the base of the plant and a prominent spine... Mr Robertson says undaria could be compared with pine trees, an important industry on one hand but also a pest because of the spread of wildings in Tongariro National Park <i>(Mar 29, 2000,Dominion,13</i>)
-
->  A team.. is researching the ecological impact of an undaria invasion - something which has not been done before... Undaria, thought to have been introduced from Japan through international shipping, was first noticed in Wellington Harbour in 1987. <i>(Jul 23, 1997,Evening Post,10</i>)
-
-
-
-## under
- 
- <i>n.</i>
-
->  This is an evolving territorial world of rough justice, blind loyalty, a wary eye for "the unders" (undercover cops) and big-noting. <i>(Oct 31, 1998,Dominion,15</i>)
-
-
-
-## under and over
- 
- <i>n.</i> a gambling game
-
->  <b>SCOTT</b> You belong to a gang of ... robbers of widows, - spielers is the term - who play `two-up' withpennies, who stake their all on `three card monte', who put their last shilling on the game you know as `under and over'. <i>(1900,Colonial Turf,96</i>)
-
-
-
-## under below
- 
- <i>exclam.</i> a warning call on the wharves when working cargo
-
->  It was 2.30 in the afternoon, and a hundred and fifty had failed to receive an invitation to wheel a barrow, or to cry, "under below," or to be "under bellowed" at the hatches. <i>(Sep 22, 1908,Evening Post,3</i>)
-
->  The Company's local paymaster, with his coat off - for work - was crying out, "Under, below," as he passed a case of oil down to the tender. <i>(Sep 6, 1913,NZ Truth,5</i>)
-
->  The watersider witnesses gave evidence that the customary `under below' warning was given as the strain was taken on the sling and it began to swing. <i>(Oct 19, 1957,Christchurch Star-Sun,9</i>)
-
-
-
- 
-<b>2</b> <i>exclam.</i> a bushman's warning call (? Northland) `timber'. bushmen's call (? Northland) in bushfelling - usually as a warning of beginning of a drive
-
->  <b>BOSWELL</b> All day long across the valleys and hills came the long-drawn cry of `Jah-ho-o-o', and the still longer sing-song call of `Un-der - below - in the vall-ee-ee!' as bushman warned bushman of a dangerous fall or a `drive'. A drive, in bush-felling, is a most spectacular sight. <i>(1956,Dim Horizons,24</i>) [NOTES: from the 1890s]
-
->  <b>MOORE</b> All preparations [for the drive] having been made, and everyone cleared out of the area below, the big tree was felled, with a bellow of `under below' as he started to tip over. ... the whole of the prepared area collapsed like a pack of cards. <i>(1969,From Forest to Farm,49</i>)
-
-
-
-## under command
- 
- <i>phr.</i> of sheepdogs, obedient [(station)]
-
->  Under command, under good c.---.-Obedient (only used of dogs). Not u.c., and under bad c. are the expressions for disobedient. <i>(Jan 27, 1934,Press, The,15</i>) [NOTES: Acland Gloss. additions]
-
-
-
-## under crop
- 
- <i>phr.</i> being cropped
-
->  <b>MASTERS</b> `After passing through some miles of this country, we again descend and come suddenly onto a bit of well grassed land, some hundreds of acres that have been under crop.' <i>(1959,Tales of the Mails,59</i>) [NOTES: c1880s an anonymous tourist in 1959 L. MastersTales of the Mails]
-
-
-
-## under the hook
- 
- <i>phr.</i> working on the wharf
-
->  <b>EVANS</b> The watersiders' term for working on the wharf was 'under the hook'. <i>(1999,Where Giants Dwell:,59 ed.</i>)
-
-
-
-## under the lap
- 
- <i>n.</i> privately, on the sly. [ca1941-45 Prison RC. e.g. Prisoners speak of getting information or forbidden luxuries `under the lap'; and also attrib get under-the-lap information -->P: from B 1842]
-
->  <b>CARR</b> Used, e.g., `to run raffles under the lap', to run them on the sly <i>(1950,Mowai Red Cross Home</i>) [NOTES: ca1914-1918 C.R. Carr, Mowai Red Cross Home]
-
-
-
-## under the Southern Cross
- 
- <i>phr.</i>
-
->  Most of us [have] embraced the idea of living where we are, <i>under</i> (or <i>in the land of</i>)<i> the Southern Cross</i>, rather than imagining our place as the other side of the world from somewhere else. <i>(Aug 2000,NZWords,4 : 1</i>)
-
->  "New Zealand will be brought within four days of Los Angeles, and you good people down under the Southern Cross will become near neighbours of your friends here in California ..." <i>(Jul 29, 1940,Evening Post,9</i>)
-
->  DE LUXE THEATRE (The Finest Theatre under the Southern Cross). <i>(Oct 25, 1928,Evening Post,2</i>)
-
->  It is now a pretty long time since the <i>United Service Gazette</i> discovered that General Cameron was not the man for New Zealand. We then stood alone in our adverse criticism, the columns of our contemporaries being filled as nauseam with eulogies of skill, promptitude, and success of our campaigning under the Southern Cross. <i>(Jan 6, 1866,Daily Southern Cross,6</i>)
-
->  On their arrival they were received by a few ladies of the congregation, who, it is needless to say, had made such excellent arrangements as conclusively convinced the Sisters that Irish hospitality had not ceased to exist under the Southern Cross. <i>(Nov 1, 1878,NZ Tablet,19</i>)
-
->  But we have yet to enumerate our vast possessions under the southern cross. <i>(Aug 17, 1850,New Zealander, The,3</i>)
-
->  ..Where virgin forests into azure toss / Their giant limbs beneath the Southern Cross ... <i>(Nov 20, 1880,Observer (Auckland),80</i>)
-
-
-
-## under the top
- 
-<b>1</b> <i>phr.</i> (Rural) [mustering] a position or beat taken by the second beat man.
-
->  <b>NEWTON</b> Brownie was to do the top and the head shepherd would be 'under the top' - his beat would be through the basins where the snow lay deep and the going would be the heaviest. <i>(1949,High Country Days,159</i>)
-
->  <b>STRONACH</b> Most of them end up, day after day, 'under the top'; that is on the second beat from the top one, usually the least responsible. <i>(1953,Musterer on Molesworth,46</i>)
-
-
-
-## under water
- 
-<b>1</b> <i>phr.</i> (Rural) [of farmland] irrigated.
-
->  <b>ARMY EDUCATION</b> In place of the sparse short-lived unproductive pastures subject to the effects of drought and grass-grub, dense swards capable of carrying up to four ewes per acre can be developed and maintained 'under water'; thus the land is being converted from store sheep to fat-lamb production <i>(1945,How to Start Farming,43</i>)
-
-
-
-## under-boss
- 
- <i>n.</i> a warder other than the chief warder [(borstal obs) cf BOSS as a name for masters in boarding schools, e.g. St Patrick's College, Silverstream)]
-
->  <b>HARCOURT</b> The boy's arms were placed around the [whipping post] and his wrists firmly held by an under-boss [of the borstal] on the other side. [20] The whole school was assembled before the under-bosses. <i>(1942,Parson in Prison,19</i>)
-
-
-
-## under-run
- 
- <i>n.</i>
-
->  <b>FERNANDEZ</b> They came to a little gut where water drained from the swampy flats ... `This is an under-run,' warned Rusty. `It's hollow underneath. You'll have to jump.' <i>(1973,Tussock Fever,105</i>)
-
->  <b>FISHER</b> My way was the wrong way to travel through the bush - ... I realised I had fallen into a fifteen foot boulder-and-sand-lined hole known as an `under-run'. <i>(1976,Divers of Arakam,55</i>)
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) a tomo or underground tunnel, a hazard to stock. [also underrun] (See [under-runner](../U#under-runner))
-
->  <b>DEANS</b> The poor dog had fallen down what is known as an underrun. <i>(1964,Pioneers on Port Cooper Plains,166</i>)
-
->  <b>SINCLAIR</b> An additional hazard is the tomos or under-runs. One day in the Gorge Block my horse, Paddy, and I went down into an under-run about eight feet deep. <i>(1973,Boot in the Stirrup,74</i>)
-
->  <b>FERNANDEZ</b> They came to a little gut where water drained from the swampy flats .. "This is an under-run," warned Rusty. "It's hollow underneath." [underrun] <i>(1973,Tussock Fever,105</i>)
-
-
-
-## under-runner
- 
- <i>n.</i>
-
-
-
- 
- <i>adj.</i>
-
->  <b>AYSON</b> It went head foremost into a big under-runner hole, dashing Thomas against the bank. <i>(1937,Thomas,66</i>)
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) an underground stream or tomo. [incl rabbit warrens]
-
->  <b>GUTHRIE-SMITH</b> It deepens into a tiny hidden runnel; at last there is created a subterranean stream, or, in shepherd's phrase, an under-runner. <i>(1921,Tutira,34</i>)
-
->  <b>CUMBERLAND</b> Tunnels (under-runners to the New Zealand shepherd) are reported from Hawke's Bay and from Marlborough. <i>(1944,Soil Erosion in New Zealand,98</i>)
-
->  The fall in these tile drain mains will sometimes be so steep that the water will run down outside the pipes and cause under-runners to form ... <i>(May 15, 1957,NZ Journal of Agriculture,505</i>)
-
->  <b>RIDDOLLS</b> .. care should be taken in mole draining on steep country, particularly if the subsoil is easily eroded, as it would be possible to start "underrunners" and gullies. <i>(1958,Farm Engineering,61</i>)
-
->  <b>MCCASKILL</b> Subcutaneous erosion occurs in three forms .. Most obvious are tunnels (or under runners) to the farmer ... <i>(1973,Hold This Land,46</i>)
-
->  <b>LOUGHNAN</b> underrunner: on a hillside of clay subsoil, excess surface water may get deflected below the surface and then erode the clay into what can be a treacherous tunnel below the topsoil and its sward. <i>(1981,Loughnan Glossary,88</i>)
-
->  <b>GIBSON</b> Horses you could carry a sheep on or open gates on, horses that knew a bad swamp or under-runner country, and could follow a sheep track around a steep face without any trouble. <i>(1990,Among the High Hills of Canterbury,4</i>)
-
->  <b>KERR</b> .. he was told to go with me alongside the mob for a bit 'in case WV needs help lifting ewes out of an under runner.' [underrunner] <i>(2000,High Times in the High Country,164</i>)
-
->  But this year I thought the Rabbit Act would render assistance, so I dug up under-runners on my property, using traps and dogs to destroy the rabbits. <i>(Mar 11, 1883,Otago Daily Times,3</i>)
-
->  There were four deep dips, four under-runners and a quarry, and no less than eight culverts. <i>(Jan 30, 1896,Otago Witness,11</i>)
-
->  <b>GUTHRIE-SMITH</b> ..., the sands and grit being carried off particle by particle between the floor of marl and the ceiling of humus. In process of time the sharp pumice grit chisels out of the former a minute irregular bed. It deepens into a tiny hidden runnel; at last there is created a subterranean stream, or, in shepherd's phrase, an `under-runner'. Its course is at first unseen, then, as through process of time its channel is gouged out, and as the carpet of humus fibre gives way at irregular intervals, great rents and holes betray its presence. The bed continues to deepen, the carpet of turf falls in more and more, until finally the under-runner becomes an open rivulet. <i>(1926,Tutira,34</i>)
-
->  <b>DUFF</b> Then a faint sound came from almost under my feet, and I realized that the lamb had slipped into an under-runner 15 or 20 feet higher up, and had worked downhill to the point where I was standing. <i>(Aug 22, 1953,Shepherd's Calendar,140,1961 ed.</i>)
-
->  under-runner n. NZ subterranean stream. <i>(1986,NZ Pocket Oxford Dictionary,841</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.]]
-
-
-
-## under-runner country
- 
-<b>1</b> <i>n.</i> (Rural) land that contains underground streams or tomos.
-
->  <b>GIBSON</b> Horses you could carry a sheep on or open gates on, horses that knew a bad swamp or under-runner country, and could follow a sheep track around a steep face without any trouble. <i>(1990,Among the High Hills of Canterbury,4</i>)
-
-
-
-## underager
- 
- <i>n.</i> an underage drinker
-
->  "We don't serve underagers, we're very, very staunch on the laws and very responsible because we are a community pub." <i>(Feb 16, 2006,Horowhenua Mail,1</i>)
-
-
-
-## underarm
- 
- <i>adj.</i> (informal) underhand, unprincipled [alluding to a one-day international cricket match in 1981 in which an Australian player bowled the last ball underarm along the ground to prevent New Zealand scoring a six to win the game] [see also citation in Wilkes 5th ed.]
-
->  Angry pipfruit growers are banding together in a bid to get the Government to take a case against Australia to the World Trade Organisation (WTO). Mariri orchardist Richard Easton...accused the Australians of 'underarm' tactics... <i>(May 20, 2005,NZ Herald,Internet copy ed.</i>)
-
-
-
-## underbrush
- 
- <i>n.</i> =UNDERSCRUB, undergrowth, underbrush, ?scrub
-
->  Burning the underbrush, or brushwood. [The context here is a comparison of the land-clearing operations in the US and NZ.] <i>(1841,NZ Journal,2/26/27</i>)
-
->  Fine Totara Forest with underbrush[????] cleared. <i>(Sep 29, 1850,Torlesse Papers,169,1958 ed.</i>)
-
->  <i>(1959,Tararua,13/45</i>)
-
-
-
-## underbush
- 
- <i>n.</i> (See [underbrush](../U#underbrush))
-
->  ... and with some difficulty pushed my way through the low underbush ... <i>(Feb 8, 1848,Nelson Examiner,74,1952 ed.</i>)
-
->  Crawling along the ground among the underbush and trees. <i>(1849,Panorama of NZ,27</i>)
-
->  ... You commence a clearing by cutting what is called the under bush - that is the [158] supple jacks, small trees and all the ferns; this is done with a bill hook. <i>(Nov 10, 1854,Richmond-Atkinson Papers,1/157,1960 ed.</i>) [NOTES: H.A. Atkinson]
-
->  Harry and I at underbush all day. We cleared round a rimu that had been much frequented bywild pigs ... <i>(Nov 30, 1853,Richmond-Atkinson Papers,1/136</i>) [NOTES: A.S. Atkinson]
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) an undergrowth of small shrubs and fern beneath native forest trees. [aka under bush]
-
->  <b>ATKINSON</b> Harry and I at underbush all day. <i>(Nov 1, 1853,Journal,136</i>) [NOTES: in Scholefield (1960) Richmond-Atkinson Papers I]
-
->  <b>ATKINSON</b> You commence a clearing by cutting what is called the underbush - that is, supplejacks, small trees and all the ferns. <i>(Nov 10, 1854,Letter,166</i>) [NOTES: in Scholefield (1960) Richmond-Atkinson Papers I]
-
->  The underbush, generally so thick, is swept entirely away ... <i>(Nov 12, 1859,Hawke's Bay Today,6</i>)
-
->  In the former [rich alluvial bush land of the Hutt] which is wooded chiefly with pukateas, kaikateas, and rata trees, and thick underbush of konine (fusia) [sic] or roe-roe, kaua kaua, (or pepper) &c., entwined with kuriwau or supple-jack. <i>(Apr 10, 1844,New Zealand Gazette & Wellington Spectator,2</i>)
-
->  For 27 years I lived with my herd, dwelling 'mid the dark, dripping jungle, where trees are draped with ferns, and where the dense bracken and underbush grow knee-high. <i>(Dec 17, 1927,Evening Post,14</i>)
-
->  There was a flurry when secret service agents spotted a stranger moving furtively in underbush near the presidential train, because of an attempt made on President Roosevelt's life in Florida in 1933. <i>(Feb 20, 1939,Evening Post,9</i>)
-
->  Clear out the goats and put sheep in their place, and you will find the sheep roaming wherever the goats have been, for it is a mistake to suppose that sheep will not take to the forest, particularly where there is a dearth of underbush. <i>(May 25, 1911,Evening Post,8</i>)
-
->  In the first place, the underbush, that is the small shrubs, supplejacks and other creepers should be cut on each side of the existing bush roads to such width as may be found necessary, in order that a party marching on the road escorting provisions, ammunition, or wounded men, may be effectually protected, by flanking parties extended in the bush on either side in the portions so cleared. <i>(Jan 18, 1862,Taranaki Herald,2</i>)
-
->  I have had this track repaired of slips, and broken cu[l]verts, and cleared it throughout of underbush and fern, as it was entirely grown over, but is now in good order. <i>(Sep 15, 1888,West Coast Times,2</i>)
-
->  While I have been standing here talking to you, the boy has slipped through the back of my shop, scurried off through the underbush by the river, reached my barn, taken my horse, and made good his escape. <i>(Jul 11, 1895,Taranaki Herald,4</i>)
-
->  Such is rarely seen after Australian fires, when the flames may entirely clean up underbush, and yet, beyond scorching the leaves of the tall timber, do little other damage. <i>(Nov 17, 1908,Evening Post,7</i>)
-
->  Underbush before breakfast and then felled all day. I found a pigeon on its nest in a mahoi ... <i>(Jan 6, 1854,Richmond-Atkinson Papers,1/141,1960 ed.</i>) [NOTES: A.S. Atkinson]
-
->  <b>KENNAWAY</b> The pigs escaped into the dense underbush, and got away into the interior. <i>(1874,Crusts: a settler's fare due south,154</i>)
-
-
 
-## undercanstumble
  
- <i>n.</i>
+ <i>n.</i> [convict from Aus, esp ex Tasmania]
 
->  <b>TURNER</b> Partridge mentions umble can stumble as an English rhyming slang version of rumble `to understand', and some years ago a mutilation of understand, undercanstumble, was occasionally used here, ... <i>(1966,English Language in Aust. & NZ, The,119</i>)
+>  We had a different class of prisoners to deal with here than in any other gaol in the Colony - Vandemonians and Victorians, who had committed outrages in other parts of the Colony and were sent here. <i>(Aug 11, 1883,Otago Witness,18</i>)
 
+>  Charles Plant, an old Vandemonian, and the supposed murderer of Selby and Barnett, arrested. <i>(Dec 17, 1863,Otago Daily Times,6</i>)
 
+>  Each side had its barrackers and you would hear all around case hardened old Vandemonians and grog-blossomed topers quoting Daniel and the Revelations over their long beers and nobblers of brandy, until the bars and hotels seemed a sort of trans-styxian Spurgeon's College. <i>(Aug 27, 1892,Ohinemuri Gazette,2</i>)
 
-## undercard
- 
- <i>n.</i> supporting programme
-
->  The welter-weight national title fight is on the undercard of the Lords and Ladies of the Ring boxing tournament at Wellington Town Hall. <i>(Aug 8, 2002,Dominion Post,1</i>)
-
-
-
-## undercoat
- 
- <i>n.</i> fillet steak [freezing works]
-
->  Undercut: Another name for fillet steaks from the psoas muscle - very tender meat. <i>(1982,MAF Agricultural Glossary,35</i>)
-
-
-
-## undercook
- 
- <i>v.</i> (See [overcook](../O#overcook))
-
-
-
-## undercutting
- 
- <i>n.</i> (Rural) underscrubbing of bush. (See [bush drive; Taranaki drive](../B#bush-drive;-taranaki-drive))
-
->  <b>WASWO</b> This work of felling and undercutting was done in the winter months, and then the whole mass of scrub, fern toppings and trees was left to dry out. <i>(1996,Farming Progress in NZ 1814-1995,8</i>)
-
-
-
-## underdaks
- 
- <i>n.</i> underpants
-
->  On the other hand, all that sniffing around Tuku's underdaks has simnply confirmed long-held suspicions among politicians that the media are irresponsible stirrers. <i>(May 31, 1997,Listener (New Zealand Listener),34</i>)
-
-
-
-## underdone
- 
-<b>1</b> <i>adj.</i> (Rural) [of farm stock] poorly treated or maintained.
-
->  Mulvaney believes 'ram power'.. is a very important factor for succesful mating performance, but says rams are often the most underdone animals on the farm. <i>(2002,Wool Grower,Autumn 24</i>)
-
-
-
-## underdungas
- 
- <i>n.</i> (See [underdungers](../U#underdungers))
-
-
-
-## underdungers
- 
- <i>n.</i> underwear
-
->  Mabel Howard.. Flung women's bloomers about Parliament, true, but not for erotic effect - and the sight of her in her own underdungers wouldn't have lit the gas pilot of passion. <i>(Dec 9, 1999,Dominion,8</i>)
-
->  So is the Minister telling the House that I could buy 45 pairs of Fijian-made Y-fronts for a single pair of Tuku Morgan's under-dungers? <i>(Feb 22, 1997,Listener (New Zealand Listener),17</i>)
-
->  <b>JOHNSTON</b> `I hope he hasn't changed, but I suppose he could have. ...' `Yeah. Under-dungers once a week and socks every fortnight,' Jamie retorted. <i>(1981,Fish Factory,88</i>)
-
->  <b>JOHNSTON</b> `I hope he hasn't changed, but I suppose he could have. ...' `Yeah. Under-dungers once a week and socks every fortnight,' Jamie retorted. <i>(1981,Fish Factory,88</i>)
-
->  <b>McGILL</b> underdungas underpants, possibly from dungas as short for dungarees. Mostly NZA. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
-## underground mutton
- 
- <i>n.</i> rabbit
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) rabbit
-
->  The area covered in this organised attack on the 'underground mutton' was 16,000 acres and it was looked on as a sure and certain method of clearing land of the past. <i>(Sep 15, 1949,NZ Farmer,23</i>)
-
->  Reader has a taste for underground mutton .. Would it not be a good idea to stock them [Chatham Islands] up with rabbits and deer .. Who knows but that it might be possible, under proper control, to once again enjoy the taste of 'underground mutton' on New Zealand tables. <i>(Mar 24, 1969,Weekly News,45</i>)
-
->  <b>MCGILL</b> underground mutton: rabbit. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
->  <b>SCRYMGEOUR</b> This product was appreciated first in the industrial areas .. then on the table of the conservative suburbanite, who previously looked askance at both frozen rabbit (often referred to as 'UndergroundMutton') and the labelled and frozen lamb. <i>(1960,Memories of Maoriland,152</i>)
-
->  Rabbit-traps appear to have led the footsteps of Jessie Sibella Wright, a Glenomaru farmer's daughter, upon the rosy path of romance as she went about the work of trapping underground mutton in the vicinity of the boundary between her people's farm and a neighbor's place on which Harry Matthews was employed as a laborer. <i>(Dec 11, 1930,NZ Truth,2</i>)
-
->  Rabbit-traps appear to have led the footsteps of Jessie Sibella Wright, a Glenomaru farmer's daughter, upon the rosy path of romance as she went about the work of trapping underground mutton in the vicinity of the boundary between her people's farm and a neighbor's place on which Harry Matthews was employed as a laborer. <i>(Dec 11, 1930,NZ Truth,2</i>)
-
->  <b>SCRYMGEOUR</b> .. the trappers brought [for collection for freezing] on pack-horse their `catch' [of rabbits] of the previous night, slit down the belly line, freed of inside then legged to hamstring and hock, linked in pairs hung on a roughly improvised trestle, over which hessian kept the rays of the sun fromcontamination. This `underground mutton' was taken to a depot, frozen, then carted to railhead, then to the wharves, and exported to Britain, where .. a ready market was always assured for New Zealand rabbit. <i>Ibid.</i> 152 This product [frozen mutton] was appreciated first in theindustrial areas .. who had previously looked askance at both frozen rabbit (often referred to as`Underground Mutton') and the labelled and frozen lamb. <i>(1960,Memories of Maoriland,39</i>)
-
->  <b>McGILL</b> `I miss that underground mutton.' `Eh?' `Rabbit. You are back in 10 minutes with your supper.' .. We need an Eric Partridge to record these Kiwi colloquialisms like underground mutton, Rangitoto Yankees, leather ladies (possums hit by trains in tunnels, where the flies don't get to them and they petrify) and the Waiouru blondes (sheep). <i>(1985,G'day Country,171</i>)
-
->  <b>ANDERSON</b> Depression days they were, but with the millions of rabbits running round Southland there was no shortage of meat as long as you liked `underground mutton'. <i>(1975,Milford Road,33</i>)
-
->  <b>McGILL</b> underground mutton rabbit. NZA. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
->  <b>OWEN & PERKINS</b> The old rabbit, well, he was mighty important part of the economy at the time, what was known as 'underground mutton', that was the average struggler's meat, and the average family depended on it. <i>(1976,Speaking for Ourselves,76</i>)
-
-
-
-## undergrowth
- 
- <i>n.</i>
-
->  <b>TURNER</b> Underwood is not now current, undergrowth being a more likely term. <i>(1966,English Language in Aust. & NZ, The,55</i>)
-
-
-
-## underhand chop
- 
- <i>n.</i> [(axemen's) contrast STANDING (?UPRIGHT) CHOP]
-
->  Sapper T. Jackson, West Coast, was second in the 14-inch underhand chop. <i>(Oct 5, 1942,NZEF Times,II/67 : 4</i>)
-
-
-
-## underlayer
- 
-<b>1</b> <i>n.</i> (Rural) a frozen layer beneath a fresh fall of snow that can cause a high country avalanche.
-
->  <b>PORTER</b> .. must have been fresh stuff off a frozen underlayer. <i>(1970,Under the Nor'West Arch,51</i>)
-
-
-
-## underlie
- 
- <i>n.</i>
-
->  UNDERLIE.- The inclination or dip of a vein or fault. <i>(1868,Thames Miner's Guide, The,56</i>)
-
-
 
-## undernoised
- 
-<b>1</b> <i>adj.</i> (Rural) [of huntaway sheepdogs] without an effective bark.
-
->  'Undernoised' dogs have a bad fault of 'travelling' without barking. A dog you have to wring every single bark out of, with separate commands, isn't a huntaway. <i>(Nov 15, 1983,NZ Journal of Agriculture,20</i>)
-
-
-
-## Underpanter
- 
- <i>n.</i> participant in the Undie 500 (See [Undie Five-Hundy](../U#undie-five-hundy),[Undie 500](../U#undie-500))
-
->  [heading] <b>Underpanters brave the cold</b> <i>(Jul 8, 2005,Dominion Post,A2</i>)
-
-
-
-## underscrub
- 
- <i>v.</i> (Rural) to clear undergrowth from beneath taller trees.
-
->  The time for underscrubbing bush to be felled is June, July and August. If a clearing is fenced, it is a good idea to let cattle run in the bush whilst it is being underscrubbed. <i>(Jul 1887,NZ Farmer,196</i>)
-
->  I would give him one week to underscrub one acre of my bush. <i>(Oct 13, 1888,Egmont Star,11</i>)
-
->  <b>DONEY</b> .. unless it is first well underscrubbed and then well felled, the chances of a good burn are not very good. <i>(1891,Essays on Bush-Farming,41</i>)
-
->  The bush was first underscrubbed and then all timber under 3 ft. in diameter was felled. <i>(Jul 16, 1945,NZ Journal of Agriculture,13</i>)
-
->  <b>BATES</b> We had underscrubbed it well and it paid good dividends. <i>(1982,Bridge to Nowhere, The,61</i>)
-
->  Where bush prevails in land used as paddocks, such land is generally underscrubbed, that is, the smaller and lighter timber is cut down, and the heavier trees left standing for future use as fencing, building purposes, or firewood. <i>(Sep 3, 1874,Wanganui Chronicle,2</i>)
-
-
-
- 
- <i>n.</i>
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) a shrubby growth beneath the upper canopy of trees in NZ bush that may quickly self-seed as secondary growth. [often used for cattle feed.] [aka under-scrub]
-
->  <b>KELLY</b> The underscrub was not so dense, but the cattle feed still existed. <i>(1892,Narrative of Journey Through Upper Waitara Valley,5</i>)
-
->  Pastures were slowly established by felling the bush in winter and spring, burning the fallen timber and underscrub in the summer, and surface sowing English grasses and clovers on the ash of the burns. <i>(Apr 16, 1945,NZ Journal of Agriculture,346</i>)
-
->  <b>HENDERSON</b> But during the winter they [cows] did all right because we were cutting bush for the second burn and they ate all the underscrub. <i>(1984,Tales of the Coast,125</i>)
-
->  <b>WARR</b> Work began by cutting down the underscrub. <i>(1988,From Bush-Burn to Butter,42</i>)
-
->  <b>WASWO</b> In summer the tangled mass was set alight and the underscrub, leaves and branches were soon burnt, leaving only charred black tree-trunks and logs strewn beneath the partially burnt stumps. <i>(1996,Farming Progress in NZ 1814-1995,11</i>)
 
->  Its many fertile plains and valleys would rapidly be divested of their unkempt underscrub - meadows would bloom where the bracken now luxuriates - a flourishing town, a prosperous port of entry would spring up, and the whole face of the country become social and civilised. <i>(Apr 15, 1862,Hawke's Bay Herald,3</i>)
-
->  In the Northern Island land must be cleared of fern, tea-tree, and other under-scrub, ere it can be converted to pastoral purposes. <i>(Apr 12, 1851,Nelson Examiner and New Zealand Chronicle,31</i>)
-
->  Went up the river about three and a half miles.. underscrub light, timber not heavy. <i>(Jan 15, 1885,Wairarapa Daily,2</i>)
-
->  At 3,000ft. ... the forest is gnarled Fagus ... with an underscrub of Coprosma foetidissima ... <i>(1910,TrNZI,42/18</i>)
-
->  <b>WARR</b> Work [clearing] began by cutting down the underscrub. <i>(1988,From Bush-Burn to Butter,42</i>)
-
-
-
-## underscrubber
+## Vandemonish
  
- <i>n.</i> one who clears underscrub
-
->  WANTED - Five AXEMEN and Three UNDERSCRUBBERS at once. <i>(Jul 10, 1891,Poverty Bay Herald,3</i>)
-
->  WANTED, good Axemen, 30/ and found; Underscrubber, 15/, Farm Labourers and Milkers, 15/ to 20/. <i>(Oct 31, 1901,Auckland  Star,5</i>)
-
->  The animal was very persistent in his attentions, but luckily some long supple jacks which had been cut at the bottom of the tree by underscrubbers were hanging from the tree. <i>(Jan 4, 1921,Otautau Standard & Wallace County Chronicle,2</i>)
+ <i>adj.</i> = Vandemonian
 
->  <b>HENDERSON</b> Underscrubbers vary from 30s a week ... Grass seeders 1s to 1s 6d an hour and tucker themselves. <i>(1913,Country Work,31</i>)
+>  <b>PYKE</b> He `spotted' his man ... and with him two others, not quite as greasy, but fully as Vandemonish in appearance. <i>(1873,Wild Will Enderby,1/xi/40,1889,1974 ed.</i>)
 
 
 
-## underscrubbing
+## vanelloe
  
- <i>n.</i>
+ <i>n.</i> [also below vanilloe]
 
+>  (Queen Charlotte Sound) Amongst the known kinds of plants are common and rough Bindweed, Nightshade and Nettles, [fne Urtica [ed. [Urtica ferox]]] both which grow to the size of small trees; a shruby [sic] Speedwell [fnf Veronica. [ed. [Hebe sp.]]] found near all the Beeches, Sow thistles, Virgins Bower, Vanelloe, [fnb Epidendrum. [ed. [Dendrobium sp.?]]] French willow, ... <i>(Feb 1777,Cook's Journals,3/804,1967 ed.</i>) [NOTES: Anderson's Journal in Cook Journals]
 
+>  <b>POLACK</b> Speedwell, sow, and melon thistles (coetus), virgin's bower, vanilloe, or willow, euphorbia, cudweed, crane's-bill, junchous rushes in all the swamps ... <i>(1838,New Zealand  (Polack),1/295</i>)
 
- 
- <i>n.</i> (Rural) the removing of scrub undergrowth, usually before but occ. after large tree canopy has been logged from bushlands.
-
->  The time for underscrubbing bush to be felled is June, July and August. <i>(Jul 1887,NZ Farmer,196</i>)
-
->  <b>DONEY</b> The underscrubbing he would no doubt be able to manage himself. <i>(1891,Essays on Bush-Farming,37</i>)
-
->  <b>WILSON</b> It seemed to matter little to the success of the burn whether or not trees were left standing: what did matter was the 'underscrubbing' - the cutting of vines, supplejacks and undergrowth. This was a cause of friction, for the boss had to 'pass the underscrubbing' that is, see that all undergrowth was cut, before the men could continue the felling. <i>(1955,Land of My Children,4</i>)
-
->  <b>TAIT</b> By underscrubbing, burning off and surface sowing of seed, a beginning was made in the grim struggle of developing the land into a farm. <i>(1958,Farms & Stations of NZ Vol II,123</i>)
-
->  <b>ANNABEL</b> On the upper slopes of the hills almost everwhere there was a heavy growth of water fern and small scrub, all of which had to be cut with a slasher and which made underscrubbing very much slower than it would be today. <i>(1984,Ngamatapouri,50</i>)
-
->  TENDERS ARE INVITED for UNDERSCRUBBING about 13 Miles of Race. <i>(Dec 1895,West Coast Times,2</i>)
-
->  Plaintiff, in pursuance of his version of the agreement, claimed half the contract price for felling the twenty acres, deducting cost of living, although he had only assisted in felling two acres, and in the underscrubbing. <i>(Nov 25, 1876,Taranaki Herald,3</i>)
-
->  The following tenders were received for bush felling and underscrubbing on Katena road ... <i>(Oct 20, 1880,Hawera & Normanby Star,3</i>)
-
->  The underscrubbing would be worth about 1s a chain. <i>(May 28, 1903,Poverty Bay Herald,2</i>)
 
->  The party commenced the contract in March, and had done seventy odd acres of underscrubbing. <i>(Jul 9, 1920,Poverty Bay Herald,5</i>)
 
->  <b>CARR</b> The work of clearing [lawyer] ready for the axemen is called underscrubbing ...The work is done with a long-handled tool called a slasher. <i>(1913,Country Work,31</i>)
-
->  <b>HENDERSON</b> We've had the slashers going day after day, underscrubbing: that monotonous snick, snick, snick at supplejack, vines and saplings. <i>(1967,Return to Open Country,71</i>)
-
-
-
-## underskilling
+## vanes
  
- <i>n.</i>
+ <i>exclam.</i> [marbles]
 
->  For Chambers of Commerce in places like Taranaki and Hawke's Bay, the issue for business was not unemployment but "underskilling". <i>(Apr 29, 2003,Dominion Post,C2</i>)
+>  <b>SUTTON-SMITH</b> Thus by crying out Nuts (Caversham, Nth. East valley), or vanes (Hampden), or Nothings (Taranaki ([18]90) he can cancel out any action terms his opponent [at marbles] is about to use. <i>(1953,Unorganized Games,2/770</i>)
 
 
 
-## understorey
+## vanner
  
- <i>n.</i> undergrowth
-
->  An unusual feature of the Snares forest is the lack of an understorey. <i>(Mar 2003,NZ Geographic,65</i>)
+ <i>n.</i> [(quartzminers')]
 
->  The forest is now a mixture of beech and rimu trees with a jungle-like understorey of ferns and vines, and those light orange trees without leaves are a giant fuchsia - glad they're not one of my pot plants. <i>(Jan 2002,NZ Geographic,No. 55/105</i>)
+>  <b>McARA</b> Vanners: Concentrating machines used at Waikino before the introduction of Wilfley tables. At one stage there were twenty-eight vanners and one Wilfley table in use. Although all the vanners were done away with, the large building which later housed twenty-nine Wilfley tables continued to be known as the vanner shed. <i>(1978,Gold Mining at Waihi (Glossary),336</i>)
 
 
 
-## understrapper
+## variable order sharemilker
  
- <i>n.</i>
+<b>1</b> <i>n.</i> a sharemilker who shares profits but does not always own cows, machinery or property.
 
->  Now that Dowie has one leg in the grave, his erstwhile understrappers are clamouring like vultures for the spoils, yet they pose as Heaven-sent leaders of the people. <i>(Jul 21, 1906,NZ Truth,56/1/6</i>)
+>  Daily News Dec 9. 27 Variable Order Sharemilker - a variable order sharemilker is required for a 500 cow Jersey Jersey X herd on 150 effective hectares. <i>(2000</i>)
 
+>  NZ Herald Feb 3 D 12 Variable order sharemilker required for 2001-2002 season 210-220 cows.. <i>(2001</i>)
 
+>  Daily News March 15. 17 Winners of the variable order section of last year's Taranaki Sharemilker of the Year competition, Stu and Debbie Bland, packed up their household, two kids, four cats and Ralf the dog, threw in the chookhouse and the farm machinery and moved to Otago for the 2000/01 season. <i>(2001</i>)
 
-## underviewer
- 
- <i>n.</i> [coalminers']
-
->  <b>PEARSON</b> `He was a proper slave-driver. I hope you're never underviewer over me'. `I'll never be an underviewer', Jock said. `I'll always stay on the same level as the lads.' The underviewer came; he must have been satisfied with the trucker's pace because he had no comments. <i>(1963,Coal Flat,207</i>)
+>  Waikato Times March 27. 13 For the second year running Chris and Angelene Mason are the only variable order sharemilkers to reach the Waikato Sharemilker of the Year awards. Variable order sharemilkers milk cows on someone else's property but do not own the cows or machinery. <i>(2001</i>)
 
 
 
-## underwood
+## variable oystercatcher
  
- <i>n.</i> [cf brush, scrub etc.]
-
->  <b>BELL</b> This, - with the underwood which grows amazingly thick and compos'd chiefly of the Supple Jack - prevents any pleasure you might propose in walking on shore. <i>(Nov 1791,Journal of Voyage in HMS 'Chatham',49</i>)
-
->  <b>YATE</b> [Totara roots] are detrimental to the growth of the underwood, with which most of the forests in New Zealand abound. <i>(1835,New Zealand (various authors/titles),39</i>)
-
->  Impediments of underwood <i>(1840,NZ Journal,1/4/40</i>)
+ <i>n.</i> (Environment) (See [oystercatcher](../O#oystercatcher))
 
->  <b>FITTON</b> A dairy is ... a more interesting, and, generally, a more prettily situated homestead than a sheep station, which ought not to be placed ... where there is low underwood to catch the fleeces of the sheep ... <i>(1856,New Zealand (various authors/titles),237</i>)
+>  ... the shrill call of variable oyster-catcher flying across this little ishtmus at midnight. <i>(May 2002,Forest & Bird,26</i>)
 
->  The underwood is composed of numerous shrubs, ... <i>(1902,Settler's Handbook of NZ, The,116</i>)
+>  143. <i>Haematopus unicolor<i> Forster, 1844 <i>Variable Oystercatcher </i> <i>(1970,Annotated Checklist of Birds of NZ,44,1980 ed.</i>)
 
->  <b>TURNER</b> Underwood is not now current, undergrowth being a more likely term. <i>(1966,English Language in Aust. & NZ, The,55</i>)
+>  <b>LOCKLEY</b> There is also the plain, all-black torea (known as the `variable oystercatcher') locally [Hauraki Gulf] called `mussel-picker,' a solitary bird which haunts the rocky shore where mussels grow. <i>(1980,House Above the Sea,180</i>)
 
->  <b>TURNER</b> Underwood is not now current, undergrowth being a more likely term. <i>(1966,English Language in Aust. & NZ, The,55</i>)
+>  <i>Variable Oystercatcher Haematopus unicolor</i> FORSTER, 1844 ... OTHER NAMES: <i>Torea-pango, redbill. </i> <i>(1985,Reader's Digest Book of NZ Birds,175</i>)
 
 
 
-## Undie 500
+## Variation 17
  
- <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See [Undie Five-Hundy](../U#undie-five-hundy))
+ <i>n.</i> Wellington waterfront proposal
 
->  [heading] Goosepimples running amok, Undie 500 contestants get off to flying start <i>(Jul 8, 2005,Dominion Post,A2</i>)
+>  Another group of Wellingtonians has plunged into the Variation 17 debate. <i>(Feb 2, 2000,Capital Times,3</i>)
 
+>  [Hdg] Sombre council pulls Variation 17 plug... After all the heat and passion, the uproar, the protests, the vitriol and vehemence, Variation 17 was laid to rest yesterday in a mood reminiscent of a wake. <i>(Apr 14, 2000,Evening Post,3</i>)
 
+>  Variation 17 should be killed because it is a bad compromise of everyone's good intentions, not because it shows new buildings on the harbour. <i>(Apr 17, 2000,Evening Post,4</i>)
 
-## Undie Five-Hundy
- 
- <i>n.</i> (See [Undie 500](../U#undie-500))
-
->  The inaugural Undie Five-Hundy race at the Auckland Domain probably sounded like a simple idea when first proposed by the Newmarket Business Association. <i>(Jul 8, 2005,Dominion Post,A2</i>)
-
-
-
-## undipped
- 
-<b>1</b> <i>adj.</i> (Rural) [of sheep] untreated for lice, scab etc.
-
->  <b>MEREDITH</b> If a single infected sheep is left undipped on the run, it will infect all others, in which case all the trouble and cost of dipping is wasted. <i>(1875,Adventuring in Maoriland in the Seventies,87</i>) [NOTES: Adventuring in Maoriland (1935)]
+>  It is continuing with Variation 17, which is said to be of doubtful legality, giving undue powers to the council. They may "soften" variation 17, but will it still give that undue power to the council administration. <i>(Feb 11, 2000,Evening Post,4</i>)
 
+>  Critics of Variation 17, however, believe Athfield's six weeks of work were merely a concept open to challenge and were too easily accepted by the council, which also swallowed the $42m for developing public spaces. <i>(Feb 6, 2000,Sunday Star Times,C5</i>)
 
+>  Variation 17, the 17th variation to the city's proposed district plan which proposed commercial development on the waterfront, was dropped last April after widespread public pressure. <i>(Apr 4, 2001,Dominion,3</i>)
 
-## undone
- 
- <i>n.</i> to get arrested; caught committing a crime [criminal slang] (See [UNSTUCK](../U#unstuck),[COME](../C#come))
+>  Mr Variation 17, one Mayor Blumsky, must lose at the next election so that those with vested interests won't have a talking head to cheer them on. <i>(Apr 6, 2001,Evening Post,4</i>)
 
->  UNDONE, UNSTUCK (v) e.g., Come -. Get arrested or caught committing a crime. <i>(1982,Big Huey, The,255</i>) [NOTES: glossary]
 
 
-
-## undress
+## variegated flax
  
-<b>1</b> <i>v.</i> (Rural) to shear a sheep.
-
->  <b>MEEK</b> His third went through the port-hole as Joe undressed number one ... <i>(1952,Station Days in Maoriland,23</i>)
+ <i>n.</i> (Environment) <i>Phormium Colensoii variegata</i>
 
->  <b>MEEK</b> And never, he vowed, with oaths blood-red, as the cobbler he undressed. <i>(1952,Station Days in Maoriland,74</i>)
+>  <b>TINNE</b> I tried very hard to send home ... some plants of variegated flax (Phormium Colensoii variegata) ... <i>(1873,Wonderland of the Antipodes,36</i>)
 
 
 
-## Undy 500
+## varsity
  
- <i>n.</i> an annual race event featuring runners in their underwear
+ <i>adj.</i> university [also Varsity]
 
->  [Hdg] Undy 500 mania hits Willis Street. The annual Undy 500 races took over Willis Street last week attracting a crowd of about 1500 people to see the scantily clad runners. <i>(Apr 8, 2004,Wellington Contact,2</i>)
+>  [Caption] What can be done to stimulate the public interest in politics? The Hon. W. Downie Stewart suggests that politicians should be caught young. How about introducing the Capping Day spirit and a few Varsity students? <i>(May 2, 1928,NZ Free Lance,5</i>)
 
+>  <b>BARR</b> ... before taking up classes [at Otago University] he delivers a lecture on the previous Saturday's play of the 'Varsity team. <i>(1908,British Rugby Team in Maoriland,39</i>)
 
+>  ... this fine ground [of Government House] would become the possession of an exclusive varsity club. <i>(1980,Fowlds Papers, The</i>) [NOTES: 1909 Wilson, editor of Auckland Star to George Fowlds, Minister of Education in 1980 The Fowlds Papers (ed Rogers)]
 
-## Unemployment Board
- 
- <i>n.</i> (historical)
-
->  At one point, however, Robert went on the '4A Scheme', a relief measure set up by the Unemployment Board in 1930. <i>(1997,John Banks : A Biography,12</i>)
+>  <b>PILLING</b> We `'Varsity Blokes' collected ... <i>(Feb 21, 1915,Anzac Memory,12,1933 ed.</i>)
 
+>  <b>A.R.D. Fairburn</b> R.A.K. and I are going to try to write the next Varsity play. <i>(May 5, 1927,Letters,20,1981 ed.</i>)
 
+>  <b>MULGAN</b> Free from Saturday afternoon work ...he had long been one of the mainstays of the 'Varsity first fifteen. <i>(1934,Spur of Morning,75</i>)
 
-## Unemployment Fund
- 
- <i>n.</i> (historical)
+>  <b>BEATTIE</b> Bill Haberfield, a varsity man, and an early whaler, published a good account of the thirties ... <i>(1939,First White Boy Born in Otago,28</i>)
 
->  <b>SUTCH</b> Provision was made for a 50 per cent subsidy from general revenue on all expenditure from the Unemployment Fund which was to be administered by a Board of eight members, including two from the workers. <i>(1966,Quest for Security,128</i>)
+>  <b>HISLOP</b> A 'Varsity student, who is now a doctor in the North Island, was supposed to have occupied that back seat but ... she missed ... serious injury. <i>(1943,Pure Gold,54</i>)
 
+>  Somewhere along the way we spied the Wellington 'varsity party making some progress up-river on the other bank. <i>(Sep 1958,Tararua,44</i>)
 
-
-## unfavourable country
- 
- <i>n.</i> [miners'] (See [cf favourable country](../C#cf-favourable-country))
+>  <b>BAXTER</b> I came to Training College...It was possible at that time to take two Varsity subjects a year. <i>Ibid.</i> 256 The railway clock, the Town Hall clock,/ And the Varsity clock, genteel, exact, <i>(1979,Collected Poems,xxiii</i>) [NOTES: (1961 The Spike 61-64) in 1979 Baxter]
 
->  This , from its appearance, and from the fact that the Martha and Edward lodes become poor where, in the deeper levels, it impinges on them, has been regarded as `unfavourable' country. <i>(1922,NZ Journal of Science & Technology,5/119</i>) [NOTES: Morgan]
+>  <b>JOSEPH</b> `Listen, son, ... you know I don't set too much store by this varsity business.' <i>(1962,Pound of Saffron, A,33</i>)
 
+>  <b>HILLIARD</b> The barman slapped a fellow on the shoulder. `When are you going to give that suit back to the Varsity Extravaganza? ...' <i>(1965,Power of Joy,295</i>)
 
+>  <b>STEWART</b> And they're just a bunch of pen-pushing clerks and Varsity students. <i>(1985,Gumboots and Goalposts,14</i>)
 
-## unfinancial
- 
- <i>adj.</i> insolvent (See [financial](../F#financial))
+>  Professor Fidget, an attempt to portray an Oxford Don, a character not well acquainted with Wanganui, nor familiar thereto; with but two or three exceptions, there are no varsity men here, Mr Cotterrell could chalk and q.e.d. his simple equations, (very simple) with great eclat. <i>(Sep 25, 1873,Wanganui Herald,2</i>)
 
+>  [Why has not Mr. Surtees, of Katikati, who was in the 'Varsity Eleven, when at Oxford, been asked to play in this match? - ED. OBS.] <i>(Feb 12, 1881,Observer (Auckland),219</i>)
 
+>  Boys' Navy Blue Varsity Cap, 1s. <i>(Jun 7, 1890,Colonist (Nelson),3</i>)
 
-## unfinished
- 
-<b>1</b> <i>adj.</i> (Rural) [of stock] not primed or ready for slaughter or sale.
+>  VARSITY TRAINING .. Efforts of the New Zealand University to assist the rapid and effective rehabilitation of servicemen and servicewomen are outlined in a statement issued by the full committee of the University Senate. <i>(Nov 30, 1945,Evening Post,5</i>)
 
->  <b>STEVENS</b> Rape is essentially a lamb-fattening crop suitable for areas with a light summer rainfall where pastures fail at a time when unfinished lambs are still on hand. <i>(1958,Sheep.  Part 1, Sheep husbandry,19</i>)
+>  The Kaikorai forwards rushed the ball to the 'Varsity quarters. <i>(Jun 26, 1890,Otago Witness,28</i>)
 
 
 
-## unfortunate experiment, the
  
- <i>phr.</i> see cits
-
->  Her doctor.. had led an Auckland University-National Women's Hospital carcinoma in situ research programme on women patients without their knowledge or consent. It became known as The Unfortunate Experiment and in the late 1980s resulted in a year-long inquiry headed by Judge Sylvia Cartwright. <i>(Jan 25, 1998,Sunday Star Times,Focus 3</i>)
+ <i>n.</i> university [ORIGIN: abbreviation, varsity in common general use in NZ until recently replaced by uni]
 
->  Bouquets of barbed wire to:... Metro: for stabbing itself in the spleen by alleging huge faults in the "Unfortunate Experiment" article that made it famous... <i>(Jan 7, 1991,Listener (New Zealand Listener)</i>)
+>  Maori language hadn't been taught at varsity before -- and the professors in English, French, Latin and Greek were keen to keep it that way. <i>(Dec 2000,Mana,8</i>)
 
->  Dave Gibson's screenplay deftly negotiated a path through the thorny issues surrounding the infamous Unfortunate Experiment, mostly without patronising viewers. <i>(Apr 7, 2001,Listener (New Zealand Listener),77</i>)
+>  <b>BEAN</b> He and I had been friends at the same New Zealand 'varsity,... <i>(1916,Anzac Book, The,130</i>) [NOTES: L.J.Ivory in Bean (ed) The Anzac Book]
 
->  These days, the depleted health system breeds a negligence of is own, but the Unfortunate Experiment really was just that - an act of deliberate, if unintended, malpractice. <i>(May 19, 2001,Listener (New Zealand Listener),13</i>) [NOTES: Originally Listener 24/3/01]
+>  SENIOR A/ 'VARSITY A BEATS WESLEY [headline] <i>(Sep 2, 1929,Evening Post,6</i>)
 
->  Nevertheless, the great majority of deaths in untreated women could be attributed to "the unfortunate experiment"... <i>Ibid.</i> 24 What of the autocratic Herbert Green, whose unchecked practices led to the "unfortunate experiment"? <i>(May 26, 2001,Listener (New Zealand Listener),9</i>)
+>  `Keep on as you're going and we'll soon have you back at the 'varsity.' <i>(1944,NZ New Writing,3/5</i>) [NOTES: Gaitland]
 
-
-
-## uni
- 
- <i>n.</i> university [An Australian (?)term which has replaced "Varsity", at least in Wellington, since the 1950s]
+>  Defensive sneers met him after that, whenever he disagreed on anything: `Don't think that just because you've been to 'varsity. . . .' <i>(Sep 1952,Landfall,206</i>) [NOTES: Pearson]
 
->  But when I was at uni, I went back to our hospital in Patea and I worked as what was then called a nurse aide. <i>(Dec 13, 1999,Evening Post,5</i>)
+>  <b>SLATTER</b> Roger in his cricket whites and maroon blazer carrying his own bat on the way to play for varsity. <i>(1959,Gun in My Hand, A,26</i>)
 
->  I'd like to meet someone who knows what they're doing at uni, where they think it's taking them. <i>(Mar 31, 2003,Salient,No. 5/54</i>)
+>  <b>BAXTER</b> Mother, I've decided not to go back to Varsity next year. <i>(1962,Horse,8,1985 ed.</i>) [NOTES: Ghost in Trousers]
 
->  I've been to uni and held down a day job but this is so much more enjoyable. <i>(Oct 30, 2005,Sunday  Star Times: Escape,5</i>)
+>  They send us to 'Varsity to tone our spirits down, / <i>(1964,Book of New Zealand, A (J.C. Reid),288</i>) [NOTES: `University Students' Drinking Song']
 
->  "I would love to practice more, but uni's pretty full on at the moment." <i>(May 14, 2002,Independent Herald (Wellington),9</i>)
+>  <b>DUCKWORTH</b> ... I wanted to pass my two subjects at 'varsity. <i>(1963,Barbarous Tongue, A,22</i>)
 
->  Uni n. shortened form ofUniversity. <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),627</i>)
+>  <b>TAYLOR</b> Another year at Varsity, I hoped, a couple more attached to some hospital. <i>(1971,Plekhov Place, The,10</i>)
 
->  Uni ... n. shortened form of university. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),21</i>)
+>  <b>MITCHELL</b> varsity: University where Salad Days has been performed. Much of the language and folklore of Edwardian Oxford survives in New Zealand. <i>(1972,Half-Gallon Quarter-Acre Pavlova Paradise, The,184</i>)
 
->  <b>LELAND</b> Uni: UNIVERSITY <i>(1980,Personal Kiwi-Yankee Dictionary, A,107</i>)
+>  <b>SIMON</b> `She's fine. She's at 'Varsity this year,' he says ... <i>(1979,Harper's Mother,163</i>)
 
->  uni n. NZ & Austral. sl. university. [abbr.] <i>(1986,NZ Pocket Oxford Dictionary,843</i>) [NOTES: cf. 1982 Collins Concise Eng. Dict. 1281]]
+>  <b>LKLAND</b> varsity: This is not a letter that you earn for athletic prowess, or the team representing your school, but another name for UNIVERSITY. <i>(1989,Personal Kiwi-Yankee Dictionary, A,108</i>)
 
 >  Varsity, ... is a very common word in the mouths both of students and the public, much more so than uni, which the NZPOD implies is preferred. <i>(Apr 26, 1986,Listener (New Zealand Listener),46</i>) [NOTES: Forrest Scott]
 
->  <b>McGILL</b> uni contraction of university. Mostly NZA. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
->  Lowe tried that old interview standard on the PM - what would she be doing if it wasn't politics? "I'd probably be at uni marking essays," she replied. <i>(Feb 9, 2002,Listener (New Zealand Listener),77</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> [whalers']
-
->  <b>STUDHOLME</b> A narwhal's horn has the same twist as the mythical unicorn's and it appears that whalers and other seafaring people who frequent the Arctic waters call them `unis'. <i>(1940,Te Waimate,71</i>)
-
-
-
-## unicorn team
- 
- <i>n.</i>
-
->  <b>LOVELL-SMITH</b> Stirling's adventures [c1870s] were confined to a broken [coach-]pole, ... and another occasion when he drove on the return trip to Switzers, a unicorn team. <i>(1931,Old Coaching Days,117</i>)
-
-
-
-## unicorn-fish
- 
- <i>n.</i>
-
->  <b>PHILLIPPS</b> <i>Lophotes cepedianus </i> Giorna. UNICORN-FISH. <i>(1927,Bibliography of NZ Fishes,52,1971 ed.</i>)
-
->  <b>PAUL et al.</b> unicornfish 1067-8 UNICORNFISHES 1062-8 <i>(1987,Fishes: A Bibliography</i>)
-
-
-
-## unimproved
- 
- <i>adj.</i> [sc. land]
-
->  The former is at present apparently ready for the plough, particularly where it has been burnt; and the latter, even if left unimproved, must be valuable for pasturage. <i>(Apr 16, 1842,Nelson Examiner and New Zealand Chronicle,23</i>)
-
->  It must be borne in mind that in speaking of the average quantity of land requisite to maintain a sheep, I here merely allude to wild and unimproved pasture. <i>(Feb 14, 1852,Lyttelton Times,1</i>)
-
->  Rating on unimproved value was carried in this country by 399 to 23. <i>(Jul 9, 1901,Marlborough Express,2</i>)
-
->  A proposal to introduce in the Waitemata County rating on unimproved values instead of on capital values yesterday was defeated by 2393 votes to 1251. <i>(Mar 7, 1929,Evening Post,10</i>)
-
->  He wondered who the Minister expected to develop the unimproved country of New Zealand. <i>(Nov 28, 1945,Evening Post,9</i>)
-
->  An Estate agent came over to see the land. He valued the unimproved at [pounds]15 p.a. ... andsome sections higher. <i>(Nov 1, 1914,Chudleigh Diary,464,1950 ed.</i>)
-
->  <b>MacDONALD</b> There are good opportunities ... in buying second-class country unimproved, which may be covered with ti-tree, manuka, fern, etc. <i>(1915,NZ Sheepfarming,95</i>)
-
->  It has been indicated that, of the 43 million acres of occupied land, about 24 million acres are`unimproved,' and are under native grasses, phormium, fern, scrub and virgin bush. <i>(1936,Agricultural Organization in NZ,30</i>)
-
->  <b>TURNER</b> [The European New Zealander] still talks of unspoilt nature but in town a section without buildings is called unimproved. <i>(1966,English Language in Aust. & NZ, The,171</i>)
-
->  <b>RICHARDS</b> A large block of unimproved Maori land ... proved a stumbling block to the progress of the valley. <i>(1986,Off the Sheep's Back,100</i>)
-
-
-
-## union shed
- 
- <i>n.</i> [contrast OPEN SHED]
-
->  THE SHEARERS' UNION SHED AGREEMENT. <i>(May 10, 1894,Otago Witness,11</i>) [NOTES: Headline]
-
->  "By Jove, Bill, we have come to the right shop; this here is a union shed ..." <i>(May 28, 1891,Wanganui Chronicle,2</i>)
-
->  <b>HARPER</b> We've mustered in the Southern Alps/ And shorn in a Union shed/ <i>(1975,Eight Daughters,78</i>) [NOTES: c1920s verse in 1975 Harper Eight Daughters]
-
-
-
-## union-bashing
- 
- <i>n.</i>
-
->  <b>LACEY</b> DB are to the beer business what Rob Muldoon is to union bashin'. <i>(1976,Loosehead Len's Bumper Thump Book,32</i>)
-
-
-
-## unionise
- 
- <i>v.</i> register a civil union partnership (See [civil unionise](../C#civil-unionise),[civil-ise](../C#civil-ise))
-
->  I'm going to unionise several partnerships. <i>(Dec 10, 2004,Radio NZ / National Radio</i>) [NOTES: Jim Hopkins: Nine to Noon]
-
->  <b>Why is it important to you to unionise?</b> <i>(Apr 20, 2005,Express (Gay & Lesbian Express),11,20 Apr - 03 may 2005 ed.</i>)
-
-
-
-## UniQ
- 
- (as 'unique' or 'uni-queue'?) <i>n.</i> the Queer Students Association at New Zealand universities; the Victoria University students' gay and lesbian representative group.
-
-
-
-## unit
- 
- <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See [one man unit](../O#one-man-unit))
-
->  .. 2 dairy units estimated to carry about 53 and 55 dairy cows and replacements respectively .. and 1 fat lamb unit estimated to carry about 700-900 ewes and 50-70 cattle. <i>(Mar 24, 1953,Evening Post,4</i>)
-
->  It's a big Hawke's Bay hill country unit, but Ben Nevis Station, near Dannevirke, has shrugged off its old traditions of running sheep and cattle. <i>(Apr 1987,NZ Journal of Agriculture,6</i>)
-
->  A well-balanced unit comprising both river flats and easy terraces. A first class unit running approximately 3800 s.u. [stock units] on rolling contour. <i>(Nov 25, 2000,Press, The,64</i>)
-
->  Large intensive grazing unit requires a top self motivated stockperson who has the confidence to manage approximately 1100 dairy grazers. <i>(Mar 17, 2001,Dominion,65</i>)
-
->  Even uneconomic dairy units have increased from $424,133 last year to $526,147. <i>(Oct 21, 2001,Sunday Star Times,E5</i>)
-
-
-
- 
- <i>n.</i> (Rural) an electric fence system. (See [one man unit](../O#one-man-unit))
-
->  <b>PETER</b> unit: articulated stock-truck or one with trailer. <i>(2000,Peter Glossary,7</i>)
-
->  stock transporter: unit. 3. <i>(2001,Questionnaire Respondents (DB)</i>)
-
->  Sick of that old unit not doing the job? Need to upgrade your fencing unit? [fencing unit] <i>(Apr 19, 2001,Taranaki Daily News,16</i>)
-
-
-
- 
- <i>n.</i> a semi-detached flat (or house) =?a housing unit; also used for a motel unit
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) a single farming property. (See [one man unit](../O#one-man-unit))
-
->  The twinners and two-tooths are vaccinated and drenched pre-lambing and given feed priority ... <i>(Oct 1, 1998,NZ Farmer,19</i>)
-
->  The associated mobs should be fed accordingly and this includes not just feeding up the twinners but also that the single bearing ewes are not overfed. <i>(Jul 6, 2001,Fencepost.com,Expert Farming</i>)
-
->  <b>LANGDALE-HUNT</b> Frederick Hunt leased three blocks of land at the back of his farm to three tenants ... None of these units was economic and the only way these tenants could exist was by taking outside work. <i>(1985,Last Entail Male,47</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> [health care]
-
->  The irony is that many places in acute units are filled by patients who are ready to be discharged, but have no accommodation to go to... In the meantime.. health funders pretend that acute units with beds for around 40-50 patients each are sufficient. The staff of the units know they are not. <i>(May 26, 2001,Listener (New Zealand Listener),6</i>)
-
-
-
- 
-<b>3</b> <i>n.</i> [housing; flat, motel, etc]
-
->  [Advt] In principal tourist area... 11 units plus two separate flats as well as owner's house. <i>(Mar 9, 1974,Dominion,27</i>)
-
->  Cabinet has approved of additional contracts for the erection under the State housing scheme of 125 single-house units, 14 two-house units, and one four-house unit. <i>(Nov 15, 1938,Evening Post,7</i>)
-
->  <b>SARGESON</b> Sunset Village is a `pensioner housing settlement' containing uniform living units into which society via local government has cornered a number of pensioners. <i>Ibid..</i> 7For although the slope of the [pensioner housing] site was toward the cold south, it was Mrs Trigger's good fortune to be highest of all ... where from her wide window she could observe every unit; or almost. <i>(1976,Sunset Village,dustcover</i>)
-
->  <b>WILLIAMS</b> In the evenings alone in her motel unit she's been racking her brains to think up ways of stepping up the business. <i>(1979,Skin Deep,71</i>)
-
->  <b>EVANS</b> `Bit of a stir tonight in my unit, end of conference party sort of thing.' `Yeah? You won't get away with that, the motel owner's a Mormon or something.' <i>(1980,Islands,29/131</i>)
-
->  unit ... 10. NZ a self-propelled railcar. 11. Austral. & N.Z. a small self-contained dwelling, such as a flat, in a complex of such dwellings. <i>(1982,Collins Concise English Dictionary,1282</i>) [NOTES: 1986 NZPOD 844; 1985 Collins NZ Compact Dict. 524]
-
->  Mrs Smart's bedroom in the top storey of the Coates Street unit was gutted, and her children's rooms were burned and badly smoke-damaged. The Housing Corporation has arranged for her to move into a nearby corporation house. <i>(Jun 7, 1985,Evening Post,3</i>)
-
->  Papakura office of Were Realty. 9.30 am, 4/7/86. David went in first ... I asked the man behind the counter for flats or units to rent. <i>(Jul 13, 1986,Sunday News,5</i>)
-
->  The Government is getting into the `granny flat' hiring business. ... The ... Housing Corporation will start hiring small relocatable units to elderly or disabled people wanting to live near family or close friends. <i>(Oct 9, 1986,Evening Post,32</i>)
-
->  KELBURN: OYO. $79,500 ono. Architect designed 2 dbr unit in block of 2, sep amenities, parking, unit title ... <i>(Jan 7, 1987,Evening Post,20</i>)
-
->  She [an older woman] hung on bravely through the late summer ... in her little unit in Onehunga ... <i>(May 1987,Metro,66</i>) [NOTES: Roger `Auckland Life']
-
->  <b>FRAME</b> Frank's bach had been almost surrounded by `units' built upon what was now expensive `real estate'. <i>(1985,Envoy from Mirror City,161</i>)
-
->  <b>FRAME</b> Arriving at Oamaru, I went at once to the motor camp where I had rented a unit for the night. I bought supplies from the dairy and I stared curiously at the dairy owner ... who had been named next-of-kin when my father collapsed outside the shop. ought to know the procedure by now ... <i>(1985,Envoy from Mirror City,165</i>)
-
->  <b>BUCKLEY</b> The little fencible cottages built for the men and their families were at first double units of kauri weatherboards with newspapers pasted over the inside to keep out the draughts. <i>(1983,Of Toffs and Toilers,143</i>)
-
->  Mattina walked by the RetirementVillage.. with its small brick buildingscalled units neat and square like theold-time transformers that were used tocollect and redistribute electricity. <i>(1988,Carpathians, The,113</i>)
-
-
-
- 
-<b>4</b> <i>n.</i> a special kind of electric suburban train, a rail unit
-
->  <b>IHIMAERA & LONG (ed.)</b> The units ran only occasionally during the day and sometimes you had to wait a long time for one... When the unit pulled into Wellington station, Joe had a mad rush to make it to the courts. <i>(1982,Into the World of Light,129</i>)
-
->  And Clark <i>is</i> a workaholic, keeping crazy hours, commuting ceaselessly between Wellington and Auckland, using the plane like the Johnsonville unit. <i>(Jun 11, 1990,Listener (New Zealand Listener),16</i>)
-
->  A down train towed the crippled unit back to Wellington, and normal running was resumed at 9.23 p.m. <i>(Feb 19, 1944,Evening Post,6</i>)
-
->  The full official title is Electric Multiple Unit, often shortened to Multiple Unit, or to Electric Unit (the latter also obtains in general popular usage). The `unit' is actually a motor-coach with one or two trailer-coaches attached. Depending on traffic, gradients, etc. up to three of these `units' can be put together under one driver to form, say, a nine-car train. The concept is well known in railways management and is practised overseas, both with electric and diesel units. But the word unit seems to have surfaced as the popular name only in New Zealand (cf. Londoners' use of tube), and only for electric units, not, e.g., for multiple diesel railcars, or in Christchurch, for tram-cars when they were designed to run as units. Units were introduced to the Wellington-Johnsonville line in 1938; then to the Wellington-Paekakariki line in 1946; and a few years later to the heavily-used Hutt Valley line. The word came into popular usage (e.g. `I'm off to catch the unit.') probably c1939-40. <i>(1969,Personal Communication</i>) [NOTES: E.H. Hitchcock, formerly NZ Railways electrical engineer, personal communication]
-
->  The full official title is Electric Multiple Unit, often shortened to Multiple Unit, or to Electric Unit (the latter also obtains in general popular usage). The `unit' is actually a motor-coach with one or two trailer-coaches attached. Depending on traffic, gradients, etc. up to three of these `units' can be put together under one driver to form, say, a nine-car train. The concept is well known in railways management and is practised overseas, both with electric and diesel units. But the word unit seems to have surfaced as the popular name only in New Zealand (cf. Londoners' use of tube), and only for electric units, not, e.g., for multiple diesel railcars, or in Christchurch, for tram-cars when they were designed to run as units. Units were introduced to the Wellington-Johnsonville line in 1938; then to the Wellington-Paekakariki line in 1946; and a few years later to the heavily-used Hutt Valley line. The word came into popular usage (e.g. `I'm off to catch the unit.') probably c1939-40. <i>(1969,Personal Communication</i>) [NOTES: E.H. Hitchcock, formerly NZ Railways electrical engineer, personal communication]
-
->  <b>FRY</b> Now the railway runs the cleavage below;/ I hear the Unit as it moves along the valley/ whispering electrical ... <i>(1978,Brushed Words,3</i>)
-
->  Unit: (a) (Wellington only) suburban commuter train, car,SUPERFICIAL SUBWAY. <i>(1980,Personal Kiwi-Yankee Dictionary, A,107</i>)
-
->  <b>LAY</b> ... you'd have a nice little house in Newlands, be travelling into town every day on the unit, be hiring a telly from the PSIS, ... <i>(1988,Fools on the Hill, The,218</i>)
-
->  <b>O'SULLIVAN</b> Each morning he would take the unit into town, take it back each evening at five-thirty. <i>(1976,Miracle,15</i>)
-
->  <b>OLIVER</b> piglet you'd never notice/ carrying his caseload/ to and fro on the unit/ takes owl to a house with a view/ and kanga on another/ stop to a decent suburb/ and piglet home to the prefab/ not too far from the sand hills <i>(1982,Poor Richard,21</i>)
-
-
-
- 
-<b>5</b> <i>n.</i>
-
-
-
- 
-<b>6</b> <i>n.</i> a full year's work (or credit) in a subject or course to be credited (if passed) towards a degree (replaced since the c1960s and 1970s by `paper', `credit' or occasionally `course') [?obs]
-
->  <b>LELAND</b> unit: (a) ... (b) A university course that runs all year and is equivalent in time required of from 2-4 courses at a U.S. university. Only the University of Otago retains this system in New Zealand although in 1970 every New Zealand university operated in this way. <i>(1980,Personal Kiwi-Yankee Dictionary, A,107</i>)
-
->  [He] sends in his CV for his job and his Arts units ... they were Indonesian. <i>(1987,Metro Fiction,13</i>) [NOTES: O'Sullivan Wonderland]
-
->  <b>RENNIE</b> `Top student in history, and A passes in all final year units,' Leo said. <i>(1988,Super Man,197</i>)
-
-
-
- 
-<b>7</b> <i>n.</i> [dairy farming]
-
->  unit ... NZ & Austral. set of components of a milking machine for milking one cow; NZ & Austral. = home unit (he lived in a pensioner unit); NZ suburban electric train; <i>(1986,NZ Pocket Oxford Dictionary,844</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.]
-
-
-
-## unit manager
- 
-<b>1</b> <i>n.</i> (Rural) a person responsible for managing a self-contained farm property.
-
->  Unit manager: Sisam and Sons property, producing in the top 10% of sheep and beef farms, offers an opportunity for the development of a unit manager's position on their 1500 ha property. <i>(Jun 22, 2002,Dominion,50</i>)
-
-
-
-## unit title
- 
- <i>n.</i>
-
->  There is another pitfall for owners of unit titles... Before the act, you could build right up to a unit title boundary. <i>(Oct 2, 1993,Listener (New Zealand Listener),40</i>)
-
-
-
-## United
- 
- <i>adj.</i> [incl attr]
-
->  The organiser for the United New Zealand Political Organisation (Mr. A. E. Davy) stated to-day that Mr. W. A. Veitch, M.P., has accepted the invitation extended to him to link up with the United Party. <i>(Apr 16, 1928,Evening Post,10</i>)
-
->  From many branches of the organisation messages have been received condemning the totally unwarranted and uncalled for attacks made by Mr. Davy on the Prime Minister, and commending the executive for its action in ridding the organisation of one who was seriously jeopardizing its success and prejudicing it in the eyes of members of the United organization and the general public ... <i>(Mar 5, 1930,Evening Post,10</i>)
-
->  <b>SINCLAIR</b> Droves of them [voters], believing the newspapers' figure, returned to the Liberal (now called `United') fold, hoping nostalgically that the pastures would be as lush as when Seddon had been the shepherd. <i>(1959,History of New Zealand,246</i>)
-
-
-
-## United Federation of Labour
- 
- <i>n.</i>
-
->  <b>SINCLAIR</b> Almost every union in the country, was represented at a `Unity Conference' in 1913 when the `Red Feds' and most of the United Labour Party joined forces to form two new organizations, the United Federation of Labour and a Social Democrat Party. <i>(1959,History of New Zealand,205</i>)
-
-
-
-## United Labour Party
- 
- <i>n.</i>
-
->  <b>SINCLAIR</b> In 1904 The Trades and Labour Councils at last set up a Political Labour League which supported several candidates in the elections of 1905 and 1908; in 1910 it was succeeded by the first Labour Party which was two years later reorganized as the United Labour Party. <i>(1959,History of New Zealand,197</i>)
-
-
-
-## Unity Conference
- 
- <i>n.</i>
-
->  <b>SINCLAIR</b> Almost every union in the country, was represented at a `Unity Conference' in 1913 when the `Red Feds' and most of the United Labour Party joined forces to form two new organizations, the United Federation of Labour and a Social Democrat Party. <i>(1959,History of New Zealand,205</i>)
-
-
-
-## universal penny postage
- 
- <i>n.</i>
-
->  The institution of universal penny postage ought not to be now long delayed. <i>(Jan 16, 1904,NZ Observer,3</i>)
-
-
-
-## University College
- 
- <i>n.</i>
-
->  <b>SINCLAIR</b> New Zealand runs a university (to be precise, four university colleges and two agricultural colleges) on the cheap. [Footnote] They became full universities in 1957 <i>(1959,History of New Zealand,286</i>)
-
-
-
-## University Entrance
- 
- <i>n.</i> formerly, an award allowing entry to a university gained by public examinations or accrediting in the last years of secondary schooling. [also as UE]
-
->  The Principal of the FieldingAgricultural High School gave ventrecently to some trenchant criticism ofthe very narrow and obsolete outlook thatresults from the present confinement ofthe secondary schools courses to therigid prescription of the UniversityEntrance Examination. <i>(Nov 1, 1933,NZ Statutes,23</i>)
-
->  The University Senate at its recentmeeting approved of the proposal toinclude in the Matriculation orUniversity Entrance examination severaladditional subjects such as Economics,Type-writing, &c. <i>(Mar 3, 1933,NZ Tablet,22</i>)
-
->  In addition to this.. 26 boys passed theUniversity Entrance Examination. <i>(1945,Blue and White,11</i>)
-
->  Indoors the Scholarship candidatesworried over an Additional Maths. paperwhile the University Entrance examineeshad English. <i>(1954,Blue and White,93</i>)
-
->  The present lower-leaving certificate isgranted to a pupil who has.. in generalreached a standard of attainmentcomparable to that required in theUniversity Entrance or Class DExamination... At the present time ourleaving-certificates are too closelyassociated with the candidate's successin the University Entrance Examination. <i>(1929,AJHR,E-6/2</i>)
-
->  It is regrettable but not surprising..that so few pupils consider theacquirement of the [school] certificateworth their while unless they attemptUniversity Entrance at the same time. <i>(1940,AJHR,E-2/6</i>)
-
->  University Entrance examiners vary widelyin their comments on candidates, even inregard to spelling and writing. <i>(1953,AJHR,E2/10</i>)
-
->  <b>PARTON</b> University Entrance examiners vary widelyin their comments on candidates, even inregard to spelling and writing. <i>(1979,University of New Zealand, The,90</i>) [NOTES: From 1938 Senate Minutes]
-
->  There is hereby established a UniversityEntrance Board.. whose duty shall be toconsider the curricula and courses ofstudy at secondary schools in relation tothe educational and other requirementsfor matriculation at any constituentcollege. <i>(1926,NZ Statutes,17 Geo. V 70?742</i>)
-
->  <b>STRACHAN</b> A difficult problem has been what to dowith University Entrance candidates. <i>(1938,School Looks at Life, The,67</i>)
-
->  <b>STRACHAN</b> It is a state of affairs which mustremain so long as a University Entrancepass is accepted as evidence of a goodgeneral education, and as a condition ofemployment.<i>Ibid.</i> 88 The demand by parents for a three year University Entrance course for their children puts us in a dilemma. <i>(1938,School Looks at Life, The,74</i>)
-
->  After scraping through University Entrance bv eight marks, [she]... became a psychiatric nurse. <i>(Mar 1992,Metro,51</i>)
-
->  In the list of candidates for the New Zealand University entrance examination appears the name of A. S. Malcolm of Greymouth, as having passed the matriculation examination in science, and J. M'Kay as having passed in arts. <i>(Feb 6, 1886,Grey River Argus,4</i>)
-
->  The results of the University Entrance examinations will be available for publication early next week. <i>(Jan 19, 1943,Evening Post,4</i>)
-
->  <b>DUDER</b> Breeze through School Cert. Breezethrough University Entrance, breezethrough life. <i>(1987,Alex,55</i>)
-
->  <b>SINCLAIR</b> Consequently, the democratic demand for"matric" was pulling down the standard ofentry to the university, while.. thesecondary schools' syllabus, and indeedsecondary education, was being dominatedby the demands of preparation for theuniversity entrance examination. <i>(1983,History of the University of Auckland, A,181</i>)
-
-
-
-## unJaffa-ised
- 
- <i>adj.</i>
-
->  The one unJaffa-ised part of Auckland and they want to screw with it. <i>(Jul 18, 2005,NZ Herald,A8</i>)
-
-
-
-## unKiwi
- 
- <i>adj.</i>
-
->  But there's also something unKiwi and mean spirited about the person who declines a meal, and shuns tea or coffee. <i>(Jun 15, 2002,Listener (New Zealand Listener),32</i>)
-
->  Not giving your fellow beachcomber a decent few metres of space on the sand is unKiwi an the only response is to decamp... <i>(Aug 20, 2005,Listener (New Zealand Listener),60</i>)
-
-
-
-## Unknown Warrior
- 
- <i>n.</i> representative unidentified body of a NZ soldier [in ODE (Unknown Soldier/Warrior)]
-
->  ... He will be taken on a gun carriage through central Wellington to the National War Memorial, where he will have his final resting place; the newly built Tomb of the Unknown Warrior. <i>(Nov 13, 2004,Listener (New Zealand Listener),21</i>)
-
-
-
-## unlambed
- 
-<b>1</b> <i>adj.</i> (Rural) [of a ewe] yet to lamb.
-
->  <b>STEVENS</b> Every few days, depending on the drop of lambs and the paddocks available, the unlambed ewes are moved on. <i>(1958,Sheep.  Part 1, Sheep husbandry,49</i>)
-
->  <b>STEVENS</b> Although it lacks the advantages of shedding off the unlambed ewes ... <i>(1958,Sheep.  Part 1, Sheep husbandry,49</i>)
-
-
-
-## unloader
- 
- <i>n.</i>
-
->  Unloader: A device to cut off the load on a motor driving an air-compressor while the pressure remained above a certain level. <i>(1978,Gold Mining at Waihi (Glossary),336</i>)
-
-
-
-## unmade road
- 
- <i>n.</i> an ?unformed road
-
-
-
-## unmarked
- 
- <i>adj.</i>
-
->  <b>GRUNDY</b> The cattle are sorted out, and the bulls are marked. ... A few good specimens are sent back unmarked for breeding purposes. <i>(1968,Who'd Marry a Doctor?,66</i>)
-
-
-
-## unmustered
- 
- <i>adj.</i> [statio]
-
->  <b>BUTLER</b> One dipping would not be ruinous, but there is always a chance of some scabby sheep having been left upon the run unmustered, and the flock thus becoming infected afresh, ... <i>(Feb 10, 1860,First Year in Canterbury Settlement,iv/43,1863 ed.</i>)
-
->  ... re-infestation from `stragglers' or unmustered sheep cannot take place ... <i>(1949,NZ Journal of Science & Technology,30/292</i>)
-
-
-
-## unpack
- 
- <i>v.</i>
-
->  Here we unpacked our riding horse and replaced everything in the cart, ... <i>(Feb 1878,Grace Pioneer Missionary,290,1928 ed.</i>) [NOTES: 1878 Feb Mrs Grace Journal in Grace Pioneer Missionary (1928)]
-
-
-
-## unPakehaised
- 
- <i>adj.</i>
-
->  At Ohinemutu the natives are the cleanest most unpakeha-ised Maories I have ever seen. <i>(Sep 15, 1875,Chudleigh Diary,242,1950 ed.</i>)
-
-
-
-## unpartnered household
- 
- <i>n.</i> a household with only one parent or partner [Deputy Government Statistician, Radio NZ 10/6/2002]
-
-
-
-## unploughable country
- 
-<b>1</b> <i>n.</i> (Rural) land with a contour unsuitable for mechanical cultivation.
-
->  On unploughable country such as this, where snow grass is, or was, the dominant tussock, the introduction of some leguminous plants may be of some considerable value. It is thought that if some such plant could be introduced and maintained in some of the unploughable tussock country a very useful purpose would be served. <i>(Sep 16, 1940,NZ Journal of Agriculture,183</i>)
-
->  This trial has been designed to obtain information regarding the establishment and maintenance of useful leguminous plants on certain unploughable tussock country. <i>(Sep 16, 1940,NZ Journal of Agriculture,188</i>)
-
->  <b>CONNELL & HADFIELD</b> On ploughable country the control of bracken fern presents no problem. It is on unploughable country that the control is difficult. <i>(1961,Agriculture,490</i>)
-
-
-
-## unreal
- 
- <i>adj.</i> as an exclamation of approval or delight [1984 14 F E131 Wgton Girls C. 18 UNREAL [F14 3] -->1984 16 F E14 Pakuranga Coll. 35A UNREAL! [MF16-17 3]]
-
-
-
-## unscrubbed
- 
-<b>1</b> <i>adj.</i> (Rural) [of bush forest] with undergrowth.
-
->  Pigeons and pheasants are numerous in many parts of the bush, whilst there a few to be obtained up any of the bush roads. [Egmont] Plains "sports" don't care to wander through unscrubbed bush, and as a result go home with lighter bags than when they started. <i>(May 19, 1888,Egmont Star,15</i>)
-
-
-
-## unsealed
- 
- <i>adj.</i> [Jim Cameron writes: DNZE has entries for <i>seal</i> in relation to roads but none for <i>unsealed</i>. Although a fairly obvious antonym, it may justify specific recording.]
-
->  Today, an unsealed road is considered to be one which is made from natural materials and a metal road is made from crushed or mined material. <i>(Oct 16, 1999,Listener (New Zealand Listener),50</i>)
-
->  It is narrow, unsealed in parts.. and suffers from water run-off and poor drainage. <i>(Feb 9, 2000,Wairarapa Times-Age,1</i>)
-
->  <b>McCAULEY</b> The road runs inland again. A bridge across a marshy estuary thick with mangroves then usealed roadway winding through the bush. <i>(1986,Then Again,33</i>)
-
->  We went camping for our holidays and, once out of Taranaki, we had to drive over narrow, winding, unsealed roads. <i>(Aug 2002,NZ Memories,37/16</i>)
-
-
-
-## unskirted
- 
- <i>adj.</i>
-
->  It may be taken for granted that a buyer faced with a mass of unskirted wool will, on the average, shade the price as a sort of insurance against the risk he runs in buying it. <i>(1936,Agricultural Organization in NZ,707</i>)
-
->  Class 237. - For the most valuable 12 fleeces ewes, unskirted. <i>(May 14, 1872,Otago Daily Times,2</i>)
-
->  The association reports instances of badly got up, unskirted, or insufficiently skirted wools being valued on a lower basis, particularly with average to good wools. <i>(Nov 22, 1941,Evening Post,11</i>)
-
-
-
-## unswag
- 
- <i>v.</i>
-
->  <b>BUTLER</b> Feed, water, and firewood, on having found a spot possessing these requisites ... first unswag the horse. <i>(1860,Forest Creek MS,51,1960 ed.</i>)
-
-
-
-## untaken up
- 
- <i>v.</i>
-
->  <b>BUTLER</b> But I must most emphatically express my belief that there is no more available country left in this province untaken up. <i>(Jun 1860,Forest Creek MS,54,1960 ed.</i>)
-
-
-
-## untapued
- 
- <i>adj.</i>
-
->  <b>POLACK</b> was nevertheless informed, it would be lawful to place a little tobacco in the canoe that was untapued [a-acute]; <i>(1838,New Zealand  (Polack),1/159</i>)
-
-
-
-## unthrift
- 
-<b>1</b> <i>n.</i> (Rural) lack of growth or condition.
-
->  <b>STEVENS</b> Unthrift in young sheep is not necessarily the result of interference with the body economy by worm infestation, so that the use of worm drenches cannot always bring about improvement. <i>(1958,Sheep.  Part 1, Sheep husbandry,64</i>)
-
-
-
-## unthriftiness
- 
-<b>1</b> <i>n.</i> (Rural) [farm livestock] general ill-being and failure to thrive.
-
->  At the first sign of unthriftiness calves should be drenched with phenothiazine ... <i>(Apr 1956,NZ Journal of Agriculture,16</i>)
-
->  <b>STEVENS</b> On farms where high death rates and unthriftiness are annual troubles, it is worthwhile to seek veterinary advice on the possibility of micro-element deficiency as the cause of the trouble. <i>(1958,Sheep.  Part 1, Sheep husbandry,69</i>)
-
->  Cobalt deficiency may be a cause of unthriftiness in lambs from an early age. <i>(Dec 1964,NZ Journal of Agriculture,500</i>)
-
-
-
-## unthrifty
- 
-<b>1</b> <i>adj.</i> (Rural) [of sheep and cattle] unhealthy or not thriving.
-
->  <b>STEVENS</b> While this is true for healthy, thrifty lambs, where lambs have had a set-back or are unthrifty, there is some advantage in postponing the docking day. <i>(1958,Sheep.  Part 1, Sheep husbandry,57</i>)
-
->  <b>STEVENS</b> .. the sheep [with keds and lice] becomes unthrifty and in general presents a miserable appearance. <i>(1958,Sheep.  Part 1, Sheep husbandry,83</i>)
-
->  <b>DU FAUR</b> .. it is essential to draft out the unthrifty and 'tailenders' ... <i>(1966,Sheep Farming for Profit,131</i>)
-
->  <b>DU FAUR</b> Lambs grazed on pasture deficient in cobalt are unable to produce Vitamin B12 and consequently become unthrifty ... <i>(1966,Sheep Farming for Profit,133</i>)
-
-
-
-## untold
- 
- (stress on first syllable) <i>adv.</i> (an intensifer) extremely [adolescents']
-
->  `That's untold GROSS [sic] man! How could you go to something like that?' Sally, our fourteen year old looked at us in disgust ... <i>(1987,Chosen Place,38</i>)
-
-
-
-## untrucking
- 
- <i>n.</i> (Rural) the releasing of stock from stock-trucks on reaching their destination.
-
->  Her owner's job was untrucking and penning up sheep and lambs at a big freezing works. <i>(Feb 1930,NZ Farmer,1</i>)
-
->  <b>NEWTON</b> The work continued until dark, and even then, untrucking, across at the railway yard, continued far into the night. <i>(1949,High Country,115</i>)
-
-
-
-## untussocked
- 
- <i>adj.</i>
-
->  <b>WATT</b> On February 26, 1874, the council called tenders for tussocking (so spelt) the remainder of the untussocked streets south of the Puni. <i>(1971,Centenary of Invercargill,64</i>)
-
-
-
-## unveil
- 
- <i>v.</i> remove the cover from a Maori headstone in a ceremony a certain time after the burial. [1984 citation shows a deceased person, as well as their gravestone, can be 'unveiled'] (See [see also unveiling n](../S#see-also-unveiling-n))
-
->  The Premier, when recently unveiling a monument to the late chief Te Keepa at Whakarewarewa, paid a high tribute to the late chief and the Maoris as a race. <i>(Mar 21, 1906,Otago Witness,45</i>)
-
->  William "Chris" Harris had planned a trip back to his tiny Northland hometown to unveil his father's headstone at Christmas. <i>(Oct 31, 2002,Dominion Post,A3</i>)
-
->  <b>OLIVER</b> Some of these people gathered, a year later, to unveil his gravestone... <i>(1983,James K. Baxter,155</i>)
-
->  WE, AS THE FAMILY OF THE LATE TE TAUNU WI POI TE HONA -->who was UNVEILED on SATURDAY, 21st JANUARY, 1984, would like to give our appreciation and thanks to all supporters throughout the Hui, especially Nga Ringa Were. Special thanks to Mr Snowden and the Leaders of the two Maori Culture Groups, Waipuna and Matawharoa. TENAKOTOU AND GOD BLESS. <i>(Jan 1984,NZ Herald</i>)
-
-
-
-## unveiling
- 
- <i>n.</i> a Maori customary ceremony of installing and uncovering a gravestone
-
->  <b>METGE</b> The farmers contributed generously inlabour and in kind to local weddings,funerals and "unveilings" (the ceremonialunveiling of gravestones) when theyinvolved their kinsfolk.<i> Ibid </i> 49 At unveilings, the ties attaching thecover to the gravestone were loosed andthe cover removed by someone generallyclose to and beloved by the deceased. <i> Ibid. </i> 66 Twenty-first birthday parties,"unveilings" and even weddings were basedon ideas borrowed from the Pakeha... Inevery case, however, the ceremonialconnected with them had been so adaptedthat it had a distinctive Maori flavour.<i> Ibid. </i> 235 Unveilings were next in importance totangi as events which Auckland Maorisfelt constrained to attend. <i>(1964,New Maori Migration, A,34</i>)
-
->  <b>METGE</b> At tangihangi and unveilings, when eldersgather from far afield and the generalmood is serious, discussions range verywidely indeed.<i> Ibid.</i> 195 At an 'unveiling', if there is a numberof stones to be unveiled in severalcemeteries (as is common in Northland),the first ceremony takes place soon afterdaybreak. <i> Ibid. </i> 200 The idea of unveiling monuments.. hasbeen developed into a ceremony which infunction and importance recalls andperhaps replaces the pre-Europeanexhumation ceremony. <i>(1967,Maoris of New Zealand, The,178</i>)
-
->  On Monday, in the presence of a largegathering of Natives at the Taiporohenuipa, the unveiling of the memorial stoneto the memory of the late Mrs AlexCampbell, who died just a year ago, tookplace. <i>(Apr 9, 1918,Hawera & Normanby Star,4</i>)
-
->  A large gathering of Maoris took placehere last month, on the occasion of theunveiling of two monuments in honour ofthe late Hone Heke... The ceremony of theunveiling of the large stone on KaikoheHill, erected by the Government, was mostimposing... When this was all concluded,the procession reformed and proceeded tothe churchyard, where a similar ceremonytook pace at the stone erected on HoneHeke's grave. <i>(May 1911,King's Collegian,X(1) : 73</i>)
-
->  It started with the unveiling after the death of your stepfather, then after the death of your brother you felt an uncontrollable urge to light fires. <i>(Oct 16, 1998,Evening Post,2</i>)
-
->  This weekend Campbell was due to go to an unveiling in Patea for his beloved uncle Roger, who taught him golf. <i>(Jan 20, 2002,Sunday Star Times,C10</i>)
-
->  <b>Ihimaera</b> The hui incorporates a kohatu ceremony, an unveiling of the headstone of a brother Ringatu healer, Paora, who died a year ago. <i>(2007,Ask the Posts,273</i>)
-
->  [He] said his partner was excited about.. a planned trip to New Zealand at Christmas time for the unveiling of his father's headstone. <i>(Oct 31, 2002,Dominion Post,A3</i>)
-
->  <b>K SMITHYMAN</b> You know about the Maori custom of `unveiling' of tombstones? If you don't, it's more or less like this: A year after the burial the grave stone is installed, and a monument being unveiled. There used to be two recognised times for this in the North, apparently bypassing the `year after' which is seemingly more the custom of recent decades, Easter and All Saints Day, both of which are distinct from the usual fixed times for clearing the burial grounds (which were usually just before Christmas or, in some places, the first Saturday in March). In very recent years around, for instance, the Hokianga, interest and care for the burial grounds has markedly increased. Along with that has come another change, in giving notice publicly. I enclose one long clipping from the Whangarei Northern Advocate of a kind I doubt is at all common, but the NZ Herald supervisor of memorial notices tells me that to her knowledge notices of the kind have been appearing for ten years or so, but (she thinks) are now more frequent. So, for a start, we have a sense of unveiling in NZ which is likely to be peculiar as `We went up North for an unveiling (of a headstone for one or more people)'. That sense has been around for some time. What seems to be new or newish is the sense of the other clipping, `So and so was unveiled on such and such a day'. I checked with Roger Oppenheim whose book on Maori Death Customs you may know, and Roger regards this as new to him (and he has Maori kin and attends Maori gatherings of the kind). Where `Mr Te Hona's unveiling was on Saturday' doesn't strike him (or me, for that matter) as anything out of the way, `Mr Te Hona was unveiled on Saturday' registers as odd, but didn't seem odd to the Herald supervisor. <i>(Jan 26, 1984,Letter</i>)
-
->  ... Rima Wakarua ...was moved to suggest to his people a visit to the Tai-rawhiti district, ostensibly to attend the unveiling of the monument to young Jack Raru, who died in Rotorua last year ... <i>(Aug 17, 1935,Na To Hoa Aroha,3/145</i>) [NOTES: Ngata]
-
->  About one thousand people were present [in 1876] at the ceremony of unveiling [of a monument to Henry Williams, d.1867], from far and near. About 800 of them were Maoris. <i>(1939,Silhouettes of the Past,6</i>)
-
->  HURA KOHATU -->Enga iwi enga mana enga karanga-ranga maha he powhiri tenei kia hui hui mai tatou ki te marae o towhara i Waimate North ki te hura kohatu whakamaharatanga a te hararei 4 onga ra o pepuere 1984 mo nga tupuna whanaunga hoki e rarangi i raronei. To all friends, relations and anyone interested you are all cordially invited to the Tauwhara Marae,Waimate North, to the unveilings of headstones on February 4, 1984 for our tupuna's and other relations whose names are listed below. <i>(Jan 1984,Northern Advocate</i>)
-
->  Her family said yesterday they feared she was dead because she failed to arrive for the unveiling of a family memorial stone in the far northern town of Te Hapua. <i>(Jan 10, 1985,Dominion,1</i>)
-
->  The [police] unit was in the Wairarapa in anticipation of gang trouble with the scheduled unveiling of the headstone of ... Raymond Rimene, shot a year ago at the Solway Showgrounds.Mr McMurtree said the unveiling was cancelled and there were no problems. <i>(Aug 23, 1988,Dominion,3</i>)
-
->  Hone Kouka's latest play follows the lives of five cousins who return home a year after atangi for a cousin's unveiling. <i>(Jun 5, 2002,Capital Times,9</i>)
-
->  The family wish to cordially invite family and friends to Jack's unveiling on Sunday 31 October 2010 at 11.00am at Manukau Memorial Gardens Cemetery. <i>(Oct 27, 2010,NZ Herald,B11</i>) [NOTES: customs]
-
-
-
-## unveiling ceremony
- 
- <i>n.</i>
-
->  Brake helps to people the book by drawing from his own collection to provide two spirit-filled photographs - one preserving a moment of almost luminous reverence at a hurahanga kohatu (unveiling ceremony), and the other of a kuia mourning at Ngaruawahia in 1952. <i>(Dec 27, 1986,Listener (New Zealand Listener),120</i>)
-
->  At Papawai yesterday the unveiling ceremony of a handsome memorial to the late chieftain, Tamahau Mahupuku, was celebrated ... The Hon. J. Carroll performed the act of unveiling. <i>(Mar 31, 1911,Bay of Plenty Times,3</i>)
-
->  I should [89] personally like to have the unveiling ceremony the same week as the Ngaruawahia meeting, at which among other things there will be a foregathering of representatives of returned Maori soldiers. <i>(May 6, 1928,Na To Hoa Aroha,1/88,1986 ed.</i>)
-
-
-
-## unwaiata'd
- 
- <i>adj.</i> not treated with respect, especially after death [ORIGIN: blend]
-
->  <b>Geary</b> And, like many unwaiata'd heroes, they were only lauded after their deaths as semi-broken shadows of their former selves. <i>(2008,Six Pack 3, The,108</i>)
-
-
-
-## unwarranted
- 
- <i>adj.</i> without a current Warrant of Fitness
-
->  Police are checking whether cars were driven unwarranted. ... Another car that was unwarranted was off the road. <i>(Jul 21, 2005,Radio NZ / National Radio,News, 6pm, 10.30pm</i>)
-
-
-
-## unweka'd
- 
- <i>adj.</i> without wekas
-
->  The [weka] was later exterminated from the island, but not before it gave rise to the idiosyncratic coinage unweka'd - an adjective that neatly now applies to Macquarie Island itself. Australian ornithologist Ken Simpson coined this term. <i>(Aug 2000,NZWords,No. 4 : 7</i>)
-
-
-
-## unwigged
- 
-<b>1</b> <i>adj.</i> (Rural) [of sheep] without eye-wool removed.
-
->  Experiments with wigged and unwigged woolly-faced sheep have shown that the production differences are an inherent character of open and woolly-faced sheep. <i>(Oct 15, 1962,NZ Journal of Agriculture,366</i>)
-
-
-
-## up
- 
- <i>adj.</i> well known
-
->  My name is up here, as it was in Nelson, as a bushman. <i>(Jul 4, 1849,Torlesse Papers,86,1958 ed.</i>)
-
-
-
- 
- <i>prep.</i> in phrases, connoting ruined, pregnant, embarrassed, etc [see the nouns CHUTE, CREEK, DUFF, SHOOT, SPOUT, WAY, WOP -->b. [check these also and perhaps include them] 1984 16 F E16 Pakuranga Coll. 7 UP THE FUCK -->1984 14 F E126 Wgton Girls C. 7 UP THE POO -->1984 14 F E131 Wgton Girls C. 2 UP THE WALL -->(ii) UP THE DUTCH SHIT]
-
->  <b>McGILL</b> up the Dutch shit in trouble; eg `Are we up the Dutch shit with this batch!' <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
->  <b>McGILL</b> up the Mokau up the creek or up the boohai; from a remote North Taranaki river; eg `You jokers are up the Mokau with that notion.' <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
- 
- <i>adv.</i> [word class?]
-
->  Graffiti Speak... Up: A writer whose work appears regularly. <i>(Nov 30, 2000,Evening Post,19</i>)
-
-
-
- 
- <i>adv.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London (See [north](../N#north))
-
-
-
- 
- <i>adj.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river);
-
->  <b>MEREWETHER</b> The `up', or as they call it, the `down' coach had arrived. <i>(1874,By Sea and Land,167</i>)
-
-
-
- 
- <i>adv.</i>
-
->  <b>BOWEN</b> On good open shearing, when the grease is up, and the comb enters easily, give the comb a lead on the cutter of one-eighth of an inch, ... <i>(1955,Wool Away!,76</i>)
-
-
-
- 
- <i>adv.</i> [AND UP adv] [1825 (also quasi-noun b. up (in or to) (the) bush 1840 c. ellipt. 1840 NZ Journal Vol / Page 24/301 A good back country up the Hutt. Notes S. Revans]
-
-
-
- 
- <i>adv.</i> with ellipsis of prep so that up = up at e.g. up Shield way] 1a. in NZ is usually `north',or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London
-
->  <b>GODLEY</b> [Mr Hadfield] and his wife did not return from `up the coast' [from Wellington]. - <i>(Nov 16, 1850,Letters,129,1951 ed.</i>)
-
->  <b>TURNER</b> Generally up is used in New Zealand for places north and down for south. <i>(1966,English Language in Aust. & NZ, The,198</i>)
-
-
-
- 
- <i>adv.</i> (Chatham Islands) in phrase go up to New Zealand
-
->  The Chatham Islands are legally part of New Zealand but are not of it. Islanders speak in their soft dialect of `going up to New Zealand'. <i>(Apr 1951,NZ Geographer,97</i>) [NOTES: Or NZ Geographic]
-
-
-
- 
- <i>adv.</i> (?early sailors' usage) with ref. to travel between NZ and Australia
-
->  <b>HEMPLEMAN</b> We wish you to procure for us ... as many Flags ampersand Spars as possible, - Let these also come up next p. trip of the Bee. <i>(Aug 17, 1836,Letter</i>) [NOTES: 1836 Aug 17 Hempleman Letter in 1913 McNab Old Whaling Days 152]
-
->  [sc. to Aust, here from off Lord Howe Island [Lat. c.33.20s.]] Procured a passage for the woman stowed away in this Brig, and sent her up to Sydney - <i>(Jan 2, 1836,Piraki Log,22,ed. Anson 1911 ed.</i>)
-
->  <b>McNAB</b> On the same day - 10th February [1840] - the Jessie, which had left New Zealand on 31st January, brought up 50 tuns of oil, 32 cwt. of flax, ... and 400 bundles of flags. <i>(1913,Old Whaling Days,284</i>)
-
-
-
- 
- <i>prep.</i> UP AT (cf DOWN, down to)
-
->  Jamie getting gravel from `up the gully'. <i>(Aug 6, 1866,Puketoi Station Diary</i>) [NOTES: [Hocken TS]]
-
->  <b>GASKELL</b> Well, pretty soon old Rangi die and we have the big tangi up the pa. All get shickered cos they all ... <i>(1978,All Part of the Game,7</i>) [NOTES: 1942 Gaskell `Picture in the Paper' in 1978 All Part of the Game 7]
-
->  <b>MASON</b> He'll be sittin' in that bach up Huia. [=up Huia way] <i>(1974,Hand on the Rail, The,39</i>) [NOTES: 1981 TS]
-
->  <b>WATSON</b> It is just after lunch; Dale and Terry have been getting wood up the back. <i>(1978,World Is An Orange, The,118</i>)
-
->  <b>BENTLEY & FRASER</b> A cow cocky up Tokoroa/ Rang his agent to order a moa./ Told `They're dead as a dodo!'/ He said, `Quocumque modo?/ Then you'd best send a hoiho, e hoa!' <i>(1985,Grand Limerick Tour, A,No. 8</i>)
-
->  <b>KNOX</b> We may have taken Mike's car up the Gold Coast at Anniversary Weekend, and cooled our wine in the rockpools of Pukerua Bay ... <i>(1987,After Z-Hour,208</i>)
-
-
-
-## up a burnt gully
- 
- <i>phr.</i> in phrase look as if one has lived, been up a (the) burnt gully, for the winter; spent the winter up a burnt gully: i.e. to look, or be, very thin, emaciated, underfed (sc.like a sheep which has spent a winter up a burnt off gully where there would be no feed).
-
->  <b>McCALLUM</b> The pakeha lady she is nearly always skinny and looks as if she has been up the burnt gully for the winter ... [ibid 72] This coot is about five feet high and very pale. He looks as if he had been living on bird seed or had spent the winter up a burnt gully. <i>(1963,Half-Gallon Jar,63</i>)
-
-
-
-## up a gum tree
- 
- <i>phr.</i> in difficulties, in trouble; ? cornered (in argument etc.); in the exclamation, strike me up a gum tree = `strike me pink'. [up a gum tree in ODE: Brit. informal]
-
->  Not Understood! Oh, strike me up a gum tree. <i>(Feb 8, 1913,NZ Bulletin,16</i>)
-
->  <b>SIMPSON</b> I wonder what a New Yorker or Philadelphian or Bostonian would think if he heard that a friend of his was up a gum tree. In the first place, what is a `gum' tree, and why should a friend of yours be up it ? ... If you were to ask me the reason behind the term `gum tree' you would catch me flat-footed. .... My only suggestion is that the eucalypts exude some kind of adhesive substance, or resin, or gum, but that is a pastime indulged in by many other kinds of trees, anyway. But one thing is certain; the word gum, as nailed on to these trees, has nothing to do with what you are asked to take your change in .... In Australia and New Zealand .... a person up a gum tree is in some kind of trouble .... The expression `up a gum tree' has spread beyond the Pacific; I believe it is sometimes used in England. <i>(1945,If You'd Care to Know,98</i>)
-
->  <b>BAXTER</b> He [a priest to a homosexual] told me I was up a gum tree. He said that a man's temperament was only part of his own making. <i>(1985,Horse,70,c.1962 ed.</i>) [NOTES: (Breaking and Entering)]
-
->  <i>gum tree n</i>. ... (colloq. phrase) up a gum tree, in a difficult situation. <i>(1966,NZ Contemp. Dict. (Aust.-NZ Suppl.),617</i>)
-
->  <b>MASON</b> GILHOOLY ... Who you leading up a gum-tree? Why would Matt blow a safe? <i>(1969,Awatea,29,1978 ed.</i>)
-
->  [Hdg] Up a gum tree. A Singer sewing machine that has spent more than a century in a giant blue gum tree at Rotorua's Buried Village has been found. <i>(Sep 25, 1998,Dominion,3</i>)
-
-
-
-## up and do 'em
- 
- <i>phr.</i>
-
->  <b>PARTRIDGE</b> I'll admit I was stiff when I lost that fifty francs, but my cobber produced another ten; and when the ring-keeper said `Up and do 'em', I collected 200 francs. <i>(1935,Slang Today,287</i>) [NOTES: 1935 A.E. Strong WW1 scene in Partridge Slang Today]
-
-
-
-## up and down like a bride's nightie
- 
- <i>phr.</i> frequently; quickly
-
->  She's up and down like a bride's nightie, pacing the corridor. <i>(Jun 28, 2003,Listener (New Zealand Listener)</i>)
-
-
-
-## up and downer
- 
- <i>n.</i>
-
->  <b>TONKIN</b> The leather thong to which we have referred as attaching the irons to the belt is known as the `up and downer'. <i>(1980,Dunedin Gaol,28</i>) [NOTES: c1875 Otago Guardian in 1980 Tonkin Dunedin Gaol]
-
-
-
-## up bluey
- 
- <i>v.</i>
-
->  As he had a wife and child to support, he "up bluey" and away. <i>(Aug 20, 1904,NZ Observer,5</i>)
-
->  When he heard that Hartly and Williams had taken thirteen pounds.. of first-class gold at one wash in the Dunstan River, he "up bluey" and away. <i>(Sep 13, 1913,NZ Observer,5</i>)
-
-
-
-## up Central
- 
- <i>phr.</i> (See [Central](../C#central))
-
->  Harry and his Dad and grandfather had slipped into New Zealand for a quiet fishing trip up Central but had caused a bit of a stir with some racist comments overheard by the public ... <i>(Jan 26, 2009,Otago Daily Times,5</i>)
-
->  <b>COWAN</b> Actually the term Central Otago, which some fifty years ago referred only to the limited area of the Maniototo Plain and the Ida and Manuherikia Valleys, now embraces also the much greater mountainous area beyond the Dunstan Range, which formerly was known [2] vaguely as `the interior'. At one time then the Maniototo County .. was practically Central Otago itself. Indeed, there are many people even to-day who visualise only this area when they talk about `up Central' <i>(1948,Down the Years in the Maniototo,1`</i>)
-
->  <b>DUCKWORTH</b> `Is Timothy in with Mrs Flint?' `No, she's gone to her brother's crib for the weekend - up Central. ...' <i>(1963,Barbarous Tongue, A,181</i>)
-
->  <b>ARMFELT</b> Mind, if they went further up Central, Alexandra or somewhere, it might stay dry. <i>Ibid.</i> 151 People from Waitapa often went `up Central' to Alexandra. <i>(1971,Catching Up,62</i>)
-
->  My mother had a treasure chest of such sayings passed on to her by her grandmother, a formidable woman who owned several hotels up Central and could clear them all with a flock of her sharpGallic tongue ... <i>(Aug 1992,Sport,122</i>)
-
->  On the orchard. Up Central. Jack said it, what about an orchard up Central? <i>(May 1995,Deep South,3</i>)
-
-
-
-## up country
- 
- <i>n.</i> remote from town, the coast, the lowlands or a border: `an up-country settlement'. [aka up-country]
-
->  Thus, to take an instance familiar to us all; in some of the small and narrow valleys in the up-country, now laid out in rural sections of the most fantastic shapes, where no one would dream of choosing his rural land if he were limited to 150 acres, several purchasers might be willing to exchange their land-orders for 300 or 400 acres of what would be waste land to others, but which they might find useful to themselves. <i>(Jul 3, 1847,Nelson Examiner and New Zealand Chronicle,68</i>)
-
->  <b>KENNAWAY</b> ... I do give scores of the men who had the hard lines of first finding tracks over the roadless New Zealand up-country very complete credit for the way in which they worked through it ... <i>(1874,Crusts: a settler's fare due south,173</i>)
-
->  <b>HOOD</b> `Wild spaniard' or spear grass ... renders walking in the up-country of the Middle Island anything but pleasant. <i>(1875,Chowbokiana,90</i>)
-
-
-
- 
- <i>adj.</i> (Rural) [of land, life, etc.] high and remote. [aka upcountry, up-country]
-
->  <b>FULLER</b> ... another person, who wished to buy sheep, but did not like undertaking the up-country life to look after them. <i>(1859,Five Years' Residence in New Zealand,162</i>)
-
->  <b>RICHMOND</b> Many up-country runs in Nelson are inaccessible. <i>(Jul 3, 1863,Letter,54</i>) [NOTES: in SCHOLEFIELD Richmond-Atkinson Papers II]
-
->  <b>BARKER</b> It is difficult to realise how completely cut off from the society of his kind a New Zealand up-country shepherd is, especially at an out-station like this. <i>(1873,Station Amusements in NZ,134</i>)
-
->  <b>REEVES</b> There's our sturdy up-country man down on his knees ... <i>(1883,Canterbury Rhymes,100</i>)
-
->  Accounts I have received from up country districts show the lambing season to have been very good. <i>(Nov 1893,NZ Farmer,419</i>)
-
->  <b>SIMPSON</b> Picnics and occasional house-parties were possible for some of the up-country women, though there were long spells of loneliness between. <i>(1940,Women of NZ, The,138</i>)
-
->  <b>NEWTON</b> The four 'up country' men were plied with eager questions and they themselves must also know of the doings 'down on the mud-flats.' <i>(1949,High Country Days,113</i>)
-
->  A more favourable moment than the present for the purchase of stock is not likely to present itself, ad we wish our fellow colonists would seize it and form up country stations. <i>(Sep 24, 1842,New Zealand Gazette & Wellington Spectator,2</i>)
-
->  A telegram was received by a Dunedin broker on Monday from an up-country correspondent, informing him that the Merrimac had obtained 9.9 - intended, of course, to be 9oz 9dwt - for a week's work. <i>(Nov 21, 1900,Taranaki Herald,2</i>)
-
->  I would propose that these townies suggest to those up-country people that they should each and every one, and all combined, tie up the silt that comes from their land to the nearest cabbage tree upon their property, and be less indulgent upon the owners of the quarter-acres or less sections near the seaboard. <i>(Dec 13, 1917,Poverty Bay Herald,4</i>)
-
->  <b>McDONNELL</b> Nearly all the up-country settlers have been ruined, nor is this all that the husbandsman of NSW has to contend with ...] <i>(1834,Extracts From a Journal,14</i>)
-
->  <b>FULLER</b> up-country life <i>(1859,Five Years' Residence in New Zealand,162</i>)
-
->  <b>BUTLER</b> Every now and then he leaves his up-country avocations and becomes a great gun at the college in Christ Church, ...; he then returns to his shepherding, cookery, bullock-driving ... <i>(Mar 24, 1860,First Year in Canterbury Settlement,ch iv 50</i>)
-
->  <b>THATCHER</b> And the up-country Squatters, with such smiling faces Bore off the Provincial Cup, given by Jones. <i>(1862,Dunedin Songster,No.1/7</i>) [NOTES: The Races and the Sharpers]
-
->  Runs have to be stocked in 12 months [which] sometimes expires about shearing time. ...[sic] many up country runs in Nelson are inaccessible ...[sic] for drays ... I have ...[sic] agreed ... to consider stock as having been on the run in time immediately after shearing.[check for hyphen in up(-)country???] <i>(Jul 3, 1863,Richmond-Atkinson Papers,2/54,1960 ed.</i>) [NOTES: J.C. Richmond]
-
->  But if, mayhap, you've just come down/ From some up-country station,/ <i>(Jul 1, 1865,Punch in Canterbury,54</i>)
-
->  <b>BARKER</b> ... a few pretty little trifles will greatly improve the look of even a New Zealand up country drawing-room. <i>(1866,Station Life in NZ,66,1870 ed.</i>)
-
->  It was the early edition for the up-country coaches, but I asked if he could spare me a copy. <i>(1868,Greater Britain,1/322[?333]</i>)
-
->  TO UP COUNTRY STOREKEEPERS. <i>(Jan 7, 1869,Grey River Argus,3</i>)
-
->  <b>KENNAWAY</b> Now the grand up-country rule when you have [107] lost your horse is a colonially established maxim It is this: `Hump your saddle and look for him,' which being translated into English English. means simply, - `Lash your saddle to your shoulders ...' <i>(1874,Crusts: a settler's fare due south,106</i>)
-
->  <b>HOPEFUL</b> The bushmen and up-country men work very hard as agricultural labourers, or sawyers, or infelling timber, and so on. <i>(1887,Taken In,144</i>)
-
->  <b>WRIGHT</b> They used to keep the Sabbath in their own up-country way/ <i>(1897,Station Ballads,27</i>) [NOTES: `The Duff']
-
->  <b>SCANLAN</b> I'll get on some up-country place, and later I may be able to pick up a bit of new country cheap, and clear it. <i>(1933,Tides of Youth,17</i>)
-
->  <b>SCOTTER</b> Although there were few luxuries in that life, the runholders ... did attempt something better than the rough housing common on the upcountry runs. <i>(1948,Run, Estate and Farm,18</i>)
-
-
-
- 
-<b>1</b> <i>adv.</i> (Rural) in the direction of the high country. [aka up-country]
-
->  It will be the duty of down-country farmers to get the shearing over as soon as it can be managed, in order that the men go up country. <i>(Nov 1917,NZ Farmer,1226</i>)
-
->  <b>PORTER</b> When Alva came back up country ... <i>(1970,Under the Nor'West Arch,39</i>)
-
->  <b>LOUGHNAN</b> One may detect in those who live up-country a slight hint of envy which is cloaked under a pose of smugness and scorn for down-country dwellers. <i>(1981,Loughnan Glossary,15</i>)
-
->  Wanted, IN town or up country, a situation as Book-keeper, Clerk, Storekeeper, Barman, or in any capacity where the services of a persevering young man are required. <i>(Mar 13, 1847,Daily Southern Cross,2</i>)
-
->  MORE RAIN UP COUNTRY. <i>(Mar 2, 1945,Evening Post,4</i>)
-
-
-
-## up in the air
- 
- <i>phr.</i> said when a shearer is moving his handpiece around in the air while shearing, cutting more air than wool [(shearers']
-
->  <b>BOWEN</b> UP IN THE AIR. Said when a shearer is flashing his handpiece around in the air while shearing,cutting more air than wool. <i>(1956,Wool Away!,158</i>) [NOTES: glossary: Shearing Terms]
-
->  Up in the air: When a shearer is moving his handpiece around in the air while shearing, cutting more air than wool <i>(1982,MAF Agricultural Glossary,60</i>)
-
-
-
-## up in the branches
- 
- <i>phr.</i> (Rural) [shearing] the clipping of wool too far from the skin of a sheep.
-
->  <b>LOUGHNAN</b> branches, up in the: If a shearer is clipping wool too far away from the skin, thus leaving too much wool on the sheep, he is smartly told he is 'up in the branches' and must get 'closer to the roots.' <i>(1981,Loughnan Glossary,10</i>)
-
-
-
-## up large
- 
- <i>phr.</i>
-
->  <b>McGILL</b> up large drinking heavily and/or heartily, contraction of `piss up large'; eg `Okay, now the woofters have gone, let's all up large, eh?' <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
-## up North
- 
- <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See [also Far North](../A#also-far-north))
-
->  WANTED to Rent, with a right to purchase, a Farm up north, with a small house. <i>(Oct 11, 1861,Daily Southern Cross,1</i>)
-
->  Denton, the lecturer, has been for the last five weeks up north, hunting out fossils, &c. <i>(Apr 10, 1882,West Coast Times</i>)
-
->  In addition to a good exhibition of stock, a fine programme of ring events is to be provided, so that all the countryside up north is sure to be seen at Waverley Show. <i>(Mar 17, 1914,Wanganui Chronicle,2</i>)
-
->  IT is stated that the relations between two prominent trotting clubs up north are strained over a rental matter. <i>(May 16, 1929,NZ Truth,15</i>)
-
->  "Why, up North we do thirty or forty fences every time we go out to a hunt ..." <i>(Jul 11, 1931,Evening Post,21</i>)
-
->  <b>TROLLOPE</b> `A railway for you gentlement down South!' says a northern member [of Parliament]. `Certainly, - but on condition that we have one here, up North.' <i>(1874,New Zealand (various authors/titles),117</i>)
-
->  He came from somewhere in the bush up north. <i>(1898,Tom Bracken's Annual,39</i>) [NOTES: Otago]
-
->  <b>BELL</b> It was reported, [244] ... that he had gone into the bushcountry `up north', and, again, that he had died in a hospital ... <i>(1899,In the Shadow of the Bush,243</i>)
-
->  ... there is fighting up North. <i>(1901,NZ Illustrated Magazine,IV/538</i>)
-
->  <b>WILLIAMS</b> Up north you can never collar your winnings. <i>(1904,New Chum's Letter Home, A,89</i>)
-
->  <b>HISLOP</b> `You talk about your trout fishing up North,' he said. <i>(1943,Pure Gold,96</i>)
-
->  <b>MARSH</b> She arranged for us to go up North to see him. <i>(1945,Died in the Wool,65</i>) [NOTES: [from Canterbury]]
-
->  <b>SLATTER</b> [Christchurch speaker] `Where have you been all this time, Ron? ...' `Me? Oh, I've been up north.' [check wording with foll. cit???] <i>Ibid.</i> 69 `Where did you get to?'`Me? Oh, I've been up north.' <i>(1959,Gun in My Hand, A,69</i>)
-
->  You can get a job in Wellington or get a job up north <i>(1964,Book of New Zealand, A (J.C. Reid),223</i>) [NOTES: 1964 Peter Cape `Taumarunui' in 1964 Reid Book of NZ]
-
->  <b>BOOTH</b> What a terrible time they are having with those island horis up north. <i>(1964,Footsteps in the Sea,124</i>)
-
->  <b>ANDERSON</b> This bit of news may not convey much to people `up North', which often meant the rest of the world, but to Invercargill residents it was a message loud and clear. <i>(1975,Milford Road,134</i>)
-
->  <b>BAXTER</b> We'll go up North and start a boarding house. No bludgers <i>(1982,Collected Plays,39</i>) [NOTES: Wide Open Cage]
-
->  <b>BEATON</b> HELEN: ... I did some time up north [sc. from Wi Tako, Wellington]. <i>(1984,Outside In,48</i>)
-
->  <b>SHERWOOD</b> `Don't let the pakehas brainwash you. ... All the time we're here I feel guilty because I'm not up north campaigning against the Treaty.' <i>(1985,Botanist at Bay,49</i>)
-
->  <b>OWEN & PERKINS</b> (Bob Edwards,bushman) Well, I took to the track. I came up north [from Southland] and swagged with a character that was well known on the track at that time [the mid 1920s]. ... They were fellows that were on the track permanently, and they all had their beats. <i>(1986,Speaking for Ourselves,68</i>)
-
->  Nezzie Morris was in her first teaching position up north at the time of the Waihi strike ... <i>(Feb 13, 1988,Auckland Herald,Sect. 2/2</i>)
-
->  <b>VIRTUE</b> `I'll go up North to Auckland ... save up money and go to England, where the poms are. ... My grandad was one of them and he was a real beaut. ... He was a boozer and loved the trots, went every Saturday.' <i>(1987,Redemption of Elsdon Bird, The,54,1988 ed.</i>)
-
->  <b>TEXIDOR</b> ... the progressive professor came from Auckland (the first group up north he had visited) ... <i>(1964,In Fifteen Minutes,152</i>) [NOTES: from Auckland, Northland]
-
->  Wellington announcer talking about the inappropriateness of NZ and Australian `winter' trappings of Christmas `we shouldn't worry what they do up north.' <i>(Dec 22, 1985,Radio NZ / National Radio</i>) [NOTES: 2YA]
-
->  <b>COLE</b> &#65279;I think I'll go up north - right up...among the Maoris. <i>(1949,It Was So Late,102</i>)
-
->  <b>THATCHER</b> (The Captured Prisoner) Says he, Plummer's bound to go up North,/ And call upon his brother./ `Go up,' says he, `towards Albertland,/ `That's the place you'll find him,/ .../ ... near Mangawai ... <i>(1869,Wit and Humour: Local Songs...,6</i>)
-
-
-
-## up one's bum to the neck
- 
- <i>phr.</i> snobbish; stuck-up
-
->  <b>BEATON</b> GINNY: Stuck up! She thinks she's God all-fucken-mighty, ... She's fucken up her bum to her neck! <i>(1984,Outside In,39</i>)
-
-
-
-## up oneself
- 
- <i>phr.</i> very conceited (probably a shortened form of stuck up (oneself) [1984 15 F E1 Pakuranga Coll. 17 UP HIM/HERSELF [MF15-17 31] -->1984 14 F E135 Wgton Girls C. 17 UP HIMSELF [F14 8] cp P: be upon oneself: mostly Cockney: late 19-20 c: (be stuck up)]
-
->  <b>Faith Oxenbridge</b> 'You know, Rima,' she says... 'you're getting really up yourself this year.' The worst thing you can be at school is 'up yourself'. <i>(2007,Six Pack 2, The,26-27</i>)
-
->  <b>LELAND</b> up himself: In practice this refers to someone who has a severely EXAGGERATED IDEA of his own IMPORTANCE (and/or qualifications, intelligence, etc. etc.). It derives from the suggestions that someone with such narcissistic tendencies could find only himself worthy of his own concupiscent attentions. <i>(1980,Personal Kiwi-Yankee Dictionary, A,107</i>) [NOTES: ca1938]
-
-
-
-## up stick
- 
- <i>v.</i> to remove oneself with one's belongings; to shift house [for more usual up sticks]
-
->  <b>BENNETT</b> ... <i>to up stick</i>, to shift house, move one's belongings. <i>(1943,English as it is spoken in NZ,92</i>)
-
-
-
-## up the Awatere/Ashburton/Rakaia
- 
- <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See [up the gorge](../U#up-the-gorge))
-
->  <b>NEWTON</b> I called and saw Sam when I was up the Awatere and he was full of his days at Hakatere. <i>(1973,Big Country of the South Island,225</i>)
-
-
-
-## up the chute
- 
- <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See [cf. up the duff/spout/wop](../U#up-the-duff/spout/wop))
-
->  <b>TURNER</b> It must be pointed out that my meaning for <i>up the boo-ay </i>[=`altogether wrong'] is already supplied by <i>up the chute,</i> however. <i>(1966,English Language in Aust. & NZ, The,122</i>) [NOTES: [the full quotation from Turner may be found at CACTUS and BOOHAI: ? transfer SHOOT entries to here: the possibility that the expression has developed from SHOOT a steep creek-bed is minimal]]
-
->  Miss Firth said pupils would be `up the chute' with one section, containing a difficult word list which had to be incorporated into a paragraph. <i>(Nov 20, 1981,Evening Post,14/1</i>)
-
->  <b>McGILL</b> <i>up the chute</i> worthless, stupid, wrong; eg `Sorry, chum, you're up the chute on that one.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
-## up the Cook's
- 
- <i>exclam.</i> hooray!
-
->  <b>McGILL</b> <i>up the Cook's </i>hooray! May you flourish; army c/p of encouragement; linked by Partridge to names of regiments. [P: ref. nf HWO] [<i>Jim Henderson</i>] <i>(1988,Dictionary of Kiwi Slang, A,117</i>)
-
-
-
-## up the cook's arse
- 
- <i>exclam.</i> expressing violent disagreement or disbelief. [ca1940 p.c. and in WW2 (Les Cleveland) a var. of the gen. up my/your arse! [does NOT refer to Captain Cook]]
-
-
-
-## up the country
- 
- <i>adv.</i> [sense of north but also extent - further into the country]
-
->  In any case, the Zoo's horseflesh comes on the hoof from up the country, where an agent is required to maintain regular supplies. <i>(Oct 23, 1945,Evening Post,6</i>)
-
->  One resolution requests Mr Rowley to represent the views of the miners up the country. <i>(May 28, 1867,Otago Daily Times,4</i>)
-
->  A large number of natives from Kawhia and up the country have already arrived for the meeting. <i>(Oct 25, 1882,Hawera & Normanby Star,2</i>)
-
->  A heavy fall of snow occurred up the country last night, and telegraph communication with the North was partially interrupted. <i>(Jun 21, 1895,Wanganui Herald,2</i>)
-
->  A few days before leaving Batavia the Dutch captured the Sultan, who will be paid a small subsidy and sent up the country. <i>(Mar 21, 1906,Grey River Argus,3</i>)
-
-
-
-## up the district
- 
- <i>phr.</i>
-
->  <b>MEREDITH</b> Presently, I bade them adieu, mounted my horse, and started for `up the district.' <i>(1875,Adventuring in Maoriland in the Seventies,155</i>)
-
-
-
-## up the duff
- 
- <i>phr.</i> [(Phs the orig. sense: ?made a duffer, made useless.] ca1943, e.g. This pen is up the duff - won't write. Put it away or you'll be up the duff from Dad.]
-
-
-
- 
- <i>phr.</i> pregnant; esp. to get up the duff, to put (a woman) up the duff .
-
->  Better to move on in your own time, don't wait till you've got some chick up the duff and her dad's after you before you leave town. <i>(Sep 2, 2000,Listener (New Zealand Listener),46</i>)
-
->  Because before you could say wham-bam thank you mam and how's your father, Melissa was up the duff, as they said in my day, and teenage-hood was history. <i>(Oct 3, 2001,Evening Post,16</i>)
-
->  Having been told every five minutes in the promos that this was the great episode we had waited nine months for - sorry, but I didn't get her up the duff - I hope she was delivered of a fine foal. <i>(Aug 16, 2003,Dominion Post,B7</i>)
-
->  <b>BALLANTYNE</b> He guessed being up the duff to a young quarter-caste who was out of town was no joke. <i>Ibid.</i>105 What did a man live for? Was it to marry a girl, put her up the duff, ... and then wait for death? <i>Ibid.</i> 123 ... to marry a girl, put her up the duff. <i>(1948,Cunninghams, The,6,1976 ed.</i>)
-
->  <b>SHADBOLT</b> ... he met Mum. He put her up the duff and they had to get married. Included in the deal were these two sprogs Krapp viewed as a potential labour force. <i>(1971,Bullshit and Jellybeans,31</i>)
-
->  <b>WILSON</b> Gil went really butcher's at her to me for a minute. `Don't be a flaming galah, Ken,' he said. `For God's sake, listen. Do you want to get her up the flaming duff?' <i>(1973,NZ Jack,124</i>)
-
->  <b>AGNEW</b> She said to tell you she's up the duff to a Maori. <i>(1974,Loner, The,133</i>)
-
->  <b>LELAND</b> up the spout - up the duff: `Milady, there's more in your belly than ever went in through your face,' ... <i>(1980,Personal Kiwi-Yankee Dictionary, A,108</i>)
-
->  up the duff: pregnant <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
-
->  duff ... 2. up the duff. Sl., chiefly Austral. pregnant. <i>(1982,Collins Concise English Dictionary,344</i>) [NOTES: [nf. 1986 NZPOD]]
-
 >  <b>LAY</b> `Can't be up the duff then ... Married, before the end of his first year at varsity.' <i>(1988,Fools on the Hill, The,23</i>)
 
->  Up the Duff is not just a romp. Likepregnancy, it's agonising and awful attimes. <i>(Oct 8, 1995,Sunday Star Times,D20</i>)
+>  <b>TEXIDOR</b> Everyone goes to varsity or to Training College. <i>(1987,In Fifteen Minutes,204</i>) [NOTES: a1964 Texidor in 1987 In Fifteen Minutes]
+
+>  Men's senior hockey matches played on Saturday resulted:- 'Varsity 1, Sydenham 0 ... <i>(Aug 1, 1938,Evening Post,5</i>)
+
+>  Paramor and Hewat batted well for the 'Varsity, the former appearing quite at home on the quick ground. <i>(Nov 26, 1877,Otago Daily Times,2</i>)
+
+>  It is astonishing how much the esprit de corps, once so noticeable a feature in the professions, is dying out. It survives in the Army, the Navy, and the 'Varsity, and a phantom of it lingers among the lawyers and doctors. <i>(Nov 22, 1880,Timaru Herald,2</i>)
+
+>  In 1888, one match was played, which, thanks to the efforts of Cook and Thomson, the 'Varsity won by a goal and a try to nothing. <i>(Jun 12, 1890,Otago Witness,28</i>)
 
 
 
-## up the flue
+## VD and Scar
  
- <i>phr.</i> lost, finished; done for (cf. modern up the spout, shoot, wop) [(obs, rare)]
+ <i>phr.</i> a pun on VC and Bar
 
->  Their 5000 Yarn was all up the flue,/ Like the rest of their cries it would not take then(?). <i>(1858,Wellington Election Songs,17</i>)
+>  <b>SLATTER</b> Follow me, Ape Platoon, he used to say, and you'll win the V.D. and Scar. Or the Dysentery medal. <i>(1968,Pagan Game, The,71</i>)
 
 
 
-## up the gorge
+## VDL
  
-<b>1</b> <i>phr.</i> (Rural) travelling to or living beyond a river gorge.
+ <i>n.</i> [aka V.D.L. Van Deimen's Land - ref to timber from Tasmania]
 
->  <b>MCLEOD</b> When I was an insignificant musterer I called at a big station on my way 'up the gorge' to a job. <i>(1951,NZ High Country,16</i>)
+>  The Members are mostly speculators in Land from England, N.S.W. and V.D.L. <i>(Apr 1840,Journal of Ensign Best,217</i>)
 
->  <b>NEWTON</b> .. he liked nothing better then having a few drinks with the boys from 'up the gorge.' <i>(1971,Ten Thousand Dogs,94</i>)
+>  <b>MACKIE</b> V.D.L. timber is in high repute here for fencing, shingles etc., it is so much more durable than the N.Z. wood. <i>(May 16, 1853,Traveller under Concern,109,1973 ed.</i>)
 
+>  V.D.L..- Hard timber of several kinds which comes from Australia and is used for making, gates, etc. The letters stand for Van Dieman's Land, and prove, which I suppose everyone knows, that this trade began began before Tasmania changed its name. (C.) <i>(Dec 30, 1933,Press, The,13</i>) [NOTES: (ca1890-1910) 1933 Acland Glossary]
 
+>  Palings - V.D.L., 6ft., 22s.; 5 ft., 18s. Shingles - V.D.L., 22s 6d. <i>(Jun 3, 1874,Nelson Evening Mail,2</i>)
 
-## up the gully
- 
-<b>1</b> <i>phr.</i> (Rural) the remote or high country.
+>  It is recommended that the Council provide a stock of timber, say 4000 feet, V.D.L. and Totara, and that prices be obtained at once. <i>(Jan 23, 1900,Ashburton Guardian,2</i>)
 
->  Jamie getting gravel from 'up the gully'. <i>(Aug 6, 1866,Puketoi Station Diary</i>)
-
->  <b>LOUGHNAN</b> Gully, up the: Opposite to down the tarmac. But it also suggests a propensity for avoiding visits to the towns, cities etc. <i>(1981,Loughnan Glossary,37</i>)
-
-
-
-## up the guts
- 
- <i>phr.</i>
-
->  Up the guts (also Up the Middle): Rugby shorthand for old-fashioned, driving, kick-and-chase tactics where the forwards largely keep the ball to themselves. <i>(Oct 2, 1999,Evening Post,7</i>)
-
-
-
-## up the jumper game
- 
- <i>n.</i> (Sport) [(rugby) Google search Apr 2006: also used Sth Afr; UK; Austral.]
-
->  The conditions called for an "up the jumper" game and that's what we got. <i>(Jul 18, 2004,Internet - see Notes</i>) [NOTES: http://www.haka.co.nz/haka-column.php?archid=234&column_name=Editorial%20ABAccessed 17/04/06]
-
-
-
-## up the spout
- 
- <i>phr.</i> a marbles game
-
->  <b>POLACK</b> Several old gentlemen `bearded like a pard,' were stretched at full length playing with round pebbles, the primitive school-boy game, known to vulgar ken as `up the spout;' ... <i>Ibid.</i>2/170 ... playing at marbles `up the spout' and at `buttons in the hole' <i>(1840,Manners & Customs of the NZers,1/92</i>)
-
-
-
-## up the way
- 
- <i>phr.</i> pregnant
-
->  <b>SLATTER</b> George ... had put one of the dining-room maids up the way. <i>(1968,Pagan Game, The,80</i>)
-
-
-
-## up the wazoo
- 
- <i>phr.</i>
-
->  Most National seniors have spent the last nine years with their lives filleted up in ministerial diaries, with few weekends free, with meeting up the wazoo, and more people wanting to speak to them than people they want to speak to. <i>(May 27, 2000,Listener (New Zealand Listener),34</i>)
-
-
-
-## up the wop
- 
- <i>phr.</i> incorrect, wrong
-
->  <b>McGILL</b> up the wop pregnant. - broken, not functioning; eg `That doll's house you've built is totally up the wop.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,118</i>)
-
->  The next thing Mr Cooper assesses is participants' seating positions - half (again not including me) are declared "up the wop" and remedied. <i>(Sep 1, 2001,Dominion,10</i>)
+>  We carry large stocks of all Native and imported Timbers, including Redwood, Oregon, Jarrah, V.D.L., Palings, etc., Silver Pine and Birch Fencing Posts and Stakes. <i>(Aug 3, 1926,Ellesmere Guardian,1</i>)
 
 
 
  
- <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](../U#up-the-duff))
+ <i>adj.</i> re Van Diemen's Land (Tasmania) [ORIGIN: acronym, aka V.D.L.]
 
->  <b>HOOPER</b> There's always something happening, like ... some sheila you know geting put up the wop ... <i>(1981,Goat Paddock,13</i>)
+>  JOHN JACKSON .. HAS FOR SALE .. 60,000 feet V.D.L. Timber ... <i>(Aug 14, 1882,Timaru Herald,2</i>)
+
+>  M'CALLUM AND CO. .. ARE NOW LANDING .. 1,500 V.D.L. POSTS ... <i>(Apr 2, 1892,North Otago Times,1</i>)
+
+>  The chief points in the report were .. that a piece of v.d.l. fencing be erected in line with the back of the produce shed to give protection to the poultry and dogs ... <i>(Sep 6, 1900,Ellesmere Guardian,3</i>)
+
+>  Car Trailer with v.d.l. sides ... <i>(Mar 9, 1943,Ellesmere Guardian,1</i>)
 
 
 
+## vealer
  
- <i>phr.</i> awry; broken [ca1938]
+ <i>n.</i> OED veal 3b. vealer, a calf intended or fit for veal. US101 - in American dicts; so W3 -->a young cattle beast, normally not over 12 months old with a carcass not exceeding 160 kg in weight for export, or 163 kg for local consumption (distinct from bobby veal)
 
->  <b>MUIR</b> `Fair go. The whole idea's up the wop. I can think of a hundred explanations straight off.' <i>(1960,Word for Word,212</i>)
+>  If this advice is taken, the inevitable crop of dairy-type vealers this year should, with forethought, be followed by a crossbred crop next year. <i>(Oct 15, 1958,NZ Journal of Agriculture,97(4)/307</i>)
+
+>  <b>TURNER</b> Calves not kept for the herd become bobby calves, a truly standard word since it was defined in the Bobby Calf Marketing Regulations in the New Zealand Statutory Regulations, 1938: `Bobby calf' means a calf which is intended for slaughter for human consumption as boneless veal.' Theorigin and dating of the word are doubtful. There is a similar word poddy calf for a hand-fed calf, recorded in Australia from last century. The present New Zealand meaning seems to have arisen about 1929. <i>(1966,English Language in Aust. & NZ, The,150</i>)
+
+>  Vealer: A young cattle beast, normally not over 12 months old with a carcass not exceeding 160 kg in weight for export, or 163 kg for local consumption (distinct from bobby veal). <i>(1982,MAF Agricultural Glossary,35</i>)
+
+>  C. Vealer Calves [heading] <i>(1936,Agricultural Organization in NZ,470</i>)
 
 
 
-## up to dolly's eyeweights
+## Veefer
  
- <i>phr.</i> variant of up to dolly's wax.
+ <i>n.</i> a Victory cigarette q.v. (See [also V](../A#also-v))
 
->  <b>MASON</b> GILHOOLY, rallying: Pleased! Sure! Thrilled to bits! Up to dolly's eyeweights! <i>(1969,Awatea,40,1978 ed.</i>)
+>  No one could smoke Veefers and be a mother - or a father of six. <i>(Mar 20, 1944,NZEF Times,III/143 : 4</i>)
 
 
 
-## up to dolly's wax
+## Vegas
  
- <i>phr.</i> up to scratch or tin tacks; to the greatest or fullest extent. [(rhyming sl., WW2 RNZAF)]
+ <i>n.</i> short for Rotovegas (Rotorua)
 
->  ... this box [cactus stove] has to be filled up to dolly's wax with really hot flames. <i>(1944,Coral Dust</i>)
-
->  <b>McGill</b> full up to the dolly's wax so full of food one could not eat another morsel; from Victorian dolls having heads of wax. ANZ. <i>(1989,Dinkum Kiwi Dictionary, The,33</i>)
+>  <b>MARRINER</b> ...neither Mick nor I can claim sole ownership of the black-primered behemoth in which we currently linger: the Sherman tank replica known throughout Vegas as <i>The 'Dan</i>. <i>(2001,Stonedogs,13</i>)
 
 
 
-## up to putty
+## vege/veggie
  
- <i>phr.</i> (has had both positive and negative meanings i.e. used with or without 'not'; see Orsman and DNZE) (not) up to scratch [ca1920 This chisel's not up to putty; it won't keep an edge. The new town clerk's not up to putty. Drinks too much. (occ.) You'll have to be up to putty to come top.] (See [(cf. dolly's wax)](../(#(-dolly's-wax)))
+ <i>adj.</i> vegetable (esp. in collocation vege garden) [various spellings]
 
->  <i>putty, up to (Phr.) </i>as bad as can be [Old Hawkesbury R. expression from `the road up to Putty', a notoriously bad highway]. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),16</i>)
+>  "Then the big boys of the wholesale vege business moved in and I went down the donger, didn't I. I went bloody broke, virtually." <i>(Sep 19, 1998,Dominion,17</i>)
 
->  <i>(phrase) of poor quality, valueless. </i> <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),623</i>)
+>  <b>BAKER</b> The Ngahere people avoided the shops, preferring to compete with the dogs for sheep, search out suburban veggie gardens, and catch eels and pick watercress in the creek behind the school. <i>(2000,Kokopu Dreams,43</i>)
 
->  He also took the precaution to enter as "J. E. Morrison" in the same handicap, and as "Morrison's" performances were not up to putty the handicapper slung him in on the 10yds mark. <i>(Jul 9, 1912,Otautau Standard & Wallace County Chronicle,7</i>)
+>  In Paraparaumu a vegie seller totted up the amount owed by a customer, $3.45, and said: "That will be a quarter to four, thanks." <i>(May 11, 1992,Listener (New Zealand Listener),9</i>) [NOTES: Original in Evening Post, 28/3/1992]
 
->  Duff seems worried and says things are up to putty. <i>(Nov 29, 1928,NZ Truth,5</i>)
+>  <b>HASCOMBE</b> We passed what was described to us as the `vegy' garden ... <i>(1969,Down and Almost Under,80</i>)
 
->  'Going up! Going up! like a rocket gone insane,' as Alfred Firth used to warble, applies to household bills these days. Bread up tuppence a large loaf, milk up penny a quart, butter up, beef up, mutton up - everything is up to putty. <i>(Mar 21, 1925,NZ Truth,5</i>)
+>  <b>HUNT</b> We were always great people for growing our own food; everyone had a vege garden those days ... <i>(1981,Speaking a Silence,7</i>)
 
->  The Salvation Army authorities put in a word for the 'shickerer'. They said Molloy sober, was a great worker, Molloy drunk was up to putty... <i>(Dec 28, 1918,NZ Truth,2</i>)
+>  Can anybody be bothered making veggie platters and dips or do we just order pizza in the early hours of the morning? <i>(Feb 27, 2000,Sunday Star Times,D5</i>)
 
->  The much-perturbed Digger wouldimmediately seek out the M.O., pitching ayarn about feeling feverish and generally"up to putty." <i>(Jul 19, 1918,Chronicles NZEF,IV/48 : 274</i>)
+>  Take quiet stroll to bottom of garden where veggie garden used to be. Bit of racket as old sheila discovers I sampled the pav. <i>(Dec 24, 1983,Listener (New Zealand Listener),14</i>)
+
+>  I would like to thank.. a woman from thefruit and vege market plus the ambulancemen and hospital staff. <i>(Apr 20, 1993,Dominion,6</i>)
 
 
 
-## up to the collar
+## veged out
  
- <i>phr.</i> hard at work, up to the mark
-
->  <b>WILSON</b> And there is no doubt that his mother kept him and his brothers and sisters `up to the collar' (the local phrase) with their school work. <i>(1983,Rutherford Simple Genius,28</i>) [NOTES: c1880s-1890s in 1983 Wilson Rutherford - Simple Genius 28]
+ <i>adj.</i> [(adolescents') -->1. VEGE [vedj], vege around, vege out to waste time spg various vedge 1. as a v -->1984 16 F E40 Pakuranga Coll. 14 VEDGE AROUND [waste time] -->1984 16 M E64 Pakuranga Coll. 14 VEGE -->1984 17 F E49 Pakuranga Coll. 14 VEGE OUT 2. as ppl aj mad, describing a mad person; also TOTALLY VEGED useless -->1984 16 F E40 Pakuranga Coll. 2 VEDGED OUT (?VEGE OUT) [mad] -->1984 16 F E37 Pakuranga Coll. 2 VEGED OUT]
 
 
 
-## up to the mark
- 
- <i>phr.</i> (with negative) [ca1940 Havelock.]
-
->  <b>HOPEFUL</b> If a man isn't `up to the mark' he is called `a regular shicer!' This phrase originated from the gold diggings. Supposing a man is digging, but without success, and he therefore abandons his hole, it is called a `shicer' - that is, the <i>ground</i> was called a `shicer' or duffer, thus the origin. <i>(1887,Taken In,135</i>)
-
-
-
-## up to the scratch
- 
- <i>phr.</i> up to the mark
-
->  <b>CHAMIER</b> ... he must come up to scratch like a man <i>(1891,Philosopher Dick,121</i>)
-
->  <b>COTTLE</b> I am determined to bring him to the scratch <i>(1891,Frank Melton's Luck,149</i>)
-
->  The idiot who will fool with wild beasts ... was on duty ... at Waihi, last week, and got his arm terribly torn by one of the prisoned cats. Wonderful how often these chumps will come up to the `scratch' <i>(Jul 14, 1906,NZ Truth,56/14</i>)
-
->  <b>PEARSON</b> <i>(1963,Coal Flat,143</i>) [NOTES: [get quot: check OEDS.]]
-
-
-
-## up with the ball
- 
- <i>phr.</i> up with the play (? a rugby metaphor)
-
->  Dairy farmers in the Blenheim district are `up with the ball' as far as herd leptospirosis vaccinations are concerned. <i>(Jan 20, 1984,Marlborough Express,22</i>)
-
-
-
-## up you
- 
- <i>exclam.</i>
-
-
-
-## up you for the winter
- 
- <i>phr.</i>
-
->  <b>MUIR</b> `Up you for the winter, mate. I got some booze to get stuck into now. I'll be bloody ripe by the time the friggin' railcar goes. No bullshit. Gidday, sport. You bloody bastard.' <i>(1960,Word for Word,255</i>)
-
-
-
-## up your ...
- 
- <i>phr.</i> in various expressions, usually of disbelief, contempt, defiance, etc and often with rhythmic or rhyming elaborations (cf UP YOU, UP YOURS, etc.; 2. (mainly schoolboys') a.UP YOUR BROWN FOR HALF-A-CROWN -->b. UP YOUR DATE FOR TWO AND EIGHT -->ca1935 Havelock -->ca1941 St Patrick's College, Silverstream --> SHOVE IT cf also UP THE COOK('S ARSE) cf P: up your jacksy! up ya!: low: contemptuous catchprase: Aust: 20C -->1. UP YOUR ARSE [ca1938 cf WF up your ass]
-
-
-
-## up your jumper
- 
- <i>phr.</i> a euphemism possibly shortened from `You can shove it up your jumper' indicating abrupt or contemptuous dismissal, etc. -->ca1935 Havelock schoolchildren
-
-
-
-## up-country
- 
- <i>adj.</i>
-
-
-
-## upcast
+## Vegemite
  
  <i>n.</i>
 
->  <b>McARA</b> Upcast: An exhaust airway up which spent air from the mine passed. Nos 5, 2 and 7 shafts were upcasts while Nos 4 and 6 shafts were downcasts. <i>(1978,Gold Mining at Waihi (Glossary),336</i>)
+>  `Cripes,' said the Big Fella, wiping vegemite off the crumpled newspaper ... <i>(1986,Day and Night,7</i>)
+
+>  What a vindication of Vegemite and Weetbix, those good old standbys of a Kiwi girl's diet. <i>(Jul 27, 2000,Dominion,8</i>)
+
+>  <b>PASCOE</b> By 7.30 p.m. they were safe at the high camp, eating Ryvita and Vegemite as prelude to a stew.vegetable caterpillar <i>(1958,Great Days in NZ Mountaineering,158</i>)
 
 
 
-## update hui
+## veges/veggies
  
- <i>n.</i> an information-sharing meeting
+ <i>n.</i> vegetables, esp. as food at the table [various spellings]
 
->  An update hui will therefore be held on: Saturday 2 August 2008 .. The update hui will be followed by a further wananga to discuss the claimant definition for Ngati Pahauwere. <i>(Jul 26, 2008,Dominion Post,C16</i>)
+>  <b>TEXIDOR</b> Our neighbours don't bother to grow veges ... <i>(1942,In Fifteen Minutes,184,1987 ed.</i>)
+
+>  <b>TURNER</b> If a child eats his vegies as he should, he is soon ready for kindy. <i>(1966,English Language in Aust. & NZ, The,173</i>)
+
+>  <b>MASON</b> Oh, cripes. Forgotten the vegies. <i>(1969,Awatea,26,1978 ed.</i>)
+
+>  Yes great looking vegies they had those days, turnips as big as pumpkins, ... <i>(1980,NZ Short Stories,112,1984 ed.</i>) [NOTES: Grace (Journey)]
+
+>  <b>GEE</b> All these veges I been eatin' has got me kinda weak in the knees. Next thing I'll be chewin' me cud like a bloddy cow. [check spg???] <i>(1982,Halfmen of O,143,1984 ed.</i>)
+
+>  <b>MACKENZIE</b> Early days at Rongotai[???] saw her ... with a period of `doing the veggies', while her later work included the running of the large airmen's mess ... at Mount Eden. <i>(1982,WAAF Book,77</i>)
+
+>  Veg or vegie. An over zealous student. Used at Palmerston North Boys ' High School, less frequently at Palmerston North Girls' High School - and rarely at other high schools. Here Short for vegetable - a dull thing. <i>(Oct 21, 1983,Letter</i>) [NOTES: M.A. Nixon (Palmerston North)(Adolescent and School Slang)]
+
+>  <b>RICJARDS</b> The womenfolk instructed the brothers ... how best to cook veges and meat. <i>(1986,Off the Sheep's Back,14</i>)
+
+>  Those strangely infantile condensations - `prezzies' and `rellies' (for presents and relatives) were bandied about on the radio quite a bit recently. It looks as if they are going to join veges, ciggy, brekky, cardy - and all the rest as OK idiom. But there is one antipodean expression that charms people internationally ... That is the word `naughty', for sexual intercourse. <i>(Jan 10, 1989,Evening Post,6</i>)
+
+>  A ripping section that will grow your fancies in "vegies" or beautiful flowers; close to school and tram. <i>(Sep 30, 1919,Evening Post,12</i>)
+
+>  Buy your home now and grow your own "Vegies"! <i>(Dec 7, 1922,Evening Post,3</i>)
+
+>  Super-Bungalow, 4 rooms and kitchenette, lovely grounds (room for tennis), lawns, flowers, "vegies," carrara ceilings, built-in wardrobes (something to be proud of). <i>(Mar 23, 1931,Evening Post,3</i>)
+
+>  The vegies in indignant mood/Convened a protest meeting/Concerning ramps in garden food/And cost of vegie eating ... <i>(Nov 12, 1941,Evening Post,6</i>)
+
+>  <b>ORSMAN</b> I'm a terror for me veges. <i>(1988,Heinemann NZ Dictionary,42</i>) [NOTES: Quote from c.1960]
+
+>  When the fresh supplies failed to get through in May, veges arrived rotten and limp by ship after the roads were washed out, troop morale took a dive. <i>(Jul 15, 2000,Dominion,29</i>)
+
+>  I'm prepared to supply Baldy with veggies for six months. <i>(Jul 2, 1945,NZ Dairy Exporter,77</i>)
 
 
 
-## upland
+## vegetable
  
-<b>1</b> <i>adj.</i> (Rural) [of land etc] high and remote.
-
->  This month's hard-feeding which has necessitated on many of the stations and upland farms has run into a big bill. <i>(Aug 22, 1903,Farmers' Union Advocate,5</i>)
-
->  <b>GORDON</b> The big upland stations of this region, the North Island's equivalent of the South's High Country, was then running Merinos on open hill and tussock ... <i>(1998,Three Sheep and a Dog,77</i>)
+ <i>n.</i> [adolescents: 1984 16 F E38 Pakuranga Coll. 10 VEGETABLE [useless person] -->1984 17 M E116Pakuranga Coll.]
 
 
 
-## uplift
+## vegetable boa-constrictor
  
- <i>v.</i> pick up or collect (a document, parcel, etc.) [Jim Cameron writes: Trudgill gives this as a NZ sense, Collins as <i>NZ, Scots</i>. I have heard it and used it at least since the 60s.]
+ <i>n.</i> <i>Metrosideros florida</i>
 
->  When you make a reservation, a ticket uplift date will be given. <i>(Nov 1998,Interisland Fares & Timetables,00</i>) [NOTES: check page]
-
->  He has always understood "uplift" to mean a sort of moral or spiritual inspiration, with unrelated technical meanings such as "raise" for geological formations and support from a garment for a woman's bust. Our usage in the sense of picking up documents from a council office or goods from a warehouse or storage shed does seem peculiar to New Zealand. <i>(Dec 28, 2005,Dominion Post,B5</i>)
+>  <b>HURSTHOUSE</b> <i>Metrosideros florida</i> vegetable boa-constrictor <i>(1857,New Zealand, or Zealandia</i>)
 
 
 
-## upoko
- 
- <i>n.</i> the head
-
->  <b>FORSTER</b> A Comparative Table of the Various Languages in the Isles of the South-Sea ... [English] <i>The Head .</i> ... [New-Zeeland] oopo [o1-grave] <i>(1778,Observations Made During a Voyage,284</i>)
-
->  <b>SAVAGE</b> Oopoko .. The head. <i>(1807,New Zealand (various authors/titles),74</i>)
-
-
-
-## upoko-tangata
- 
- <i>n.</i>
-
->  <b>HOOKER</b> Upoko-tangata, <i>Col[enso]. Cyperus ustulatus. .</i> <i>(1867,Handbook NZ Flora (List of Names),768</i>)
-
-
-
-## upokoroa
- 
- <i>n.</i> grayling
-
->  <b>HULME & MORRISON</b> Certainly, from being a common and delicious fish, the upokoroa has vanished away to the point of legendariness. <i>(1989,Homeplaces,9</i>)
-
-
-
-## upokororo
- 
- <i>n.</i> freshwater grayling
-
->  A shoal of upokororo fish was seen in the Waipawa river on Thursday afternoon... and about fifty natives at once came down from the pah to endeavour to catch them. <i>(Jun 25, 1885,Wairarapa Daily,2</i>)
-
->  "I think you are wrong in your supposition that the fish seen in the upper waters of the Wanganui river, and the Angaruhe running into it, are the Upokororo, or native grayling ..." <i>(Jan 8, 1885,Wanganui Herald,2</i>)
-
->  Another question he puts to naturalists deal [sic] with the upokororo, or grayling, scientifically Prototroctes oxyrhynchus. <i>(Jan 15, 1910,Evening Post,13</i>)
-
->  <b>TAYLOR</b> .. about fifty good-sized fish ... called the <i>upukuroro.</i> , or freshwater herring. <i>(1959,Early Travellers,265</i>) [NOTES: 1848 Brunner Expedition Middle Island in 1959 Taylor Early Travellers]
-
->  <b>TAYLOR</b> ...the upokoro is a fish about eight inches long,... <i>(1855,Te Ika a Maui,499</i>)
-
->  <b>HECTOR</b> UPOKORORO. ... The above is the native name of the Grayling (<i>Prototroctes oxyrhynchus.</i> ), a fish that has been long familiar to settlers in certain districts, but ... remained undescribed till last year ... <i>(1872,Edible Fishes,123 91</i>)
-
->  <b>BEATTIE</b> Upokororo - the grayling. It is mentioned only once. <i>(1945,Maori Place-Names of Canterbury,63</i>) [NOTES: c1880 South Island Maori Lists `Wahi Mahika Kai' in 1945 Beattie Maori Place-names of Canterbury]
-
->  <i>Prototroctes oxyrhynchus.</i> , Gunther. Upokororo - The Grayling. <i>(1885,TrNZI,17/171</i>) [NOTES: Arthur]
-
->  <b>SHERRIN</b> GRAYLING (<i>Prototroctes oxyrhynchus.</i> ). ... Called by the Natives upokororo. <i>(1886,Handbook Fishes of NZ,135</i>)
-
->  The upokororo (<i>Prototroctes oxyrhynchus </i>), a native grayling of somewhat erratic habits, is to be found in some of the rivers, and at certain times of the year affords good sport. <i>(1894,NZ Official Yearbook,431</i>)
-
->  The only true representative of the <i> Salmonidae </i>) is the beautiful little <i> Retropinna </i>), or smelt, two varieties of which at least are found in our rivers and lakes. Somewhat allied to this fish, the graceful upokororo (<i> Prototroctes oxyrhynchus </i>)), or native grayling ... is found in many of our streams. <i>(1901,TrNZI,33/243</i>)
-
->  <b>DRUMMOND & HUTTON</b> The upokororos spawn in the rivers about June, and go into the sea probably in September. <i>(1902,Nature in NZ,75 ed.</i>)
-
->  <b>TREGEAR</b> A kind of grayling (<i> upokororo </i>) was found abundantly in some rivers but its habitat was limited. <i>(1904,Maori Race, The,108</i>)
-
->  PROTOTROCTES OXYRHYNCHUS Gunther[u-dieresis]. <i> Grayling; Upokororo </i>). Still to be found in a number of streams in the west coast of the South Island. Highly esteemed as a food fish by Maoris and settlers. An example has recently been taken from a stream in Taranaki. ... Distribution: New Zealand rivers and streams. <i>(Jun 1921,NZ Journal of Science & Technology,IV/119</i>) [NOTES: Phillipps Notes on the Edible Fishes]
-
->  Names - The general name is upokororo (`head full of brains'), derived from the fatness which characterizes it. The small ones are also called rehe, and the large size tirango. <i>(1926,TrNZI,58/638</i>) [NOTES: Buck]
-
->  <b>PHILLIPPS</b> <i> Prototroctes oxyrhynchus </i>) Guenther. GRAYLING; UPOKORORO. <i>(1927,Bibliography of NZ Fishes,14,1971 ed.</i>)
-
->  <b>BEST</b> The other principal species formerly taken were the inanga and kokopu (<i> Galaxias </i>) and <i>Retropinna </i>), upokororo (<i> Prototractes </i>), and panoko (<i> Cheimarrichthys </i>); while the lamprey (piharau and korokoro) and fresh water crayfish (koura) were taken in considerable numbers in some districts. <i>(1929,Fishing Methods,71</i>)
-
->  <i> Prototroctes oxyrhynchus </i>): [European Name] Grayling [Maori Name] Upokororo. <i>(1936,Handbook for New Zealand, The,73</i>)
-
->  <b>BUICK</b> Grayling, too, must have come into the bill of fare [of the Canterbury moa-hunters]; but this fish ... disappeared so quickly that the <i> upokororo </i> is only a far-off name to most of the elderly Maoris of to-day. <i>(1937,Moa-Hunters of NZ,176</i>)
-
->  <b>PHILLIPPS</b> GRAYLING OR UPOKORORO <i> Prototroctes oxyrhynchus </i> Gunther ... This remarkable fish is now rarely seen. <i>(1940,Fishes NZ,46</i>)
-
->  <b>MANNERING</b> The Upokororo or Grayling is another [of the Salmonidae], but this fish is almost extinct. <i>(1943,Eighty Years,158</i>)
-
->  <b>BUCK</b> Another form [of net] was used to catch grayling (<i> upokororo, Prototroctes oxyrhnchus </i>) in the upper reaches of the Waiapu ... and other rivers on the East Coast. <i>(1949,Coming of the Maori, The,215</i>)
-
->  <b>NATUSCH</b> The `grayling' <i>Prototroctes </i> ... was called upokororo by the Maori. ... Just why the upokororo (no relation to the English grayling) has vanished is not known. <i>(1967,Animals of NZ, The,208</i>)
-
->  <b>Brunner</b> Finished making a kupanga, or net, which is about fifty feet by four. took a draught of about fifty good-sized fish with it, called the upokororo, or fresh-water herring. [fn] upokororo, grayling. <i>(1847,Great Journey,25,1952 ed.</i>)
-
->  The Upokororo... was undoubtedly named after that beautiful, but now almost extinct fish, the New Zealand greyling (Pototroctes oxyrhynchus) [sic], the Maori name of which is Upokororo. <i>(Jul 8, 1924,Otago Witness,9</i>)
-
-
-
-## upokotea
- 
- <i>n.</i> also called white-head the North Island variety of bush canary. [Compare MOHUA. [Maori upoko head + tea white] Maori <i>upokotea </i> Williams 468 <i>Upokotea ... Mohoua albicilla, white-head; a bird </i>. =po[o]pokotea.: <i> Mohoua albicilla </i>, =WHITE-HEAD]
-
->  <b>BULLER</b> ORTHONYX ALBICILLA {CLITONYX ALBICAPILLA}. (The WHITE-HEAD.) ... <i> Native names </i>. Popotea, Poupoutea, Popokotea, and Upokotea. <i>(1873,Birds of New Zealand,102,1888 2nd edn 1/53 ed.</i>)
-
->  <i> Orthonyx albicilla </i>, Less. Whitehead, Hihipopokera, Upokotea. <i>(Nov 1884,NZ Journal of Science,282 : 18</i>) [NOTES: T.H. Potts]
-
->  <b>ANDERSON</b> <i> upokotea </i>, a bird (Certhiparus albicapillus), white-head, the North Island form of the bush-canary, often contracted to pokotea: the South form is mohua which see. <i>(1946,Journal of the Polynesian Society,55/160</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> ?occas. to YELLOWHEAD
-
->  <b>BULLER</b> ORTHONYX {CLITONYX} OCHROCEPHALA. (The YELLOW-HEAD.) ... <i> Native names </i>. The same [Popotea, Poupoutea, Popokotea, and Upokotea] as those applied to the preceding species [White-head]: `Canary' of the colonists. <i>(1873,Birds of New Zealand,103,1888 2nd edn 1/56 ed.</i>)
-
-
-
-## Upper House
+## vegetable caterpillar
  
  <i>n.</i>
 
->  "A firm handshake and 'well done, my boy' from the Prime Minister," said the bloke.. ".. followed by a seat in the Upper House and a pension. <i>(Dec 21, 1942,NZEF Times,II/78 : 2</i>)
+>  <b>McNEISH</b> Peering out from the glass cases.. were insects, animals, birds.. a vegetable caterpillar.. a swordfish half as long as a cigarette. <i>(1957,Tavern in the Town,35</i>) [NOTES: 1984 edition]
 
->  The business in the Upper House was mostly of a private character. <i>(Nov 27, 1877,Grey River Argus,2</i>)
+>  <b>DIEFFENBACH</b> Hotete - a caterpillar, the so-called vegetable caterpillar <i>(1843,Travels in NZ,2/363</i>) [NOTES: Dictionary NZ Language]
 
->  The Elevation to the Upper House. <i>(Oct 24, 1884,Star, The,3</i>)
+>  <b>ANGAS</b> Amongst the damp moss at the root of the rata trees, in the shady forests not far from Auckland,and also in various parts of the Northern Island, are found those extraordinary productions called vegetable caterpillars - the hotete of the natives. In appearance, the caterpillar differs but little from that of the common privet sphinx-moth, after it has descended to the ground previously to its undergoing the change into the chrysalis state. But the most remarkable characteristic of the vegetable caterpillar is, that every one has a very curious plant, belonging to the fungi tribe, growing from [292] the .us;anus; this fungi varies from three to six inches in length, and bears at its extremity a blossom-like appendage, somewhat resembling a miniature bulrush, and evidently derives its nourishment from the body of the insect. This caterpillar, when recently found, is of the substance of cork; and it is discovered by the natives seeing the tips of the fungi, which grow upwards. They account for this phenomenon by asserting that the caterpillar, when feeding upon the rata-tree overhead, swallows the seeds of the fungus, which take root in the body of the insect, and germinate as soon as it retreats to the damp mould beneath, to undergo its transformation into the pupa state. Specimens of these vegetable caterpillars have been transmitted to naturalists in England, by whom they have been named Sphoeria Robertii.[check spgs ??? see under <i>(1847,Savage Life,1/291</i>)
 
->  It is pleasant to see that the Upper House is at last awakening to its duty to the poor people of this colony in resisting the passage of any Loan Bill whatsoever. <i>(Sep 17, 1896,Evening Post,2</i>)
+>  Notes on the so-called `Vegetable Caterpillar' of New Zealand. <i>(1886,TrNZI,18/209</i>) [NOTES: A. Hamilton]
 
->  The Hon C. H. Mills, formerly Minister of customs, has been called to the Upper House <i>(Mar 4, 1909,Ashburton Guardian,3</i>)
+>  The term `vegetable caterpillar' is a corruption of the old name of `vegetating caterpillar', by which Sphoeria was called forty or fifty years ago by those colonists who then took interest inscientific matters and which properly describes the curiosity as a caterpillar which apparently develops into or produces a plant. I think it is a pity that our Transactions should be disfigured by a vulgar corruption, however common. <i>(1896,TrNZI,28/623</i>) [NOTES: Field]
 
->  THE UPPER HOUSE. YESTERDAY'S SESSION. <i>(Sep 17, 1900,Ashburton Guardian,6</i>) [NOTES: Year is incorrect.]
+>  <b>HUDSON</b> The curious `vegetable catapillar', which is usually referred to this species, probably belongs to one of the larger subterranean larvae of the family <i>(1892,Elementary Manual of NZ Entomology,72</i>)
 
->  The Legislative Council passed the Abolition of the Upper House Bill through all its stages. <i>(Oct 28, 1921,Ashburton Guardian,5</i>)
+>  <b>TREGEAR</b> ... careful watch was also kept upon the growing plants to guard them from the ravages of a certain caterpillar; the larva of a large moth (anuhe, awhato, hotete; Cordiceps robertsii) which preyed on the kumara leaves ... This pest is better known as the `vegetable caterpillar' from afungus that grows from it after death. <i>Ibid.</i> 259 Soot for use as colouring matter for tattooing the body was sometimes made from the burnt awheto or `vegetable caterpillar' (Cordiceps robertsii), but was not black enough for face-moko. <i>(1904,Maori Race, The,86</i>)
 
->  UPPER HOUSE .. The Prime Minister (the Rt. Hon. G. W. Forbes) announced today that his Excellency the Governor-General had been pleased to appoint the following gentlemen to be members of the Legislative Council ... <i>(Jun 22, 1934,Evening Post,10</i>)
+>  <b>WHITE</b> It is called the Vegetable Caterpillar. The specimens that I have seen were large, dead Caterpillars, with apparently the root of a shrub protruding from the region of the tail. <i>(1905,My NZ Garden,56</i>)
 
->  <b>SINCLAIR</b> The 1852 constitution was extremely democratic, more so than those then in force in the Australian colonies. The six Provincial Councils, the House of Representatives, and theSuperintendents of the Provinces were all elective, though the members of the Legislative Council (the Upper House) were nominated for life by the Governor. <i>(1959,History of New Zealand,87</i>)
+>  <b>LYSNAR</b> Amongst the most remarkable productions ... is the `Vegetable Caterpillar'. <i>(1924,New Zealand (various authors/titles),105</i>)
 
+>  The term `vegetable caterpillar' is a corruption of the old name `vegetating caterpillar,' by which the Sphoeria was called forty or fifty years ago by those colonists who then took interest in scientific matters, and which properly describes the curiosity as a caterpillar which ... develops [sic] into or produces a plant. I think it a pity that our Transactions should be disfigured by a vulgar corruption, however common. <i>(1895,TrNZI,28/623</i>)
 
+>  vegetable caterpillar n. a caterpillar which, after killed by a fungus grown from the sweetpotato on which it feeds, still retains its shape and appearance. <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,Supplement 3</i>)
 
-## upright
- 
- <i>n.</i> [the upright of a goalpost]
+>  <b>GUTHRIE</b> Close to the root of these scarlet myrtles, ... the little vegetable caterpillar is found. <i>(1930,NZ Memories,170</i>)
 
->  <b>McCARTHY</b> Moran actually hit an upright with anattempted "pot" from 40 yards out just4 minutes from time. <i>(1947,Broadcasting with the Kiwis,35</i>)
+>  vegetable caterpillar: dead larva of moth out of which fungus has grown. <i>(1947,Reeds' School Dictionary: NZ Suppl.,176</i>)
 
->  <b>BARR</b> ... in an even game with no tries on; he's certain to frighten the enemy with a `pot' which ... will skim the paint off the uprights. <i>(1908,British Rugby Team in Maoriland,33</i>)
+>  <b>MOORE & IRWIN</b> CORDYCEPS ROBERTSII, vegetable caterpillar <i>(1978,Oxford Book of NZ Plants,10</i>)
 
->  <b>SLATTER</b> The touch judges have moved around behind the posts and ... the Canterbury forwards ... crouch ready to rush forward, for the ball might strike the upright or the crossbar and rebound ... <i>(1959,Gun in My Hand, A,86</i>)
+>  vegetable caterpillar NZ = AWHETO <i>(1986,NZ Pocket Oxford Dictionary,855</i>) [NOTES: nf. 1982 Collins Concise Eng.Dict.]
 
->  Fox.. put up an up-and-under which hungin the air in front of the crossbar andbetween the uprights. <i>(May 1, 1993,Evening Post,52</i>)
+>  Veg'.e-ta'.ble (v&ebreve.j'.e.-t&adot.-b'l), a. [Add.] Vegetable caterpillar (Bot.), the aweto. See AWETO. <i>(1898,Merriam-Webster Third International,2033</i>)
 
->  Wileman raised the flags with a splendidkick, which hit the western upright. <i>(May 12, 1949,Southern Cross (Wgton),10</i>)
+>  Dr Hector exhibits some specimens of the vegetable caterpillar (awhato), attached to which is an explanatory note stating that the scores of a fungus penetrate the larva of a night flying moth, growing at its expense, and producing the peculiar lignified appearance. <i>(Jan 23, 1890,Otago Daily Times,17</i>)
 
->  Wileman raised the flags with a splendidkick, which hit the western upright. <i>(Jul 7, 1949,Southern Cross (Wgton),8</i>)
+>  Mr. G. Webster exhibited a case containing kiwi egg, hotete or vegetable caterpillar, puperrangi or land shells, paua or native fishing hooks. <i>(Dec 10, 1861,Daily Southern Cross,3</i>)
 
+>  A correspondent from Waikanae has sent to our office (where they may be inspected) specimens of the Arawaru, or vegetable, caterpillar. <i>(Jan 28, 1875,Wanganui Herald,2</i>)
 
+>  This is the aweto, a vegetable caterpillar always found in the vicinity of the rata. <i>(May 6, 1911,Hawera & Normanby Star,10</i>)
 
-## upright cut
- 
- <i>n.</i> (See [cf. underhand chop](../U#underhand-chop))
+>  It is a form of the strange vegetable caterpillar. <i>(Apr 6, 1922,Auckland Weekly News,15</i>)
 
->  <b>DEVANNY</b> The quickest time through a two foot upright or underhand cut. <i>(1926,Butcher Shop, The,13</i>)
+>  <b>PASCOE</b> By 7.30 p.m. they were safe at the high camp, eating Ryvita and Vegemite as prelude to a stew.vegetable caterpillar <i>(1958,Great Days in NZ Mountaineering,158</i>)
 
-
-
-## ups
- 
- <i>n.</i> C 1960 or earlier, watersider's term for "spells", from letting a man up out of the hatch
-
->  <b>EVANS</b> The long working day led to spelling, or 'ups' as we called it ... Ups, (the term came from letting a man up out of the hatch) became so entrenched that neither the union nor the employer was able to control it. <i>(1999,Where Giants Dwell:,39</i>)
+>  <b>MCALLISTER</b> In daylight we used to find the vegetable caterpillar (cordiceps robertsii), that strange marrying of creatures from the vegetable and animal worlds. <i>(1976,Old Taranaki,136</i>)
 
 
 
-## upset the pot
- 
- <i>phr.</i>
-
->  Many thought that he [sc. a racehorse] would upset the pot, but he could not get the distance. <i>(Mar 18, 1885,Wairarapa Daily,2</i>)
-
-
-
-## upside down cake
+## vegetable hand
  
  <i>n.</i>
 
->  UPSIDE DOWN CAKE ...crushed pineapple ... Sprinkle ... with brown sugar, little pieces of butter, and ... vanilla. Make a cake mixture ... Pour ... over pineapple. When cooked turn out with pineapple side up, and cover with whipped cream. <i>(1929,Ideal Cookery Book,92</i>)
-
->  UPSIDE DOWN CAKE ... bottom of cake tin ... brown sugar ... butter, chopped nuts, cherries, sultanas, ... butter ... sugar ... eggs ... flour ... baking powder. ... Pour over fruit ... bake. <i>(1936,Recipe Book [St Mary's],78</i>)
+>  VEGETABLE HAND This position is now available in our Hastings based food processing factory ... <i>(Apr 29, 2006,Hawke's Bay Today,6,Weekend Market ed.</i>)
 
 
 
-## upsnot
+## vegetable sheep
  
- <i>adj.</i> nose-in-the-air, conceited, acting socially superior [cf DNZE "up oneself". Very common expression in my (PC's) experience for last 20 or more years and still going strong.]
-
-
-
-## uptrodden
- 
- <i>adj.</i>
-
->  Faced with such a generous sample ofuptrodden Wellingtonians, it occurred tome that I ought to be having a fairlyentertaining time. <i>(Mar 30, 1995,Evening Post,4</i>)
-
-
-
-## urban assault vehicle
- 
- <i>n.</i> an SUV [apparently a Wellington nickname] (See [Remuera taxi](../R#remuera-taxi))
-
-
-
-## urban drift
- 
- <i>n.</i>
-
->  I believe Maori heritage is suffering from the urban drift, children from mixed marriages in particular already have a comfort zone. <i>(Dec 1996,Mana,No. 14 : 26</i>)
-
->  If you .look back at that time now in terms of what's happening in terms of urban drift for Maori, I think that's the time we started losing our language because people started moving to the city. <i>(Nov 8, 2000,Capital Times,9</i>)
-
-
-
-## urban marae
- 
- <i>n.</i> a (usually) pan-tribal marae complex in a town or city.
-
->  <b>Michael King</b> Tangata whenua people already swallowed up by urban expansion...were unwilling to let people from other tribal backgrounds make use of existing marae. This, coupled with the absence of marae in new suburbs, led to the conception and development of urban marae. <i>(2003,Penguin History of New Zealand,405</i>)
-
-
-
-## urban migration
- 
- <i>n.</i> Specifically, the post World War II migration of Maori to urban centres (See [silent migration](../S#silent-migration))
-
->  <b>HARVEY</b> First came the Maori people sometime between the 8th and 14th centuries in great seaward migrations across the Pacific Ocean... The Maori in effect became an under-class... The final social transformation came in the 1940s and 50s with the import of American cultural and economic dominance - the automobile, urban migration, urban sprawl and a consumer culture. <i>(1999,Internet - see Notes</i>) [NOTES: www.csis.org/e4e/Mayor12Harvey.html (Mayor's Asia Pacific Environmental Summit, 1999. Plenary Session 1.2)]
-
->  <b>FOX & BOOMGUARD</b> The difficult living conditions inthe tribal areas and the pakehas' insistence upon cultural assimilation drove an urban migration which began in the 1950s andultimately transformed tribal demographics. <i>(Mar 2000,Internet - see Notes</i>) [NOTES: www.bsos.umd.edu/cidcm/mar/nzmaori.htm]
-
->  After the war, Maori workers moved to the predominantly Pakeha cities in response to labour shortages. The urban migration brought problems, but it greatly increased public awareness ofMaori culture. <i>(2000,Internet - see Notes</i>) [NOTES: www.nzhcottawa.org/aboutnz/maoripeople.htm]
-
->  At present, on the one hand, there is one Maori in town for every three in the country: on the other hand, there are two Europeans in town for every one in the country. The distribution of European population represents the real distribution of available jobs. The urban migration of the Maori in search of work will go on till their distribution nearly coincides with that of the Pakeha. <i>(Jun 1961,Te Ao Hou,35: 31</i>)
-
-
-
-## urdung
- 
- <i>n.</i> the effluent emanating from stock-trucks as they pass along the road [Mr Shepherd writes 29/06/1999 : During 1987-1990 I chaired a committee seeking a by-pass for Whangarei's northern suburb of Kampo, & started using "urdung" to describe the effluent emanating from stock-trucks as they progressed through the shopping centre. I was surprised to discover that the word soon began appearing in official transport documents, a contraction of urine and dung.]
-
-
-
-## ure
- 
- <i>n.</i> penis [ORIGIN: Maori]
-
->  <b>HULME</b> I remember saying, hesitantly, `hey that looks like fun?' but then his upright ure wilted ... <i>(1986,Te Kaihau,225</i>)
-
-
-
-## urenika
- 
- <i>n.</i> variety of Maori potato
-
->  Roasted peru peru. So named because they were first brough here by Peruvian sailors, peru peru are unusual long-shaped tubers that have a delicious flavour similar to new potatoes, and are marbled with purple to varying degrees inside. You might also see them labelled as <i>urenika</i> potatoes. <i>(Sep 1999,Cuisine,Mo. 76 : 57</i>)
-
->  Roasted peru peru. So named because they were first brough here by Peruvian sailors, peru peru are unusual long-shaped tubers that have a delicious flavour similar to new potatoes, and are marbled with purple to varying degrees inside. You might also see them labelled as <i>urenika</i> potatoes. <i>(Sep 1999,Cuisine,No. 76 :  57</i>)
-
->  Indeed, the name of the most widely grown Maori potato, an elongated purplish black variety known as urenika, translates as "nigger's penis" - a reference to the African-American crew members aboard these early American whaling ships. <i>(Jun 27, 2001,Evening Post,19</i>)
-
->  ...I'm going to try a crop of dark, purple, heirloom 'Urenika' potatoes this year. <i>(Sep 21, 2003,Sunday (Sunday Star Times Magazine),18</i>)
-
->  Commercial opportunities have been canvassed for the urenika variety, with its bright purple flesh and skin, and the kowiniwini, with its purple and cream skin. <i>(Nov 9, 2000,Dominion,11</i>)
-
->  The Karori restaurant, which offered a Born to Be Wild Salad (blue borage honey-glazed smoked eel and watercress, lime pepper salad with karengo crostini) matched with Monteith's Black, and Pheasantly Phruity Purple Haze (pheasant on crushed urenika potatoes with port and blackcurrent sauce, wild mushrooms and parsnip crisps) matched with Monteith's Celtic Red. <i>(Jul 21, 2004,Capital Times,13</i>)
-
->  Urenika potatoes (a purple variety), turnips, celeriac mash, along with broccolini, were together a surfeit of starch, especially considering both mains had a starch component. <i>(Apr 20, 2003,Sunday (Sunday Star Times Magazine),16</i>)
+ <i>n.</i> <i>Raoulia Goyeni</i>
 
 
 
  
- <i>n.</i> (Rural) a purple variety of Maori potato. [ORIGIN: Maori]
-
->  Commercial opportunities have been canvassed for the urenika variety, with its bright purple flesh and skin, and the kowiniwini, with its purple and cream skin. <i>(Nov 9, 2000,Dominion,11</i>)
-
->  Our most popular variety is 'old purple', a urenika type once widely grown in Northland. <i>(2001,Lifestyle Farmer,Farmer Aug/Sept 75</i>)
-
->  Instead of the fettucine, use purple 'Urenika' potatoes. <i>(Jun 2002,Growing Today,47</i>)
-
->  The purple-skinned Urenika contains several times higher anti-oxidant activity than the average potato. <i>(2002,Organic NZ,May/June 22</i>)
+ <i>n.</i> a South Island high country plant forming a dense tawny cushion resembling a recumbent sheep. <i>Raoulia</i> and <i>Haastia</i> spp (in the South Island alpine and sub-alpine regions) species of which from a distance resemble reposing sheep
 
 
 
-## ureure
  
- <i>n.</i> fruit of the kiekie
-
->  Not only was there edible fruit, ureure, in summer; but, in spring the sweeet white inner leaves of the flower, tawhara, were also consumed. <i>(Nov 12, 2005,Dominion Post,Indulgence 23</i>)
-
->  They are two large water colours, one showing the flower and the other the fruit of Freycinetia Banksii. These are well known to those acquainted with our forests by their Native names of kiekie and ureure. <i>(Aug 13, 1919,Colonist, The,4</i>)
-
->  Keikie is the Maori name for the plant, the edible bracts of which are known to them as tawhara, and the fruit as ureure. <i>(May 16, 1925,Evening Post,13</i>)
-
->  <b>HOOKER</b> Ureure, <i> Col[enso]</i>. Fruit of <i> Freycinetia Banksii</i>. <i>(1867,Handbook NZ Flora (List of Names),768</i>) [NOTES: Dictionary at present can cope with these.]
-
->  <b>CHEESEMAN</b> [<i> Freycinetia Banksii, A.Cunn.] . . Kiekie; Tawhara </i> (the edible bracts); <i> Ureure </i>(the fruit). ... ripe fruit in May. ... The white fleshy bracts surrounding the spadices are often eaten; the fruit less commonly so. <i>(1906,Manual NZ Flora,742</i>)
-
->  <b>ANDERSON</b> <i> kiekie </i>, a scrambling plant (Freycinetia Banksii); flower-bracts (ta[a]whara) eaten as a sweetmeat; also banana-like fruit (ureure); often corrupted to geegee (not jeejee). <i>(1946,Journal of the Polynesian Society,55/144</i>) [NOTES: Maori Words in English]
-
->  The fruit, called "ureure" is an oblong mass of fleshy berries which are developed on the spadices. <i>(Aug 21, 1938,Auckland Weekly News,31</i>)
+ <i>n.</i> <i>RAOULIA EXIMIA, Canterbury vegetable sheep.</i>
 
 
 
-## Urewera Campaign
  
- <i>n.</i>
-
->  ..I studied the episode in a number of old history books and was fully conversant with all aspects of it, as I was with the 26-month Urewera Campaign, the last of the New Zealand Wars. <i>(Oct 4, 2003,Listener (New Zealand Listener),29</i>)
+ <i>n.</i> <i>Raoulia eximia</i>
 
 
 
-## Urewera Country
  
- <i>n.</i>
-
->  <b>BULLER</b> The Kaka is particularly abundant in the Urewera country, and during the short season the rata is in bloom the whole Maori population ... are out Kaka-hunting. <i>(1888,Birds of New Zealand,1/163</i>)
+ <i>n.</i> <i>Raoulia bryoides</i>
 
 
 
-## urgent pharmacy
  
- <i>n.</i> chemist's shop providing after-hour service [The common term in NZ. Cf heading in HB 1998/99 telephone directory under 'Hospitals and other health service providers : Urgent Pharmacy - Hastings.']
+<b>1</b> <i>n.</i> a cushion-like plant Raoulia spp, growing in alpine and subalpine areas [that from a distance looks like a sheep and is a distraction to musterers]. [incl attrib: vegetable sheep plant] (See [mountain-sheep](../M#mountain-sheep))
+
+>  Many other Alpine cushion plants in New Zealand and in other parts of the world are modified in the same direction and for the same reason but few, if any, are so remarkable in this respect as our own 'vegetable sheep'. <i>(1900,Canterbury Old & New,192</i>)
+
+>  <b>GUTHRIE-SMITH</b> An interesting group of plants, including amongst its species the 'vegetable sheep' of New Zealand, was represented by Raoulia australis. <i>(1921,Tutira,109</i>)
+
+>  <b>Roberts & Turner</b> Vegetable sheep sprawl on scabrous places ... <i>(1983,NZ High Country Four Seasons,13</i>)
+
+>  <b>Hall</b> Binoculars are useful for checking suspicious white rocks and 'vegetable sheep' - a kind of plant which is light in colour and grows as a mound about the size and shape of a sheep. Vegetable sheep are incredibly deceptive. <i>(1987,Shepherd's Year,  A,77</i>)
+
+>  The 22,000-hectare (55,000-acre) park covers the Big Ben and the Torlesse ranges and tussocks, beech forests and unusual plants adapted to unstable screes and rock ridges, such as the vegetable sheep and South Island edelweiss. <i>(Nov 3, 2001,Dominion Post,2</i>)
+
+>  There are also Haast's buttercup, vegetable sheep, scree carrot, scree <i>Lobelia</i> and the scree chickweed. <i>(Jul 2005,Conservation Action,9</i>)
+
+>  Perhaps the most singular forms are the species of <i>Raoulia</i> and <i>Gnaphalium</i>, known to the shepherds as `vegetable sheep'. <i>(1872,TrNZI,4/255</i>)
+
+>  <b>LAING & BLACKWELL</b> When species of these genera [<i>Haastia</i> and <i>Raoulia</i>] are covered with woolly hairs, they may, from a short distance, so resemble a sheep, as to deceive the unwary. Hence has arisen the name, `vegetable sheep,' which is applied to the species of <i>Haastia</i>, and the several species of <i>Raoulia</i>. <i>(1907,Plants of NZ,428[462]</i>)
+
+>  <b>HOOKER</b> Vegetable-sheep.<i> Raoulia eximia</i> and others. <i>(1867,Handbook NZ Flora (List of Names),769</i>)
+
+>  R[aoulia]eximia - the `Vegetable Sheep'. <i>(1871,TrNZI,3/193</i>) [NOTES: Potts]
+
+>  Perhaps the most singular forms of Ozothamni are the species of Raoulia and Gnaphalium, known to the shepherds as `vegetable sheep'. <i>(1871,TrNZI,4/255</i>) [NOTES: Kirk]
+
+>  <b>HETLEY & RAOUL</b> <i>Raoulia eximia</i> vegetable sheep <i>(1889,Fleurs Sauvages</i>)
+
+>  <i>Raoulia eximia</i>, the far-famed `vegetable sheep,' is shown by its flowers to belong to the daisy order, but in its general appearance it is quite unique. <i>(1900,Canterbury Old & New,190</i>)
+
+>  <b>LAING & BLACKWELL</b> <i>Raoulia eximia (The Extraordinary Raoulia) ... Vegetable sheep.</i> South Island: mountainous districts. South Island: mountainous districts. [<i>Raoulia bryoides</i> is a much smaller plant, found in similar situations.] <i>(1907,Plants of NZ,426,1940 p. 460 ed.</i>)
+
+>  <b>COCKAYNE</b> <i>Raoulia eximia</i> vegetable sheep b. <i>R. mammillaris </i> <i>(1910,NZ Plants</i>)
+
+>  (And) <i>Raoulia mammillaris</i> vegetable sheep <i>(1885,NZ Country Journal</i>)
+
+>  <b>CHEESEMAN</b> <i>R[aoulia] mammillaris, Hook.f</i>. ... SOUTH ISLAND: ... 4000-6000 ft. <i>Vegetable sheep</i>. <i>(1906,Manual NZ Flora,334</i>)
+
+>  <b>MARK & ADAMS</b> <i>Raoulia eximia </i>Hook. f. ...<i> Raoulia mammillaris</i> Hook. f. ... <i>Raoulia bryoides</i> Hook. f. ... [all] VEGETABLE SHEEP <i>(1973,NZ Alpine Plants,158,1979 ed.</i>)
+
+>  <b>MOORE & IRWIN</b> <i>RAOULIA EXIMIA, Canterbury vegetable sheep.</i> <i>(1978,Oxford Book of NZ Plants,136</i>)
+
+>  <b>COCKAYNE</b> <i>Raoulia eximia</i> common vegetable-sheep <i>(1919,NZ Plants</i>)
+
+>  <b>COCKAYNE</b> (And) <i>Raoulia bryoides</i> small vegetable-sheep <i>(1919,NZ Plants,2nd ed.</i>)
+
+>  <b>COCKAYNE</b> (And) <i>Raoulia Goyeni</i> Stewart Island vegetable-sheep <i>(1919,NZ Plants,2nd ed.</i>)
+
+>  <b>COCKAYNE</b> (And) <i>Raoulia Goyeni</i> Stewart Island vegetable-sheep <i>(1909,AJHR</i>) [NOTES: Report on a Botanical Survey of Stewart Island]
+
+>  The quaint exhibit from Mount Cook and Mount Egmont - Alpine heights of 12,000 feet - called by the learned Raoulia eximia, and by plain people, vegetable sheep, introduces us to the timbers, and prepares the visitor for new and strange things. <i>(Sep 27, 1886,Daily Telegraph,2</i>)
+
+>  The station owner stated that a common weed found on the high country was known as the vegetable sheep plant. <i>(Mar 6, 1918,Ashburton Guardian,4</i>)
+
+>  Because of their woolly appearance, vegetable sheep have fooled many a high-country musterer into sending their dogs over yonder ridge, chasing the lost "sheep" back to the flock. <i>(Sep 2001,NZ Geographic,No. 53/41</i>)
+
+>  It contained various specimens of the New Zealand vegetable sheep and other rare alpines. <i>(Feb 23, 1939,Evening Post,6</i>)
+
+>  Most of the alpine plants, like the Mount Cook buttercup ( <i> Ranunculus lyallii </i> ) and vegetable sheep ( <i> Raoulia eximia </i> ) failed the test of easy "growability". <i>(Dec 2006,Growing Today,31</i>)
+
+>  Some members of the group [sc. the Raoulias] which form large cushions, are known as vegetable sheep, because, resting on hillsides, they look, from a fair distance, very like sheep, so much so as to deceive even shepherds, it is stated. <i>(Jan 15, 1924,Otago Witness,6</i>)
+
+>  <b>FRAME</b> Others have named it as the flower knownto bloom from the plant, vegetable sheep,used lately for its contraceptiveproperties <i>(1988,Carpathians, The,114</i>)
+
+>  <b>Relph</b> Among the unusual plants in the alpine zone is the vegetable sheep, which can be found on rocky ridges particularly in the Torlesse and Craigieburn Ranges. <i>(2007,From Tussocks to Tourists,46</i>)
 
 
 
-## uruahipi
  
- <i>n.</i> (Rural) the rolling of fleece wool fibres on the thigh with one's hand, to produce a wool suitable for knitting. [ORIGIN: Maori] (See [also warahipi](../A#also-warahipi))
+<b>2</b> <i>n.</i> [possibly different from the main entry of Raoul spp vegetable sheep]
 
->  <b>NICHOLSON</b> The technique, often called uruahipi or warahipi, where strands of wool fibre were drawn out of fleeces, rolled on the thigh and knitted had long been practised by Maori women fleece-os working in shearing sheds. Uruahipi was dying out but the Wool Week promotion revived the skill and introduced it to the public as 'kiwicraft.' <i>(1998,Loving Stitch , The,219</i>)
+>  <b>VON HAAST</b> There are similar [to these on Ribbonwood Range] plants on the ranges near Nelson, called by the shepherds `vegetable sheep' as they often have taken them for so many sheep lying on the side of the mountains. <i>(1948,Julius Von Haast,188</i>) [NOTES: c1861-1862 Von Haast in 1948 Von Haast Julius Von Haast]
+
+>  <b>D'AVIGDOR</b> Dr. Hector maintains that [keas] were formerly in the habit of picking insects out of what are termed in New Zealand `vegetable sheep' - a species of moss which grows in great tufts or tussocks, and looks rather like undyed Astracan wool. <i>(1888,Antipodean Notes,75</i>)
+
+>  <b>KIRK</b> <i>Haastia pulvinaris</i> vegetable sheep <i>(1899,Students' Flora</i>)
+
+>  <i>H[aastia] pulvinaris, Hook.f. ... Vegetable sheep</i>. <i>(1906,Manual NZ Flora,321</i>)
+
+>  <b>LAING & BLACKWELL</b> <i>Haastia pulvinaris (The Cushion-like Haastia</i>) ... South Island: mountainous districts. ... Colonists' [Local] name, Vegetable Sheep. <i>(1907,Plants of NZ,424,1940 p. 456 ed.</i>)
+
+>  <i>vegetable sheep</i>: mountain plants with white hairs which look like sheep from a distance. <i>(1947,Reeds' School Dictionary: NZ Suppl.,176</i>)
+
+>  <i>vegetable sheep n.</i> New Zealand shrub, which resembles sheep when seen at a distance. <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),628</i>)
+
+>  <b>MARK & ADAMS</b> <i>Haastia pulvinaris</i> Hook. f. VEGETABLE SHEEP <i>(1973,NZ Alpine Plants,148,1979 ed.</i>)
+
+>  <b>MARK & ADAMS</b> <i>Haastia pulvinaris</i> Hook. f. VEGETABLE SHEEP <i>(1973,NZ Alpine Plants,148,1979 ed.</i>)
+
+>  <b>MOORE & IRWIN</b> HAASTIA PULVINARIS, <i>vegetable sheep</i>. A spectacular cushion plant confined to the high mountains of Nelson, Marlborough, and north Canterbury where rainfall is relatively low. <i>(1978,Oxford Book of NZ Plants,134</i>)
+
+>  <i>vegetable sheep</i> NZ upland plant with white foliage which from a distance resembles sheep. <i>(1986,NZ Pocket Oxford Dictionary,855</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 531]]
+
+>  <b>McGILL</b> <i>vegetable sheep </i>South Island high country plant resembling resting sheep. <i>(1988,Dictionary of Kiwi Slang, A,119</i>)
 
 
 
-## urukehu
  
- <i>adj.</i> fair-haired (also as noun) [ORIGIN: Maori, misspelt sic in Park cit.? (Maori uru = hair, ure is something else!)]
+<b>3</b> <i>n.</i> <i>Raoulia eximia </i>
 
->  <b>EDWARDS</b> I have very long pakaka hair, urukehufrom my patupaiarehe strain. <i>(1992,Mihipeka,105</i>)
+>  <b>KIRK</b> <i>(1889,Students' Flora</i>)
 
->  <b>PARK</b> Several Maniopoto families showed the mysterious urekehu strain... Traditionally, the urekehu were an ancient pale-skinned race that occupied the Pacific islands before the Polynesian immigrants swept down from the north. <i>(1992,Fence Around the Cuckoo,35</i>)
+>  <b>LAING & BLACKWELL</b> <i>Raoulia mammillaris [(The Vegetable Sheep).] ... Vegetable Sheep.</i> <i>(1907,Plants of NZ,426,1940, p. 460 ed.</i>)
 
 
 
-## urupa
  
- <i>n.</i> a Maori cemetery [ORIGIN: Maori]
-
->  <b>HULME & MORRISON</b> The graveyards - urupa, wahi-tapu - are numerous. <i>(1989,Homeplaces,65</i>)
-
->  Strange things happen on Matakana, historically an urupa (burial place) island. <i>(Aug 14, 1999,Listener (New Zealand Listener),31</i>)
-
->  There are at least two <i>urupa</i> on the estuary and sometimes bones come up and some of these have also been churned over. <i>(Aug 9, 2003,Listener (New Zealand Listener),19</i>)
-
->  Tangi is to be held at Te Totara Marae, Ruatoki, funeral service at the above marae, 11am, Thursday, December 8, followed by burial in the marae urupa. <i>(Dec 7, 2005,Whakatane Beacon,16</i>)
-
->  A cellphone goes off in the urupa. <i>(May 22, 1999,Listener (New Zealand Listener),37</i>)
-
->  [The raceway land] was very close to the original Waiwhetu Marae and just across the road from the Owhiti urupa (cemetery). <i>(May 23, 2000,Evening Post,9</i>)
-
->  Te Uri Kapana (a hapu) laid claim to a portion of the land in dispute, on which the urupa was erected in hour of the departed chiefs. <i>(Jul 25, 1867,Daily Southern Cross,3</i>)
-
->  The tribal followers of TAWHIAO have not a rood of land on which to build a whare or plant a kumara - and when the old men fall off, or the children sicken and die, they have to be indebted to the people of Manga for a place in their urupa. <i>(Jan 20, 1877,North Otago Times,2</i>)
-
->  Upon enquiries they learned that they had entered what the Maoris call a urupa, or small building built specially to receive the coffin of some deceased person of note - a chief or chieftainess. <i>(Sep 22, 1880,Evening Post,3</i>)
-
->  <b>Grace</b> When their brother died they were distraught. They had to be pulled off the casket when the pallbearers were ready to head the procession to the urupa. <i>(2001,Dogside Story,9</i>)
-
->  The urupa is sited on top of a hill. The rain falls as I stand before my mother's grave. <i>(Jul 22, 2001,Western News,C4</i>)
-
->  There's a cluster of houses.. and a little meeting house flanked by a small, well-kept urupa and functional concrete outbuildings. <i>(Mar 8, 2003,Dominion Post,F12</i>)
-
->  On the outside of the village, on a hill, is the urupa or burying-ground. <i>(Apr 12, 1879,Auckland Weekly News,5</i>)
-
->  He objected strenuously to the board's action on the ground that the eight acres was a sacred burying ground or urupa. <i>(Apr 13, 1992,Auckland Weekly News,20</i>)
-
->  One of those [reserves] was the <i>urupa</i>, the place where lie many bodies of Ngai Tahu killed in Te Rauparaha's raid... <i>(Dec 18, 2002,Listener (New Zealand Listener),18</i>)
-
->  Ngati te Akitai's urupa was now a stock-car track, their source of seafood was gone and so was their marae. <i>(Feb 11, 1991,Listener (New Zealand Listener),11</i>)
+<b>4</b> <i>n.</i> <i>Raoulia rubra </i>
 
 
 
-## ururoa
- 
- <i>n.</i> shark
-
->  <b>TAYLOR</b> I went to see the fish which is called the Tatera its skin is rough like the shark ... 8 feet long ... 6 gills [sketch with caption] The Tatera or ururoa or Tuatini. 8 ft. long. <i>(Nov 28, 1844,Journal,3/41</i>) [NOTES: [TS:ATB]]
-
-
-
-## Urutawan-Motuan
- 
- <i>adj.</i>
-
->  The Tupou Complex is comparable in induration, degree of deformation, and lithologic content to the Tokerau facies, and appears to be of the same age (Urutawan-Motuan). <i>(Nov 1997,Geological Society of NZ Newsletter,114/35</i>)
-
-
-
-## uruuruwhenua
+## vegetable silk
  
  <i>n.</i>
 
->  <b>WILLIAMS</b> Uruuruwhenua a handsome species of fern and not so abundant as other kinds. [<i> Glossary </i> 120 Tree-fern (<i> Dicksonia squarrosa </i>), usually known as wheki.] <i>(1844,NZ Journal,110,1956 ed.</i>)
+>  <b>SEWARD</b> First gentle Flora ... [12]/ Thin folds of *vegetable silk, behind,/ Shade her white neck, and wanton in the wind;/ Strange sweets, where'er she turns, perfume the glades,/ And fruits unnam'd adorn the bending shades. [fn] Vegetable silk.- In New Zealand is a flax of which the natives make their nets and cordage <i>(1780,Elegy on Captain Cook,11</i>)
+
+>  "Vegetable silk braid is one of the new trimmings ..." <i>(Apr 1, 1903,Otago Witness,73</i>)
+
+>  Guthrie and Maddock have just landed a large assortment of Ladies' Vegetable Silk Scarves, in all colors; special prices 2/11, 3/6, 3/11, 4/6, 5/6, 6/11, to 18/6. <i>(Jun 27, 1918,Poverty Bay Herald,1</i>)
+
+>  Let us explain how the "Peerless" Mattress is made:- the centre is filled with carefully selected Horsehair, Coir Fibre or cleaned N.Z. Flax, according to quality number. The top and bottom are overlaid with the best cleaned Samarang Kapok in sections of even thickness. Samarang is an East India vegetable silk of extremely elastic fibre, which, owing to its peculiar nature has never been known to attract any kind of insect life. <i>(Jan 14, 1920,Evening Post,15</i>)
+
+>  In this connection vegetable silk was now being used in place of wood in the manufacture of underwear. <i>(Nov 21, 1925,Evening Post,6</i>)
 
 
 
-## use one's block
+## vegetable wool
  
- <i>phr.</i> to act intelligently
-
->  <b>SARGESON</b> block: <i>use your block</i>, follow a careful strategy. <i>(1964,Collected Stories,298</i>)
-
->  <b>SARGESON</b> <i>(1947,Man & His Wife, A</i>)
-
->  <b>PARTRIDGE</b> <i>block</i> ... 2. The head: ... In Aus. and NZ, to <i>use</i> (one's) <i>block</i> = to use one's common sense; to act sensibly, hence to act intelligently: C20. <i>(1984,Dictionary of Slang,96</i>)
+ <i>n.</i> The very common woolly white or pale pink epiphytic lichen Sphaerophorus tener, forming densely-branched cushions up to 25 cm in diameter on tree trunks and branches in both moist humid shaded areas and exposed alpine or subalpine grasslands.
 
 
 
-## USED
  
- <i>abbr.</i> Undercovers Seriously Affected by Drugs; undercover police support group
+<b>1</b> <i>n.</i> a woolly clump of lichen Sphaerophorus tener, that grows in alpine and subalpine areas.
 
->  The long-running dispute involves the plight of more than 20 former undercover police - known as Used [Undercovers Seriously Affected by Drugs] - who quit the police after becoming hooked on cannabis. <i>(Oct 23, 2002,Dominion Post,A3</i>)
+>  WILSON Stewart Island Plants 486 Sphaerophorus tener Vegetable wool .. Woolly clumps of intricately branching, fine white stems, sometimes stained pale pink .. It can look similar to OLD MAN'S BEARD LICHENS, Usnea spp., which drape dead branches, shrubs and rocks. <i>(1982</i>)
+
+>  <b>WILSON</b> <i>Sphaerophorus tener Vegetable wool</i> ... Woolly lumps of intricately branching, fine white stems, sometimes stained pale pink. ... It can look similar to OLD MAN'S BEARD LICHENS, <i>Usnea</i> spp., which drape dead branches, shrubs and rocks. <i>(1982,Stewart Island Plants,486</i>)
 
 
 
-## used up
+## vegetating caterpillar
  
- <i>adj.</i> =knocked up
+ <i>n.</i> an early name for VEGETABLE CATERPILLAR
 
->  Much worse [with flu]. ... Saw Harper and went to bed clean used up. <i>(Jan 21, 1892,Chudleigh Diary,379,1950 ed.</i>)
+>  It might not be improper to mention here also the Aweto or Hotete the large (night-butterfly) caterpillar, from the head of which a parasitic fungus.. grows out; hence the name "Vegetating Caterpillar" among the colonists. <i>(1867,New Zealand (Hochstetter),171</i>)
+
+>  <b>HOCHSTETTER</b> ... hence the name `Vegetating Caterpillar' amongst the colonists. <i>(1867,New Zealand (Hochstetter),171</i>)
+
+>  <b>BULLER</b> We ... had halted to dig specimens of the curious vegetating caterpillar (Sphaeria robertsii), which was abundant there. [check spgs - see under VEGETABLE CATERPILLAR] <i>(1873,Birds of New Zealand,2nd edn 1/11 ed.</i>)
+
+>  <b>BULLER</b> The vegetating caterpillar (Hotete) is a singular production. <i>(1878,Forty Years in NZ,499</i>)
+
+>  [see citation at VEGETABLE CATERPILLAR] <i>(1896,TrNZI,28/623</i>) [NOTES: Field]
+
+>  The larva of one form is the "vegetating caterpillar" in whose body germinates and grows to maturity the curious fungus so much sought for by curio hunters. <i>(Feb 3, 1933,Evening Post,3</i>)
+
+>  It is under this tree that the curiosity so well known as the vegetating caterpillar is found. <i>(Jun 6, 1846,Nelson Examiner and New Zealand Chronicle,53</i>)
+
+>  All About the Vegetating Caterpillar .. The following embodies what is known as to this very interesting natural phenomenon, called by the Maoris in the north "Hotete," and in the south "Weri." <i>(May 10, 1904,West Coast Times,4</i>)
 
 
 
-## useful
+## vegetation
  
-<b>1</b> <i>adj.</i> (Rural) [of sale stock] with the potential for profit.
+ <i>n.</i> the green tissues in the leaf of the NZ flax (Phormium) other than the fibre (communicated by R. Mason) [includes 'vegetation flax']
 
->  Fat cattle - 211 were yarded, including a fair proportion of useful steers. <i>(Nov 21, 1903,Hawera Star,4</i>)
+>  The fibre bundles, which are white in the leaf, are, to a greater or lesser extent, coloured green in stripping by the chlorophyll and tannin of the vegetation. <i>(1928,NZ Journal of Science & Technology,10/236</i>) [NOTES: Aitken]
 
->  There was a good yarding of useful lambs which started on a high note ... <i>(Nov 25, 1999,NZ Farmer,29</i>)
+>  ... the green flax is fed into the stripping machine. This removes all of the green vegetation. ... The strippings of green vegetation are readily eaten by dairy cattle. <i>(Oct 23, 1952,NZ Farmer,9</i>)
 
->  There were some useful ewe lambs yarded. <i>(Apr 12, 2001,NZ Farmer,42</i>)
+>  Vegetation: c1943. Foxton. The green vegetable matter of the flax leaf which is stripped away from the fibre. Probably older and more widespread. lso in the sense of any vegetable matter. I have heard this among trampers since c.1940, but it is probably older. <i>(Jun 7, 1952,Personal Communication</i>) [NOTES: R. Mason (Wellington)]
 
->  Useful mixed sex sheep brought between $69 and $72 while very small and cully hoggets sold up to $60. <i>(Sep 12, 2002,Wanganui Chronicle,18</i>)
+>  A proposal comes from Palmerston North to establish mills for the manufacture of brown paper from flax refuse. It is considered that refuse of the flaxmills now a-wasting, and therefore a financial loss, also waste vegetation flax in swamps, can be profitably used in this way. <i>(Dec 2, 1911,Observer (Auckland),25</i>)
 
 
 
-## useful as tits on a bull
  
- <i>phr.</i> of no use at all
+<b>2</b> <i>n.</i> dead vegetable matter, leaves, ec., on the bush floor -->ca1940 (R. Mason)`probably older: vegetation apparently used in India in the sense `vegetable matter'.'
 
->  <b>DAVIS</b> `Blooming disgraceful. Some of these fancy-pants young stevedore (sic?) are about as useful as tits on a bull. <i>(1964,Watersiders,124</i>)
+>  Vegetation. This is occasionally used to denote scraps and bits of vegetable matter. They have a habit of being where they are not wanted. <i>(Sep 1958,Tararua,31</i>) [NOTES: Ruth Mason `Track and Trail']
 
 
 
-## usehold
+## Vegfed
+ 
+<b>1</b> <i>n.</i> an industry organisation for vegetable and potato growers.
+
+>  Daily News Feb 24. 15 Last month Vegfed fresh vegetable sector chairman Russell Jordan predicted that the number of vegetable growers in New Zealand would drop by 25% in the next few years. <i>(2000</i>)
+
+>  Daily News March 16. 16 The Vegfed vice-president and chairman of its fresh vegetable sector was speaking at a seminar in Oamaru.. <i>(2000</i>)
+
+>  Daily News Dec 21. 16 Vegetable growers have voted in favour of paying a compulsory levy for another six years to fund their industry organisation, the Vegetable and Potato Growers Federation (Vegfed). Vegfed had been working to protect the interests of growers in the face of some major legislative and commercial changes. <i>(2000</i>)
+
+
+
+## vego
+ 
+ <i>n.</i> vegetarian
+
+>  Both these incidents had a profound effect on me and I was instantly transformed into a born again vego. <i>(Apr 17, 1999,Dominion,21</i>)
+
+
+
+## vein
+ 
+ <i>n.</i> [(goldminers') -->sc. gold-vein]
+
+>  <b>SWAINSON</b> [Gold] is found in streams : in small water-worn pieces of flinty-looking quartz, which appear to have been portions of veins that have been set free by the decomposition of the rock through which they formerly passed. These veins would seem to have been from a quarter of an inch to two inches wide. <i>(1853,Auckland,111</i>)
+
+>  VEIN.- A fissure or rent in a rock filled with mineral matter. <i>(1868,Thames Miner's Guide, The,56</i>)
+
+>  <b>BLYTH</b> Vein: A rent in the earth's surface filled with mineral matter. <i>(1935,Gold Mining Year Book,11</i>) [NOTES: Glossary]
+
+
+
+## veinlet
  
  <i>n.</i>
 
->  <b>SINCLAIR</b> The Labour Party tried to carry on the radical liberal ideal with regard to land by advocating a tenure known as `usehold' (their opponents called it `loosehold') but soon discovered that it was a liability. No one could hope to woo the rural voters without acknowledging their true god whose name was Private Property. <i>(1959,History of New Zealand,231</i>)
+>  No. 3 adit ... has been driven 750 ft. in a formation of crushed and sheeted country traversed by numerous stringers and veinlets of quartz. <i>(1918,NZ Journal of Science & Technology,1/14</i>)
 
 
 
-## user-pays
+## veinstone
  
- <i>n.</i> [(not in ODE) seems esp. common in Austral. & NZ.]
+ <i>n.</i> [geologists', goldminers']
 
->  This is.. also because of theacceleration of the "user pays"principle in respect of the recovery ofcosts involved in providing the airwayscontrol system and development ofairfields to modern aircraftrequirements. <i>(1962,AJHR,H-35/11</i>)
+>  It may be stated, however, that neither the mode of occurrence nor the character of the rich bonanza vein-stone is comparable with that of the highly enriched ore occurring in districts where `sulphide enrichment' by descending waters is known to have taken place. <i>(1907,NZ Geol. Survey Bulletin,(NS) 4/107</i>) [NOTES: Fraser and Adams, Coromandel]
 
->  He doesn't think this particular user-pays system works, not the least because he has a big student loan he worries about paying off. <i>(Nov 1999,North & South,38</i>)
-
->  A form of user pays had been introduced in 1981. <i>(Mar 1998,Geological Society of NZ Newsletter,115/28</i>)
-
->  The future of our national geological journal has been a major concern since 1986, when DSIR imposed whopping subscription increases with the intention of progressively decreasing government subsidies to nil, as some of the first impacts of user-pays on New Zealand Science. <i>(Jun 1993,Geological Society of NZ Newsletter,100/8</i>)
+>  Through fissures so formed operated the mineralizing agencies which have effected rock-alteration, depositions of veinstone in open spaces, and veinstone replacements of wall-rock.<i>Ibid.</i> 10 Although the veinstone was free-milling,the gold occurred in such a fine state of division that the treatment faclities were altogether inadequate. <i>Ibid.</i> 64 Here a small flinty leader ... intersected certain of the reefs, and ... greatly increased the value of the veinstone it intersected. <i>(1912,NZ Geol. Survey Bulletin,No15 (NS)/8</i>) [NOTES: Bell and Fraser, Waihi-Tairua]
 
 
 
-## uso
+## velvet
  
- <i>n.</i> brother [ORIGIN: Samoan]
-
->  Beloved son of Taulua, and uso to Vaughan, Josiah and Toina. <i>(May 23, 2006,NZ Herald,C8</i>)
-
-
-
-## USSCO
- 
- <i>abbr.</i> the initials of the Union Steamship Company, elaborated in various ways by dissatified mariners and others
-
->  One of the U Shan't Sleep Company's boats. <i>(Mar 3, 1906,NZ Truth,37/4/3</i>)
-
->  <b>PUGH-WILLIAMS</b> The initials of the Union Steamship Company but to the seafarer: `U. Sail Sundays Cobber'. <i>(1951,Letter</i>)
-
-
-
-## ute
- 
- <i>n.</i> utility vehicle [OED: Colloq. (chiefly Austral. and N.Z.) abbrev. of UTILITY 4b.]
-
->  Bob Rails tosses his suitcase into the back of his ute and gets ready to hit the road. <i>(Mar 2003,NZ Geographic,62/92</i>)
-
->  [She] is driving along one of the main streets when she sees a ute in front with aail light out and the numberplate so filthy it's unreadable. <i>(Oct 1997,North & South,45</i>)
-
->  The bugger disease spreads... A pest control owner's new Toyota ute mysteriously lost its new signwriting this week. The replacement word? You've got it: Bugger. <i>(Mar 20, 1999,Evening Post,60</i>)
-
->  For instance, you won't hear a utility vehicle called a "ute" because the word is unique to New Zealand. Truck or pick-up will be substituted. <i>(Jun 9, 1992,Evening Post,TV Week : 3</i>)
-
->  As for steering, the sporty Falcon is the most agile ute I've yet driven, the nose attracted to the corner apex like iron filings to a magnet. <i>(Oct 8, 1999,Evening Post,Autopost : 2</i>)
-
->  Now Nissan has followed it with a tough new 4 x 4 ute, known at this stage just as the 720. <i>(Apr 12, 1984,NZ Farmer,39</i>)
-
->  <b>Charlotte Grimshaw</b> Four battered utes roared into life and the cousins sped off. <i>(2007,Six Pack 2, The,87</i>)
-
->  In truth it's nothing more than a booze up in a tar-sealed car park. Everyone's in shorts and jandals and they're drinking beer straight from the can or bottle. The beer is in cartons piled up on the back of a ute. <i>(Mar 1992,Metro,32</i>)
-
->  Advice from Consumer is to avoid measures like a "ute" load-and buy by legal measures, a loose cord or a cubic metre. <i>(Mar 13, 1993,Dominion,7</i>)
-
->  ... hitching through Putaruru with a Maori driving a 1967 Falcon Ute. <i>(1980,Islands,30/187</i>) [NOTES: Morrissey (Jack Kerouac ...)]
-
->  ute n. Austral. & N.Z. inf. short for utility truck. <i>(1982,Collins Concise English Dictionary,1293</i>) [NOTES: [1986 NZPOD 851; 1985 Collins NZ Compact Dict. 527] 1979 HNZD (? NZ)]
-
->  <b>McGILL</b> I wandered past men in utes loading wood. <i>(1985,G'day Country,53</i>)
-
->  <b>SHERWOOD</b> `There was a ute parked outside the locked gate over the cattle stop, did you go anywhere near it?' `I'm sorry. A what? ... Would you please explain the meaning of the word `ute'?' ... `A ute is a farmer's utility vehicle with seats for three persons in front and a load space behind, don't you have them in the UK?' <i>(1985,Botanist at Bay,94</i>)
-
->  (Joy Cowley) We had a good look at the ute which had its passenger door open ... It was an old rust bucket. I wouldn't have driven it anywhere on these roads. <i>(1986,Marist Messenger,34</i>)
-
->  It secures the back of the ute tray to the rest of the ute ... <i>(Jul 23, 1988,Dominion,8</i>)
-
->  <b>McGILL</b> ute utility van or small truck, contraction; originally WWII, mostly NZA. <i>(1988,Dictionary of Kiwi Slang, A,118</i>)
-
->  <b>COWLEY</b> The area beside the petrol pumps was fully taken up by a green Holden ute and an old caravan the same colour. <i>(1991,Bow Down Shadrach,73</i>)
-
->  <b>COWLEY</b> The area beside the petrol pumps was fully taken up by a green Holden ute and an old caravan the same colour. <i>(1991,Bow Down Shadrach,73</i>)
-
->  As we left, a ute turned off the highway and sped down the track towards us. <i>(Aug 11, 1984,Listener (New Zealand Listener),45</i>)
-
->  <b>COWLEY</b> The area beside the petrol pumps wasfully taken up by a green Holden ute andan old caravan the same colour. <i>(1991,Bow Down Shadrach,73</i>)
+ <i>adj.</i> (See [fern](../F#fern),[grass](../G#grass),[mullein](../M#mullein))
 
 
 
  
-<b>1</b> <i>n.</i> (Rural) [used elsewhere, but sp. use] a light farm truck, used for carrying fencing materials, stock and general equipment.
+ <i>n.</i> Verbascum thapsus ;= FLANNEL LEAF =VELVET MULLEIN
 
->  He carries my grocery bag to my rusted, unwarranted old ute ... <i>(Feb 1993,NZ Dairy Exporter,67</i>)
+>  VERBASCUM THAPSUS, a weed of poor land has many popular names. In New Zealand it is called native tobacco, velvet, flannel leaf and golden rod. <i>(Nov 22, 1974,Dominion,5</i>)
 
->  What's on the back of the ute? Get it right and the load could be yours. <i>(May 24, 2001,Fencepost.com,Homepage</i>)
-
->  You can buy any old ute with all the free extras or you can own Taranaki's favourite ute. <i>(Nov 15, 2001,Taranaki Daily News,21</i>)
-
-
-
-## uti-uti
- 
-<b>1</b> <i>n.</i> (Rural) a variety of kumara. [ORIGIN: Maori]
-
->  Since the variety known as the "Waina" came into possession of the Natives they have gradually discarded most of the others with the exception of a few varieties such as the Unti-uti, Taromahoe and Rekamaroa, the other kinds being mostly small, rough, and irregularly shaped, and light croppers. <i>(Oct 20, 1914,NZ Journal of Agriculture,280</i>)
-
-
-
-## utick
- 
- <i>n.</i> [in 1873 Buller; renamed FERN-BIRD in 1888 edn]
-
->  20. <i> Sphenoecus punctatus </i>, Quoy et Gaim. Utick, Grass-bird, Matata. - At one time very commonly met with about the swamps and round the edges of lagoons where the coarse water grasses grew rankly; ... [284] Thirty years ago it was one of the most common species that affected the open country about Rockwood in the Malvern district; the lads called it `utick' from its note... 21. <i> Sphenoecus fulvus </i>, Gray. Utick, Grass-bird or Pheasant-bird. - I am not aware that the breeding habits of this species differ from those of the [<i> Sphenoecus punctatus, Matata]. The eggs are slightly larger ...; from the Ashburton district. <i>(1884,NZ Journal of Science,283</i>) [NOTES: Potts]
+>  Most of the [Upper Waitaki] valley grew wonderful wheat, particularly velvet wheat. It still does, although not much, if any, velvet is grown. In 1915, we had a good crop of velvet which grew to a good height. <i>(1980,Land of Munros, The,91</i>)
 
 
 
  
-<b>2</b> <i>n.</i> [name given by Buller 1873 to 188 Ch -Island FERNBIRD]
+<b>1</b> <i>v.</i> to collect velvet from a deer.
 
->  <b>BULLER</b> SPHENOEACUS RUFESCENS. (CHATHAM-ISLAND UTICK.) ... This well-markedspecies is confined to the Chatham Islands, where it was first discovered, in 1868 ... <i>(1873,Birds of New Zealand,131</i>)
+>  Hawke's Bay Today Oct 31. 15 The National Velveting Standards Body, which runs the certification scheme, has sent out a blunt warning that farmers who do not comply risk being suspended, thus losing the right to velvet their own deer. Any velveter who does not complete one or more of the requirements by the due dates will not be allowed to velvet next season. <i>(2002</i>)
 
->  SPHENOEACUS RUFESCENS, <i> Buller.</i> - Chatham Island Utick. <i>(1875,TrNZI,7/205</i>) [NOTES: Buller Ornithology]
+>  So we got out of velveting our stags... <i>(May 16, 2003,Dominion Post,C5</i>)
+
+
+
+## velvet earthstar
+ 
+ <i>n.</i> Geastrum velutinum
+
+>  <b>WILSON</b> <i> Geastrum velutinum </i> VELVET EARTHSTAR ... A brown, puffball-like fungus nestled in the unfolded, velvety-brown segments of a thick outer coat ... On litter of forest floor. <i>(1982,Stewart Island Plants,490</i>)
+
+
+
+## velvet fern
+ 
+ <i>n.</i> <i>Lastreopsis</i> (formerly <i>Dryopteris) velutina</i>
+
+>  Ferns such as the common maidenhair (<i>Adiantum cunninghamii</i>) and the velvet fern (<i>Lastreopsis velutina</i>) occur only in lowland or coastal forest, whereas <i>Microsorum novae-zelandiae</i> and the mountain tree fern (<i>Cyathea colensoi</i>) are confined to montane forest. <i>(2001,NZ Geographic,No. 49/76</i>)
+
+>  <b>H.B.DOBBIE</b> (And) <i>Dryopteris) velutina</i> velvet fern <i>(Nov 21, 1921,Letters</i>)
+
+>  <b>MARTIN</b> ... with smooth stems and reddish-brown, velvety fronds is the VELVET FERN (<i>L[astreopsis] velutina</i>) ... <i>(1961,Flora NZ,115,1929 ed.</i>)
+
+>  Dryopteridaceae <i>C[tenitis] [??] velutina</i> velvet fern <i>(1975,Tane,21/8</i>) [NOTES: (Wright Vegetation Mt Maungatawhiri)]
+
+
+
+## velveter
+ 
+ <i>n.</i> a person certified to remove deer velvet. [also velvet verb in second citation]
+
+>  Any velveter who does not complete one or more of the requirements by the due dates will not be allowed to velvet next season. <i>(Oct 31, 2002,Hawke's Bay Today,15</i>)
+
+>  Derek has been a certificated velveter for two years. <i>(Dec 21, 2000,Taranaki Daily News,17</i>)
+
+
+
+## velveting
+ 
+ <i>n.</i> the growing and removing of velvet from deer.
+
+>  Hawke's Bay Today Feb 17. 22 This is [sic] progressive intensive operation carrying 4000 stock units finishing bulls, deer plus velveting. <i>(2001</i>)
+
+>  Hawke's Bay Today Oct 31.15 Deer farmers have to be trained by vets to be certified for velveting .. two deer farmers were prosecuted for illegal velveting last year. <i>(2002</i>)
+
+
+
+ 
+<b>1</b> <i>adj.</i> [of deer and deer farming] involved in the cultivation and harvesting of velvet.
+
+>  Hawkes Bay Today June 1. 27 Approximately 1500 velveting stags graze on Warwick Kent's Western Hawke's Bay property. He bought the property in the mid-90s and tuned it from a drystock farm into the successful velveting business. In addition to the velveting operation, about 200 steers are finished on the property and wintered in the forestry lease. As of May 2001, livestock included about 1500 velveting stags, 200 two-year-old steers, 1500 mixed-age ewes and 100 goats. <i>(2001</i>)
+
+
+
+## VEN
+ 
+ <i>abbr.</i> vague, evasive and non-committal
+
+>  But we're trying to ger rid of forecasters 'ven' - [which stands for] vague, evasive and non-committal. <i>(Sep 8, 2002,Sunday Star Times,F3</i>)
+
+
+
+## venero
+ 
+ <i>n.</i> (friendship term) [1951 15 M 23 Wellington H.S. 29 VENERO] -->1951 15 F 8 Wellington H.S. 29 VENERO]
+
+
+
+## Venus' necklace
+ 
+ <i>n.</i> a seaweed
+
+>  <b>MARTIN</b> Flattish rock surfaces near mid-tide levels are the usual station for such well-known seaweeds as the SEA BOMB, SEA CACTUS, VENUS' NECKLACE, or PURPLE LAVER. <i>Ibid.</i> 9 To this end VENUS' NECKLACE has water-filled, swollen internodes; and the sea bomb is also filled with water [to prevent desiccation]. The existence of this water is known to most children, who call the plant the WATER SQUIRT. <i>(1929,Flora NZ,1961</i>)
+
+>  <b>WILSON</b> <i> Hormosira banksii </i> NEPTUNE'S NECKLACE ... Venus' necklace ... Necklace seaweed ... Brown or yellow-brown strings of thick-walled bladders, flopped over rocks ... at low tide. <i>(1982,Stewart Island Plants,318</i>)
+
+
+
+## Venus' shell
+ 
+ <i>n.</i> NEW ZEALAND COCKLE =TUANGI
+
+>  <b>McLINTOCK</b> Venus shell (cockle) .. .. huangi, huwai, tuangi karoro, tuangi .. <i> Chione stutchburyi Chione costata </i> <i>(1966,Encyclopaedia of New Zealand, An,3/705-12</i>)
+
+>  <b>BURTON</b> the New Zealand species belongs to a completely different family from that of the English cockle Venus' shell or the Maori tuangi are better names. <i>(1982,Two Hundred Years of NZ Food & Cookery,58</i>)
+
+
+
+## Venus's ear
+ 
+ <i>n.</i> (obsolete) ear-shell (paua)
+
+>  <i> Ve'.nus </i>(v&emacr.'.n&ubreve.s),<i> n. [Add.] Venus's ear (Zoo.l.), the shell of the mutton fish </i> (Haliotis); the ear-shell. <i>(1898,Merriam-Webster Third International,2033</i>)
+
+>  [see Kawa kawa] <i>(1840,Journal of Ensign Best,230,1966 ed.</i>)
+
+>  I went down to the beach to look for crabs ... I also found lots of ... live Venus's ears and I saw a few sea anemones ... <i>(Dec 2, 1864,Journal,356</i>) [NOTES: [Taranaki] Nicholl Journal [ATB:MS]]
+
+
+
+## verandah
+ 
+ <i>n.</i> [Jim Cameron writes: By far the most common spelling in NZ (as in Australia - see MAU p424) is <i>verandah</i> and NZPOD prefers this. English POD gives only <i>veranda</i> and NSOD and Collins prefer that spelling. DEH notes: OED (1989) gives both spellings]
+
+>  But we, who have been alone, wake up. / Wake up from verandas of dreaming where / we hid in the dark. <i>(Mar 1999,NZ Books,9(1) : 6</i>)
+
+>  [Ian Gordon's] statement "The English stand <i>on</i> but New Zealanders stand <i>under</i> a verandah" would be inaccurate whatever Katherine Mansfield did or did not write or intend... Gordon asks how could House A.. be the house described in <i>Prelude</i> as "long and low built, with a pillared verandah and balcony all the way round"? <i>(Jun 23, 1984,Listener (New Zealand Listener),36</i>)
+
+>  <b>MARKHAM</b> I have seen Fern tied up in the Verandahs of the Missionaries huts, from eleven to fifteen Feet in Height. <i>Ibid.</i> 48 We employed ourselves for four or five days in making a Verandah toour House. It was as good as an other room to it .... <i>(1834,New Zealand (various authors/titles),36,1936 ed.</i>)
+
+>  <b>WILKES</b> They even took the shoes ... off a sick boy, who was lying on the veranda [at Kororarika] <i>(1852,U.S. Exploring Expedition,1/309</i>) [NOTES: 1840 Mar in 1852 Wilkes U.S. Exploring Expedition]
+
+>  verandah A long covered balcony or porch attached to the side of a house. -->b. of an early Maori whare <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),432,8th ed.</i>)
+
+>  <b>YATE</b> As soon as a child is born, it is wrapped up, and laid to sleep in the verandah, which most of theNew-Zealand houses possess; ... <i>(1835,New Zealand (various authors/titles),81</i>) [NOTES: Griffiths Collection]
+
+>  Veranda- A roofed space extending from a building. <i>(1979,SANZ Glossary Building Terminology,126</i>)
+
+>  To the rear are the kitchen and living spaces, now interconnected and made open to a deck - that contemporary re-think of the traditional verandah. <i>(Aug 21, 2004,Listener (New Zealand Listener),59</i>)
+
+>  The casements are already glazed, and Venetian shutters, opening upon the terrace verandah which surrounds the building. <i>(Jul 4, 1840,New Zealand Gazette & Wellington Spectator,3</i>)
+
+>  Had we verandahs attached to the wards so arranged that, if necessary, the patient, bed and all, could be wheeled outside, the benefit to the patient would be very great. <i>(Oct 10, 1899,Hawke's Bay Herald,4</i>)
+
+>  GBP450 - St Albans - 4 rooms, verandah, scullery, bathroom, well built and splendidly finished. <i>(Jan 6, 1904,Star, The,1</i>)
+
+>  Verandahs screened in for Weddings and Parties at Reasonable Rates. <i>(Oct 2, 1911,Poverty Bay Herald,3</i>)
+
+>  The response to the appeal was not very encouraging, and very few parcels were waiting on verandahs or at front gates for collection. <i>(Aug 8, 1932,Evening Post,9</i>)
+
+>  2 Flats, with vacant possession of top flat, consisting of 4 large rooms, large glassed-in verandah, kitchenette, and bathroom; lower flat let at GBP2 15s per week: beautifully sunny position; price GBP4250, or near offer. <i>(Dec 13, 1945,Evening Post,1</i>)
+
+>  <b>FRAME</b> Instead of sleeping in a bed in the house, she chose a hammock on the verandah. <i>(1988,Carpathians, The,139</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> a street verandah, a roof projecting over public pavements as shelter for pedestrians
+
+>  The Wellington City Council is doing something about dodgy verandahs. <i>(May 26, 2003,Capital Times,4</i>)
+
+>  <b>TROLLOPE</b> `In Melbourne there is the `verandah'; in Sandhurst there is a `verandah'; in Ballaarat [check spg???] there is a `verandah.' The verandah is a kind of open exchange - some place on the street pavement, apparently selected by chance, on which the dealers in mining shares do congregate.' <i>(1873,Australian & NZ Sheep Farming,c. xxvii. p. 418:</i>)
+
+>  <b>KENNEDY</b> The asphalte [sic] pavements [in Christchurch] are sheltered with glass-roofed verandahs - some painted green, some white, but most left transparent. <i>(1876,Colonial Travel,199</i>)
+
+>  <b>MODERN</b> What I miss most in London is the Verandahs. With this everlasting rain there is no place to get out of shower, as in Melbourne. But I suppose it pays the umbrella-makers.' <i>(1895,Private Letter of an Australian on Tour</i>)
+
+>  <b>MORRIS</b> Verandah, n. In Australia, the heat of the sun makes verandahs much commoner than in England. They are an architectural feature of all dwelling houses in suburb or in bush, and most City shops, where they render the broad side-walks an almost continuous arcade. `Under the Verandah' has acquired the meaning, `where city men most do congregate.' <i>(1898,Austral English,489</i>)
+
+>  <b>DAVIN</b> ... I think the thing that struck me most [about New Zealand] was the way the shopping streets had continuous first-floor verandas, corrugated iron as a rule, apparently to keep off the rain or sun according to season. <i>(1959,No Remittance,24</i>)
+
+>  NZ: a continuous overhead canopy that gives shelter to pedestrians <i>(1982,Collins Concise English Dictionary,2</i>)
+
+>  <b>SUMMERS</b> `I expect that's why all the shops have verandahs on them - I'd not thought of that. To stop the sun fading the goods through [13] the glass. I thought it was to keep shoppers from getting wet in the rain. It was the first difference I noticed. That, and the lack of bowler hats. I haven't seen a single one since we came to Dunedin. Or one man carrying an umbrella. It's all soft hats or bare hds, isn't it? And they don't need gamps with the verandahs.' [a resent arrival in Dunedin from Britain speaks] <i>(1964,Fire and the Smoke,12</i>)
+
+>  ".. The owner of a verandah overhanging Willis street or Manners street occupies public airspace by sufferance only ..." <i>(Oct 15, 1908,Wanganui Herald,5</i>)
+
+>  Most people are heartily sick of the shop verandah poles, rubbed shiny by the innumerable backs of loafers. <i>(Jul 12, 1913,NZ Observer,16</i>)
+
+>  The Surveyor stated that he had spoken to the solicitor to the Board, respecting the removal of a verandah in front of the Bank of New South Wales, and that he was of opinion that nothing could have been done to prevent its removal, but recommended the Board for the future not grant permission to erect verandahs without an agreement that they should not be removed without the permission of the Board. <i>(Jan 13, 1872,Nelson Evening Mail,2</i>)
+
+>  OUR contemporary the Hawera Star wants a verandah on the local railway station, and urges the large revenue derived from that station as a reason why the Railway Commissioners should comply with a request to that effect. <i>(Jun 20, 1889,Feilding Star,2</i>)
+
+>  A MOST exciting bolt occurred in the Great North Road about six o'clock last night, in the course of which an affrighted horse harnessed to a vehicle knocked over the verandahs of two shops, smashed the windows and fittings of the same, tore along the road at a break-neck speed for about half a mile, finally ending his mad career in the entanglements of a barbed wire fence. <i>(Aug 15, 1893,Auckland  Star,5</i>)
+
+>  When a verandah in Lower Hutt was struck by a motor-car last April and had to be taken down the owners claimed that they should receive a permit to erect a similar verandah. <i>(Dec 5, 1934,Evening Post,13</i>)
+
+
+
+ 
+<b>3</b> <i>n.</i> [on the verandah, on the periphery of interest]
+
+>  ... but she wasn't on the verandah on this journey, ... <i>(Jun 1984,Landfall,150/134</i>)
+
+
+
+## verandah politician
+ 
+ <i>n.</i> nf P8 -->this may have some relation to Austr term - cf Morris and OED 1c. -->descriptive term for local critics of Upper Hutt public affairs. Leading article on the first 100 issues of Hutt Valley Independent
+
+>  <i>(Dec 7, 1912,Hutt Valley Independent,1</i>)
+
+
+
+## verandah'd
+ 
+ <i>adj.</i> having verandahs
+
+>  <b>KENNAWAY</b> The streets of the town [Christchurch] are all wide and open, with broad pavements; and the shops are verandah'd along nearly the whole line. <i>(1874,Crusts: a settler's fare due south,225</i>)
+
+>  433 Sunday morning though it was, we were fortunately able to get the food we needed at Paemako: one nice-looking meeting-house on the right, one pretty verandah'd cottage and one tiniest of stores on the left, and farmhouses in the vicinity. <i>(Mar 1, 1904,NZ Illustrated Magazine,433</i>)
+
+>  A considerable portion of this front (which is 217 feet wide) is verandah'd, and the windows are all fitted with outside venetian blinds. <i>(Jan 30, 1873,Evening Post,2</i>)
+
+
+
+## verbal
+ 
+ <i>n.</i> uncorroborated (and false) verbal evidence against an accused [criminals']
+
+>  <b>NEWBOLD</b> VERBAL (n) and (v) Use of uncorroborated (and false) evidence against an accused. <i>(1982,Big Huey, The,255</i>)
+
+
+
+ 
+ <i>v.</i> talk?
+
+>  Meanwhile back at the head of the procession Ben rushed somewhat unsteadily onwards, verballing madly, supported by the attendant priestesses. <i>(Nov 1985,Geological Society of NZ Newsletter,70/69</i>)
+
+
+
+## Vere Foster
+ 
+ <i>n.</i> sc style of hand writing : ? 1880's
+
+>  <b>LYON</b> The sloping style of writing called `Vere Foster' was in vogue [in Wellington in the ?1880's], and I have been able to detect this in the calligraphy of grown-up folk in later years. <i>(1952,Faring South,147</i>)
+
+
+
+## verge roll
+ 
+ <i>n.</i> roll applied at the verge of the gable when the roof is of corrugated metal.
+
+>  Roll, verge- Roll applied at the verge of the gable when the roof is of corrugated metal. <i>(1979,SANZ Glossary Building Terminology,94</i>)
+
+
+
+## veronica
+ 
+ <i>n.</i> the former generic name, and popular general name, for (members of) the genus Hebe. esp. Hebe salisifolia;=KOROMIKO (See [also koromiko](../A#also-koromiko))
+
+>  New Zealand's multitudinous veronicas,one of the marvels of the plant kingdom,are represented at Mount Pleasant by ahundred and fifty varieties, from theforty-foot gigantic to the tiny, moss-like ones. <i>(Oct 12, 1935,Christchurch Star-Sun,14</i>)
+
+>  <b>DIEFFENBACH</b> Near the beach appear shrublike veronicas [fn Veronica ligustrifolia.], myrtles [fn Myrtus bullata.], fuchsias, solanum [fn Solanum laciniatum.], the karaka tree [fn Corynocarpus laevigata.], tutu [fn Coriaria sarmentosa.], and flax [fn Phormium tenax.]. <i>Ibid.</i> 1/77 ... the river follows the western hills, and at its freshes overflows the left shore, which was covered with shrublike veronica. <i>Ibid.</i> 1/402 ... fern, flax and veronica. <i>(1843,Travels in NZ,1/126</i>)
+
+>  <b>WELD</b> several veronicas of great beauty, wild thyme, dwarf yew, Alpine rose (<i>consanthenum</i>), white violet, a ribes, several heaths, gentianella, harebell, a lily, and several varieties of ranunculus. <i>(Feb 21, 1851,Letter</i>) [NOTES: 1851 Jan Weld Letter in 1851 Feb 21 NZGG 34]
+
+>  <b>34</b> several veronicas of great beauty, wild thyme, dwarf yew, Alpine rose (<i>consanthenum</i>), white violet, a ribes, several heaths, gentianella, harebell, a lily, and several varieties of ranunculus. <i>(Feb 21, 1851,NZ Government Gazette</i>) [NOTES: 1851 Jan Weld Letter in 1851 Feb 21 NZGG]
+
+>  <b>HARPER</b> ... there are shrubs and plants ... besides various kinds of Veronica, white and purple, tall palm trees, locally termed Cabbage trees,* masses of New Zealand flax, ... [fn] *Ti-Ti palm. <i>(Dec 25, 1856,Letters from Canterbury, NZ,2,1914 ed.</i>)
+
+>  walked up the gully & transplanted some veronicas in the afternoon <i>(Sep 7, 1868,Diary</i>) [NOTES: Puketoi Station Diary [Hocken TS]]
+
+>  <b>WHITWORTH</b> <i>(1870,Martin's Bay Settlement</i>)
+
+>  <b>GREEN</b> More than sixty species of veronicas have been described as indigenous to New Zealand. <i>(1883,High Alps of NZ,172</i>)
+
+>  <b>NEIL</b> KORAMIKA (NATIVE VERONICA). ... It is found growing in almost every native bush. <i>(1898,Family Herb Doctor,28</i>)
+
+>  <b>HOCKEN</b> Two or three hundred yards beyond begins an irregular fringe of native bush, broadleaf, veronica, fuchsia, pittosporum, and tangled supplejack; beyond these rise the lofty pines and other forest giants. <i>(1898,Contributions to the Early History of New Zealand,79</i>)
+
+>  The native fuchsia [fn <i>Fuchsia excorticata </i>.] - an exile from South America - and the fierce bush-nettle [fn <i> Urtica ferox.</i>] are conspicuous amongst the undergrowth, together with the bush-lily [fn <i> Astelia nervosa </i>.], but we see but few species of the characteristic New Zealand daisy-trees [fn Species of <i> Olearia </i>.] or of the bushy Veronicas (koromiko), which are so conspicuous in other parts of these islands. <i>Ibid.</i> 212 (L.Cockayne) A pinkish-flowered Veronica [fn <i> Veronica Raoulii </i>] often forms a pleasing contrast to the bare rocky faces on which it grows. <i>(1900,Canterbury Old & New,184</i>)
+
+>  <b>TREGEAR</b> Sometimes invalids were taken to a stream by the priest who sprinkled the sufferer ... with a sprig of veronica (<i> koromiko </i>). <i>(1904,Maori Race, The,21</i>)
+
+>  <b>LAING & BLACKWELL</b> (<i> Hebe </i> from the Greek, the cup-bearer of the gods). Maori name, <i> Koromiko </i>. The evergreen, shrubby habit, in addition to other botanical characters, as well as the distribution, separate the genus <i> Hebe </i> from <i> Veronica </i>. [1907, 364 mentions only the genus <i> Veronica </i>.] <i>(1907,Plants of NZ,393</i>)
+
+>  <b>COWAN</b> The flowering <i> koromiko </i> (veronica) and the turpentine plant - the latter invaluable to the camper-out because it burns well even when green - are two of the most plentiful shrubs. <i>(1926,Travel in NZ,(Vol II South Island) 66</i>)
+
+>  <b>REISCHEK</b> The vegetation [of Campbell Island] is tussock mixed with cotton-plants, aniseed, veronica, andother plants, ... <i>(1930,Yesterdays in Maoriland,281,1933 ed.</i>)
+
+>  We used to wander up [the Southland trout streams] into the hills, gathering veronicas and other native flowers and berries. <i>(1939,Silhouettes of the Past,206</i>)
+
+>  <b>HUNT</b> It has ... speedwells or veronicas which in England are modest little blue flowers ... but which here in New Zealand are not only an enormous family of numerous species with a range of colours varying from white to dark purple, but, in the form of shrubs and trees (known as Hebes), reach a [137] height of forty feet. <i>(1951,Confessions,136</i>)
+
+>  For garden decoration the veronicas are a host in themselves. There is such a diversity in their habits, flowers, and foliage that they form a very interesting collection. <i>(Dec 8, 1898,Otago Witness,8</i>)
+
+>  The value of the New Zealand veronicas is being appreciated in the Home Country, and if some enterprising gardener took the matter in hand, and through agents in England and Scotland pushed them, a profitable trade might be established. <i>(Jan 2, 1907,Otago Witness,10</i>)
+
+>  150 CHOICE ROSES, Carnations, sumachs, Cape daisies, macranthus, veronicas, ake ake, azalias, cabbage trees, hydrangeas, coprosma, Russian violets, and other high-class nursery stock. <i>(Jul 10, 1912,Evening Post,10</i>)
+
+>  How many people know that over 200 varieties of veronica are indigenous to New Zealand? <i>(Aug 14, 1923,Evening Post,8</i>)
+
+>  We negotiated a small bluff, pullingourselves up among damp thickets of bigdaisy-faces, mauve brown waterfallveronicas and charming unknowns. <i>(1935,Canterbury Mountaineer, The,IV/91</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica catarractae
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
+
+>  <i>(1917,Duncan & Davies' Catalogue</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica amabilis var. <i>blanda </i>
+
+>  <b>COCKAYNE</b> <i>(1909,AJHR,C-12</i>) [NOTES: Botanical Survey Stewart Island]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica Lavaudiana
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica lycopodioides
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
 
 
 
  
 <b>2</b> <i>n.</i>
 
->  SPHENOEACUS PUNCTATUS, Quoy. and Gaim. Mata. Grass-bird, Grass-pheasant, Utick. ... [58] From its call, it is in some places named the Utick. <i>(1870,TrNZI,2/57</i>) [NOTES: Potts Birds]
-
->  SPHENOEACUS PUNCTATUS. ({COMMON UTICK {FERN-BIRD}.) ... <i> Maori names </i>. Mata, Matata, Kotata, Nako, and Koroatito. ... It frequents the dense fern (<i> Pteris aquilina </i>) of the open country, ... <i>(1889,TrNZI,21/380</i>)
-
->  The swamp-lark or utick has rust-brown plumage streaked with dark-brown ... <i>(1889,TrNZI,21/380</i>)
-
->  `Fern-bird' is rather a misnomer nowadays, for, whatever the habit of theutick may have been, I have never yet, though riding over hundreds of miles of fern-country ..., observed the bird in this kind of herbage. <i>(1895,TrNZI,28/373</i>)
-
->  Our utick, or fern-bird, heard everywhere in swampy ground ... has become very rare. <i>(1908,TrNZI,40/491</i>)
+>  <b>LAING & BLACKWELL</b> Veronica monticola Mountain-loving veronica <i>(1906,Plants of NZ</i>)
 
 
 
-## utility
+ 
+<b>2</b> <i>n.</i>
+
+>  <b>COCKAYNE</b> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park (And)]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica tetragonia
+
+>  <b>COCKAYNE</b> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park (And)]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica epacridea
+
+>  <b>COCKAYNE</b> <i>(1910,NZ Plants</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica Traversii
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica buxifolia var. <i> odora </i>
+
+>  <b>COCKAYNE</b> <i>(1909,AJHR,C-12</i>) [NOTES: Botanical Survey Stewart Island]
+
+>  <b>COCKAYNE</b> <i>(1919,NZ Plants</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica lycopodioides ; and others
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica elliptica
+
+>  <b>C-12</b> <i>(1909,AJHR</i>)
+
+>  <b>COCKAYNE</b> <i>(1909,AJHR,C-12</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica salicifolia
+
+>  <i>(1907,AJHR,C-8</i>) [NOTES: Report on Botanical Survey of Kapiti Island]
+
+>  <i>(1908,AJHR,C-14</i>) [NOTES: Botanical Survey Waipoua Kauri Forest]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica epacridea
+
+>  <i>(1906,Plants of NZ</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica [persica]SPEEDWELL
+
+>  <b>HILGENDORF & CALDER</b> SPEEDWELL (<i> Veronica [persica]</i>), also called field veronica, is abundant in fields and waste places throughout the islands. It is an annual with trailing stems about 6 inches long, ... <i>(1926,Weeds of New Zealand,158</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica speciosa
+
+>  <b>LAING & BLACKWELL</b> <i>(1906,Plants of NZ</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica diosmaefolia
+
+>  <b>COCKAYNE</b> <i>(1908,AJHR,C-14</i>) [NOTES: Botanical Survey Waipoua Kauri Forest]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica Hookeriana
+
+>  <b>COCKAYNE</b> <i>(1908,AJHR</i>) [NOTES: Botanical Survey Tongariro National Park]
+
+
+
+ 
+<b>2</b> <i>n.</i> Veronica Laingii
+
+>  <b>COCKAYNE</b> <i>(1909,AJHR,C-12</i>) [NOTES: Botanical Survey Stewart Island]
+
+
+
+## verse
+ 
+ <i>v.</i> to play against [from Karen Bardsley: new verb in Surry Hills (Australia) - to 'verse' someone - as in "I'll verse you in cards / sport/ game".]
+
+>  Schoolboy rugby is reported to have given us the charming neologism "versing". Cameron Williamson writes that his nine-year old son's mates are in the habit of bursting in through the back door, yelling, "Who are we versing on Saturday?" When they look up the draw to see which club is to play "versus" whom, attention is likely to turn to Gameboy or Playstation, in which contestants are locked in battle, "versing" each other to death. <i>(Sep 22, 2004,Dominion Post,B7</i>)
+
+
+
+## vert
+ 
+ <i>n.</i> [skate boarders]
+
+>  Skate vert? Beats me. Apparently it's coming back. Apparently street replaced vert but now street should watch out. <i>(Feb 9, 2003,Sunday Star Times,A4</i>)
+
+
+
+## vertical drinking
+ 
+ <i>n.</i> [also UK]
+
+>  <b>TURNER</b> This [sc. six o'clock closing] gives in New Zealand the terms <i>vertical drinking</i> (in crowded bars with standing room only), the <i>six o'clock swill</i> and..the <i>shicker express.</i> <i>(1966,English Language in Aust. & NZ, The,131</i>)
+
+>  <b>McGILL</b> vertical drinking standing room only drinking in some pubs in the good old, bad old days. <i>(1988,Dictionary of Kiwi Slang, A,119</i>)
+
+>  "It will be agreed by all medical authorities that the speed at which successive draughts of alcohol are consumed is a more potent factor in conducing to inebriacy than the actual quantity taken, and if some means could be devised whereby the concentrated 'vertical swilling' which now takes place could be avoided a reduction in drunkenness would inevitably follow. The system of bar parlours such as obtain in English and the Continent are designed to discourage this objectionable vertical drinking, but it would seem to be unavoidable if the bulk of the public are obliged to satisfy their requirements between 5 and 6 p.m." <i>(Mar 8, 1945,Evening Post,4</i>)
+
+
+
+## vertical grazing
+ 
+<b>1</b> <i>n.</i> the consuming by stock of shrubby plants that provide sustenance during drought or pugging.
+
+>  Grasslands Range of Forage and Conservation Plants 58 Tagastase - fast-growing leguminous shrub, 2-4m high with high summer production for 'vertical grazing' in dryland when pastures dry off. <i>(1995</i>)
+
+
+
+## vertical swill
  
  <i>n.</i>
 
->  <b>TULLETT</b> `We'd better take my utility, hadn't we? No use driving two vehicles where one is sufficient.' <i>(1964,Red Abbott,76</i>)
-
->  <b>SUTHERLAND</b> They had just finished when a Ford Model utility came bouncing over the rails and chuffering up the ramp. <i>(1978,Elver, The,43</i>)
-
->  <b>SHERWOOD</b> A utility was standing in the yard behind the farm house. <i>(1985,Botanist at Bay,74</i>)
+>  <b>BOLLINGER</b> First target [sc. of the campaign against six o'clock closing] was the 'vertical swill' type of bar. <i>(1959,Grog's Own Country,97</i>)
 
 
 
-## utility truck
+## verticals
  
- <i>n.</i> [incl 'utility line' re style of truck]
-
->  THE WHIPPET FOUR utility line is rapidly increasing in favor among business men who need fast and cheap transport. <i>(Oct 30, 1930,NZ Truth,10</i>)
-
->  OFFERS, closing December 17, in envelopes marked "Offer for Motor Vehicle," addressed to the "Director-General, Stores Division, General Post Office," are invited for the purchase of a second-hand Bedford Utility Truck, which may be viewed at the Post and Telegraph Stores, Waterloo Qy., Wellington. <i>(Dec 8, 1945,Evening Post,4</i>)
-
->  utility truck n. Austral. & N.Z. a small truck with an open body and low sides, often with a removable tarpaulin cover; pick-up truck. <i>(1982,Collins Concise English Dictionary,1293</i>)
+ <i>n.</i> [Jim Cameron writes: NZPOD has an entry for <i>vertical blind</i>, which does not appear in OED or other British dictionaries or DNZE. The variant <i>verticals</i> is also used, by analogy with <i>venetians</i>.]
 
 
 
-## utiwai
+## vervain
  
- <i>n.</i> variant of hutiwai (biddy-bid) (See [hutiwai](../H#hutiwai))
+ <i>n.</i> blue top, =griffin weed, =missionary weed
+
+>  <b>HILGENDORF [& CALDER]</b> VERVAIN (<i>Verbena officinalis </i>), also called blue top, griffin weed, and missionary weed, is a slender tough-stemmed perenial 1 to 2 ft. high, with a few opposite rough, cleft leaves, and small lilac flowers, ... It is becoming very common in the country from Wairoa to Gisborne <i>(1926,Weeds of New Zealand,146,1967 ed.</i>)
+
+>  <i>vervain [s] Verbena officinalis </i> L. <i>(1969,Standard Common Names for Weeds,82</i>)
 
 
 
-## utu
  
- <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](../H#hoot))
+<b>2</b> <i>n.</i>
 
->  Kiwis want something done and now we are letting a family squabble and an utu get in the way of it. <i>(Jan 11, 2001,Dominion,1</i>)
+>  <i>blue vervain [s] Verbena litoralis HBK. </i> <i>Ibid.</i> 82 <i>vervain </i>, blue [s] <i>Verbena litoralis </i> HBK. <i>(1969,Standard Common Names for Weeds,6</i>)
 
->  This is why the debate of the lowestcommon denominator, couched in terms suchas "social disaster", "utu" and "Pakehabacklash" is irresponsible to say theleast. <i>(Sep 7, 1985,Listener (New Zealand Listener),77</i>)
+>  <b>TAYLOR</b> <i>(1981,Weeds of Roadsides,157</i>)
 
->  <b>TAYLOR</b> ... bands of natives were hurrying on droves of pigs, in cheerful expectation of a liberal utu [?`price'] at Auckland. <i>(1959,Early Travellers,117</i>) [NOTES: 1847 Johnson Notes for Journal in 1959 Taylor Early Travellers]
 
->  <b>POWER</b> In some of the missionary Pas there is a little more pretension [among the unmarried girls] to prudery and reserve, but it goes little beyond ... the demand for a little more `utu' (payment) as a salve to their consciences. <i>(1849,Sketches in NZ,63</i>)
 
->  Tarawata's father arrived on his way to Otago to claim [pounds]200 utu for his land. <i>(Mar 30, 1849,Torlesse Papers,71,1958 ed.</i>)
-
->  <b>STAFFORD</b> (E.J. Wakefield) I suppose you obtained [pounds] 3 from the O'Sullivan, and sent it to Weld as utu for Glendon [a horse he had bought]. <i>(1850,Papers,69</i>) [NOTES: 1846]
-
->  <b>SHORTLAND</b> ... if he did not die speedily, people would say that Te Matahara had not caused his death, and he would then not obtain `utu' or satisfaction. <i>(1851,Southern Districts of NZ,22</i>)
-
->  The strongest impulse of the Maori is revenge, the principle of `Utu' or compensation is part of their religion. <i>(1855,Journal of Henry Sewell,II-160,1980 ed.</i>)
-
->  <b>BUDDLE</b> ... no man could venture outside the territory of his tribe without danger of being slain as utu for some old feud. <i>(1860,Maori King Movement,24</i>)
-
->  <b>MANING</b> `What can he mean?' said I. `He is challenging you to wrestle ... he wants utu' `What is utu?' said I. `Payment.' `I won't pay him.' `Oh, that's not it, he wants to take it out of you wrestling.' <i>(1863,Old New Zealand,(ii) 31</i>)
-
->  <b>VON TEMPSKY</b> <i>(1864,Memoranda,52</i>) [NOTES: TS ATB]
-
->  <b>BAINES</b> I have known a native, a lucky finder of a new ... Hapuku ground, to receive from his tribe a considerable `utu'. <i>(1874,Edward Crewe,139</i>)
-
->  <b>LADY MARTIN</b> Only a few months, however, before our visit to the Waimate, a `taua,' i.e., a fighting-party, had come to the Bishop's house to demand `utu' (payment) for a trespass. <i>(1884,Our Maoris,37</i>)
-
->  <b>BODELL</b> When they [the natives] became convinced they want[ed] Utu or Money <i>(1890,Soldier's View of Empire, A,177,1982 ed.</i>)
-
->  <b>TUA-O-RANGI</b> [preface] Some explanation of the title, which, to persons living outside Maoriland, may appear as incomprehensible as it is odd, is perhaps called for ... Most born New Zealanders, whether fair or dark, have some conception of the meaning of the word UTU, albeit, to pakeha ears it toofrequently conveys nothing more than a hazy idea of money compensation. ... Practically, utu meant payment. The ancient Maori did nothing for nothing ... No man could accept service or gifts without requital and retain the esteem of his fellows; still less could he allow injuries to pass unavenged. Utu (value) he expected for the presents he made; utu (payment) he required for goods or produce; utu (satisfaction) he exacted from hereditary foes and all whom he conceived [?had] injured him. A vendor [?in] the early days of settlement, would request UTU for his produce; a settler desiring to purchase would enquire in his pidgin Maori, `How muchee te utu?' From this milder meaning, expressive of compensation and commodities exchanged, comes the pakeha use of the word signifying money. In settler's parlance `Kahore ti [?] utu' means `I have no money', for to their ears utu is synonymous with `tin', `sugar', and other slang terms used to denote our medium of exchange. <i>(1894,Utu</i>)
-
->  <b>MORRIS</b> a Maori word for `Return, price paid, reward, ransom, satisfaction for injuries received reply.' (Williams.) Sometimes corrupted by Englishmen into Hoot (q.v.). <i>(1898,Austral English,487</i>)
-
->  <b>BAUCKE</b> Since the pakeha has established the principle of `utu' (payment) for services rendered, unless he pleads in forma pauperis - ... <i>Ibid.</i> 268 The Maori is an inborn usufruct; unless the labour he is called upon to perform promises visible utu (payment; returns) he incontinently becomes `oha' (weary). <i>(1905,Where the White Man Treads,175</i>)
-
->  utu n.payment for services; compensation; satisfaction for some wrong. see HOOT [Maori] <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,12</i>)
-
->  <b>GUTHRIE</b> The Maoris ... strongly objected when my grandfather's cattle strolled into their maize, and for utu would unblushingly help themselves to one of his cows; ... <i>(1930,NZ Memories,115</i>)
-
->  <b>ANDERSON</b> utu, payment; recompense; almost literally an eye for an eye and a tooth for a tooth, rigidlyex(tr)acted. <i>(1946,Journal of the Polynesian Society,55/147</i>) [NOTES: Maori Words in English]
-
->  utu: revenge. <i>(1947,Reeds' School Dictionary: NZ Suppl.,176</i>)
-
->  utu 1. a Maori word meaning payment or ransom. 2. An ancient Maori custom whereby an injured person received satisfaction sometimes described as `blood-for-blood' or `blood-money'.(Pronounce oo|-too|) <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),430,8th ed.</i>)
-
->  <b>SINCLAIR</b> Because of the ramifications of kinship, each new death involved more and more tribes in the demands of utu (revenge): murder spread out like waves from a stone dropped in the pool of tribal society. <i>Ibid.</i> 302 [Maori glossary] utu Satisfaction for injuries received; payment; revenge. <i>(1959,History of New Zealand,40</i>)
-
->  <b>SHADBOLT</b> <i>(1966,Short Stories (various authors),320</i>) [NOTES: 1963 Shadbolt in 1966 Short Stories]
-
->  utu n. in New Zealand. Maori word for reward, ransom, satisfaction for injuries received. <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),627</i>)
-
->  utu n. in N.Z.,Maori word for reward, payment, satisfaction for injuries received; payment, price <i>(1968,NZ Contemp. Dict. Suppl. (Collins),21</i>)
-
->  <b>BRAITHWAITE</b> <i>(1967,Evil Day,382</i>) [NOTES: gloss.]
-
->  <b>McGILL</b> The cannon behind still looks in trim, but in fact there was little use for it after the Wairau Massacre, when the Maoris scarpered, in expectation of utu . <i>(1980,Ghost Towns of NZ,5</i>)
-
->  <b>HULME</b> Utu = revenge <i>(1983,Bone People, The,467, 178</i>)
-
->  <b>HOWE</b> Utu - the word is translated as `price' now, but includes the idea of reciprocity, and crudely put, revenge. Traditionally, if one suffered a loss of `mana' (by the actions of another group or tribe, say) one was bound to retrieve that `mana' by some kind of reciprocal action. <i>(1985,Towards Taha Maori,23</i>)
-
->  <b>IHIMAERA</b> He is referring to an act of utu. And after all, is not the doctrine of an eye for an eye, a tooth for a tooth, enshrined in the Old Testament? <i>(1986,Matriarch, The,71</i>)
-
->  utu n. NZ hist. recompense, satisfaction; return or price paid for injuries received; price. [M] <i>(1986,NZ Pocket Oxford Dictionary,852</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.]]
-
->  Ngarimu is a pleasant man ... He agrees that the gangs needed to be separated [at Paremoremo prison] at the outset, and he recalls violent vendettas carried out in the main corridor, called the strip. `We were waiting for the chance to catch someone out on the strip so we so we could do him in. And vice versa. That was the utu (revenge) thing that was out then. Our fellows got stabbed so we decided we'd have them back.' <i>(Sep 4, 1988,Dominion Sunday Times,11</i>)
-
->  Francis Shaw ... said he wanted utu (revenge) after being thrown out of a party so he shot a man in the leg ... <i>(Jul 10, 1989,Evening Post,3</i>)
-
->  <b>MASON</b> <i>(1971,Hongi,23</i>) [NOTES: TS]
-
->  [On the attack on the Ngati Paoa at Whakatiwai.] The object of this attack was to balance an `utu' account. ... [sic] Ngati Paoa say this account had been previously squared, and the killings which happened at this attack were murders. The other side deny this and say that the balance was against them previously, but the deaths of the three men who fell wound up the account and the whole proceeding was `tika'(correct). <i>(1966,Journal of Ensign Best,421</i>) [NOTES: 1879 J.D. Fenton Important Judgments Delivered in the Compensation Court and Native Land Court, pp. 75-80 in 1966 Best Journal (ed. Taylor) 421]
-
->  Warriors, Wahines, Kuri, Poaka, Tamariki, Kumeras, Karos, Interpreters (1st, 2nd and 3rd grade), Poets Laureate, Poi Dancers, Guides, &c. on application to the Registrar. ...WAIPIRO - - An acursed drink ... TAIHOA - - The Police have the matter in hand POAKA - -a pig PUKEKO A bokakker out of season KORERO A long talk UTU - - The spike HAPU - - A Tribe KUMERA - - A sweet Spud <i>(1913,Auckland University Carnival Book,27</i>)
-
->  <b>CRAIK</b> What he now wanted ... was hootoo, or payment, for a hurt ... <i>(1830,New Zealanders, The,242</i>)
-
->  UTU (&omacr.&omacr.t), n. [Maori. utu vengenance.] 1. A Maori law or custom providingappropriate vengenance or punishment for various offenses. 2. In a general sense, reward; payment; pay; wages.See HOOT, n. <i>(1898,Merriam-Webster Third International,2033</i>)
-
->  <b>KEENE</b> utu: revenge. <i>(1963,O Te Raki,195</i>)
-
->  She is aware that "revenge" is not the right word to translate "utu", and that it presents this community-sustaining concept negatively. <i>(Oct 18, 2003,Listener (New Zealand Listener),60</i>)
-
->  "You should have asked for satisfaction, for utu!" <i>(Nov 1937,NZ Railways Magazine,19</i>)
-
->  In that respect, the claim by union official Mike Jackson that the ERB would soon make utu possible did the union movement no favours. <i>(Jun 10, 2000,Listener (New Zealand Listener),22</i>)
-
->  Since Australia stole the Rugby World Cup hosting rights from us, this victory was part karma, part utu. <i>(Aug 17, 2003,Sunday Star Times,A4</i>)
-
->  Winston looks to be running on pure utu. <i>(Feb 28, 2004,Listener (New Zealand Listener),15</i>)
-
->  "but of course the gang's mana requires utu where there's been an assault or a slight or an insult." <i>(Mar 10, 2002,Sunday Star Times,C10</i>)
-
->  We just hope the All Blacks get utu. <i>(Jul 20, 2003,Sunday Star Times,B4</i>)
-
->  The rascal offered plentyof "utu", of way of flax and pigs, but the quilt was rather a good one. <i>(Aug 28, 1890,Otago Witness,36</i>)
-
->  No one was in any doubt that MPs were extracting utu for Mr Hide's perkbusting crusade. <i>(Feb 21, 2004,Dominion Post,B5</i>)
-
->  <b>TOWNSEND</b> Colonel Wakefield bought the land from the Ngatawais for Jew's harps and gunpowder. tobacco, & guns & blankets - but the Mauries, as they are called, are getting dissatisfied with the Colonel's "Houte" - or payment... <i>(Nov 16, 1842,Letter,8</i>) [NOTES: In <i>Absolutely Positively Wellington</i> 0/9/2004, p. 9]
-
->  Now we have our own tino rangatiratanga movement, claiming the principle of democracy is no more than a white man's conceit. Irrelevant and unnecessary on the context of chiefly succession, marae speaking rights, utu and man, a mythical world where the tangatua whenua have undisputed rights of governance. <i>(Feb 20, 2000,Sunday Star Times,C6</i>)
-
->  Shortly after the stockade was built, three young Maori were summarily hanged for an act of utu that left six of the Gilfillan family dead. <i>(Dec 14, 1996,Listener (New Zealand Listener),41</i>)
-
->  <b>Ihimaera</b> It was time for reprisal, for utu to be exacted. <i>(2000,Uncle's Story, The,112</i>)
-
->  If Tom would really make such a coat as Wellington wore, his "utu" would be three of the finest pigs Poneke (Port Nicky) could produce. <i>(Dec 23, 1890,Otago Daily Times,18</i>)
-
->  None could be found bold enough to venture with it [sc. a warrant of arrest] to Otaki, where the chiefs lay entrenched waiting for the pakeha's "utu" to be taken. <i>(Dec 23, 1890,Otago Witness,18</i>)
-
->  Then Samuels does his utu thing after the police discontinue their two most serious investigations. <i>(Aug 13, 2000,Sunday Star Times,A11</i>)
-
->  The following morning every thing was returned but a portion of the tobacco, and utu was demanded for restitution. <i>(Nov 7, 1840,New Zealand Gazette & Wellington Spectator,3</i>)
-
->  ".. Me I get te utu for te missi' and te pickanin' in te unemproymin' an' for me, too, eh? ..." <i>(Jan 13, 1931,Otautau Standard & Wallace County Chronicle,3</i>)
-
->  Fraser publicly denied that the rift was a case of "utu" or revenge for Brown's 1998 decision to scrap Fraser's interview show... <i>(Jan 2, 2003,Listener (New Zealand Listener),34</i>)
-
->  They would either have the land back or require utu. <i>(Oct 25, 1879,Auckland Weekly News,19</i>)
-
->  But he wanted utu - he sought revenge. <i>(1900,Auckland Provincial Gazette,Xmas No. : 17</i>)
-
->  <b>TREGEAR</b> Ordinary revenge or payment (utu) for a wrong was less intense than uto. If a vendetta [361] had been going on for generations, then when a victim was secured his eyes were eaten by the ariki as uto. -->a) revenge or satisfaction. b) a price; payment. [Maori] early spg hootoo (? e utu) spg ootu -->= reward -->compensation; payment; price (see also HOOT) Maori utu Williams 471 Utu (i) <i>(1904,Maori Race, The,360</i>)
-
->  <b>LEE & KENDALL</b> U'tu, s. Price. <i>(1820,Grammar & Vocabulary of the Language of NZ,147</i>)
-
->  ... they had particular reason to entertain such apprehensions as to the Rarawa tribe, who would seek hutu (utu) or satisfaction for their hostility towards the Ngate-po. <i>(1827,Church Missionary Register</i>) [NOTES: 1827 Church Missionary Register in Marsden Letters and Journals (1932) 433]
-
->  Our Messenger returned bringing in a quantity of goods stolen at various times and also two pigs as a `Hootoo' or compensation. <i>(Jan 14, 1841,Journal of Ensign Best,275,1966 ed.</i>)
-
->  .. nothing is done [in trading, buying and selling, by Mowries] however slight, without demanding ootu or payment, and, if instead of higgling, you at once give what is asked, they become uneasy at having made such a boko keeno (trade bad). <i>(Mar 8, 1842,Sydney Herald</i>) [NOTES: 1842 Mar 8 Sydney Herald letter of Joshua Thorp in 1845 Marjoribanks Travels in NZ 88 .]
-
->  <b>DIEFFENBACH</b> E Hiko had buried a child in Ship Cove, and for that reason the place had become sacred, or `tapu.' For this [our infringement], `Dogskin' wanted `utu,' or payment, putting himself forward as E Hiko's representative. He was, however, compelled to lower his demands, and the matter having been amicably settled by a moderate present of tobacco, we had thenceforth permission to take as much wood and water as we wanted. <i>(1843,Travels in NZ,1/32</i>)
-
->  <b>WILLIAMS</b> Your three letters ... were highly interesting, and I will give you utu (payment) in an account of my travels. <i>(Mar 17, 1845,Letter</i>) [NOTES: 1845 Mar 17 W.L. Williams in 1939 Williams Through Ninety Years 61]
-
->  <b>ANGAS</b> The hospitality of the Maories to strangers is proverbial; ... It is only on the coast, in the vicinity of the European settlements, that the natives require utu, or payment in coin. <i>(1847,Savage Life,2/22</i>)
-
-
-
-## utuwai
+## very cloudy underfoot
  
- <i>n.</i> (Rural) a native plant with a burred seed, piripiri (bidi-bidi) Acaena sanguisorbae. [ORIGIN: Maori, variant of hutiwai q.v. (also utiwai)]
-
->  <b>ALLEN</b> No lambs brown with utuwai seed, no signs of wild pigs rooting in the pastures, no bush bulls bellowing.. <i>(1980,Farm on the Wanganui River, A,14</i>)
-
->  <b>ALLEN</b> I think that had gone too, along with the utuwai, the pig rooting and the bush bulls. [hutuwai, utiwai, hatiwai, otiwai] <i>(1980,Farm on the Wanganui River, A,15</i>)
+ <i>phr.</i> a soggy football field [The remark was made by a Maori footballer during a football game, circa 1925]
 
 
 
-## uwhi
+## vetch
+ 
+ <i>n.</i> tare(s)
+
+>  <b>TAYLOR</b> VETCHES OR TARES (<i>Vicia </i> spp.) ... All vetches climb by means of tendrils, like peas. [Natives of Eurasia.] <i>(1981,Weeds of Roadsides,159</i>)
+
+>  <i>vetch [s] Vicia sativa </i> L. <i>(1969,Standard Common Names for Weeds,82</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>vetch, four-seeded [s] Vicia tetrasperma </i> (L.) Schreb. <i>(1969,Standard Common Names for Weeds,82</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>vetch, hairy [s] Vicia hirsuta </i> (L.) S. F. Gray <i>(1969,Standard Common Names for Weeds,82</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>vetch, narrow-leaved [s] Vicia angustifolia </i> (L.) Reich. <i>(1969,Standard Common Names for Weeds,83</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>vetch, slender [=] four-seeded vetch [s] </i> <i>(1969,Standard Common Names for Weeds,83</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>tufted vetch [s] Vicia cracca </i> L. <i>Ibid.</i> 83 v <i>etch, tufted [s] Vicia cracca </i> L. <i>(1969,Standard Common Names for Weeds,80</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>vetch, yellow [s] Vicia lutea </i> L. <i>Ibid.</i> 89 <i>yellow vetch [s] Vicia lutea </i> L. <i>(1969,Standard Common Names for Weeds</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> tares
+
+>  <i>vetch, wild [=] narrow-leaved vetch [s] </i> <i>Ibid.</i> 87 <i>wild vetch [=] narrow-leaved vetch [s] </i> <i>(1969,Standard Common Names for Weeds,83</i>)
+
+>  <b>HILGENDORF [& CALDER]</b> TARES (<i>Vicia sativa </i>), also called wild tares and wild vetch, abundant in waste places and cropped fields throughout. ... Tares climb by means of tendrils and grow 3 to 4 feet high. - <i>(1926,Weeds of New Zealand,111,1967 ed.</i>)
+
+
+
+## Vibrapac block
+ 
+ <i>n.</i> (trademark) [Vibrapac is correct spelling]
+
+>  Vibrapack block R. concrete building block <i>(1985,Collins Compact Dictionary,533</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; nf. 1986 NZPOD]
+
+
+
+## Vic
+ 
+ <i>n.</i> short for Victoria University of Wellington (formerly Victoria University College) [ORIGIN: abbreviation, -->ca1945 at least]
+
+>  <b>McLauchlan ed.</b> He was a member of the vice-chancellor's industry advisory panel at Vic... <i>(2000,Morrieson's Motel,146</i>)
+
+
+
+## vice-regal
+ 
+ <i>adj.</i> of or relating to a Governor-General
+
+>  <b>O'Sullivan</b> 'Lucy,' she had said, 'I have the vice-regal ear, which I'm afraid you don't. I've dined I don't know how many times at Premier House.' <i>(2006,Pictures by Goya,130</i>)
+
+
+
+## Victoria
+ 
+ <i>n.</i> (Polack's name for) the South Island
+
+>  <b>POLACK</b> The amphibious sea-lion and lioness (phoca leonina) have been often met with on the coasts by the [317] sealers who have been residents on the southern island and islets to the south-west of the Island of Victoria. <i>(1838,New Zealand  (Polack),1/316</i>)
+
+
+
+## Victorianisation
+ 
+ <i>n.</i> the introduction of the style and methods of policing of the State of Victoria, especially to the goldfields areas
+
+>  <b>HILL</b> Victorianisation [index entry of approximately 50 references] <i>(1986,Policing the Colonial Frontier,1/1138</i>)
+
+
+
+## Victory cigarette
  
  <i>n.</i>
 
->  <b>CROWE</b> The uwhi, or yam (<i>Dioscorea</i> species) was cultivated for its edible tuber, though the plant appears to have died out or become rare before the arrival of Captain Cook. <i>(1997,Field Guide to Native Edible Plants of NZ,166</i>)
-
->  If the newly-located settlers made and effort to get a supply of seed of the uwhi, a winter potato generally grown by the Maoris in the north, they would find this much to their advantage... The uwhi, a large round pink potato, is a far more abundant cropper than the ordinary kidney potato. <i>(Jan 29, 1887,Auckland Weekly News,17</i>)
-
->  It does seem very likely that ti tawhiti should be added to the.. six other plants, kumara, taro, hue, ufi, ti pore, and aute, known to have been introduced by Maori in their ancient voyages from tropical Polynesia. <i>(Jan 1992,NZ Gardener,49</i>)
+>  <b>YSKA</b> There was deep suspicion of the "wogs" which extended even to the Victory cigarettes from India issued to the soldiers. <i>(1990,NZ Green,44</i>)
 
 
 
-## uwhiwhero
+## video parlour
  
- <i>n.</i> (Rural) a variety of Maori potato. [ORIGIN: Maori]
+ <i>n.</i> [Indian and African uses appear first on Google]
 
->  Maori potatoes. Uwhiwhero. waxy potato. <i>(2002,Organic NZ,May/June 23</i>)
+>  The personnel manager said that there was no reason for any family pride; that Cumuth was brought up by an uncle who ran a video parlour and that he lived in a one-room sleep-out over in Kodacks. <i>(Nov 6, 1993,Listener (New Zealand Listener),34</i>)
 
->  Some cultivars tend to be regional, such as the floury peruperu and the waxy uwhiwhero, which are largely confined to the far north. <i>(Jun 27, 2001,Evening Post,19</i>)
+
+
+## Vienna
+ 
+ <i>n.</i> a Vienna loaf
+
+>  <b>FARRELL</b> Yesterday morning she stopped near acountry store where she got a wholeVienna slipping it quick as winking underher coat while the man was lifting traysfrom a truck. <i>(1992,Skinny Louie Book,13</i>)
+
+
+
+## Vienna chair
+ 
+ <i>n.</i>
+
+>  [Advt] Morrison and Mitchell have received instruction.. to sell at Auction... Haircloth couch.. full Scotch chest drawers.. Vienna chairs.. glassware, &c.,&c. <i>(Oct 2, 1886,Otago Daily Times,4</i>)
+
+
+
+## Vietnamese mint
+ 
+ <i>n.</i>
+
+>  The pungent Vietnamese mint, or rau ram, is easy to grow, even in Otago where the climate is as different from Vietnam as it is possible to imagine. <i>(Nov 10, 2001,Listener (New Zealand Listener),43</i>)
+
+
+
+## VIF
+ 
+ <i>abbr.</i> Venture Investment Fund
+
+>  Slow progress in getting the government's Venture Investment Fund off the ground is a worry... VIF started life more than a year ago as a board under the Ministry of Science, Research and Technology. <i>(Nov 10, 2002,Sunday Star Times,E2</i>)
+
+
+
+## vila
+ 
+ <i>n.</i> Dalmatian evil or mischievous spirit
+
+>  Child of those mountains she peopled with <i>vilas</i> and witches and changelings the <i>vilas</i> had stolen from their human mothers, she believed in their powers. <i>(1987,Sing Vila in the Mountain,156</i>)
+
+
+
+## villa
+ 
+ <i>n.</i> a detached house built circa 1870-1914 commonly of wood and usually with high stud, central passage, veranda, fretwork, and bay window. -->?collocation NEW ZEALAND VILLA -->G.J.Griffiths notes: as in Britain, meant originally a rural house of some pretension, with an agricultural estate attached; then house set in suburban section; then more to describe a certain kind of house
+
+>  [Advt]. Charming Villa, St. Kilda. <i>(Nov 1, 1911,Otago Daily Times,8</i>)
+
+>  ...the villa is seen as highly competent technically and as an independent regional form arising out of the local sheds. <i>(Dec 27, 1986,Listener (New Zealand Listener),120</i>)
+
+>  [Advt] Sacrifice of Modern Five-Roomed Villa. <i>(Oct 24, 1916,Press, The,12</i>)
+
+>  ... villas or their rural cottages, at a short distance from the town. <i>(1849,Notes on Otago</i>) [NOTES: Griffiths Collection]
+
+>  <b>BARKER</b> Very few people live in town ...; the professional men prefer little villas two or three miles off. <i>(1866,Station Life in NZ,47,1870 ed.</i>)
+
+>  `A better site for villa residences cannot be found in the vicinity of Napier', read the sale notice. <i>(Nov 27, 1874,Hawke's Bay Herald</i>) [NOTES: in 1984 Boyd City of the Plains 28]
+
+>  <b>CAMPBELL</b> On that morning the open country stretched away in vast fields of fern, and Nature reigned supreme. It is fern-clad now no longer, but green fields gladden the eye; the white gleam of the farmer's homestead dots the landscape, there are villas on the height, and cottages on the shore. <i>(1881,Poenamo,Bk2/5/99</i>)
+
+>  <b>IRVINE & ALPERS</b> The average New Zealand villa or cottage is a square box, with a four to six foot passage, pretentiously called a `hall', running through it from front to back. On either side of this, arranged with all a Scotch gardener's love of symmetry, are sitting-room, dining-room, bedrooms and kitchen ... the evolutionary starting point of the New Zealand villa must have been the tin-lined packing case in which the pioneer settler imported his goods and chattels. <i>(1902,Progress of NZ in the 20th Century,363</i>)
+
+>  <b>LELAND</b> villa: Many of the Kiwis you meet will live in villas. Does this conjure up visions of vine laden elegance clinging to the cliffs above the French Riviera? Forget it! This is a one storied house, usually made of wood, otherwise known as a BUNGALOW. <i>(1980,Personal Kiwi-Yankee Dictionary, A,109</i>)
+
+>  Number 10 Sunnyvale Road was one of half a dozen similarly-styled villas that were probably put up by a spec builder at the turn of the century. In New Zealand, a detached house, commonly of wood and usually with high stud, central passage, verandah, valence, and bay window. <i>(May 1987,Metro,50</i>) [NOTES: Roger `Auckland Life']
+
+>  <b>ELDRED-GRIGG</b> ... in South Christchurch a cottage meant a box of two or four rooms and a lean-to at the back. But a villa meant something different. It meant six to eight rooms, it meant high ceilings and verandahs, it meant cast iron curlicues and fancy french[sic] cuts. It meant bay windows, bowwindows. <i>(1987,Oracles and Miracles,85</i>)
+
+>  The standard of accommodation deteriorates as the old villas and settlers' cottages are stretched to splitting point... <i>(Jul 3, 2004,Listener (New Zealand Listener),28</i>)
+
+>  The villa is a strange contraption, the work of 19th-century building companies enraptured with the possibilities of mass production... Villas are loved and despised in about equal numbers. Two groups for whom the villa has always worked well are flatting students, where everyone has a room of their own and a communal space for meals, and Polynesian families, where the number of people in a house is often in flux... Met with city regulations that required villa-ness and a family to whom the soon-to-be-demolished villa remained well-suited. Walker responded by taking the villa concept apart and re-assembling it as a contemporary home... To the rear are the kitchen and living spaces, now interconnected and made open to a deck - that contemporary re-think of the traditional verandah. <i>(Aug 21, 2004,Listener (New Zealand Listener),59</i>)
+
+>  Gentrification of old villas is old news. <i>(Dec 11, 1993,Listener (New Zealand Listener),58</i>)
+
+>  The recent furore about leaky houses is making villas and bungalows, dating from the late 19th century to World War II, with their native timbers, look more attractive... <i>(Oct 30, 2002,Dominion Post,Real Estate Supplement: 16</i>)
+
+>  [Hdg] Villa people. A 'pretty much untouched' villa has become a Petone artist's home and gallery... Drew reckons the villa, "pretty much untouched" then - unlike many Petone houses which were hacked about in the 1970s - is now worth about two-and-a-half times what they paid for it. <i>(Jul 25, 2001,Evening Post,17</i>)
+
+>  Instead of Suburban Villas, for which these allotments were said to be so locally adapted, we shall have these sandy allotments parceled out into very small patches, divided by lanes, and put up for sale on long credit, so as to induce speculation and occupation among the lower classes. <i>(Sep 25, 1841,New Zealand Gazette & Wellington Spectator,2</i>)
+
+>  NEW 6-roomed Villa, Bellevue, Mt. Eden, good elevation, only GBP420 ... <i>(Jun 27, 1899,Auckland  Star,8</i>)
+
+>  HALF-ACRE, close to Fox Street, and superior New Villa, all conveniences. <i>(Sep 22, 1910,Poverty Bay Herald,4</i>)
+
+>  WELLINGTON SOUTH, vicinity Hospital - Villa, 6 rooms, k'ette, GBP1300 (suitable sub-letting). <i>(Jun 26, 1942,Evening Post,1</i>)
+
+>  <b>Elizabeth Smither</b> Above the lake is a cafe in a large, old-fashioned house, a villa with bay windows and white verandahs. <i>(2007,Six Pack 2, The,47</i>)
+
+>  <b>SINCLAIR & HARREX</b> By the later decades of the [19th] century, the most popular house was the villa or 'bay villa' - a house of simple design usually with one or more gables thrown out, one or more bay windows, and a veranda. <i>(1978,Looking Back,118</i>)
+
+>  It sound so fresh and crunchy and full of hope:.. newly thawed villa dwellers <i>springing</i> out of the house after a long, draughty winter to enjoy the weak rays of the recovering sun. <i>(Sep 22, 2001,Listener (New Zealand Listener),65</i>)
+
+>  <b>HASMAN-JUDD</b> The flat is part of an old weatherboard villa. <i>(2000,Woman Who Loved Plants & Other Stories, The,29</i>)
+
+>  Between 1860 and 1890 a new style emerged - the Victorian villa, showing practical changes such as standard windows and verandahs, gable decoration and corrugated iron roofs. <i>(Sep 10, 1990,Listener (New Zealand Listener),97</i>)
+
+>  A well-loved hillside of richly varied green may be desolate - a "clearing" for the "suburban villa" and such like. <i>(Aug 14, 1912,Evening Post,6</i>)
+
+
+
+ 
+ <i>n.</i> [Jim Cameron writes: The use of <i>villa</i> to refer to a unit in a retirement village is recorded in NZPOD. It may also mean a detached self-contained unit in a holiday park, etc. Cf Collins: <i>"villa home (Austral)</i> - one of a set of suburban bungalows built compactly on the one allotment."]
+
+>  Horowhenua Masonic Village in Levin has been busy dealing with enquiries from people wanting a licence to occupy their villas. <i>(May 23, 2000,Evening Post,35</i>)
+
+
+
+ 
+ <i>n.</i> [cf. mental hospital use : at Porirua : ?started with Truby King's detached units at Seacliff]
+
+>  <b>McFARLANE</b> We're working at Cherry Farm just now.What if we let out a whole villa ofpatients? <i>(1975,Mixed Media,41</i>)
+
+>  The hint of Art-Deco raffishness in thefacade of villa number 5 at PoriruaPsychiatric Hospital near Wellington isdeceptive <i>(Jun 1993,North & South,83</i>)
+
+>  The complete demolition of the Porirua mental hospital, which was badly damaged by earthquakes last year, is in progress. It will make way for 11 new villas, each with accommodation for 50 patients. <i>(May 17, 1943,NZEF Times,II/99 : 6</i>)
+
+>  <b>WILLIAMS</b> In 1926 the five new villas were completed... The remaining villa was for helpless male patients. <i>(1987,Out of Sight, Out of Mind,92</i>)
+
+>  <b>WILLIAMS</b> The new villas on the hill... The patients could not have a more ideal home. <i>(1987,Out of Sight, Out of Mind,93</i>) [NOTES: Quoted frp, 1927 BOTHAMLEY]
+
+>  <b>WILLIAMS</b> The new villas on the hill... The patients could not have a more ideal home. <i>(1987,Out of Sight, Out of Mind,93</i>) [NOTES: Quoted from 1927 BOTHAMLEY]
+
+>  During the year three villas have been opened to accommodate male patients. <i>(1927,AA Directions,H.-7/12</i>)
+
+>  <b>WILLIAMS</b> Further installation is to be made shortly in the male villas. <i>(1987,Out of Sight, Out of Mind,105</i>) [NOTES: Quote from Wi;lliams 1931]
+
+>  Wherever possible patients have been encouraged to interest themselves.. in domestic tasks about the villas and wards. <i>(1938,AJHR,H.-7/8</i>)
+
+>  <b>WILLIAMS</b> If you were in a villa.. you had a full ward of sick people. <i>(1987,Out of Sight, Out of Mind,183</i>) [NOTES: Quote from ANON c.1940]
+
+>  <b>WILLIAMS</b> Now for a long run downhill.. to the chronic villas. <i>(1987,Out of Sight, Out of Mind,218</i>) [NOTES: Quote from HOBCROFT, 1949, in NZ Occup. Therapy Newsletter]
+
+>  <b>WILLIAMS</b> The opening of the new female disturbed villa.. saw the completion of a major building programme. <i>(1987,Out of Sight, Out of Mind,240</i>) [NOTES: Quoted from McKAY 1973]
+
+>  The closing of the villas at Porirua Hospital could mean at least 150 patients entering the community early, he says. The villas are living areas in the hospital that include accommodation,cafeterias and meeting places. <i>(Feb 25, 1993,Contact (Wgtn),1</i>)
+
+>  The hospital had a number of villas (wards) which were not full. <i>(Jul 17, 1992,Evening Post,3</i>)
+
+>  "How can you work on yourself when you're shoved in a villa or locked up in a world on your own?" <i>(Apr 23, 1983,Listener (New Zealand Listener),36</i>)
+
+
+
+## village
+ 
+ <i>n.</i> a) a populated area in the country, which is smaller than a town. b) its inhabitants. c) in New Zealand a shopping centre; the centre of a rural town, or a cluster of shops outside the centre of a city. -->[AND 1. obs a small (rural) settlement 1803-1907 2. a cluster of aboriginal dwellings] often with def. art. THE VILLAGE, a modern usage (to be distinguished from the occasional very early British usage of emigrants), orig. deprecatingly and mainly humorously of a township or settlement by those living in the countryside outside its boundaries, or by semi-permanent residents (e.g. week-enders, bachers, etc). For example, Paraparaumu `beach' residents (once mainly a weekend population) refer to the original township on the main road as `The Village' and have done so since at least 1941; similarly for Johnsonville, originally a town, now a suburb of Wellington: their rugby supporters would call (c1950s) `Come on the village!'; the Taupo township (now near-city) was in the 1960s referred to by the large seasonal lakeside holiday population at least as Taupo village. -->The usage was probably fairly popular by at least 1940, and is now common, often being transferred to, for example, the `down-town' or shopping area of a city by those living in the suburbs (e.g. `Are you coming into the village tonight to the pictures?'); or, specifically, of shopping areas, and now custom-built shopping-complexes in the suburbs (e.g. `You go up Karori Road past the first village, and just before you come to the second, turn off right ...'; or ``Marsden Village' is the name of the recently-opened shopping area in Karori.')
+
+>  Sale Day causes a hive of activity in ourvillage. <i>(Dec 1, 1945,NZ Dairy Exporter,63</i>)
+
+>  The upgrade of Khandallah Village is onestep closer to completion... Theinstallation of the elephant tiles isjust another step in the facelift processat the village. <i>(Aug 11, 1993,Independent Herald (Wellington),18</i>)
+
+>  Nobody.. anticipated that the lads fromthe village would have been beaten bothback and forward so soundly as they were. <i>(May 26, 1920,NZ Free Lance,25</i>)
+
+>  Meanwhile, throngs of local and overseas visitors are flocking - sweaty and sunburned - to a place now familiarly called "the Village". <i>(Feb 8, 2000,Dominion,11</i>)
+
+>  I wonder will the time ever come when the Petone team will get a fair hearing from the barrackers at the Athletic Park. Last Saturday all the applause was for their opponents, the good work done by the lads from the village being paused over in a silence that could be felt. <i>(Jul 11, 1908,NZ Free Lance,19</i>)
+
+>  Bookmaker's private agencies will be established in every town and village in the colony. <i>(Nov 4, 1885,Wairarapa Daily,2</i>)
+
+>  "Give it to Willy!" was a popular cry at Petone last Saturday. Wallace's line-kicking from the many free-kicks given against the village team must have ruffled pretty considerably the feelings of their admirers. <i>(May 23, 1908,NZ Free Lance,19</i>)
+
+>  I wonder will the time ever come when the Petone team will get a fair hearing from the barrackers at the Athletic Park. Last Saturday all the applause was for their opponents, the lads from the village being passed over in a silence that could be felt. <i>(Jul 11, 1908,NZ Free Lance,15</i>)
+
+>  I grew up in Howick, a small coastal town now swallowed by Auckland's suburban sprawl. Back then people referred to it as 'the village'. <i>(Nov 2001,AA Directions,Summer 50 : 32</i>)
+
+>  Being a Village Man at Petone was to be connected to a web of families, neighbourhoods and sports clubs that provided a great deal of stability for working-class families in the Hutt Valley when it was a hive of industry until the 1970s. Such was the solidarity of Village People with the rugby club, for example, that t was not unknown for some families to draw their blinds whenever the senior team lost a game. <i>(Nov 29, 2001,Evening Post,11</i>)
+
+>  Jimmy Lynskey,.. former Petoneschoolteacher,.. used to coach his boysfootball in such a successful manner thatthe Village invariably had an All Blackor two starring for the Village in bigfootball. <i>(Jun 16, 1950,Southern Cross (Wgton),15</i>)
+
+>  <b>FRAME</b> A man stood in front of the gate of the village, by the cattle-stop. <i>(1988,Carpathians, The,194</i>)
+
+>  Petone's Big Day... The people from thego-ahead town, which is proud to be knownas "The Village" have a real interest insport this afternoon. <i>(Aug 13, 1949,Southern Cross (Wgton),10</i>) [NOTES: Once-popular name for Petone]
+
+>  The dairy was just one of a host of buildings that has disappeared from the Johnsonville village over the last 20 years. <i>(Nov 18, 1992,Independent Herald (Wellington),10</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> in an original English or British sense or use =TOWNSHIP
+
+>  ... the Village of Richmond, in the district of Waimea East, in the Settlement of Nelson ... <i>(Nov 26, 1852,NZ Government Gazette,V/29/175</i>) [NOTES: Governor Grey's Proclamation]
+
+
+
+ 
+<b>2</b> <i>n.</i> [suburb or more commonly the suburban shopping centre]
+
+>  In Wellington, used of the shopping area(s) in Karori, and occasionally in Ngaio, but there I think it means the whole suburb. Until c1933 I had never heard village used in New Zealand - always town, township, or settlement. In 1953 i heard it from one or two who were English, or who had travelled in England and affected English ways. I have heard it recently used by New Zealanders born and bred referring to small townships, but they do not sound at home with it and use it in default of a better word. It may come in. <i>(1953,Personal Communication</i>) [NOTES: R Mason]
+
+>  <b>EVANS</b> The Waikaka Commonage [heading] When the dredging commenced in 1897 more and more people began to settle round Waikaka village and the land on the hill on the east side of the township became a common land where anyone grazed cows and hacks. Finally a large area ... was declared a commonage .. <i>(1962,Waikaka Saga,175</i>)
+
+>  <b>McLINTOCK</b> Under the heading of vocabulary may be included the preferences shown for certain English words in ordinary use such as village for the shopping centre in suburbs and the very frequent use of the playful wee for `little' as in `a wee while' for `a little time' or `a short time'. <i>(1966,Encyclopaedia of New Zealand, An,2/679</i>) [NOTES: Wall NZ Speech]
+
+>  At the moment, in Ngaio, it only means the shopping centre mainly the shops along Ottawa Road. Used occasionally, but sometimes affected for `I'll go down to the shops.', etc. <i>(1981,Personal Communication</i>) [NOTES: Mary Neazor (Wellington)]
+
+>  <b>HOLCROFT</b> ... every afternoon a neighbourhood bus - diverted briefly from the Paraparaumu run, carried housewives to the village for shopping. [sc. Paekakariki shopping centre] <i>(1986,Sea of Words,73</i>)
+
+>  ... Petone proved that there is still Rugby in `The Village' ... <i>(May 11, 1953,Evening Post</i>)
+
+>  ...the centre of Ngaio has alweays been known as the village, and we want it to stay that way. Town centres and suburban shopping precincts don't belong in Ngaio. <i>(Mar 26, 2003,Norwester,7</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> used jocularly in a friendly or deprecating way
+
+>  <b>HYDE</b> `Tea's coming up in the lift? Going to the pictures?' `I suppose so. The train gets into Wellington too late for shopping.' `Murphy and Leask and me are going to the village [sc Trentham or Upper Hutt] show tonight; ... I like to watch the shadders.' <i>(1938,Nor the Years Condemn,13</i>)
+
+>  <b>JOHNSTON</b> [as a friendly concept or connotation] Get them tourists at Christmas time when they descend on our village with their bulging wallets just begging to be relieved of their cash. Quick raffles in the boozer here. Chooks raised and fattened by the maestro of the poultry business. <i>(1981,Fish Factory,74</i>)
+
+>  <b>MANTELL</b> The only access road snaked up the eastern hills, dropped down the other side, ...passing through ... the original [Wainuiomata] settlement affectionately called `the Village', ... right out to the ...coast. <i>(1980,Murder and Chips,18</i>)
+
+
+
+ 
+<b>3</b> <i>n.</i> a kainga (cf KAINGA PA --> MARAE.) esp. with epithet NATIVE, MAORI [?does village for kainga go out of use as use for modn NZ township comes back in] (See [also Maori village](../A#also-maori-village),[native village](../N#native-village))
+
+>  <b>MARSDEN</b> This information determined me to visit the village in the morning... After this Mr. Nicholas accompanied me to Houpa's fortified village. <i>(1815,Letters & Journals of Samuel Marsden,105,1932 ed.</i>)
+
+>  <b>BOULTBEE</b> Totoe's village is situated on a large plain on the side of a river [sc the Mataura], the entrance to which is over a bar. <i>(1835,Journal,62,1986 ed.</i>)
+
+>  <b>YATE</b> (Griffiths Collection) at which were formerly some extensive native villages ... <i>Ibid.</i> 154 The villages of the New Zealanders are generally scattered over a large plot of ground ... <i>(1835,New Zealand (various authors/titles),25</i>)
+
+>  It is a much-debated question in every kainga or village, whether the European civilisation has fulfilled its expectation. <i>(Jul 1910,Kai Tiaki,103</i>)
+
+
+
+## village settlement
+ 
+ <i>n.</i> [incl attrib]
+
+>  The present law admits of similar village settlements, but the area which a selector may hold has been increased to 100 acres ... <i>(1894,NZ Official Yearbook,203</i>)
+
+>  <b>MORRIS</b> Village Settlement. the system, first adopted in New Zealand, whence it spread to the other colonies, of settling families on the land in combination. The Government usually help t first with a grant of money as well as granting the land. <i>(1898,Austral English,490</i>)
+
+>  <b>SINCLAIR</b> ... Ballance also tried to establish `village settlements'. Some two thousand people were settled on plots of twenty to fifty acres, but the land was [????] <i>(1959,History of New Zealand,163</i>)
+
+>  The `village settlement system' of New Zealand has become widely known in the Australian Colonies, and has excited much inquiry with a view to its adoption in other parts. ... The system was initiated in 1886 by the late Hon. John Ballance, with the intention of assisting the poorer classes to settle on the land. ... The features of the system were, originally, the possession of a small farm, not exceeding 50 acres in extent, held under a perpetual lease for terms of thirty years, with recurring valuations at the end of each terms. ...Residence and improvement of the soil were compulsory. <i>(1894,NZ Official Yearbook,202</i>)
+
+>  We think liberal sums should be voted by the Council for explorations in all these districts, with a view to the laying out of village settlements or townships at every place suitable for the purpose; and that every possible advantage as to acquisition of land or otherwise should be offered to actual settlers; so that our gold population may not pass away, when the gold-fields cease to yield, like a sudden flood, carrying away with it to other regions all the wealth it has met with in its course. <i>(Oct 21, 1857,Nelson Examiner and New Zealand Chronicle,2</i>)
+
+>  Several sites for village settlements on the Waipa and Horatiu have been selected and are now being surveyed, and Major Heaphy is at Tuaranga surveying a township at Te Papa, as well as a settlement for the 1st Waikato Militia, who are as I have previously informed you to be stationed there. <i>(Jul 9, 1864,Hawke's Bay Herald,1</i>)
+
+>  Along the arterial lines of road he would make village settlements at every eight or ten miles, and give immigrants three-acre allotments in these, with the right to acquire ten or twelve acres more by a residence period. <i>(Jul 13, 1870,Star, The,2</i>)
+
+>  The Village settlement scheme has proved most successful, and the Minister of Lands writes congratulating Mr John Lundon. <i>(Aug 10, 1886,Marlborough Express,2</i>)
+
+>  Of the Wellington district, he goes on to say, that it has now the largest number of settlers, under village settlement conditions, of any in the colony. They number 529, with an area of 9,216 acres; the annual rent and interest if GBP1582. <i>(Dec 6, 1901,Feilding Star,2</i>)
+
+>  Mr. Lawrence went on to say that, as many soldiers had become accustomed to an outdoor life, it will be natural that they will wish to settle on the land. But, as they expect to have some of the advantages and benefits of town dwellers, it would appear that it will be necessary to establish soldiers' village settlements. <i>(Jan 16, 1919,Evening Post,8</i>)
+
+>  Provision is included for any incorporated society of officers in the permanent employ of the Crown not only to form a "village settlement" (as under the old Act) but to promote a registered company amongst themselves for that purpose. <i>(Oct 27, 1920,Evening Post,20,` ed.</i>)
+
+>  5 Acres Freehold Section 14 Horowhenua Village Settlement Main Highway road [sic]. <i>(Oct 22, 1932,Evening Post,24</i>)
+
+>  The Sydney Morning Herald, commenting on the New Zealand village settlement report, regards the system as an indisputable success, and compares it with the unfavorable results attained in Australia. <i>(Nov 19, 1894,Poverty Bay Herald,2</i>)
+
+>  Mr Ballance's village settlement scheme still continues to receive a considerable amount of attention, and the settlements now on their trial are being watched with keen interest. <i>(Feb 12, 1887,Bay of Plenty Times,2</i>)
+
+>  Mr. Hogg quoted statistics showing the progress of settlement, and eulogised the Hon. W. Rolleston for originating the Village Settlement system. The late Mr. Ballance, when Minister of Lands, revived that system, and created a number of Special Settlements. <i>(Sep 22, 1900,Evening Post,5</i>)
+
+>  To my mind one of the greatest problems we have to tackle is how to attract a rural population. We may be reminded that village settlements were started some years ago and have not proved satisfactory. <i>(Jul 23, 1912,Poverty Bay Herald,3</i>)
+
+>  "Rolleston is a good man lost to Liberalism," I observed, somewhat inanely, one day when we were looking over a "village settlement" together. <i>(Jul 28, 1928,Evening Post,11</i>)
+
+>  A party of Parliamentarians visited Napier during the weekend and inspected many works in hand and others that are proposed for the development of the district. .. During the morning they were conducted on a tour of the village settlement, the 490-acre block being used in the Greater Napier scheme, the 7500-acre small farm scheme, the aerodrome, the harbour works, and the river diversion. <i>(Oct 30, 1933,Evening Post,10</i>)
+
+>  MANGAWAI AND ARAI. ..Passing these locations, we are fairly in the river, which is here of great width; to the left we have a low sandy shore with mangroves; on the right, in contrast, high banks - the land laid out by government for a village settlement. <i>(Apr 15, 1862,Daily Southern Cross,4</i>)
+
+>  The Minister also said that the Government could not in all cases reserve blocks of land, at convenient distances, along proposed new lines of railway for village settlement, with land for commonage, but that the point was one to which attention would be directed and legislated upon. <i>(Jul 24, 1879,Southland Times,2</i>)
+
+>  It is intended that a portion of the block shall be formed into a village settlement called Kumeroa. A recommendation from the Waste Lands Board is to be forwarded to the Governor, asking him to proclaim the village settlement under the Act of last session, and if the recommendation is acceded to the sale will be proceeded with shortly. <i>(Feb 13, 1880,Hawke's Bay Herald,2</i>)
+
+
+
+## villager
+ 
+ <i>n.</i>
+
+>  The 27-15 Petone victory was deserved andeven the most ardent Marist St Patssupporter would agree that the Villagersplayed superbly. <i>(Aug 9, 1993,Evening Post,1</i>)
+
+>  The conviction.. that in the end Hardhamand his villagers would run out winners..proved to be correct. <i>(Jun 25, 1910,NZ Free Lance,18</i>)
+
+>  ... the house he and Lorna bought on a farm at Sanson in the Manawatu. The villagers. "People despise villagers nowaways in a way that in olden times they would never have dared to do. But in New Zealand villagers are lovely people." <i>(May 11, 1992,Listener (New Zealand Listener),24</i>)
+
+
+
+## Villains
+ 
+ <i>n.</i> (WW1)Military Police
+
+>  <b>HYDE</b> Mounted on Arabs rode through the streets the Gippo `Villains', military police who wore white uniforms and carried rifle, sword, revolver, and a knife on each hip. <i>Ibid.</i> 205 The Villains picked him up and he spent a night in the lock-up ... [225] I was blacked up to the eyebrows as well, and we went down the gangway, chipping the Villains as we passed them. <i>(1936,Passport to Hell,98</i>)
+
+>  <b>HYDE</b> `Camp's full of Villains now ... a few crocks, and nothing else but nurses and military policemen.' <i>(1938,Nor the Years Condemn,14</i>)
+
+
+
+## Vim suburb
+ 
+ <i>n.</i>
+
+>  It's an almost perfect match. Otara, Mangere, as well as parts of Manurewa and Clendon, bore the brunt of the disease; the so-called "vim suburbs" in the wealthy south-east went largely untouched. <i>(Oct 2, 1999,Listener (New Zealand Listener),27</i>)
+
+
+
+## vin blink
+ 
+ <i>n.</i> French white wine cf PLONK [-->1961 Partidge Dict. Slang 1916-18 New Zealanders]
+
+
+
+## vin rouge
+ 
+ <i>n.</i> [WW1]
+
+>  Said Martin of the Dinks, `Why, he was the greatest swi-up king in the `Inverteds', and he used to give the `vin rouge' a boscar lash to leg. <i>(Sep 5, 1917,NZEF Chronicles,28</i>)
+
+
+
+## vinisphere
+ 
+ <i>n.</i>
+
+>  Some old London wine hack (it couldn't have come from anywhere else) gave birth to the "New World/Old World" nomenclature as a handy way of dividing the planet's wine-producing countries... The two vinispheres have quietly increased their mutual stalking. <i>(Apr 28, 1999,Capital Times,21</i>)
+
+
+
+## violet
+ 
+ <i>n.</i>
+
+>  <i> Viola filicaulis </i> violet <i>(1869,TrNZI,1 :</i>)
+
+>  <i>Viola Cunninghamii</i> Violet <i>(1870,TrNZI,2/124</i>) [NOTES: Armstrong Botany Canterbury]
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <b>GUTHRIE-SMITH</b> STEPHEN ISLAND WREN [check] <i>Viola Cunninghamii</i> Hook. f. ... MOUNTAIN VIOLET <i>(1936,NZ Naturalist,93</i>)
+
+>  <b>MARK & ADAMS</b> <i>(1973,NZ Alpine Plants,48</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> [native violet, aka New Zealand violet, mountain violet]
+
+>  <b>FEATON</b> VIOLA FILICAULIS (Hook., F.) ... The `NATIVE VIOLET'. This little plant is common to both ... Islands as far south as Otago ... <i>Viola Cunninghamii</i> native violet <i>(1889,Art Album NZ Flora,26</i>)
+
+>  <b>THOMSON</b> <i>Viola Cunninghamii</i> native violet <i>(1909,NZ Naturalist's Calendar</i>)
+
+>  The native violet (Viola Cunninghamii) paler than its European cousin, is still archly smiling, faintly conquettish [sic], reminding one of evanescent beauty ... <i>(Nov 9, 1876,Southland Times,2</i>)
+
+>  We cross Pompolona creek by means of the trunks of two fallen trees, on which cross pieces of wood have been nailed, make our way over a great accumulation of boulders and debris which fill up a considerable part of the creek bed, and on through an open space of country, in which the pure little native violet and other flowers indigenous to these regions are blooming in profusion. <i>(Feb 18, 1897,Otago Witness,54</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> <i>Viola filicaulis </i>
+
+>  <b>COCKAYNE</b> <i>(1908,AJHR</i>) [NOTES: Report on a Botanical Survey of the Tongariro National Park]
+
+
+
+ 
+<b>2</b> <i>n.</i> <i>Viola Lyallii</i>
+
+>  <b>TAYLOR</b> <i>Viola Lyallii</i> white violet <i>(1855,Te Ika a Maui</i>)
+
+
+
+## violet cod
+ 
+ <i>n.</i> <i>Antimora rostrata,</i> fam Moridae, a small deepwater morid cod.
+
+>  <b>AYLING</b> <i>VIOLET COD</i> (Flatnose codling) <i>Antimora rostrata</i> ... The violet cod is another deepwater species similar and shape and size to the red cod. <i>(1982,Collins Guide,146,1984 ed.</i>)
+
+>  <b>PAULIN</b> <i>Antimora rostrata</i> violet cod <i>(1989,NZ Fish A Complete Guide,119</i>)
+
+
+
+## viper's bugloss
+ 
+ <i>n.</i> also (mistakenly and locally) called blue borage, a weed with blue flowers found along roadsides, in riverbeds and other dry places. =BLUE WEED, =BLUE BORAGE
+
+>  And some [honeys] have a luscious stonefruit flavour from bees busy in the river valleys where the majestic blue wildflower viper's bugloss grows readily. <i>(Oct 19, 2003,Sunday (Sunday Star Times Magazine),13</i>)
+
+>  <b>HILGENDORF [& CALDER]</b> VIPER'S BUGLOSS (<i>Echium vulgare</i>), also called blue weed and by mistake, blue borage, occurs on roadsides, river-beds, and fields in both islands, though it is commoner in the south, and especially in Marlborough. It is an annual or biennial with a deep penetrating tap root and a stem 2 to 3 ft. high. <i>(1926,Weeds of New Zealand,143</i>)
+
+>  <i>bugloss, viper's [s] Echium vulgare</i> L. <i>Ibid.</i> 83 <i>viper's bugloss [s] Echium vulgare</i> L. <i>(1969,Standard Common Names for Weeds,9</i>)
+
+>  <b>TAYLOR</b> VIPER'S BUGLOSS (<i>Echium vulgare</i>) ... introduced from Eurasia, grows mainly in the drier parts on the South Island. ... <i>(1981,Weeds of Roadsides,161</i>)
+
+>  <b>TAYLOR</b> VIPER'S BUGLOSS (<i>Echium vulgare</i>). ... This plant, introduced from Eurasia, is common in parts of central Otago, Canterbury, Marlborough also recorded from Christchurch]. <i>(1989,Weeds of Lawns,128</i>)
+
+>  Molesworth also has a huge crop of vipers bugloss (false blue borage) which attracts bees that produce 38,000kg of honey in 1100 hives. <i>(May 25, 2004,Dominion Post,A10</i>)
+
+>  The bright blue wildflower known as vipers bugloss, which a friendly apiarist.. informed us makes high quality honey, was everywhere. <i>(Feb 22, 1993,Evening Post,20</i>)
+
+
+
+## viperfish
+ 
+ <i>n.</i>
+
+>  <b>GRAHAM</b> Viper Fish <i>Chauliodus dannevigi</i> McCulloch <i>(1956,NZ Fishes: An Identification Guide,400</i>) [NOTES: 1955 Whitley Namelist in 1956 Graham NZ Fishes]
+
+>  <b>PAUL</b> Viperfish <i>Chauliodus sloani ... Worldwide in tropical and temperate oceans. </i> <i>(1986,NZ Fishes: An Identification Guide,55</i>)
+
+>  <b>PAUL et al.</b> [index to common names 283-293] viperfish 586 <i>Ibid.</i> [index to common names 283-293] VIPERFISHES, DEEPSEA 585-6 <i>(1987,Fishes: A Bibliography</i>)
+
+
+
+## virgin bush
+ 
+ <i>n.</i>
+
+>  On what is known in Auckland as virgin bush no sheep are depastured, but it will carry cattle during the winter months at an average of about 10 acres per head. <i>(1902,Settler's Handbook of NZ, The,285</i>)
+
+>  <b>BAUCKE</b> <i>(1905,Where the White Man Treads,297</i>)
+
+>  <b>PFAFF</b> At this period the place where Hokitika stands was all virgin bush. <i>(1914,Diggers' Story, The,42</i>)
+
+>  <b>ANTHONY</b> The thousands of acres of virgin bush ... was an ideal hunting ground for pigs. <i>(1927,Follow the Call,119,1975 ed.</i>)
+
+>  <b>GUTHRIE</b> They ... spent their time going either by water or through virgin bush (armed with spears and greenstone clubs) to kill ... their fellow tribes. <i>(1930,NZ Memories,11</i>)
+
+>  It has been indicated that, of the 43 million acres of occupied land, about 24 million acres are `unimproved,' and are under native grasses, phormium, fern, scrub and virgin bush. <i>(1936,Agricultural Organization in NZ,30</i>)
+
+>  <b>SCRYMGEOUR</b> ... the boarding portion of the [Otago] Boys' High, and built on the bush clad slopes of the Kaitorai, round the edges of which, was the beautiful Queen's Drive, winding through miles of virgin bush. <i>(1960,Memories of Maoriland,28</i>)
+
+>  <b>BURTON</b> To one side of Wi Tako Gaol there is a big triangular clearing that at some stage had been cut out of virgin bush ... <i>(1945,In Prison,64</i>)
+
+>  <b>TURNER</b> Virgin bush, too, carried all the nineteenth-century overtones of the word virgin (and little protection they offered). <i>(1966,English Language in Aust. & NZ, The,167</i>)
+
+>  <b>HUNT</b> Those islands are particularly interesting, pretty well virgin bush. <i>(1985,I'm Ninety-five,263</i>) [NOTES: Wattie, Stewart I]
+
+>  <b>RICHARDS</b> The land was virgin [11] bush. <i>(1986,Off the Sheep's Back,10</i>)
+
+>  <b>THOMAS</b> They ... worked overland to locate their sections of land in virgin bush country ... <i>(1970,Way Up North,77</i>)
+
+>  ... I hope some naturalist living near a piece of virgin bush will undertake its investigation. <i>(1891,NZ Journal of Science,1/69</i>)
+
+>  <b>HUNT</b> Those islands are particularly interesting, pretty well virgin bush. <i>(1985,I'm Ninety-five,263</i>) [NOTES: (Wattie, Stewart I.)]
+
+>  <b>HARTLEY</b> The virgin bush passed unnoticed while Aunty collected her wits and her property. <i>(1987,Swagger on Our Doorstep,58</i>)
+
+
+
+## virgin paua
+ 
+ <i>n.</i> <i>Haliotis virginea</i>
+
+>  There is a third paua species, the small (30-35 mm) virgin paua, <i>Haliotis virginea</i>, well known to beach-combing children throughout the country. <i>(Jul 1998,NZ Geographic,No. 39/75</i>)
+
+
+
+## virgin's bower
+ 
+ <i>n.</i> <i>Clematis</i>
+
+>  Amongst the known kinds of plants are common and rough Bindweed, Probably <i>Calystegia sepium</i> and the smaller <i>C. turguriorum</i>.] Nightshade and Nettles, [fn Urtica [ed. [<i>Urtica ferox</i>]]] both which grow to the size of small trees; a shruby [sic] Speedwell found near all the Beeches, Sow thistles, [fng Sonchus. [ed. [Probably <i>Sonchus asper</i>, also collected by Banks and Solander.]]] [805] Virgins Bower, [fna Clematis [ed. [<i>Clematis paniculata</i>.]]] Vanelloe,... <i>(Feb 1777,Cook's Journals,3/804-805,1967 ed.</i>) [NOTES: Anderson's Journal]
+
+>  <b>POLACK</b> <i>Speedwell, sow</i>, and <i>melon thistles</i> (coetus), <i>virgin's bower, vanilloe</i>, or <i>willow, euphorbia, cudweed, crane's-bill, junchous rushes</i> in all the swamps ... <i>(1838,New Zealand  (Polack),1/295</i>)
+
+>  <b>HURSTHOUSE</b> ... the perfumed manouka, the scarlet myrtle and giant fuchsia, the red and yellow parrot's bill, the splendid clematis or virgin's bower; ... <i>(1857,New Zealand (various authors/titles),2/365</i>)
+
+>  The strong growing varieties of Clematis (virgin's bower), Lonicera (honeysuckle), Bignonia (Tecoma), Jasminum, and the beautiful blue convolvulous-like [sic] flowers of Ipomaea Learii are seen at their best grown on arches of fairly large dimensions. <i>(Jan 16, 1930,Hutt News,9</i>)
+
+
+
+## Virginian
+ 
+ <i>n.</i> deer
+
+>  <b>YEREX</b> The more serious attempt to farm Virginian (American whitetail) was made by several competent deer farmers, ... <i>(1982,Farming of Deer,159</i>)
+
+
+
+## Virginian quail
+ 
+ <i>n.</i>
+
+>  The last shipment of Virginian quail are all dead of dysentry since liberation. <i>(Jan 6, 1900,West Coast Times,3</i>)
+
+>  The Warrimoo brought 250 Virginian quail for the Wellington Acclimatisation Society and Columbian salmon ova consigned to the Minister for Marine. <i>(Feb 8, 1899,West Coast Times,4</i>)
+
+
+
+## Virginian whitetail
+ 
+ <i>n.</i> a deer
+
+>  There are also small populations of Virginian whitetail, sambar and rusa deer, and one or two farmers have attempted to keep them on farms, but without much success. <i>(1982,Farming of Deer,79</i>)
+
+
+
+## visiting teacher
+ 
+ <i>n.</i> [teacher who deals with `problem' children by visits to their homes; incl attrib in 'Visiting Teacher Service']
+
+>  That was partly caused by their not having a visiting teacher to hunt up the absentees. <i>(Sep 18, 1867,Daily Southern Cross,3</i>)
+
+>  [We should not underestimate] the value of the visiting teacher service and the importance of these support services to the work of the schools by relating the school to the home. <i>(Dec 3, 1974,NZEI</i>) [NOTES: letter from NZEI to minister of Education]
+
+>  I have given approval for the appointment..of `visiting teachers'. These teachers will be attached to schools..without responsibility for class-teaching but with the special function..of maintaining contact between the school and the home. <i>(1943,AJHR,E-1,  4</i>)
+
+>  But there are always a few children whose personal problems seem insurmountable... These are the children with whom the Visiting Teacher deals. <i>(1949,Education,II ii 19</i>)
+
+
+
+## visitor from Hawke's Bay
+ 
+ <i>phr.</i> a photographer's codeword for unknown or unnamed people in photographs
+
+>  Even down in dreary old New Zealand the late opulent 80s had produced a breed of women who were out getting drunk at long and louche lunches and were more than happy to be photographed showing more cleavage than the Eiger in the visitors from Hawke's Bay section of <i>Metro</i>. <i>(May 16, 2003,Dominion Post,B9</i>)
+
+>  [Hdg] A visitor to the Hawke's Bay. <i>(Jan 11, 2003,Listener (New Zealand Listener),51</i>)
+
+
+
+## visitor shelter
+ 
+ <i>n.</i>
+
+>  A new visitor shelter and toilet was opened in April to replace the 51-year-old Mountain House, on Mount Holdsworth in the Tararua Forest Park. <i>(May 9, 2003,Footnotes,No. 19/3</i>)
+
+
+
+## Visor
+ 
+ <i>n.</i> a type of wood-burning stove. [Jim writes: Proprietary. So-called from the shape, resembling a knight's visor. Common in houses built or renovated during the 70s and still occasionally mentioned in house ads. This sense is not in any dictionary I have seen.]
+
+
+
+## visual symphony
+ 
+ <i>n.</i> popularised by Lynn of Tawa
+
+>  I really love visual things and that's why I bought it. It was a visual symphony and I had to have it. <i>(Jan 20, 2002,Sunday Star Times,D2</i>)
+
+
+
+## voc
+ 
+ <i>n.</i> [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) voc or vok: thickhead]
+
+
+
+## voddie
+ 
+ <i>n.</i> vodka
+
+>  <b>MARRINER</b> I 'elped him get well smashed wif a few voddies in 'is beer while 'e weren't looking. <i>(2001,Stonedogs,115</i>)
+
+
+
+## vog
+ 
+ <i>n.</i> volcanic fog
+
+>  Volcanic fog - "vog" - is the latestworry for people living underMt. Ruapehu. <i>(Jun 25, 1996,Dominion,3</i>)
+
+
+
+## Vogel's train
+ 
+ <i>n.</i> the South Island Main Trunk from ChCh to Dunedin (perhaps a Mackay family usage)
+
+>  <b>MACLEOD</b> But best of all was when they caught the Main Trunk (`Vogel's train') to Rangitata.[c.late 1870s]. <i>(1955,Voice on the Wind,22</i>)
+
+
+
+## Vogelism
+ 
+ <i>n.</i>
+
+>  <b>DRUMMOND</b> [Atkinson] had two watchwords. One was 'Retrenchment', the other 'No More Vogelism and Extravagance'. <i>(1906,Life & Work of Seddon,87</i>)
+
+
+
+## voice
+ 
+ <i>n.</i> [huntaway sheepdogs] barking power.
+
+>  HALL A Shepherd's year 94 You go on to a station where the owner believes you shouldn't use a lot of hunter voice and consequently when you bark up you get a great effect. <i>(1987</i>)
+
+
+
+## voice-picking
+ 
+ <i>n.</i>
+
+>  The distribution company has issued staff with walkman-like wireless computers which use voice commands and headphones to tell forklift operators and pickers where to go and what to pick up from shelves for transport... Mr Drinkwater says the voice-picking system has exceeded expectations in reducing consignment handling errors.... Since we brought voice-picking online, our error rate has dropped from 2-3 per cent to less than 0.5 per cent. <i>(Apr 7, 2003,Dominion Post,C6</i>)
+
+
+
+## volcanic land
+ 
+ <i>n.</i> [(farmers': North Island)]
+
+>  (Ferrar) In the Whangarei and Bay of Islands basic lava-flows cover 163 square miles of country and form what is locally called `volcanic' land. <i>Ibid.</i> 194 (Given) Basalt soils: - These are the soils which form the `volcanic land' of the farmer. <i>(1922,NZ Journal of Science & Technology,5/191</i>)
+
+>  Volcanic land. This is situated adjacent to or around the bases of the volcanic hills, and is too much encumbered with scoria for general cultivation, and the expence [sic] of clearing it must depend entirely on that particular, the stones however may be employed in making durable fences, if however completely cleared it is light and rich, and well suited for gardens and vineyards. <i>(Oct 28, 1843,Daily Southern Cross,4</i>)
+
+>  To Lease, Eight Acres of rich Volcanic Land, just at the base of [Mount Hobson]. <i>(Mar 23, 1852,Daily Southern Cross,1</i>)
+
+>  The section was one of seven acres, adjoining the township sites, facing the main road, "a very fine section, commanding a beautiful sea view, rich volcanic land, lying well to the sun, will grow anything. Shall we say GBP40 an acre for a start?" <i>(May 11, 1932,Rodney and Otamatea Times,7</i>)
+
+>  For Private Sale, TWENTY-EIGHT Acres of Volcanic Land, near Panmure, on which is erected a good four-roomed Cottage, nearly new. <i>(Jun 21, 1861,Daily Southern Cross,1</i>)
+
+>  An opportunity now offers that cannot occur again, of obtaining VOLCANIC LAND, near to town by a good road <i>(Nov 27, 1871,Auckland  Star,1</i>)
+
+>  Also, at the same time, Two Acres of Rich Volcanic Land with New Ten-roomed House will be submitted at the same time. <i>(Dec 22, 1884,Auckland  Star,2</i>)
+
+>  TO LET, 4 large Rooms and Porch, gas, range, copper, 3 acres volcanic Land, 11/. <i>(Mar 27, 1899,Auckland  Star,5</i>)
+
+>  This Estate comprises about 40 acres of Rich Volcanic Land, free from Stone, and is subdivided into Lots from 3/4-acre to 4 1/2 acres. 1916 Northern Advocate 16 October. 4 Good volcanic land, standing well up above the town level with good sites for several homesteads if required in the future. <i>(Sep 20, 1902,Observer (Auckland),10</i>)
+
+>  Good volcanic land, standing well up above the town level with good sites for several homesteads if required in the future. <i>(Oct 16, 1916,Northern Advocate,4</i>)
+
+
+
+## volcanic plateau
+ 
+ <i>n.</i> the central North Island region
+
+>  On leaving the Rangipo Desert's disturbing, basalt-blue vastness State Highway 1 crosses the edge of the central North Island's volcanic plateau into a comparatively cosy, fertile mudstone country. <i>(Apr 1998,North & South,93</i>)
+
+>  <b>POOLE & ADAMS</b> Monoao. Shrub reaching 2 m. Branchlets long, slender .. Flowers in short racemes,</i> .. L[owland], M[ontane]. Shrub land; especially on so-called `frost flats' of the volcanic plateau. <i>(1963,Trees and Shrubs,160</i>)
+
+>  [Dunes] also occur inland to some extent, as in the neighbourhood of certain of the rivers of the Southern Alps, on the volcanic plateau of the North Island, and especially near Lake Tekapo and in Central Otago. <i>(Oct 11, 1909,Evening Post,7</i>)
+
+>  The present impoverished condition of the lands north of Auckland (gum lands) and in the central volcanic plateau has to a considerable extent been brought about by excessive burnings. <i>(Aug 17, 1912,Ashburton Guardian,6</i>)
+
+>  Both [Euphrasia species] are not uncommon in mountain districts, occurring in the North Island in the central volcanic plateau and the Ruahine, Kaimanawa, and Tararua ranges, and throughout the South Island. <i>(Mar 23, 1929,Evening Post,17</i>)
+
+>  Recent tests conducted under the auspices of the Department of Scientific and Industrial Research indicate that certain of the soft vitric tuffs of the Dominion's central North island volcanic plateau make excellent pozzolana, better even than most of those in Italy, Greece, and other countries. <i>(Nov 18, 1931,Evening Post,7</i>)
+
+>  An exhibition of 60 sub-alpine plants, collected from the volcanic plateau in the vicinity of Tonagriro, at present on show at the Auckland War Memorial Museum, includes forest trees in miniature. <i>(Feb 19, 1941,Evening Post,6</i>)
+
+>  The Waimarino plain is a volcanic plateau extending from the base of Ruapehu, and by the aneroid is about 2,000 feet above where we crossed the Wanganui. <i>(Aug 2, 1892,Auckland  Star,3</i>)
+
+>  Much more impressive is Vogel's prognosis for the central North Island's Volcanic Plateau... This was written several decades before large tracts of the Volcanic Plateau were brought into productive use by changing soil chemistry through the addition of cobalt to the topsoil, which remedied the wasting "bush sickness" stock suffered due to a deficiency of the trace element. <i>(Jun 2001,NZ Geographic,No. 52:50</i>)
+
+
+
+## volcanic plateau short-tailed bat
+ 
+ <i>n.</i>
+
+>  .. the volcanic plateau short-tailed bat, known in Northland, the central North Island and Taranaki ... <i>(Apr 30, 2005,Dominion Post,E4</i>)
+
+
+
+## volly
+ 
+ <i>n.</i> volunteer firefighter
+
+>  [Hdg] Fewer fire call-outs to Tawa vollies. Fire call-outs to the Tawa Volunteer Fire Brigade are diminishing. <i>(Jun 3, 2004,Wellington Contact,24</i>)
+
+>  All you'd need is a gorse fire in Lower Hutt then you've got a real problem - you're left with the Petone vollies [volunteers] or Thorndon fire station. <i>(Dec 14, 2000,Evening Post,3</i>)
+
+>  ...too busy for too much, volly fireman when not working but when I get time love to chill, watch a vid and have a quiet beer. <i>(2004,Internet - see Notes</i>) [NOTES: www.personalstuff.co.nz/chat/personal-ads-35796-htm]
+
+>  Our closest neighbouring stations are Johnsonville (yellow/watch/volunteer), 1 x 6/3 Pump Station, 3 minutes / 6 minutes (Volly) away. Khandallah (Permanent manned). <i>(2003,Internet - see Notes</i>) [NOTES: www.newlandsfire.org.nz/station/station.htm]
+
+>  ...Kalnetta is one of the men of the moment ... being an on-call Volly (volunteer). <i>(Dec 14, 2003,Internet - see Notes</i>)
+
+
+
+ 
+ <i>n.</i> volunteer ambulance worker
+
+>  ...after a quick refuel and chat, and a freindly [sic] reminder from the local volly ambo about staying safe. <i>(Dec 15, 2003,Internet - see Notes</i>) [NOTES: www.kiwibiker.co.nz/forums/showthread.php?s]
+
+
+
+## voluntary unionism
+ 
+ <i>n.</i>
+
+>  voluntary unionism NZ system under which employees are not obliged to join a trade union. <i>(1986,NZ Pocket Oxford Dictionary,865</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict]
+
+
+
+## volunteer
+ 
+<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
+
+>  J of Ag 42 3 March 20. 151 It is important to realise that on most soil-types the volunteer self-sown white is essentially a short-lived, heavy-seeding form which in fact, is able to "volunteer' in the young sward just because it is an abundantly seeding type. <i>(1931</i>)
+
+
+
+## Volunteer
+ 
+ <i>n.</i>
+
+>  <b>BURGESS</b> The Sergeant of the Volunteers passed by. <i>(1866,Life of Richard Burgess,45</i>)
+
+>  Whitmore has gone as a Volunteer to the front. I need hardly say that he is Commandant of the Armed Constabulary. <i>(Sep 24, 1868,Richmond-Atkinson Papers,2/278,1960 ed.</i>) [NOTES: (H.A. Atkinson)]
+
+>  The year was 1879 .. he was Lieutenant Colonel and commanded the Nelson district. In this position he was in charge of most of the Nelson Volunteers who were involved with the operations at Parihaka two years later. <i>(Feb 2005,NZ Memories,No. 52, p. 61</i>)
+
+>  "Methinks I'm all there," quoth the fat Volunteer. <i>(Mar 27, 1860,Taranaki Punch,1</i>)
+
+>  The question of clothing the Volunteers of the colony in a proper uniform has been taken up by the government who have applied to the Volunteer companies and officers to decide on some fixed uniform. <i>(Sep 20, 1879,Auckland Weekly News,17</i>)
+
+
+
+## volunteer company
+ 
+ <i>n.</i> [also Volunteer Company, cf volunteer force; voluntary section of the settler militia]
+
+>  No. 1 Volunteer Company took some time to fill up its ranks, and No. 2 was completely in abeyance till an order arrived to embody the Militia; when, from a horror of blue frocks, highlows, and other "vulgaw" matters, a rush was made to swear loyalty to our government, and thus No. 2 was quickly filled to the bung; no samples have yet been taken. <i>(Jun 5, 1860,Colonist (Nelson),2</i>)
+
+>  The Government has expressed its willingness to accept the services of the proposed Rifle Volunteer Company for Mount Eden, Mount Roskill, and Eden Terrace districts as an honorary corps. <i>(Jun 27, 1885,Auckland  Star,2</i>)
+
+>  THERE can be no doubt that a second Volunteer Company can be supported in our growing town, and judging by the enthusiasm displayed at Monday night's meeting we should say it will soon be in working order and rivaling our crack corps - the Wanganui Rifles. <i>(May 11, 1898,Wanganui Chronicle,2</i>)
+
+>  At a meeting held to-night a new volunteer company, to be called the Auckland Highland Rifles, was formed. <i>(Dec 8, 1908,Hawera & Normanby Star,5</i>)
+
+>  Mr J. Harold Moore, a solicitor and ex-captain of the volunteer company, this afternoon consented to contest Timaru in the Opposition interest. <i>(Oct 16, 1911,Poverty Bay Herald,5</i>)
+
+>  This match will also count in the special aggregate arranged for the handsome memorial challenge cup kindly presented by the family of the late Colonel John Duncan, who for so many years took such a keen interest in the Old Naval Volunteer Company and the present rifle club. <i>(Dec 17, 1920,Evening Post,2</i>)
+
+
+
+## Volunteer Fire Brigade
+ 
+ <i>n.</i>
+
+>  VOLUNTEER FIRE BRIGADE - ... A considerable number of our townsmen have formed themselves into a Volunteer Fire Brigade, and have formed rules for its proper organisation and guidance when required to turn out in cases of fire. [nf OED[S]] <i>(Apr 6, 1861,Otago Witness,5</i>)
+
+
+
+## Volunteer Force
+ 
+ <i>n.</i> here= Auckland Volunteers [(obs)]
+
+>  <b>THATCHER</b> The Auckland Volunteers [title] The Volunteer Force in this town is and Nelson but uncommon in most of the North Island. <i>(1862,Auckland Vocalist,5</i>)
+
+
+
+## vomit
+ 
+ <i>v.</i> to become angry, annoyed or chagrined; SPEW [prison slang]
+
+>  <b>NEWBOLD</b> VOMIT (v) Become angry, annoyed or chagrined. <i>(1982,Big Huey, The,255</i>) [NOTES: Glossary]
+
+
+
+## vomit comet
+ 
+ <i>n.</i> the interisland fast ferry
+
+>  Tales of seasickness took on a new flavour when the first fast ferry - dubbed the vomit comet - was introduced in 1994. <i>(Aug 24, 2002,Dominion Post,F2</i>)
+
+
+
+## vomit rod
+ 
+ <i>n.</i> cigarette [NZ only, this one example only. Elsewhere (UK, USA, Aust.), mostly means <i>penis</i>]
+
+>  You are forced to huddle in downcast in doorways grimly inhaling your umpteenth vomit rod. <i>(Aug 2005,Capital Times,5</i>)
+
+
+
+## voucher
+ 
+ <i>n.</i> token, or general tally
+
+>  <b>HAY</b> ... and, by-and-by, a count of the number of pigs killed. Ears and tails are produced as vouchers, and about three hundred and fifty pigs ...are accounted for ... <i>(1982,Brighter Britain,2/345</i>)
+
+
+
+## VR
+ 
+<b>1</b> <i>abbr.</i> virgin ram.
+
+>  LOUGHNAN Glossary 89 VR: virgin ram. One that has not done a tupping season. <i>(1981</i>)
+
+
+
+## VSA
+ 
+ <i>abbr.</i> Volunteer Service Abroad
+
+>  The organisation grew out of a meeting at Victoria University on March 30, 1962, hosted by the NZ University Students Association, which was then sponsoring a limited volunteer scheme involving students. A wide range of government, educational and community service groups offered their support, and VSA was formed in September under the chairmanship of the university's Professor Colin Aikman. <i>(Mar 20, 2002,Evening Post,11</i>)
+
+
+
+## VUC
+ 
+ <i>abbr.</i> Victoria University College [ORIGIN: acronym] (See [VUW](../V#vuw))
+
+>  <b>WILSON</b> ... I had then seen at Victoria College. ... the last fellow I had expected to find in the foyer of V.U.C. was Paul Mundy ... <i>(1956,Sweet White Wine,53</i>)
+
+
+
+## vulching
+ 
+ <i>n.</i> (adolescents') courting [[?ANY CONNECTION SNOOPY] ->1984 17 M E108Pakuranga Coll. 22A VULCH -->1984 17 F E57 Pakuranga Coll. 27; [courting M17F2] -->1984 17 M E110Pakuranga Coll. 27 VULCHING AROUND -->1984 17 M E112Pakuranga Coll. 27 VULTCHING]
+
+
+
+## VUW
+ 
+ <i>abbr.</i> Victoria University of Wellington
 
 
 
