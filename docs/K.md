@@ -3294,7 +3294,7 @@
 
 >  <b>HECTOR</b> <i>Weinmannia racemosa</i>, Forst. Towhai, Kamahi.--A large tree; trunk 2-4 feet in diameter, and 50 feet high. <i>(1883,Handbook of New Zealand,132</i>)
 
->  <b>FEATON</b> WEiNMANNiA RACEMOSA. (<i>Forst</i>.) ... The `TAWHERO' OR `KAMAi'. This handsome and useful tree is found in both islands; ... in Otago the tree is popularly known as the `Black Birch'. <i>ibid.</i> 177 Kamai [Maori name] .. Birch [Settlers' name] .. Weinmannia racemosa .. Tree <i>(1889,Art Album NZ Flora,137</i>)
+>  <b>FEATON</b> WEiNMANNiA RACEMOSA. (<i>Forst</i>.) ... The 'TAWHERO' OR 'KAMAi'. This handsome and useful tree is found in both islands; ... in Otago the tree is popularly known as the `Black Birch'. <i>ibid.</i> 177 Kamai [Maori name] .. Birch [Settlers' name] .. Weinmannia racemosa .. Tree <i>(1889,Art Album NZ Flora,137</i>)
 
 >  The kahikatea stands next in abundance, and is closely approached by the kamai, while the miro, matai, totara, Hall's totara, are generally distributed; but the northern rata and pukatea scarcely occur south of Greymouth. <i>(1894,NZ Official Yearbook,330</i>) [NOTES: (T. Kirk)]
 
@@ -3312,7 +3312,7 @@
 
 >  in the rain-forest ...young kamahis are very rarely found germinating on the ground ... <i>(1925,NZ Journal of Science & Technology,8/96</i>)
 
->  <b>LAiNG & BLACKWELL</b> <i>(The Kamahi). A tree from 70 ft.- 90 ft. in height, with larger leaves and flowers than those of <i>W. sylvicola. </i> <i>(1940,Plants of NZ,197</i>)
+>  <b>LAiNG & BLACKWELL</b> (The Kamahi). A tree from 70 ft.- 90 ft. in height, with larger leaves and flowers than those of <i>W. sylvicola. (1940,Plants of NZ,197</i>)
 
 >  <i>ka[a]mahi,</i> a tree (), with koromiko-like flowers; whence sometimes Christmas-tree because the upright tall flowers look like candles. <i>(1946,Journal of the Polynesian Society,55/151</i>) [NOTES: Andersen Maori Words in English]
 
