@@ -57,11 +57,12 @@ code, .rst-content tt {
     border: solid 1px #e1e4e5;
     font-size: 75%;
     padding: 0 5px;
-    font-family: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-family: "Segoe WP","Nimbus Sans L",Arial,"Helvetica Neue","Helvetica",sans-serif;
     color: #333;
     overflow-x: auto;
 }
 
+/* changes width of main content */
 .wy-nav-content {
     padding: 1.618em 3.236em;
     height: 100%;
@@ -72,4 +73,9 @@ code, .rst-content tt {
 /* changes width of navigation bar to accomodate scroll bar */
 .wy-nav-side {
     width: 315px;
+}
+
+/*removes bottom navigation options? */
+.rst-versions {
+    position: none;
 }
