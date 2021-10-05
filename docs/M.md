@@ -692,7 +692,7 @@
 
 >  <b>PARTRIDGE</b> <i>Mad money</i>. A girl's return fare, carried lest her soldier friend got `mad', i.e. too amorous for her: New Zealand soldiers': 1916-18. Mostly a legend, and concerning only English girls. -->[Supplement] Has, since ca1918, meant money that a girl carries as a precaution against any such quarrel with her boy friend as might leave her monetarily stranded, and been widely used also in Australia and Canada. <i>(1938,Dictionary of Slang,503</i>)
 
->  <b>McGILL</b> <i>mad money</i> splurge money; originally return ship fare WWI soldiers believed English girls brought with them in case their Kiwi soldier boy went mad, ie acted with excessive freedom. <i>[Baker] <.i> <i>(1988,Dictionary of Kiwi Slang, A,71</i>)
+>  <b>McGILL</b> <i>mad money</i> splurge money; originally return ship fare WWI soldiers believed English girls brought with them in case their Kiwi soldier boy went mad, ie acted with excessive freedom. <i>[Baker] </i> <i>(1988,Dictionary of Kiwi Slang, A,71</i>)
 
 
 
