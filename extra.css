@@ -37,7 +37,6 @@ a:visited {
     text-align: center;
     padding: 0.809em;
     display: block;
-    width: 315px;
     color: #115737;
     margin-bottom: 0.809em;
 }
@@ -72,13 +71,15 @@ code, .rst-content tt {
 }
 
 /* changes width of navigation bar to accomodate scroll bar */
+.wy-nav-side {
+    width: auto;
+}
 
 /*removes bottom navigation options? */
 .rst-versions {
-    position: none; !important
+    position: none !important;
     bottom: 0;
     left: 0;
-    width: 300px;
     color: #fcfcfc;
     background: #1f1d1d;
     font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
