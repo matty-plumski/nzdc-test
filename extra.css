@@ -32,6 +32,7 @@ a:visited {
 }
 
 .wy-side-nav-search {
+    width: fit-content !important;
     z-index: 200;
     background-color: #115737;
     text-align: center;
@@ -39,7 +40,6 @@ a:visited {
     display: block;
     color: #115737;
     margin-bottom: 0.809em;
-    width: fit-content;
 }
 
 body {
@@ -71,9 +71,15 @@ code, .rst-content tt {
     margin: auto;
 }
 
+
+
 /* changes width of navigation bar to accomodate scroll bar */
+nav.wy-nav-side.stickynav {
+    width: fit-content !important;
+}
+
 .wy-nav-side {
-    width: auto !important;
+    width: fit-content !important;
 }
 
 /*removes bottom navigation options? */
