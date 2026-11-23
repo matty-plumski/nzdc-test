@@ -7,7 +7,7 @@ nav:
     - 'B' : 'B.md'
 
 theme: readthedocs
-   icon: fa-book
+   
 markdown_extensions:
   - toc:
       permalink: True
