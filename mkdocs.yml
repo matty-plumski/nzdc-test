@@ -152,3 +152,6 @@ plugins:
       min_search_length: 2
       indexing: sections
       prebuild_index: false
+
+site_url: https://matty-plumski.github.io/nzdc-test/
+use_directory_urls: true
