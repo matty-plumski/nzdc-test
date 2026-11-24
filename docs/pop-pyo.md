@@ -319,7 +319,7 @@
 
 
  
- <i>n.</i> madness or foolishness (See [also porangi adjective](../A#also-porangi-adjective))
+ <i>n.</i> madness or foolishness (See [also porangi adjective](pop-pyo.md#porangi))
 
 >  <b>Wakefield</b> `The combatants ... took especial pains to tell us that it was no fault of ours, but the porangi or `foolishness' of the Maori.'Ibid. vol. ii. p. 238. -->`Watanui said E Ahu was porangi, `a fool.'' <i>(1845,Adventure in NZ,1/37</i>) [NOTES: recorded under porangi 'mad person' as well]
 
@@ -400,7 +400,7 @@
 
 ### porbeagle
  
- <i>n.</i> (See [also shark](../A#also-shark),[porbeagle](pop-pyo.md#porbeagle))
+ <i>n.</i> (See [also shark](sa-sho.md#shark),[porbeagle](pop-pyo.md#porbeagle))
 
 >  <b>RUHEN</b> He was so old a tiger that his stripes had faded, and his colour was aS even as a porbeagle's. <i>(1964,Lively Ghosts,38</i>)
 
@@ -1213,7 +1213,7 @@
 
 ### port sammy
  
- <i>n.</i> a portmanteau; a suitcase (esp. one already packed a trip) [ca1900 Marlborough (Jane Morison)] (See [port n](../P#port-n))
+ <i>n.</i> a portmanteau; a suitcase (esp. one already packed a trip) [ca1900 Marlborough (Jane Morison)] (See [port n](pop-pyo.md#port))
 
 >  <b>HISLOP</b> One evening, on answering a knock on the homestead front door, he was met by a traveller with `port sammy' all set for the usual kind invitation to come along inside. <i>(1943,Pure Gold,107</i>)
 
@@ -1570,7 +1570,7 @@
 
 
  
- <i>n.</i> a brush-tailed tree-dwelling mainly nocturnal, vegetarian marsupial introduced from Australia. (See [also opossum](../A#also-opossum))
+ <i>n.</i> a brush-tailed tree-dwelling mainly nocturnal, vegetarian marsupial introduced from Australia. (See [also opossum](on-ore.md#opossum))
 
 >  Hitherto I have looked upon theintroduction of 'possum' into our NewZealand bush as a mistake. <i>(Oct 11, 1928,Evening Post,7</i>)
 
@@ -2698,7 +2698,7 @@
 
 
  
- <i>n.</i> a large moa (See [also pouakai](../A#also-pouakai))
+ <i>n.</i> a large moa (See [also pouakai](pop-pyo.md#pouakai))
 
 >  I knew from various sources that the Morioris had a tradition of a great bird they called the pou[diaresis]wa. <i>(1897,TrNZI,29/163</i>) [NOTES: 1893 May Fortnightly Review 669 (H.O. Forbes) in 1897 TrNZI 29/163]
 
@@ -3234,7 +3234,7 @@
 
 ### powhaitere
  
- <i>n.</i> (See [cf kakariki](../C#cf-kakariki))
+ <i>n.</i> (See [cf kakariki](k-kea.md#kakariki))
 
 >  <b>LEE & KENDALL</b> Po wai t|ere, <i>s</i>. A parrot. <i>(1820,Grammar & Vocabulary of the Language of NZ,196</i>)
 
@@ -3250,7 +3250,7 @@
 
 ### powhiri
  
- <i>v.</i> to welcome with a powhiri [ORIGIN: Maori] (See [powhiri n](../P#powhiri-n))
+ <i>v.</i> to welcome with a powhiri [ORIGIN: Maori] (See [powhiri n](pop-pyo.md#powhiri))
 
 >  They were powhiried at Te Puea Marae. <i>(Jun 1998,Cuisine,No. 22: 18</i>)
 
@@ -3261,7 +3261,7 @@
 
 
  
- <i>n.</i> a formal Maori welcoming ceremony on a marae or elsewhere. [ORIGIN: Maori] (See [also pohiri](../A#also-pohiri))
+ <i>n.</i> a formal Maori welcoming ceremony on a marae or elsewhere. [ORIGIN: Maori] (See [also pohiri](per-pop.md#pohiri))
 
 >  Te Ngakau advised that Sir George Grey should not be received with the usual powhiri or invitation from the women at the entrance to the settlement with the words, "Come here, oh guest," but should welcome him with "Come here, governor, your coming is your own work," meaning they will expect Sir George Grey to state his object in this meeting, and to take the initiative. <i>(Feb 2, 1878,North Otago Times,2</i>)
 
@@ -3708,7 +3708,7 @@
 
 ### pre-lamb shearing
  
- <i>n.</i> (Rural) the shearing of ewes in warm areas during winter [in order to lamb more easily]. (See [pre-lamb shear (verb)](../P#pre-lamb-shear-(verb)))
+ <i>n.</i> (Rural) the shearing of ewes in warm areas during winter [in order to lamb more easily]. (See [pre-lamb shear (verb)](pop-pyo.md#pre-lamb-shear)))
 
 >  <b>WOODHOUSE</b> Since the introduction of pre-lamb shearing, which takes place in August, the shearing hours have been from 7.30 a.m. to 5.30 p.m. <i>(1982,Blue Cliffs,227</i>)
 
@@ -4166,7 +4166,7 @@
 
 ### pressie
  
- <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
+ <i>n.</i> a present (See [also prezzie](pop-pyo.md#prezzie))
 
 >  [Hdg] Casey to drive pressies bus <i>(Nov 24, 2000,Evening Post,3</i>)
 
@@ -4275,7 +4275,7 @@
 
 ### prezzie
  
- <i>n.</i> a present (See [also pressie](../A#also-pressie))
+ <i>n.</i> a present (See [also pressie](pop-pyo.md#pressie))
 
 >  (The old tendency for working argot to end words in `o' appears to have been displaced by modern tendencies to end it in `ie' like `bikkie' and `prezzie'.) <i>(Apr 14, 1984,Listener (New Zealand Listener),13</i>)
 
@@ -5061,7 +5061,7 @@
 
 ### pro order
  
- <i>n.</i> a prohibition order (See [pro v](../P#pro-v))
+ <i>n.</i> a prohibition order (See [pro v](pop-pyo.md#pro))
 
 >  <b>LANCASTER</b> Seepose Joe's havin' a wet .... There's a pro. order out agin' him <i>(1905,Sons o' Men,105</i>)
 
@@ -5381,7 +5381,7 @@
 
 ### prohibition order
  
- <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](../P#pro-n))
+ <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](pop-pyo.md#pro))
 
 >  An elderly man from Inglewood was fined GBP1 (costs 9s), for procuring whisky at New Plymouth during the currency of a prohibition order. <i>(Apr 19, 1907,Taranaki Herald,7</i>)
 
@@ -5616,7 +5616,7 @@
 
 ### proppy
  
- <i>adj.</i> of a horse,given to propping (See [prop v](../P#prop-v))
+ <i>adj.</i> of a horse,given to propping (See [prop v](pop-pyo.md#prop))
 
 >  Garotter, to the eye, looked pretty well when stripped, but directly he settled into his canter the proppy manner in which he went with his fore legs showed that he was anything but what he should be. <i>(Jan 14, 1865,Nelson Examiner and New Zealand Chronicle,3</i>)
 
@@ -7111,7 +7111,7 @@
 
 ### puddling machine
  
- <i>n.</i> (See [also puddler](../A#also-puddler))
+ <i>n.</i> (See [also puddler](pop-pyo.md#puddler))
 
 >  [From the <i>Otago Daily Times</i>] Next came the puddler, with his puddling machine, making fortunes of quite handsome dimensions, digging still further into the hill and reducing its bulk. <i>(Mar 29, 1895,West Coast Times,4</i>)
 
@@ -7431,7 +7431,7 @@
 
 
  
-<b>2</b> <i>n.</i> sowthistle (as a green vegetable; Maori cabbage) [also rauriki ca1935 Havelock Marlborough puha [pu:a:], Maori cabbage, sowthistle.] (See [also rauriki](../A#also-rauriki))
+<b>2</b> <i>n.</i> sowthistle (as a green vegetable; Maori cabbage) [also rauriki ca1935 Havelock Marlborough puha [pu:a:], Maori cabbage, sowthistle.] (See [also rauriki](ra-red.md#rauriki))
 
 >  <b>HILLIARD</b> [Maori speaks] Don't ask me. I suppose they frightened we eat them with pork and puha, eh? <i>Ibid.</i> 220 `you never see watercress here, eh? And puha, with a bit of brisket or pork-bones'. <i>(1960,Maori Girl,75</i>)
 
@@ -8205,7 +8205,7 @@
 
 ### puke
  
- <i>n.</i> (informal) a pukeko [ORIGIN: abbreviation] (See [also pook](../A#also-pook))
+ <i>n.</i> (informal) a pukeko [ORIGIN: abbreviation] (See [also pook](per-pop.md#pook))
 
 >  <i>Pukeko Porphyrio porphyrio melanotus</i> (TEMMINCK, 1820) ... OTHER NAMES: <i>Swamp hen, pakura, puke, pukaki. </i> <i>(1985,Reader's Digest Book of NZ Birds,171</i>)
 
@@ -8538,7 +8538,7 @@
 
 
  
-<b>2</b> <i>n.</i> Charadrius obscurus, New Zealand dotterel (See [also tuturiwhatu](../A#also-tuturiwhatu))
+<b>2</b> <i>n.</i> Charadrius obscurus, New Zealand dotterel (See [also tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 >  Mr. E. Tregear, in his <i> Maori Polynesian Dictionary</i>, and the Rev. H. W. Williams in the <i>Polynesian Journal</i>, give "Pukunui" as the Maori name of the dotterel. <i>(Aug 1, 1908,Evening Post,13</i>)
 
@@ -9198,7 +9198,7 @@
 
 ### puncher
  
- <i>n.</i> [(freezing works)] (See [cf. punch v](../P#punch-v))
+ <i>n.</i> [(freezing works)] (See [cf. punch v](pop-pyo.md#punch))
 
 >  <b>WOODHOUSE</b> The legger slits as a surgeon does,/ And the puncher strips the pelt, <i>(1949,Farm & Station Verse,188</i>) [NOTES: 1949 Keith Stronach `Slaughter Chain'sc in 1950 Woodhouse Farm and Station Verse 188]
 
@@ -9282,7 +9282,7 @@
 
 ### punga fence
  
- <i>n.</i> (Rural) a fence comprised of ponga logs. (See [punga; scrub fence](../P#punga;-scrub-fence))
+ <i>n.</i> (Rural) a fence comprised of ponga logs. (See [punga](pop-pyo.md#punga); [scrub fence](sa-sho.md#scrub-fence))
 
 >  <b>CHUDLEIGH</b> Made a cow bale in the morning, worked at the punga fence in the afternoon. <i>(Nov 4, 1882,Chudleigh Diary,314</i>) [NOTES: (1950)]
 
@@ -10064,7 +10064,7 @@
 
 ### purua grass
  
- <i>n.</i> (See [also puroa grass](../A#also-puroa-grass))
+ <i>n.</i> (See [also puroa grass](pop-pyo.md#puroa-grass))
 
 >  <i>purua grass</i> [s]<i> Scirpus maritimus</i> L. <i>(1969,Standard Common Names for Weeds,62</i>)
 
@@ -10233,7 +10233,7 @@
 
 ### pussy's tit
  
- <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](../A#also-tit),[pull someone's](../P#pull-someone's))
+ <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](ten-tot.md#tit),[pull someone's](../P#pull-someone's))
 
 ### pussy-grass
  
@@ -10889,7 +10889,7 @@
 
 ### putangitangi
  
- <i>n.</i> paradise duck (See [also paradise duck](../A#also-paradise-duck))
+ <i>n.</i> paradise duck (See [also paradise duck](p-per.md#paradise-duck))
 
 >  Both sanctuaries in the Botanical andWoodhaugh Gardens are live withwaterfowl, the grey duck (parera) beingespecially numerous though there are alsothe Paradise Duck (Putangitangi). <i>(Aug 16, 1933,NZ Tablet,27</i>)
 

@@ -195,7 +195,7 @@
 
 ### Naki
  
- <i>adj.</i> (informal) of Taranaki (See [Naki noun](../N#naki-noun))
+ <i>adj.</i> (informal) of Taranaki (See [Naki noun](n-new.md#naki))
 
 >  After two big defeats against Otago and Canterbury, Steamers' captain Wayne Ormond said he was happy to take the victory against a "Naki" side that never took a backward step. <i>(Aug 30, 2005,Whakatane Beacon,10</i>)
 
@@ -802,7 +802,7 @@
 
 ### national death
  
- <i>n.</i> drowning [aka New Zealand death; drowning] (See [also New Zealand death](../A#also-new-zealand-death))
+ <i>n.</i> drowning [aka New Zealand death; drowning] (See [also New Zealand death](new-no.md#new-zealand-death))
 
 >  There is too much reason to fear that another instance of what has been not inaptly termed the "national death" of the colony, has occurred at the New River, the victim being mr George Gidgood, and very old settler on this coast. <i>(Aug 3, 1882,Grey River Argus,2</i>)
 
@@ -1015,7 +1015,7 @@
 
 
  
-<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](../A#also-native-forest))
+<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](n-new.md#native-forest))
 
 >  <b>DAVIS</b> ... did you notice anything about that big native tree we just passed? <i>(1964,Watersiders,111</i>)
 
@@ -1280,7 +1280,7 @@
 
 ### Native Agent
  
- <i>n.</i> (See [also agent; Government agent; land agent](../A#also-agent;-government-agent;-land-agent))
+ <i>n.</i> (See [also agent](a-all.md#agent); [Government agent](go-gra.md#government-agent); [land agent](l-lay.md#land-agent))
 
 >  <b>COWAN</b> Maclean's position as Native Agent on the East Coast was one peculiar responsibility in that era of turmoil in the Maori world ... <i>(1940,Sir Donald Maclean,91</i>)
 
@@ -1366,7 +1366,7 @@
 
 ### native blowfly
  
- <i>n.</i> [1850s in 1971 Hall-Jones Mr Surveyor Thomson 56 (Griffiths Collection)] (See [also Maori blowfly](../A#also-maori-blowfly))
+ <i>n.</i> [1850s in 1971 Hall-Jones Mr Surveyor Thomson 56 (Griffiths Collection)] (See [also Maori blowfly](m-mar.md#maori-blowfly))
 
 >  Native blow-flies <i>(Calliphora quadrimaculata)</i> were very much more abundant in the country districts than they are now. Mr. Mieville, who settled in the Mataura district in 1854, in his contribution to <i>Pioneer Recollections</i>, collected by Mr. H. Beattie (second series), says, `The trouble of pioneers is the bluebottle-fly, which is to be met with only in new country, where its ravages are beyond belief.' <i>(1922,NZ Journal of Science & Technology,4/275</i>) [NOTES: (Bathgate, Otago)]
 
@@ -1753,7 +1753,7 @@
 
 ### native grass
  
- <i>n.</i> [often in plural] (See [cf. English grass(es)](../E#english-grass(es)))
+ <i>n.</i> [often in plural] (See [cf. English grass(es)](egg-ens.md#english-grass)))
 
 >  <b>YATE</b> The native grasses flourish throughout the year ... All English grasses flourish well; but the white clover never seeds; ... <i>(1835,New Zealand (various authors/titles),75</i>)
 
@@ -2035,7 +2035,7 @@
 
 ### Native mat
  
- <i>n.</i> (See [also Maori mat](../A#also-maori-mat),[mat](mar-moa.md#mat))
+ <i>n.</i> (See [also Maori mat](m-mar.md#maori-mat),[mat](mar-moa.md#mat))
 
 >  <b>W.H.WILLIAMS</b> On their landing, many of them were stripped and furnished with native mats. <i>Ibid.</i>1832 Jan 13 H. Williams Early Journals 217 Some few of the leading men had a mantle of scarlet cloth trimmed with dogs' hair, other had splendid native mats: ... <i>(Jan 7, 1827,Early Journals of Henry Williams, The,36,1961 ed.</i>)
 
@@ -2338,7 +2338,7 @@
 
 
  
- <i>n.</i> kiore (See [also Maori rat](../A#also-maori-rat))
+ <i>n.</i> kiore (See [also Maori rat](m-mar.md#maori-rat))
 
 >  <b>MARKHAM</b> The Native Rat was more like a field Mouse and was considered a Luxury in old times, but the Rat from Norway or England came and is called Rah Parkieah or Stranger rat. <i>(1834,New Zealand (various authors/titles),53,1963 ed.</i>)
 
@@ -2766,7 +2766,7 @@
 
 ### native turnip
  
- <i>n.</i> (See [also keha](../A#also-keha),[wild turnip](../W#wild-turnip))
+ <i>n.</i> (See [also keha](kee-kiw.md#keha),[wild turnip](../W#wild-turnip))
 
 >  <b>HEAPHY</b> The native turnip has increased in size, but degenerated in quality, since its introduction, in consequence of neglect of culture. <i>(1842,New Zealand (Heaphy),31</i>)
 
@@ -2827,7 +2827,7 @@
 
 ### native wine
  
- <i>n.</i> [The natives express from the [tutu] berries an agreeable violet juice (carefully avoiding the seed), called native wine.] (See [also tutu wine](../A#also-tutu-wine))
+ <i>n.</i> [The natives express from the [tutu] berries an agreeable violet juice (carefully avoiding the seed), called native wine.] (See [also tutu wine](tot-tyr.md#tutu-wine))
 
 ### native wren
  
@@ -3059,7 +3059,7 @@
 
 ### near profit
  
-<b>1</b> <i>phr.</i> (Rural) [of cows or ewes] about to produce offspring. (See [close-up; close to profit](../C#close-up;-close-to-profit))
+<b>1</b> <i>phr.</i> (Rural) [of cows or ewes] about to produce offspring. (See [close-up](chi-con.md#close-up); [close to profit](chi-con.md#close-to-profit))
 
 >  All cows and heifers near profit caused keen competition whilst backward and doubtful calves were hard to quit. <i>(Aug 7, 1900,Hawera Star,3</i>)
 
@@ -3748,7 +3748,7 @@
 
 ### nest
  
- <i>n.</i> (See [billy (Acland)](../B#billy-(acland)))
+ <i>n.</i> (See [billy (Acland)](b-bla.md#billy)))
 
 ### nest of gold
  

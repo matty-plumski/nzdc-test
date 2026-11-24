@@ -796,7 +796,7 @@
 
 ### undercutting
  
- <i>n.</i> (Rural) underscrubbing of bush. (See [bush drive; Taranaki drive](../B#bush-drive;-taranaki-drive))
+ <i>n.</i> (Rural) underscrubbing of bush. (See [bush drive](bri-byo.md#bush-drive); [Taranaki drive](t-ten.md#taranaki-drive))
 
 >  <b>WASWO</b> This work of felling and undercutting was done in the winter months, and then the whole mass of scrub, fern toppings and trees was left to dry out. <i>(1996,Farming Progress in NZ 1814-1995,8</i>)
 

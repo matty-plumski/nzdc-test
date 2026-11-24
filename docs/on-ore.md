@@ -1144,7 +1144,7 @@
 
 ### onion weed
  
- <i>n.</i> onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION] (See [also Maori onion](../A#also-maori-onion))
+ <i>n.</i> onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION] (See [also Maori onion](m-mar.md#maori-onion))
 
 >  <i>onion weed [=] asphodel: notho scordum: three-cornered garlic: wild onion [s] </i> <i>(1969,Standard Common Names for Weeds,54</i>)
 
@@ -1278,7 +1278,7 @@
 
 ### oozlering
  
- <i>n.</i> (See [cf. oozle v](../O#oozle-v))
+ <i>n.</i> (See [cf. oozle v](on-ore.md#oozle))
 
 >  He wouldn't have felt so romantic had he been oozlering in the Five Mile. <i>(Jan 1913,Tararua Tramper,11(3): 4</i>)
 
@@ -2435,7 +2435,7 @@
 
 ### orange-wattled crow
  
- <i>n.</i> (See [also crow](../A#also-crow))
+ <i>n.</i> (See [also crow](con-cyp.md#crow))
 
 >  The orange-wattled crow is sometimes mistaken for [the huia] by trampers. <i>(Sep 4, 1944,NZEF Times,IV/167 : 10</i>)
 
@@ -2619,7 +2619,7 @@
 
 
  
- <i>n.</i> a member of the Air Force (See [also blue orchid](../A#also-blue-orchid))
+ <i>n.</i> a member of the Air Force (See [also blue orchid](bla-bri.md#blue-orchid))
 
 >  <b>WILSON</b> `I believe the Desert Air Force got a Heine plane after last night's show over here. ... `Good for the Orchids,' says Mitchison. <i>(1951,Brave Company,92</i>)
 
@@ -2720,7 +2720,7 @@
 
 
  
- <i>n.</i> <i>Gastrodia</i> spp. (See [also silverback](../A#also-silverback))
+ <i>n.</i> <i>Gastrodia</i> spp. (See [also silverback](sho-spa.md#silverback))
 
 >  <b>WILSON</b> <i>Gastrodia cunninghamii</i> BLACK ORCHID ... Huuperei ... Flowers numerous, white within, dark brown without ... <i>(1982,Stewart Island Plants,294</i>)
 
@@ -2854,7 +2854,7 @@
 
 ### ordinary bloke
  
- <i>n.</i> the man in the street [cf column in Wellington Contact-->] (See [also ordinary joker](../A#also-ordinary-joker))
+ <i>n.</i> the man in the street [cf column in Wellington Contact-->] (See [also ordinary joker](on-ore.md#ordinary-joker))
 
 >  I sincerely hope that the Ordinary Bloke does not indeed become the "Extra Ordinary Bloke". <i>(Feb 27, 1992,Contact (Wgtn),6</i>)
 

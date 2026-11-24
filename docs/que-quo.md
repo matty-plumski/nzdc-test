@@ -43,7 +43,7 @@
 
 ### queenmaker
  
- <i>n.</i> (See [also kingmaker](../A#also-kingmaker))
+ <i>n.</i> (See [also kingmaker](kee-kiw.md#kingmaker))
 
 >  If voters make Peters the queenmaker, so be it. <i>(Nov 1999,North & South,96</i>)
 

@@ -573,7 +573,7 @@
 
 ### alpine totara
  
- <i>n.</i> (Environment) <i>Podocarpus hallii</i> (Andersen) 1916 (See [also mountain totara](../A#also-mountain-totara))
+ <i>n.</i> (Environment) <i>Podocarpus hallii</i> (Andersen) 1916 (See [also mountain totara](mob-mys.md#mountain-totara))
 
 >  <i>Podocarpus hallii</i> alpine totara <i>(1916,NZ Association of Nurserymen, Trade Register</i>) [NOTES: (And)]
 
@@ -2545,7 +2545,7 @@
 
 ### apostles
  
- <i>n.</i> [the reference here is to an inquiry into land purchase.] (See [Twelve Apostles (Hawkes Bay)](../T#twelve-apostles-(hawkes-bay)))
+ <i>n.</i> [the reference here is to an inquiry into land purchase.] (See [Twelve Apostles (Hawkes Bay)](tot-tyr.md#twelve-apostles)))
 
 >  We are now in the thick of the cross examination. by Sheehan of the chiefest of the apostles - Tizzey the Tanner (ko Tanera). ... We have not found anything that can be called a rat; nor even got the scent very strong. But I must not report upon Heret[aunga]. [Tizzy = 6d: a play on Tanner's surname.] <i>(Apr 6, 1873,Richmond-Atkinson Papers,2/347</i>) [NOTES: C.W.Richmond, Napier)]
 

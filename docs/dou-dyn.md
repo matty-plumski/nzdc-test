@@ -181,7 +181,7 @@
 
 ### double-decker
  
- <i>n.</i> (Rural) a sheep with several years' growth of wool. (See [hermit; double-fleecer](../H#hermit;-double-fleecer))
+ <i>n.</i> (Rural) a sheep with several years' growth of wool. (See [hermit](hea-hom.md#hermit); [double-fleecer](dou-dyn.md#double-fleecer))
 
 >  We are all familiar with the 'double-decker' fleece. <i>(Oct 11, 1951,NZ Farmer,7</i>)
 
@@ -589,7 +589,7 @@
 
 ### dove petrel
  
- <i>n.</i> (See [also dove prion](../A#also-dove-prion))
+ <i>n.</i> (See [also dove prion](dou-dyn.md#dove-prion))
 
 >  The sea bird known as the prion turtur or dove petrel, was found yesterday in a paddock at Opin, beyond Kennedy's. <i>(Jul 3, 1883,Wanganui Herald,3</i>)
 
@@ -615,7 +615,7 @@
 
 ### dove prion
  
- <i>n.</i> (See [also dove petrel](../A#also-dove-petrel))
+ <i>n.</i> (See [also dove petrel](dou-dyn.md#dove-petrel))
 
 >  <b>WILLIAMS</b> <i>Pekeha[a] ... Pachyptila vittata, dove prion</i>, a species of petrel. <i>Ibid.</i> 497 <i>Whiroia, ...Pachyptila desolata, dove prion (dove petrel or whale-bird). = totorore. </i> <i>(1957,Dictionary of the Maori Language,276</i>)
 
@@ -678,7 +678,7 @@
 
 ### down
  
- <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](../A#also-derry))
+ <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](d-dif.md#derry))
 
 >  But if someone has a 'down' on the rich as well as people of a different colour or culture, then I guess that is adding fuel to the fire. <i>(Oct 26, 2002,Listener (New Zealand Listener),33</i>)
 
@@ -1797,7 +1797,7 @@
 
 
  
- <i>n.</i> a drag-saw. [(sawmillers')] (See [also drag-tooth](../A#also-drag-tooth))
+ <i>n.</i> a drag-saw. [(sawmillers')] (See [also drag-tooth](dou-dyn.md#drag-tooth))
 
 >  <b>MANDER</b> By day the whole bay vibrated with the whistle and screech of the circular saws, the tear of the break downs, the rasp of the drags, ... <i>Ibid.</i> 198 They watched the progress of the log from the booms up the skids to the side of the breakdown platform... Halved and quartered, it was then levered ... on to greased rollers and rushed towards the big circulars, which turned it into flitches. Then the small circulars, the drag, and the goose completed its metamorphosis into the regulation strips ... <i>(1920,Story of a NZ River, The,159,1974 ed.</i>)
 
@@ -1891,7 +1891,7 @@
 
 ### drag-tooth saw
  
- <i>n.</i> a drag saw [-] (See [also drag n](../A#also-drag-n))
+ <i>n.</i> a drag saw [-] (See [also drag n](dou-dyn.md#drag))
 
 >  ... crosscuts known as drag-tooth saws. <i>(1951,Radio NZ / National Radio</i>) [NOTES: [ca1914] 1951 H.S. McCarroll The Days of the Kauri Bushmen [Radio Talk 2: TS]]
 
@@ -3093,7 +3093,7 @@
 
 
  
- <i>v.</i> In male informal use, to give birth to a baby (see also to drop one's bundle) (See [also drop one's bundle](../A#also-drop-one's-bundle))
+ <i>v.</i> In male informal use, to give birth to a baby (see also to drop one's bundle) (See [also drop one's bundle](dou-dyn.md#drop-ones-bundle))
 
 >  <b>HARVEY</b> Well, we started talking about this and that and ended up on Nuts's sister Violet, the one who was having this baby. `When's she goin' to drop it?' Jim Dickson asked Nuts. `Drop what?' `The kid.' Snigger, snigger. `She's not goin' to drop it,' said Nuts angrily. `It's goin' to be born.' `Same thing,' answered this know-all. `What do you know about babies, mate?' asked Nuts. <i>(1964,Any Old Dollars Mister?,71</i>)
 
@@ -5273,7 +5273,7 @@
 
 ### dump press
  
- <i>n.</i> a powerful hydraulic press used for dumping wool-bales. [also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.] (See [also dumping press](../A#also-dumping-press))
+ <i>n.</i> a powerful hydraulic press used for dumping wool-bales. [also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.] (See [also dumping press](dou-dyn.md#dumping-press))
 
 >  It was customary, as at Waipiro Bay ..., to have a wool store and a dump press near the beach. <i>(1973,Historic Sheep Stations NI,10</i>)
 
@@ -6057,7 +6057,7 @@
 
 ### Dutch shout
  
- <i>n.</i> a Dutch treat (See [also Parnell shout](../A#also-parnell-shout),[Yankee shout](y-yc.md#yankee-shout))
+ <i>n.</i> a Dutch treat (See [also Parnell shout](p-per.md#parnell-shout),[Yankee shout](y-yc.md#yankee-shout))
 
 ### Dutchie
  

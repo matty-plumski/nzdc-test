@@ -544,7 +544,7 @@
 
 ### bro'rocracy
  
- <i>n.</i> government policies and staffing that favour particular principles of the Treaty of Waitangi. (See [also bro'ocracy](../A#also-bro'ocracy))
+ <i>n.</i> government policies and staffing that favour particular principles of the Treaty of Waitangi. (See [also bro'ocracy](bri-byo.md#broocracy))
 
 >  NZ FIRST leader Winston Peters is promising to weed out the 'bro'rocracy' - and 'token jobs for Maoris' .. "[Te Puni Kokiri] has become the opiate of the Bro'rocracy - the never-ending trough of government money which keeps them in a permanent trance and mystic reality." <i>(Jun 22, 2005,Dominion Post,A2</i>)
 
@@ -630,7 +630,7 @@
 
 ### broadbill
  
- <i>n.</i> a fish (See [spearfish; swordfish](../S#spearfish;-swordfish))
+ <i>n.</i> a fish (See [spearfish](spa-sys.md#spearfish); [swordfish](spa-sys.md#swordfish))
 
 >  Landing a dozen broadbill worth almost $3000 improves the mood, but after six days of hard slog the Caroline did not land any big tuna to send to Tokyo. <i>(May 15, 2004,Dominion Post,C4</i>)
 
@@ -1162,7 +1162,7 @@
 
 ### broom hand
  
-<b>1</b> <i>n.</i> (Rural) a woolshed worker who sweeps up scraps of wool [known as being ''on the broom.''] (See [also broomie](../A#also-broomie))
+<b>1</b> <i>n.</i> (Rural) a woolshed worker who sweeps up scraps of wool [known as being ''on the broom.''] (See [also broomie](bri-byo.md#broomie))
 
 >  <b>BIBBY</b> We had plenty to do as there were no broom hands or set sheepo, and cutting dags was done in spare time. <i>(1990,Lunesdale: A Bush Farm Community from 1871,36</i>)
 
@@ -1254,7 +1254,7 @@
 
 
  
- <i>n.</i> a penny, a copper coin [also brownie c1950s p.c. G.J.Griffiths notes: a copper coin; Aust; used very occasionally in NZ in my hearing - `toss him a brown' - and that was some years ago] (See [also brownie](../A#also-brownie))
+ <i>n.</i> a penny, a copper coin [also brownie c1950s p.c. G.J.Griffiths notes: a copper coin; Aust; used very occasionally in NZ in my hearing - `toss him a brown' - and that was some years ago] (See [also brownie](bri-byo.md#brownie))
 
 >  <b>THATCHER</b> And said they scorned to earn a brown;/ <i>Ibid.</i> 18 There are lots of little swindles/ In all New Zealand towns,/ Got up by folks for easing you/ Of your superfluous browns;/ <i>(1864,Songs of the War,10</i>)
 
@@ -1756,7 +1756,7 @@
 
 ### brownie
  
- <i>n.</i> a penny (coin or money); a copper [also brown ca1950 (an occasional use;? esp. in hotels)] (See [also brown](../A#also-brown))
+ <i>n.</i> a penny (coin or money); a copper [also brown ca1950 (an occasional use;? esp. in hotels)] (See [also brown](bri-byo.md#brown))
 
 >  Following are other local money-names ... 1d. - <i>Maori half-crown, brownie or copper ...</i> <i>(Jan 14, 1899,Sydney Bulletin,(Red Page)</i>) [NOTES: (Letter from <i>Loafer</i>, Tauranga) [Bill Pearson]]
 
@@ -1776,7 +1776,7 @@
 
 
  
- <i>n.</i> a currant or raisin loaf sweetened with (brown) sugar, an old word for a currant or raisin loaf; [also station brownie cf. spotted Tommy] (See [also station brownie](../A#also-station-brownie))
+ <i>n.</i> a currant or raisin loaf sweetened with (brown) sugar, an old word for a currant or raisin loaf; [also station brownie cf. spotted Tommy] (See [also station brownie](spa-sys.md#station-brownie))
 
 >  <i>brownie:</i> Currant-loaf, as made in camps, etc. in Australia and New Zealand. <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),51</i>)
 
@@ -2504,7 +2504,7 @@
 
 ### bucketeer
  
- <i>n.</i> (See [pukatea (variant bukatea)](../P#pukatea-(variant-bukatea)))
+ <i>n.</i> (See [pukatea (variant bukatea)](pop-pyo.md#pukatea)))
 
 
 
@@ -3263,7 +3263,7 @@
 
 ### bukaka
  
- <i>n.</i> variant of pukeko; variant of pukakaho (See [pukeko; pukakaho](../P#pukeko;-pukakaho))
+ <i>n.</i> variant of pukeko; variant of pukakaho (See [pukeko](pop-pyo.md#pukeko); [pukakaho](pop-pyo.md#pukakaho))
 
 ### bukatea/bukitea
  
@@ -3458,7 +3458,7 @@
 
 ### bull bar
  
- <i>n.</i> (Rural) a strong protective steel frame on the front of a utility vehicle. (See [also bullbar](../A#also-bullbar))
+ <i>n.</i> (Rural) a strong protective steel frame on the front of a utility vehicle. (See [also bullbar](bri-byo.md#bullbar))
 
 >  Whoever forms the government, MMP needs to go up on the hoist for a serious tune and lube, and that flashy five per cent bull-bar needs to come off. <i>(Oct 8, 2005,Listener (New Zealand Listener),19</i>) [NOTES: figurative]
 
@@ -3665,7 +3665,7 @@
 
 ### bull-a-bull
  
- <i>n.</i> [Anglicisation of Maori poroporo.] <i>Solanum aviculare </i> (occas. <i>S. Nigrum</i> black nightshade, a common weed); poroporo (`a branched leafy shrub') or its berries, [also poroporo -->[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers bulabul Solanum aviculare supplied by W. Best, Otaki (And) -->[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) bullybul <i>Solanum aviculare </i>] (See [also poroporo](../A#also-poroporo))
+ <i>n.</i> [Anglicisation of Maori poroporo.] <i>Solanum aviculare </i> (occas. <i>S. Nigrum</i> black nightshade, a common weed); poroporo (`a branched leafy shrub') or its berries, [also poroporo -->[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers bulabul Solanum aviculare supplied by W. Best, Otaki (And) -->[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) bullybul <i>Solanum aviculare </i>] (See [also poroporo](pop-pyo.md#poroporo))
 
 >  We came across many bushes of buli-buli, which is a plant something like the cape gooseberry, but its fruit is twice its size. <i>(Sep 14, 1927,NZ Tablet,37</i>)
 
@@ -4455,7 +4455,7 @@
 
 
  
-<b>3</b> <i>n.</i> hard manual work; hard slogging; hard heavy work (See [cf. bullock v](../B#bullock-v))
+<b>3</b> <i>n.</i> hard manual work; hard slogging; hard heavy work (See [cf. bullock v](bri-byo.md#bullock))
 
 >  <b>SATCHELL</b> `There's no bullocking attached to the job; all that'll be done for you.' <i>(1905,Toll of the Bush,37,1985 ed.</i>)
 
@@ -4609,7 +4609,7 @@
 
 
  
- <i>n.</i> a children's game. [1984 16-17 M E77 Pakuranga Coll. 21 BULLRUSH [games out of school] M2] (See [Kingy-seeny; Charlie across the water](../K#kingy-seeny;-charlie-across-the-water))
+ <i>n.</i> a children's game. [1984 16-17 M E77 Pakuranga Coll. 21 BULLRUSH [games out of school] M2] (See [Kingy-seeny](kee-kiw.md#kingy-seeny); [Charlie across the water](c-chi.md#charlie-across-the-water))
 
 >  <b>McGILL</b> Bullrush involved as many of the school as possible, all at one end of the paddock, one person in the middle. At the cry of 'bullrush' we all ran and he had to catch one of us. It was also called Charlie across the water and kingaseeny <i>(1989,Kiwi Baby Boomers,41</i>)
 
@@ -4652,13 +4652,13 @@
 
 
  
-<b>1</b> <i>v.</i> (Rural) to ring-crutch. (See [ring crutch; buttonhole](../R#ring-crutch;-buttonhole))
+<b>1</b> <i>v.</i> (Rural) to ring-crutch. (See [ring crutch](red-roa.md#ring-crutch); [buttonhole](bri-byo.md#buttonhole))
 
 >  <b>COOP</b> With August shearing it is customary and generally advisable to 'ring-crutch' or 'bullseye' the ewes before putting the rams out at tupping. <i>(1950,Shearing Ewes before Lambing,28</i>)
 
 ### bullsh
  
- <i>n.</i> abbrev. and euphemism of bullshit, also as an ejaculation [ca1920 fairly frequent W.H.B. Orsman e.g. Talk bullsh ; plenty of bullsh about him etc.] (See [contrast shouse](../C#contrast-shouse))
+ <i>n.</i> abbrev. and euphemism of bullshit, also as an ejaculation [ca1920 fairly frequent W.H.B. Orsman e.g. Talk bullsh ; plenty of bullsh about him etc.] (See [contrast shouse](sho-spa.md#shouse))
 
 >  <b>PARTRIDGE</b> [The] following [was] employed by those who served in the [Great] War ... <i>kidney pie</i>, insincere praise or what the Americans call <i>bull</i>, and Australians <i>bullsh</i>, and both, in less hurried moments, <i>bull-sh-t</i> <i>(1935,Slang Today,286</i>) [NOTES: 1935 Mitchell and Strong in Partridge Slang Today 286]
 
@@ -4744,7 +4744,7 @@
 
 ### bullu-bul
  
- <i>n.</i> (See [bull-a-bull (poroporo)](../B#bull-a-bull-(poroporo)))
+ <i>n.</i> (See [bull-a-bull (poroporo)](bri-byo.md#bull-a-bull)))
 
 ### bully
  
@@ -4950,7 +4950,7 @@
 
 
  
-<b>3</b> <i>n.</i> a saltwater fish (See [also shark-bully](../A#also-shark-bully))
+<b>3</b> <i>n.</i> a saltwater fish (See [also shark-bully](sa-sho.md#shark-bully))
 
 >  <b>MORRIS</b> <i>Bully</i>, ... a Tasmanian fish, <i>Blennius tasmanianus</i>, Richards, family <i>Blennidae</i>.] <i>(1898,Austral English,64</i>)
 
@@ -5490,7 +5490,7 @@
 
 ### bung-bung
  
- <i>n.</i> ? a killing (See [cf. bung-a-bung v](../B#bung-a-bung-v))
+ <i>n.</i> ? a killing (See [cf. bung-a-bung v](bri-byo.md#bung-a-bung))
 
 >  [They] said that the Natta-row-cowas ... were collecting to make a bung-bung of them. <i>(Aug 1840,Journal of Ensign Best,235,1966 ed.</i>)
 
@@ -6031,7 +6031,7 @@
 
 ### Burke's bin
  
- <i>n.</i> (See [also skip](../A#also-skip))
+ <i>n.</i> (See [also skip](sho-spa.md#skip))
 
 >  He needs to prove the party is a collection of complementary talents, not a motley Burkes [sic] Bin. <i>(Apr 13, 1997,Sunday Star Times,C2</i>)
 
@@ -6124,7 +6124,7 @@
 
 
  
- <i>n.</i> (an instance of) clearing bush, scrub, unpalatable grass, etc. from the land by means of fire to improve pasture or to bring into cultivation by clearing logs or bush. (There seems a distict cleavage between early South Island and early NI usage, cf. burn v1. In the South Island `a burn' was a periodical burning off of old tussock to prepare the way for good crop of new grass. In 20th century usage, however, has been applied (e.g. in the Pelorus Sounds) to burning off noxious weeds, fern, scrub etc. to get a good growth of green feed (cf. match-farming). In the North Island, `a burn' was chiefly applied to clearing away (felled) bush by burning, a burning off (or over) of unwanted bush: that is, to clearing or bringing land into cultivation, not merely to improving pasture. burn off seems chiefly used in this North Island sense (cf bush-burning)) (See [also bush burn](../A#also-bush-burn))
+ <i>n.</i> (an instance of) clearing bush, scrub, unpalatable grass, etc. from the land by means of fire to improve pasture or to bring into cultivation by clearing logs or bush. (There seems a distict cleavage between early South Island and early NI usage, cf. burn v1. In the South Island `a burn' was a periodical burning off of old tussock to prepare the way for good crop of new grass. In 20th century usage, however, has been applied (e.g. in the Pelorus Sounds) to burning off noxious weeds, fern, scrub etc. to get a good growth of green feed (cf. match-farming). In the North Island, `a burn' was chiefly applied to clearing away (felled) bush by burning, a burning off (or over) of unwanted bush: that is, to clearing or bringing land into cultivation, not merely to improving pasture. burn off seems chiefly used in this North Island sense (cf bush-burning)) (See [also bush burn](bri-byo.md#bush-burn))
 
 >  <b>BARKER</b> [The wind] must not be <i>too</i> violent, or the flames will fly over the grass, just scorching it instead of making `a clean burn.' <i>(1867,Station Life in NZ,194,1870 ed.</i>)
 
@@ -6305,7 +6305,7 @@
 
 ### burn back
  
- <i>v.</i> to burn material towards a bushline or grassfire or back into the path of an outdoor fire to control it. NZF Service 1954. (See [cf. back-burn v](../B#back-burn-v))
+ <i>v.</i> to burn material towards a bushline or grassfire or back into the path of an outdoor fire to control it. NZF Service 1954. (See [cf. back-burn v](b-bla.md#back-burn))
 
 ### burn off
  
@@ -6582,7 +6582,7 @@
 
 ### burr
  
- <i>n.</i> (See [also burl](../A#also-burl))
+ <i>n.</i> (See [also burl](bri-byo.md#burl))
 
 >  <b>MASSEY</b> <i>Burr</i> Contorted growth on the tree trunk closest to the stump. <i>(1987,Woodturning in New Zealand,93</i>) [NOTES: (Glossary)]
 
@@ -6684,7 +6684,7 @@
 
 ### burra burra
  
- <i>n.</i> (See [bull-a-bull (poroporo)](../B#bull-a-bull-(poroporo)))
+ <i>n.</i> (See [bull-a-bull (poroporo)](bri-byo.md#bull-a-bull)))
 
 ### burrow
  
@@ -6845,7 +6845,7 @@
 
 ### bursting up
  
- <i>n.</i> (See [burst up v](../B#burst-up-v))
+ <i>n.</i> (See [burst up v](bri-byo.md#burst-up))
 
 >  That was the real way to provide a remedy, and not to say we will impose a "bursting up" tax. <i>(Oct 30, 1890,Otago Witness,27</i>)
 
@@ -7817,7 +7817,7 @@
 
 ### bush disease
  
- <i>n.</i> a potentially fatal disease of cattle and sheep, caused by cobalt deficiency; bush sickness (See [also Tauranga disease](../A#also-tauranga-disease))
+ <i>n.</i> a potentially fatal disease of cattle and sheep, caused by cobalt deficiency; bush sickness (See [also Tauranga disease](t-ten.md#tauranga-disease))
 
 >  Mr Gilruth visited the Rotorua bush lands re `bush disease' ... <i>(1899,Ann. Rep. Dept of Agriculture,11</i>)
 
@@ -8148,7 +8148,7 @@
 
 ### bush fence
  
- <i>n.</i> in the only recorded use the sense and force of bush are obscure, and if not a slip of the pen for `brush', prob. means `made of material from the bush A1' (cf. 1855 Journal St Leonard's Station, Canterbury - `brush fence' for stock yard'; (See [cf. bush harrow; brush harrow](../B#bush-harrow;-brush-harrow))
+ <i>n.</i> in the only recorded use the sense and force of bush are obscure, and if not a slip of the pen for `brush', prob. means `made of material from the bush A1' (cf. 1855 Journal St Leonard's Station, Canterbury - `brush fence' for stock yard'; (See [cf. bush harrow](bri-byo.md#bush-harrow); [brush harrow](bri-byo.md#brush-harrow))
 
 >  <b>LANGDALE-HUNT</b> In my time we would make an early potato garden by felling the trees in a sheltered hollow where there was no growth underneath, making a bush fence of the trunks and branches round the plot which made it both sheltered and stock proof. <i>(1985,Last Entail Male,8</i>)
 
@@ -8408,7 +8408,7 @@
 
 ### bush fungus
  
- <i>n.</i> hakeke, Taranaki wool (See [also fungus](../A#also-fungus))
+ <i>n.</i> hakeke, Taranaki wool (See [also fungus](fly-fuz.md#fungus))
 
 >  <b>COWAN</b> They unloaded a packhorse and brought in a dozen bags of bush fungus, the hakeke of the Maori, which grows on old stumps and logs so plentifully. Now fungus was always a marketable commodity, for the China market; it brought sixpence a pound or more from the storekeepers, who sold it to the town dealers; it went to make a choice soup for rich Chinese. <i>(1937,Pakeha & Maori,1/4</i>)
 
@@ -9757,7 +9757,7 @@
 
 ### bush sawyer
  
- <i>n.</i> ?one who saws timber in the bush; or ? one who falls or saws bush for timber (See [bushman; bushie](../B#bushman;-bushie))
+ <i>n.</i> ?one who saws timber in the bush; or ? one who falls or saws bush for timber (See [bushman](bri-byo.md#bushman); [bushie](bri-byo.md#bushie))
 
 >  <b>LINGARD</b> The main offenders, drunken bush-sawyers, had departed. <i>(1936,Prison Labour in NZ,8</i>)
 
@@ -10319,7 +10319,7 @@
 
 ### bush tramway
  
- <i>n.</i> (See [also tramway](../A#also-tramway))
+ <i>n.</i> (See [also tramway](tot-tyr.md#tramway))
 
 >  <b>MOORE</b> Sometimes it was milled in a bush mill at that point [sc. the hauler]. Ofte[n] it was `fleeted up' on the skids ready for loading on to a bush tramway, the motive power for which was supplied either by draught animals or small steam locomotives. <i>(1969,From Forest to Farm,38</i>)
 
@@ -10661,7 +10661,7 @@
 
 ### bush-bled
  
- <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](gra-gyp.md#gum-bleeding),[tap n](../T#tap-n))
+ <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](gra-gyp.md#gum-bleeding),[tap n](t-ten.md#tap))
 
 >  <b>REED</b> This harvest of the living [kauri] tree is called `bush-bled gum'. <i>(1948,Gumdigger, The,78</i>)
 
@@ -11313,7 +11313,7 @@
 
 
  
- <i>adj.</i> caught by nightfall, or lost in, the bush A1; exhausted; covered with bush A1 =bush-clad, bush-covered, bushy (but cf. bush in bush-face, -country) (See [also heavily-bushed](../A#also-heavily-bushed),[lightly-bushed](../L#lightly-bushed))
+ <i>adj.</i> caught by nightfall, or lost in, the bush A1; exhausted; covered with bush A1 =bush-clad, bush-covered, bushy (but cf. bush in bush-face, -country) (See [also heavily-bushed](hea-hom.md#heavily-bushed),[lightly-bushed](../L#lightly-bushed))
 
 >  She got "bushed." <i>(Mar 16, 1912,NZ Free Lance,14</i>)
 
@@ -11458,7 +11458,7 @@
 
 
  
-<b>3</b> <i>adj.</i> baffled, stumped (by a question, etc) [ca1950 Wellington That question completely bushed me.] (See [cf. also bluffed](../A#also-bluffed))
+<b>3</b> <i>adj.</i> baffled, stumped (by a question, etc) [ca1950 Wellington That question completely bushed me.] (See [cf. also bluffed](bla-bri.md#bluffed))
 
 >  Bushed Lost or astray anywhere. One who loses his way among city streets will say he is bushed. <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),55</i>)
 
@@ -12529,7 +12529,7 @@
 
 
  
- <i>n.</i> short for cheese buster, a biscuit or pastry flavoured with cheese; a cheese straw (See [also cheese buster](../A#also-cheese-buster))
+ <i>n.</i> short for cheese buster, a biscuit or pastry flavoured with cheese; a cheese straw (See [also cheese buster](c-chi.md#cheese-buster))
 
 >  <b>THOMSON</b> <i>BUSTERS</i>. Two cups flour, dessertspoon butter, pinch salt, small cup milk and water. ... roll out [dough] half at time very thin, cut into strips or large blocks. <i>(1915,Amuri Cookery Book,112,1927 ed.</i>)
 
@@ -13768,7 +13768,7 @@
 
 ### buy in
  
- <i>v.</i> (Rural) to buy stock for short-term fattening or breeding purposes. (See [bought-in; flying stock](../B#bought-in;-flying-stock))
+ <i>v.</i> (Rural) to buy stock for short-term fattening or breeding purposes. (See [bought-in](bla-bri.md#bought-in); [flying stock](fin-fly.md#flying-stock))
 
 >  <b>GORDON</b> Sure, we used to buy in and fatten, but not on this scale. <i>(1987,People, Places & Paddocks,55</i>)
 

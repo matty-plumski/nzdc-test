@@ -31,7 +31,7 @@
 
 ### periodic detention
  
- <i>n.</i> (See [also PD](../A#also-pd))
+ <i>n.</i> (See [also PD](p-per.md#pd))
 
 >  `You get guys driving to PD (periodic detention) while disqualified,' he said. <i>(Jun 5, 1988,Sunday Star (Auckland),A9</i>)
 
@@ -1612,7 +1612,7 @@
 
 ### pie
  
- <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
+ <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on](per-pop.md#pie-on); [half-pie](h-hea.md#half-pie))
 
 
 
@@ -1669,7 +1669,7 @@
 
 ### pie wool
  
- <i>n.</i> (See [cf. pie n](../P#pie-n))
+ <i>n.</i> (See [cf. pie n](per-pop.md#pie))
 
 >  Note ? : [Passenger vessel] does not accept first slipe, 2nd slipe, pie wool class 1, pie wool class 2, Hides, Clippings. <i>(Dec 16, 1953,Ephemera</i>) [NOTES: 1953 Dec 16 Shaw, Savill and Albion Coy Timetable.]
 
@@ -2533,7 +2533,7 @@
 
 ### pig's face
  
- <i>n.</i> <i>Mesembryanthemum australe</i>, ice-plant, horokaka. (See [also pig face](../A#also-pig-face))
+ <i>n.</i> <i>Mesembryanthemum australe</i>, ice-plant, horokaka. (See [also pig face](per-pop.md#pig-face))
 
 >  <b>MORRIS</b> <i>Pig-face, Pig-faces</i>, and <i>Pig's-face</i>, or <i>Pig's-faces</i>. Names given to an indigenous `ice-plant,' <i>Mesembryanthemum aequilaterale</i>, Haw., <i>N.O. Ficoideae</i>, deriving its generic name from the habit of expanding its flower about noon.[1834] <i>(1898,Austral English,352</i>)
 
@@ -4823,7 +4823,7 @@
 
 ### pincushion
  
-<b>2</b> <i>n.</i> <i>Gaimardia ciliata</i> (See [also bog-cushion](../A#also-bog-cushion))
+<b>2</b> <i>n.</i> <i>Gaimardia ciliata</i> (See [also bog-cushion](bla-bri.md#bog-cushion))
 
 >  <i>Gaimardia ciliata</i> bog-pincushion <i>(1909,AJHR,C-12</i>) [NOTES: Botanical Survey Stewart Island (And)]
 
@@ -6294,7 +6294,7 @@
 
 ### pipit
  
- <i>n.</i> a small, brown, ground-nesting bird, Anthus novaeseelandiae (also called ground (or native) lark, kataitai, pihoihoi). (See [also New Zealand pipit](../A#also-new-zealand-pipit))
+ <i>n.</i> a small, brown, ground-nesting bird, Anthus novaeseelandiae (also called ground (or native) lark, kataitai, pihoihoi). (See [also New Zealand pipit](new-no.md#new-zealand-pipit))
 
 >  32. <i>Anthus Novae-Zealandiae</i>, Gml. Lark, Pipit, Pihoihoi. <i>(Nov 1884,NZ Journal of Science,288</i>) [NOTES: (T.H. Potts)]
 
@@ -7059,7 +7059,7 @@
 
 
  
- <i>n.</i> (See [cf. pinch n](../P#pinch-n))
+ <i>n.</i> (See [cf. pinch n](per-pop.md#pinch))
 
 >  <b>D'AVIGDOR</b> In consequence of the many unbridged rivers and steep `pitches' even on roads and not absolutely mountainous the average speed ... scarcely exceeds 6 miles per hour. <i>(1888,Antipodean Notes,191</i>)
 
@@ -8837,7 +8837,7 @@
 
 ### plough bird
  
- <i>n.</i> black-fronted tern (See [also ploughboy](../A#also-ploughboy))
+ <i>n.</i> black-fronted tern (See [also ploughboy](per-pop.md#ploughboy))
 
 >  <b>BULLER</b> Mr. Kirk writes that the local name for this bird [<i>Sterna antarctica</i>, Black-fronted T], in the neighbourhood of Cape Kidnappers, is the `Plough Bird' or `Plough Boy', given on account of the persistent manner in which it follows the farmer's plough for the purpose of picking up the grubs and worms that are exposed in this operation.. <i>(1888,Birds of New Zealand,2/72</i>)
 
@@ -8871,7 +8871,7 @@
 
 ### ploughboy
  
- <i>n.</i> black-fronted tern (See [also plough bird](../A#also-plough-bird))
+ <i>n.</i> black-fronted tern (See [also plough bird](per-pop.md#plough-bird))
 
 >  <b>FALLA et al.</b> BLACK-FRONTED TERN <i>Chlidonias albostriatus Other names:</i> Tara, Sea Martin, Ploughboy, Inland Tern, Riverbed Tern. <i>(1966,Birds of New Zealand,157</i>)
 
@@ -10456,7 +10456,7 @@
 
 
  
- <i>n.</i> a schemer, idler, bludger (See [cf. point v](../P#point-v))
+ <i>n.</i> a schemer, idler, bludger (See [cf. point v](per-pop.md#point))
 
 >  <b>PARTRIDGE</b> I believe he is a bit of a pointer because he asked me what billet I was coming to and I wouldn't be surprised if he came along any minute. <i>(1935,Slang Today,288</i>) [NOTES: 1935 A.E. Strong WW1 scene in Partridge Slang Today 288]
 
@@ -10740,7 +10740,7 @@
 
 ### pokeful
  
- <i>n.</i> a bagful (See [poke n](../P#poke-n))
+ <i>n.</i> a bagful (See [poke n](per-pop.md#poke))
 
 >  <b>LEE</b> I would sneak pokefuls of brown sugar. <i>(1934,Children of the Poor,67,1949 ed.</i>)
 
@@ -10856,7 +10856,7 @@
 
 ### polach
  
- <i>n.</i> (See [pollock n](../P#pollock-n))
+ <i>n.</i> (See [pollock n](per-pop.md#pollock))
 
 ### pole
  
@@ -10898,7 +10898,7 @@
 
 ### pole bullock
  
- <i>n.</i> (See [poler n](../P#poler-n))
+ <i>n.</i> (See [poler n](per-pop.md#poler))
 
 >  I noticed before I came up to him that the near-hand pole bullock of the team was inclined to kick, and I warned Mr M'Master's man to beware of it. <i>(Nov 23, 1865,North Otago Times,1</i>)
 
@@ -12233,7 +12233,7 @@
 
 ### pony
  
- <i>n.</i> a small glass [of beer] (See [also pony beer](../A#also-pony-beer),[pony shandy](per-pop.md#pony-shandy))
+ <i>n.</i> a small glass [of beer] (See [also pony beer](per-pop.md#pony-beer),[pony shandy](per-pop.md#pony-shandy))
 
 >  The normal method of address is "twoponies", "two mediums", "two longs", or"two handles." <i>(Jun 27, 1951,NZ Truth,18</i>)
 
@@ -12534,7 +12534,7 @@
 
 ### poor man's orange
  
- <i>n.</i> (See [also New Zealand grapefruit](../A#also-new-zealand-grapefruit))
+ <i>n.</i> (See [also New Zealand grapefruit](new-no.md#new-zealand-grapefruit))
 
 >  Don't forget the Poor Man's Orange makes the best Marmalade. <i>(Jul 28, 1904,Wanganui Herald,1</i>)
 
@@ -12618,7 +12618,7 @@
 
 ### poorman orange
  
- <i>n.</i> a small grapefruit used for marmalade; New Zealand grapefruit, marmalade orange, a smallish, bitter grapefruit (correctly poor man's orange q.v.) [also spelt poorman's orange] (See [also New Zealand grapefruit](../A#also-new-zealand-grapefruit))
+ <i>n.</i> a small grapefruit used for marmalade; New Zealand grapefruit, marmalade orange, a smallish, bitter grapefruit (correctly poor man's orange q.v.) [also spelt poorman's orange] (See [also New Zealand grapefruit](new-no.md#new-zealand-grapefruit))
 
 >  The varieties grown are the Seville and Poor-man, both marmalade oranges. <i>(Oct 23, 1890,Otago Witness,5</i>)
 

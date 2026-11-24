@@ -862,7 +862,7 @@
 
 ### racehorse
  
- <i>n.</i> a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See [cf greyhound](../C#cf-greyhound))
+ <i>n.</i> a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See [cf greyhound](gra-gyp.md#greyhound))
 
 >  <i>(Aug 29, 1953,Evening Post,8</i>)
 
@@ -2581,7 +2581,7 @@
 
 ### range maggot
  
-<b>1</b> <i>n.</i> (Rural) a sheep. (See [maggot magnet; maggot taxi](../M#maggot-magnet;-maggot-taxi))
+<b>1</b> <i>n.</i> (Rural) a sheep. (See [maggot magnet](m-mar.md#maggot-magnet); [maggot taxi](m-mar.md#maggot-taxi))
 
 >  <b>TARRANT</b> Sheep are known as range maggots, in the summer as maggot taxis, and shepherds as sheep shaggers. <i>(2002,Glossary,1</i>)
 
@@ -3793,7 +3793,7 @@
 
 ### rata grub
  
- <i>n.</i> (See [also rata tree caterpillar](../A#also-rata-tree-caterpillar))
+ <i>n.</i> (See [also rata tree caterpillar](ra-red.md#rata-tree-caterpillar))
 
 >  <b>BOSWELL</b> ... I recall his [the botanist-Inspector's] chuckle when we showed him ... the huge white caterpillar known throughout bushland [in North Auckland] as the `rata grub', so-called because it was always found at the foot of a rata and was supposed to be the origin [101] of the tree itself. It is a curious creature - a great caterpillar with a strange tree-like fungoid growth, growing sometimes to a height of several inches, from its body. I think everybody believed in the legend of the rata-tree caterpillar; ... <i>(1960,Ernie and the Rest of Us,101</i>)
 
@@ -4351,7 +4351,7 @@
 
 ### rauparaha
  
- <i>n.</i> native convolvulus (See [also pohue](../A#also-pohue))
+ <i>n.</i> native convolvulus (See [also pohue](per-pop.md#pohue))
 
 >  Of course, the introduced, white-flowered convolvulus is not to be confused with our native convolvulus - raparaha or pohue - the small edible namesake of awesome Ngati Toa leader Te Rauparaha. According to the <i>Dictionary of New Zealand Biography</i>, soon after Te Rauparaha's birth, a Waikato warrior who had killed and eaten a relation of his, threatened to eat the child as well, roasted with rauparaha leaves - and the child was named Te Rauparaha in defiance of this threat. <i>(Nov 1, 2003,Dominion Post,E13</i>)
 
@@ -5311,7 +5311,7 @@
 
 ### razoo
  
- <i>n.</i> a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See [also brass razoo](../A#also-brass-razoo))
+ <i>n.</i> a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See [also brass razoo](bla-bri.md#brass-razoo))
 
 >  In reply to Mr. Curtis's further questioning, Maxwell admitted that he had not a razoo to pay the costs of the action against "Truth" if it went against him. <i>(May 20, 1926,NZ Truth,13</i>)
 

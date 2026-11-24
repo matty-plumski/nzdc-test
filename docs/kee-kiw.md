@@ -155,7 +155,7 @@
 
 ### keeping-lamb
  
-<b>1</b> <i>n.</i> (Rural) a ewe lamb that is retained by a farmer to breed from [rather than sold for slaughter as a fat lamb.] (See [carryover; holdover](../C#carryover;-holdover))
+<b>1</b> <i>n.</i> (Rural) a ewe lamb that is retained by a farmer to breed from [rather than sold for slaughter as a fat lamb.] (See [carryover](c-chi.md#carryover); [holdover](hea-hom.md#holdover))
 
 >  The keeping-lambs are crutched, branded, dipped and placed out. <i>(Jul 20, 1920,NZ Journal of Agriculture,8</i>)
 
@@ -284,7 +284,7 @@
 
 ### kehe
  
- <i>n.</i> marblefish (See [also keke; cf. ngehe](../A#also-keke;--ngehe))
+ <i>n.</i> marblefish (See [also keke](kee-kiw.md#keke); [cf. ngehe](new-no.md#ngehe))
 
 >  <b>KOHERE</b> We can catch kehe whenever we choose. [fn] Kehe, granite trout. <i>(1951,Autobiography of a Maori,127</i>)
 
@@ -360,7 +360,7 @@
 
 ### keke
  
- <i>n.</i> marblefish (See [also kehe](../A#also-kehe))
+ <i>n.</i> marblefish (See [also kehe](kee-kiw.md#kehe))
 
 >  APLODACTYLUS MEANDRATUS (Richardson). <i>Marble-fish; Keke</i>. Secured in deep water in the vicinity of kelp, and is sometimes taken in mullet-nets. <i>(Jun 1921,NZ Journal of Science & Technology,iV/115</i>)
 
@@ -1073,7 +1073,7 @@
 
 
  
- <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](../T#turp-v))
+ <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](tot-tyr.md#turp))
 
 >  <b>PRESHAW</b> <i>(1888,Banking Under Difficulties,167</i>) [NOTES: (Griffiths Collection)]
 
@@ -1648,7 +1648,7 @@
 
 ### kick the block
  
- <i>n.</i> a game (See [also kick the tin](../A#also-kick-the-tin))
+ <i>n.</i> a game (See [also kick the tin](kee-kiw.md#kick-the-tin))
 
 >  <b>SUTTON-SMiTH</b> Further, because He was an awesome person, he had to be very carefully chosen, and so the mysterious counting-out rhymes were used. Despite his powers, however, his potency could be minimized in many games by the fact that the players helped one another fight against him (e.g., Bedlam, Relievo, Kick the Block). <i>(1981,History of Children's Play,52</i>)
 
@@ -2143,7 +2143,7 @@
 
 ### kihikihi
  
- <i>n.</i> (See [kohekohe (1851)](../K#kohekohe-(1851)))
+ <i>n.</i> (See [kohekohe (1851)](kiw-kwi.md#kohekohe)))
 
 >  Our last zizag breaks the spider threads spun from tree to tree and tenacious kihikihi provide the processional as we stride out along the paper road which takes us back to Fairfield. <i>(Jul 24, 2004,Dominion Post,E18</i>)
 
@@ -2217,7 +2217,7 @@
 
 ### kilikiti
  
- <i>n.</i> cricket (See [also Samoan cricket](../A#also-samoan-cricket))
+ <i>n.</i> cricket (See [also Samoan cricket](sa-sho.md#samoan-cricket))
 
 >  Kilikiti (Pacific island-style cricket) was adapted from the British game more than 100 years ago... Norman says Kilikiti is the only activity a lot of the younger team members are interested in which still connects them to their heritage. <i>(Feb 21, 2002,Contact (Wgtn),5</i>)
 
@@ -2840,7 +2840,7 @@
 
 ### king barracouta
  
- <i>n.</i> southern kingfish, gemfish (See [also king couta](../A#also-king-couta))
+ <i>n.</i> southern kingfish, gemfish (See [also king couta](kee-kiw.md#king-couta))
 
 >  <i>GEMFiSH Rexea solandri </i>(Silver kingfish, southern kingfish, hake, king barracouta) <i>(1982,Collins Guide,287,1984 ed.</i>)
 
@@ -3126,7 +3126,7 @@
 
 ### King Movement
  
- <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See [also Maori King movement](../A#also-maori-king-movement))
+ <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See [also Maori King movement](m-mar.md#maori-king-movement))
 
 >  [Taranaki Herald] King Movement 1859. <i>(1971,Documents and Speeches,137,1859 ed.</i>) [NOTES: 1859 (1971) Documents and Speeches 137]
 
@@ -3242,7 +3242,7 @@
 
 ### King Seenie
  
- <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](../A#also-kingy-seeny),[King Caesar](kee-kiw.md#king-caesar))
+ <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](kee-kiw.md#kingy-seeny),[King Caesar](kee-kiw.md#king-caesar))
 
 >  <b>SUTTON-SMiTH</b> The most widely known and most popular tagging game in all historical periods - in fact, the most popular game in New Zealand - was undoubtedly the game known variously as <i>Bar the Door</i> (E-8); All Over; Barbadoor; Barley; Barley Goats; Bar the Gate; Black Bull Bee; Blackthorn; Broken Barley; By the Door; Caesar; Father Door; Free Pass; Goosey; Goosey Up and Down; Holding; Horney;Julius Caesar; King Caesar; King's Den; King Dick; King O'Seenie; King O'Weenie; King Seenie; King Seize-Her; King-a-Sene; Last man Over; Last Over Call; Pass Over; Punch King; Punch King Seenio; Red Rover; and Running Through the Middle. <i>(1972,Folkgames of Children,81</i>)
 
@@ -3566,7 +3566,7 @@
 
 ### kingie
  
- <i>n.</i> kingfish [also kingey] (See [also kingi](../A#also-kingi))
+ <i>n.</i> kingfish [also kingey] (See [also kingi](kee-kiw.md#kingi))
 
 >  i knew right from the first moment it was a kingie. it took about 150m of 25 pound.. nylon off my reel. <i>(Jan 3, 2002,Evening Post,12</i>)
 
@@ -3789,7 +3789,7 @@
 
 ### Kingy-seeny
  
- <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See [also King Seenie](../A#also-king-seenie))
+ <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See [also King Seenie](kee-kiw.md#king-seenie))
 
 >  <b>THOMSON</b> Others wanted [to play] `Prisoners' Base' or `Chivvy', `Brewer', "Egg-in-the hat', `Duck-stone', `Red Rover', or `Kingy-seeny'. The boys did not know where this last game came from. They did not know its proper spelling or pronunciation. `Kingy-seeny' it was to them and they did not care whether that had a meaning or not. This rough and tumble game was the most popular of all. <i>(1905,Bush Boys of NZ,84</i>) [NOTES: 1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -]
 
@@ -4023,7 +4023,7 @@
 
 ### kirikiti
  
- <i>n.</i> (See [kilikiti; Samoan cricket](../K#kilikiti;-samoan-cricket))
+ <i>n.</i> (See [kilikiti](kee-kiw.md#kilikiti); [Samoan cricket](sa-sho.md#samoan-cricket))
 
 ### kirimoko
  
@@ -4276,7 +4276,7 @@
 
 ### kitchen evening
  
- <i>n.</i> a party to which guests bring gifts of kitchen-ware for a bride-to-be (See [also kitchen party](../A#also-kitchen-party))
+ <i>n.</i> a party to which guests bring gifts of kitchen-ware for a bride-to-be (See [also kitchen party](kee-kiw.md#kitchen-party))
 
 >  A kitchen evening was given by Mr. and Mrs. A.R. Gillett at their residence ... in honour of Miss Sabina Gardner, whose marriage ... to Mr. P. Richardson takes place shortly. <i>(Mar 22, 1931,Auckland  Star,7/2</i>)
 

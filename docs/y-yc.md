@@ -411,7 +411,7 @@
 
 ### Yankee shout
  
- <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](../A#also-dutch-shout),[Parnell shout](p-per.md#parnell-shout))
+ <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](dou-dyn.md#dutch-shout),[Parnell shout](p-per.md#parnell-shout))
 
 >  <b>LELAND</b> Yankee shout: GO DUTCH <i>(1980,Personal Kiwi-Yankee Dictionary, A,115</i>)
 

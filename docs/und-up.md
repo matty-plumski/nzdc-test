@@ -187,7 +187,7 @@
 
 ### unfavourable country
  
- <i>n.</i> [miners'] (See [cf favourable country](../C#cf-favourable-country))
+ <i>n.</i> [miners'] (See [cf favourable country](f69-fin.md#favourable-country))
 
 >  This , from its appearance, and from the fact that the Martha and Edward lodes become poor where, in the deeper levels, it impinges on them, has been regarded as `unfavourable' country. <i>(1922,NZ Journal of Science & Technology,5/119</i>) [NOTES: Morgan]
 
@@ -711,7 +711,7 @@
 
 ### unveil
  
- <i>v.</i> remove the cover from a Maori headstone in a ceremony a certain time after the burial. [1984 citation shows a deceased person, as well as their gravestone, can be 'unveiled'] (See [see also unveiling n](../S#see-also-unveiling-n))
+ <i>v.</i> remove the cover from a Maori headstone in a ceremony a certain time after the burial. [1984 citation shows a deceased person, as well as their gravestone, can be 'unveiled'] (See [see also unveiling n](und-up.md#unveiling))
 
 >  The Premier, when recently unveiling a monument to the late chief Te Keepa at Whakarewarewa, paid a high tribute to the late chief and the Maoris as a race. <i>(Mar 21, 1906,Otago Witness,45</i>)
 
@@ -1045,7 +1045,7 @@
 
 ### up North
  
- <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See [also Far North](../A#also-far-north))
+ <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See [also Far North](f69-fin.md#far-north))
 
 >  WANTED to Rent, with a right to purchase, a Farm up north, with a small house. <i>(Oct 11, 1861,Daily Southern Cross,1</i>)
 

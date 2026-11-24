@@ -695,7 +695,7 @@
 
 ### reef shark
  
- <i>n.</i> (See [reef fish (fig.)](../R#reef-fish-(fig.)))
+ <i>n.</i> (See [reef fish (fig.)](red-roa.md#reef-fish)))
 
 >  A decade or so ago, Burge had his bright star, Krondorf, whisked from under his nose by stockmarket reef sharks... <i>(May 25, 2002,Listener (New Zealand Listener),44</i>)
 
@@ -741,7 +741,7 @@
 
 ### reefing
  
- <i>n.</i> [goldmining] (See [also quartz-reefing](../A#also-quartz-reefing))
+ <i>n.</i> [goldmining] (See [also quartz-reefing](qua-que.md#quartz-reefing))
 
 >  As a reefing country, I am convinced that the small portion of land now open is wonderfully rich. Let the reefers once obtain machinery, and depend upon it the yield will be enormous. <i>(Oct 27, 1867,Trip to the Thames Gold-fields,29,1978 ed.</i>)
 
@@ -921,7 +921,7 @@
 
 
  
- <i>n.</i> (See [also refreshment rooms](../A#also-refreshment-rooms))
+ <i>n.</i> (See [also refreshment rooms](red-roa.md#refreshment-rooms))
 
 >  WARNER'S HANDSOME COUNTER ENGINE for refreshment rooms in railway stations or other public buildings, or for raising water to washhand stands in Gentlemen's houses . . . <i>(Feb 24, 1860,Daily Southern Cross,4</i>)
 
@@ -2317,7 +2317,7 @@
 
 ### reserve
  
- <i>n.</i> a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See [also Maori reserve](../A#also-maori-reserve))
+ <i>n.</i> a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See [also Maori reserve](m-mar.md#maori-reserve))
 
 >  Allow me through the medium of your journal to call the attention of the Board of Education, or whoever has the management of Educational Reserves, to the injustice they are doing this would-be township, by not leasing the reserve. <i>(Jan 5, 1878,Timaru Herald,4</i>)
 
@@ -3619,7 +3619,7 @@
 
 ### rifflebox
  
- <i>n.</i> [(goldmining) 1868 [get quots from discards]] (See [also ripple](../A#also-ripple))
+ <i>n.</i> [(goldmining) 1868 [get quots from discards]] (See [also ripple](red-roa.md#ripple))
 
 ### rifle game
  
@@ -3647,7 +3647,7 @@
 
 ### rifleman
  
- <i>n.</i> a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See [also thumb bird](../A#also-thumb-bird))
+ <i>n.</i> a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See [also thumb bird](ten-tot.md#thumb-bird))
 
 >  <b>HUTTON</b> 15. XENICUS STOKESII. Gray. Grey Wren. Stripe-faced Wren. Rifleman. ... <i>a broad white streak from each nostril over each eye to the back of the head; ... </i> <i>(1871,Birds of New Zealand,7</i>)
 

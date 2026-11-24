@@ -1300,7 +1300,7 @@
 
 ### oi
  
- <i>n.</i> (See [muttonbird (1947)](../M#muttonbird-(1947)))
+ <i>n.</i> (See [muttonbird (1947)](mob-mys.md#muttonbird)))
 
 >  The Maori name oi comes from the high-pitched call the birds make during flight. <i>(Mar 2005,NZ Geographic,72/</i>)
 
@@ -2912,7 +2912,7 @@
 
 ### on one's Pat Malone
  
- <i>phr.</i> on one's own, alone (See [also on one's pat](../A#also-on-one's-pat))
+ <i>phr.</i> on one's own, alone (See [also on one's pat](o-on.md#on-ones-pat))
 
 >  <b>PARTRIDGE</b> <i>Pat Malone</i>. Alone: Australian and New Zealand rhyming s.: C. 20. Gen <i>do a thing, go, on one's Pat Malone</i>, hence <i>on one's Pat</i> (hence <i>pat</i>). <i>(1937,Dictionary of Slang,609</i>)
 

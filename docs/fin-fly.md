@@ -1777,7 +1777,7 @@
 
 ### fizzy drink
  
- <i>n.</i> carbonated soft drink [(mainly children's) From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html] (See [also fizzy](../A#also-fizzy))
+ <i>n.</i> carbonated soft drink [(mainly children's) From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html] (See [also fizzy](fin-fly.md#fizzy))
 
 >  It bottles mineral water from a spring at the foot of Tongariro - without the help of any multinational fizzy-drink manufacturers, or Auckland beer barons. <i>(Dec 1996,Mana,No. 14 : 9</i>)
 
@@ -1952,7 +1952,7 @@
 
 ### flagon
  
- <i>n.</i> a large bottle or container for beer or other liquor, or its contents, a half-gallon jar (See [also half G](../A#also-half-g))
+ <i>n.</i> a large bottle or container for beer or other liquor, or its contents, a half-gallon jar (See [also half G](h-hea.md#half-g))
 
 >  I have no memory of who won, but recall a hearty open fire, flagons of beer and snacks, being fussed over by jovial men and perhaps the legendary rugby commentator Winston McCarthy calling on the crackly Atlantic feed: "Wait for it. It's a goal!" <i>(Jul 5, 2003,Listener (New Zealand Listener),67</i>)
 
@@ -2757,7 +2757,7 @@
 
 
  
-<b>1</b> <i>n.</i> any of various fish with a flattened head (See [also flathead gurnard](../A#also-flathead-gurnard))
+<b>1</b> <i>n.</i> any of various fish with a flattened head (See [also flathead gurnard](fin-fly.md#flathead-gurnard))
 
 >  <b>MORRIS</b> <i>Flathead</i> ... name given to several Australian marine fishes, <i>Platycephalus fuscus</i>, Cuv. and Val., and other species of <i>Platycephalus</i>, family Cottida. The Red Flathead is </i> P. bassensis</i>, Cuv. and Val., and the Rock F. is<i> P. lavig?stus</i>, Cuv. and Val. see also <i>Tupong and Maori-chief</i>.] <i>(1898,Austral English,147</i>)
 
@@ -2993,7 +2993,7 @@
 
 ### flatulence tax
  
- <i>n.</i> a proposed tax on methane emissions by animals (See [also fart tax](../A#also-fart-tax))
+ <i>n.</i> a proposed tax on methane emissions by animals (See [also fart tax](f69-fin.md#fart-tax))
 
 >  The Government has abandoned its plans for a flatulence tax in the face of fierce farmer opposition and international derision... "Animal fart tax puts wind up New Zealand farmers," the Canadian Broadcasting Corporation said on its website. "Farmers raise stink over New Zealand fart tax," said <i>The Guardian</i> newspaper in Britain. <i>(Oct 18, 2003,Dominion Post,A2</i>)
 
@@ -4287,7 +4287,7 @@
 
 ### fleecie
  
- <i>n.</i> a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See [also fleeco](../A#also-fleeco))
+ <i>n.</i> a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See [also fleeco](fin-fly.md#fleeco))
 
 >  <b>WILSON</b> Meanwhile the shorn fleeces are carried to a large table in the wool-shed by a man appropriately named `Fleecy', and are spread out by four wool-pickers, who tear away the bad parts and fold the fleeces square, passing them to the classer, who, in turn, after a rapid examination hands them on to his attendant, and he places them in their respective bins according to their quality. <i>(1894,In the Land of the Tui,244</i>)
 
@@ -4329,7 +4329,7 @@
 
 ### fleeco
  
- <i>n.</i> a person who handles freshly shorn fleeces in a shearing shed (See [also fleecie](../A#also-fleecie))
+ <i>n.</i> a person who handles freshly shorn fleeces in a shearing shed (See [also fleecie](fin-fly.md#fleecie))
 
 >  At five the engine throbbed into sudden silence, and the shearers, leaving the Maori fleece-oh's to cope with the disorder of the great shed, streamed on. <i>(Dec 7, 1935,Christchurch Star-Sun,Magazine Section 1</i>)
 
@@ -5249,7 +5249,7 @@
 
 ### flour and blanket policy
  
- <i>n.</i> (historical) [-] (See [also flour and sugar policy](../A#also-flour-and-sugar-policy))
+ <i>n.</i> (historical) [-] (See [also flour and sugar policy](fin-fly.md#flour-and-sugar-policy))
 
 >  <b>LYON</b> The [Maori] policy of that date [? 1840s, 50s after seizure of Rauparaha] was called the `Flour and Blanket policy' ... and the wily savage ... did not fail to exhibit a spirit of aggression. <i>(1952,Faring South,76</i>)
 
@@ -5269,7 +5269,7 @@
 
 ### flour and sugar policy
  
- <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](../A#also-flour-and-blanket-policy),[sugar and flour policy](spa-sys.md#sugar-and-flour-policy))
+ <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](fin-fly.md#flour-and-blanket-policy),[sugar and flour policy](spa-sys.md#sugar-and-flour-policy))
 
 >  <b>TROLLOPE</b> The flour-and-sugar-policy is the nickname given to the practice by which the Government bribes the tribes into submission. <i>(1874,New Zealand (various authors/titles),156</i>)
 
@@ -5757,7 +5757,7 @@
 
 ### fly tent
  
- <i>n.</i> (See [fly n](../F#fly-n))
+ <i>n.</i> (See [fly n](fin-fly.md#fly))
 
 >  <b>THOMSON</b> We decided to pack enough tinned stores and, with a small fly-tent, go up the valley ... [179] Had we stayed in the fly tent we would have had a fairly uncomfortable night, as we had not collected any fern for bedding. <i>(1952,Deer Hunter: The Experiences of a NZ Stalker,128, 179</i>)
 
@@ -6009,7 +6009,7 @@
 
 ### flying conductor
  
- <i>n.</i> (See [also flier](../A#also-flier))
+ <i>n.</i> (See [also flier](fin-fly.md#flier))
 
 >  It is a remarkable fact that the [Tramway] Board has been taking on new men so liberally of late as `students' and `flying' conductors, that the service is actually over-staffed. <i>(May 13, 1911,NZ Truth,307/4/5</i>)
 

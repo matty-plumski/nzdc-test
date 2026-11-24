@@ -90,7 +90,7 @@
 
 ### enunga smelt
  
- <i>n.</i> inanga [inanga.] (See [also silvery](../A#also-silvery))
+ <i>n.</i> inanga [inanga.] (See [also silvery](sho-spa.md#silvery))
 
 >  <b>STUDHOME</b> Enunga[sic] Smelts (mature whitebait) and silveries (Cucumber smelts)... [249] The common eel (Tuna) was found in all the creeks and rivers in the Waimate County; and numbers of Enunga Smelts (mature Whitebait), and Silveries (Cucumber Smelts), came into the rivers from the sea to spawn in the spring of the year. <i>(1940,Te Waimate,236</i>)
 
@@ -743,7 +743,7 @@
 
 ### everlasting pea
  
- <i>n.</i> a plant (See [contrast Tangier pea](../C#contrast-tangier-pea))
+ <i>n.</i> a plant (See [contrast Tangier pea](t-ten.md#tangier-pea))
 
 >  <b>HILGENDORF</b> EVERLASTING PEA (<i>Lathyrus latifolius</i>) is like a sweet pea, with a purple flower. It is a serious pest around Blenheim. [1967: is a rampant growing, tendril bearing scrambler, with red, pink or white flowers. It is a troublesome weed in hedgerous and waste places in South Island districts.] <i>(1926,Weeds of New Zealand,112,1967 ed.</i>)
 
@@ -1364,7 +1364,7 @@
 
 ### eye-clipping
  
- <i>n.</i> (Rural) (See [eye-clip v](../E#eye-clip-v))
+ <i>n.</i> (Rural) (See [eye-clip v](ens-eye.md#eye-clip))
 
 >  <b>ACLAND</b> Merino sheep ... were not handled so often for eye-clipping and so on. <i>(1930,Early Canterbury Runs,First Series vi 18</i>)
 
@@ -1431,7 +1431,7 @@
 
 ### eye-wig
  
- <i>n.</i> (Rural) wool from around the eyes and the head of a sheep (See [eye-wig v](../E#eye-wig-v))
+ <i>n.</i> (Rural) wool from around the eyes and the head of a sheep (See [eye-wig v](ens-eye.md#eye-wig))
 
 >  Eyewigs were a totally different type of wool to normal crutchings. <i>(1985,NZ Shearer,12 Autumn/Winter 48</i>)
 

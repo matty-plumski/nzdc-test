@@ -125,7 +125,7 @@
 
 ### digger's hat
  
- <i>n.</i> a wide-brimmed felt hat [(goldfields and early rural)] (See [also digger's delight](../A#also-digger's-delight))
+ <i>n.</i> a wide-brimmed felt hat [(goldfields and early rural)] (See [also digger's delight](dig-dou.md#diggers-delight))
 
 >  <b>BARKER</b> I must say, [the bushmen] were the most picturesque of the party, being ... dressed in red flannel shirts and leathern knickerbockers and gaiters; they ... wore `diggers' hats,' a head-dress of American origin - a sort of wide-awake made of plush, capable of being crushed into any shape,and very becoming. <i>(1867,Station Life in NZ,182,1870 ed.</i>)
 
@@ -145,7 +145,7 @@
 
 ### digger's weed
  
- <i>n.</i> (See [also Californian stinkweed](../A#also-californian-stinkweed))
+ <i>n.</i> (See [also Californian stinkweed](c-chi.md#californian-stinkweed))
 
 >  <b>HILGENDORF</b> STINK WEED ([<i>Navarettia] squarrosa</i>), [formerly named <i>Gilis squarrosa</i>] and called Californian stink weed, digger's weed and yeast plant, occurs chiefly [in river beds] on dry pastures and fields in Marlborough and Otago, where it sometimes becomes dominant over all other herbage. <i>(1926,Weeds of New Zealand,139,1967 ed.</i>)
 
@@ -229,7 +229,7 @@
 
 ### digging plough
  
-<b>1</b> <i>n.</i> (Rural) a style of plough with an extra projecting wing. (See [also digger plough](../A#also-digger-plough))
+<b>1</b> <i>n.</i> (Rural) a style of plough with an extra projecting wing. (See [also digger plough](dig-dou.md#digger-plough))
 
 >  <b>WALLACE</b> Howards Digging Plough .. turns over the furrow slices most perfectly and breaks what is left at the surface by means of a projecting wing or continuation of the mould-board. <i>(1891,Rural Economy of Aust. & NZ,272</i>)
 
@@ -348,7 +348,7 @@
 
 ### dilly
  
- <i>adj.</i> silly; cranky; foolish. (See [also dill n](../A#also-dill-n))
+ <i>adj.</i> silly; cranky; foolish. (See [also dill n](dig-dou.md#dill))
 
 >  His Worship: `Was the accused sober?' Witness: `Well, he looked muzzy.' His Worship: `What do you mean by that?' Witness: `He looked either drunk or a shingle short.' His Worship: `A what?' Witness: `A screw loose.' His Worship: `I don't understand you.' Witness: `He seemed to have a rat in his garret.' His Worship: `Oh, speak English!' Witness: `Off his dot - balmy [sic] - dilly.' Sergeant: `He says the man was mad, your Worship.' Witness: `No, I didn't. I said he was either drunk or ratty.' <i>(Apr 16, 1910,NZ Truth,251/1/6</i>)
 
@@ -1906,7 +1906,7 @@
 
 ### do-up
  
- <i>n.</i> (See [also doer-upper](../A#also-doer-upper))
+ <i>n.</i> (See [also doer-upper](dig-dou.md#doer-upper))
 
 >  Many recent downtown do-ups are Krukziener's. <i>(Jan 18, 1997,Listener (New Zealand Listener),29</i>)
 
@@ -1916,7 +1916,7 @@
 
 ### do/do in
  
- <i>v.</i> spend (completely) [also do one's chips (spend all one's money)] (See [also do up](../A#also-do-up))
+ <i>v.</i> spend (completely) [also do one's chips (spend all one's money)] (See [also do up](dig-dou.md#do-up))
 
 >  <b>THOMSON</b> I'd never make for home again until I'd `done it in.' <i>(1909,Ballads about Business,27</i>)
 
@@ -2537,7 +2537,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit; double-fleecer](../H#hermit;-double-fleecer),[bushranger](bri-byo.md#bushranger))
+<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit](hea-hom.md#hermit); [double-fleecer](dou-dyn.md#double-fleecer),[bushranger](bri-byo.md#bushranger))
 
 >  <b>HINDMARSH</b> .. we snared quite an assortment of dodgers - even half a dozen wild cattle caught napping well out from the bush edge. <i>(1997,Come Be a Pioneer,97</i>)
 
@@ -4590,7 +4590,7 @@
 
 ### donkey room
  
- <i>n.</i> a staff cafeteria [as where the `donkeys', or workers congregate]. [(watersiders')] (See [also donko](../A#also-donko))
+ <i>n.</i> a staff cafeteria [as where the `donkeys', or workers congregate]. [(watersiders')] (See [also donko](dig-dou.md#donko))
 
 >  <b>DEVBANNY</b> Lafe and Holly ranged themselves in the queue in the `donkey room' [to draw their wharf-pay for the week]. <i>(1926,Laura Divine,257</i>)
 
@@ -4963,7 +4963,7 @@
 
 ### dory
  
- <i>n.</i> an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded] (See [also oreo dory](../A#also-oreo-dory))
+ <i>n.</i> an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded] (See [also oreo dory](on-ore.md#oreo-dory))
 
 >  <b>RICHARDSON</b> 38. <i>Capros australis</i> Richardson, Zool. Tr. 3. This is probably the Dory mentioned by Polack. <i>(1842,Travels in NZ,2/211</i>) [NOTES: 1842 Gray's Fauna (Richardson's Fish) in 1843 Dieffenbach Travels in NZ]
 

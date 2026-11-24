@@ -749,7 +749,7 @@
 
 ### log of wood/log o' wood
  
- <i>n.</i> the Ranfurly Shield; the interprovincial rugby union challenge trophy. (See [also log](../A#also-log))
+ <i>n.</i> the Ranfurly Shield; the interprovincial rugby union challenge trophy. (See [also log](liv-lyn.md#log))
 
 >  Wellington will field the same team in its first defence of the Ranfurly Shield .... as lifted the `log of wood' from Auckland <i>(Sep 2, 1963,Evening Post,12</i>)
 
@@ -795,7 +795,7 @@
 
 ### log stain
  
-<b>1</b> <i>n.</i> (Rural) charcoal or bush-burn stain on fleece wool. (See [bush stain; burn stain](../B#bush-stain;-burn-stain))
+<b>1</b> <i>n.</i> (Rural) charcoal or bush-burn stain on fleece wool. (See [bush stain](bri-byo.md#bush-stain); [burn stain](bri-byo.md#burn-stain))
 
 >  <b>MAF</b> Bush stain: Discoloration of wool with charcoal from bush burns. More commonly referred to as log stain. <i>(1982,MAF Agricultural Glossary,53</i>)
 
@@ -1344,7 +1344,7 @@
 
 ### lomaria fern
  
- <i>n.</i> (See [also Low Maria](../A#also-low-maria))
+ <i>n.</i> (See [also Low Maria](liv-lyn.md#low-maria))
 
 >  The lomaria fern is common by the banks. <i>(Nov 5, 1887,Auckland Weekly News,7</i>)
 
@@ -1399,7 +1399,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) grass on the sides of roads. (See [long paddock; between the fences](../L#long-paddock;-between-the-fences))
+<b>1</b> <i>n.</i> (Rural) grass on the sides of roads. (See [long paddock](liv-lyn.md#long-paddock); [between the fences](b-bla.md#between-the-fences))
 
 >  <b>ANDERSON</b> .. then off to find the horses grazing the 'long acre', most being hobbled. <i>(1962,Life's Roundabout, A,27</i>)
 
@@ -1526,7 +1526,7 @@
 
 ### long drop dunny
  
- <i>n.</i> a primitive toilet; a deep hole in the ground, with a wooden seat. (See [also long drop toilet](../A#also-long-drop-toilet))
+ <i>n.</i> a primitive toilet; a deep hole in the ground, with a wooden seat. (See [also long drop toilet](liv-lyn.md#long-drop-toilet))
 
 >  <b>Fiona Kidman</b> The long drop dunny, instead of being across the paddock, was in the back yard ... <i>(2008,At the End of Darwin Road,73</i>)
 
@@ -1626,7 +1626,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) grass on the sides of roads, often grazed by stock. (See [between the fences; long acre](../B#between-the-fences;-long-acre))
+<b>1</b> <i>n.</i> (Rural) grass on the sides of roads, often grazed by stock. (See [between the fences](b-bla.md#between-the-fences); [long acre](liv-lyn.md#long-acre))
 
 >  Long paddock, the.- slang for the road. People turn stock out on it, or travel them on it, to get cheap grazing. <i>(Nov 4, 1933,Press, The  (Acland Glossary),15</i>)
 
@@ -2691,7 +2691,7 @@
 
 ### low-rider
  
- <i>n.</i> shorts or trousers several sizes too large so they hang below the waistline (See [also lo-ryder](../A#also-lo-ryder))
+ <i>n.</i> shorts or trousers several sizes too large so they hang below the waistline (See [also lo-ryder](liv-lyn.md#lo-ryder))
 
 >  It's called the "low-rider" - trousers or shorts worn on the hips and exposing a generous amount of boxer short. It's mostly adopted by boys, and it's a fashion some principals say is skirting with indecency... He believed students were following blindly a fashion that began in American jails where prisoners did not have belts. <i>(Jun 21, 2002,Dominion,3</i>)
 
@@ -3158,7 +3158,7 @@
 
 ### lush
  
- <i>n.</i> (hard) liquor [cf lushington obs.] (See [cf lushington](../C#cf-lushington))
+ <i>n.</i> (hard) liquor [cf lushington obs.] (See [cf lushington](liv-lyn.md#lushington))
 
 >  I'll raise my Ebenezer. And I'll have `down with all the lush'. <i>(1869,Punch or the Auckland Charivari,83</i>)
 

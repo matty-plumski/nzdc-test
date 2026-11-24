@@ -782,7 +782,7 @@
 
 ### black velvet
  
- <i>n.</i> a Maori female or females, esp. as sexual objects; occas. sexual intercourse with a Maori woman (cf. Aust: of Aboriginal women). (See [also brown velvet](../A#also-brown-velvet))
+ <i>n.</i> a Maori female or females, esp. as sexual objects; occas. sexual intercourse with a Maori woman (cf. Aust: of Aboriginal women). (See [also brown velvet](bri-byo.md#brown-velvet))
 
 >  <b>BALLANTYNE</b> `I'd like a nice piece of black velvet,' Clive said. `One of those quarter-castes, boy. They give you a good go for your money, they reckon.' <i>Ibid.</i> 263 I'd like a nice piece of black velvet. One of those quarter-castes, boy. <i>(1948,Cunninghams, The,214,1976 ed.</i>)
 
@@ -861,7 +861,7 @@
 
 ### black wire
  
- <i>n.</i> (See [also black iron](../A#also-black-iron))
+ <i>n.</i> (See [also black iron](b-bla.md#black-iron))
 
 >  <b>EVANS</b> Then [after the early non-galvanised triangular wire] the first round wire or `black wire' as it was more often referred to. It was almost the equivalent of quarter-inch iron ... <i>(1962,Waikaka Saga,131</i>)
 
@@ -1207,7 +1207,7 @@
 
 ### blackberry
  
- <i>n.</i> The common term (rather than bramble) for the introduced <i>Rubus fruticosus</i> var., both the vine and the fruit since (in Britain,<i> bramble</i> is possibly applied more to the vine; <i>blackberry</i> to the fruit: see OED2 2.) Cook (Third Voyage) seems to prefer <i>bramble</i> [check]; also occas. (as was bramble) used for the native <i>R. cissoides, R. australis</i>, tataramoa, bush-lawyer (See [cf. also bramble](../A#also-bramble))
+ <i>n.</i> The common term (rather than bramble) for the introduced <i>Rubus fruticosus</i> var., both the vine and the fruit since (in Britain,<i> bramble</i> is possibly applied more to the vine; <i>blackberry</i> to the fruit: see OED2 2.) Cook (Third Voyage) seems to prefer <i>bramble</i> [check]; also occas. (as was bramble) used for the native <i>R. cissoides, R. australis</i>, tataramoa, bush-lawyer (See [cf. also bramble](bla-bri.md#bramble))
 
 >  He had bought forty acres of blackberry and gorse. <i>(Dec 2003,NZ Memories,No. 45/26</i>)
 
@@ -1842,7 +1842,7 @@
 
 
  
- <i>n.</i> (See [blanket board; blanketings](../B#blanket-board;-blanketings))
+ <i>n.</i> (See [blanket board](bla-bri.md#blanket-board); [blanketings](bla-bri.md#blanketings))
 
 >  The blanket strakes below the silver tables are about 20 feet long; they are so arranged that any part of them may be washed from time to time ... Instead of blanket, baize and coarse plush have been used with advantage. <i>(1876,TrNZI,8/179</i>) [NOTES: (Goodall Thames Gold-fields)]
 
@@ -2062,7 +2062,7 @@
 
 ### blenny
  
- <i>n.</i> used mainly as a book-name (f. <i>Blennius</i>) for a widespread family (?genus), or in NZ a variety of genera, small spiny-finned fishes recorded earliest in NZ waters(OED2 1774); often (esp. by children) popularly called cockabully; (See [also triplefin](../A#also-triplefin))
+ <i>n.</i> used mainly as a book-name (f. <i>Blennius</i>) for a widespread family (?genus), or in NZ a variety of genera, small spiny-finned fishes recorded earliest in NZ waters(OED2 1774); often (esp. by children) popularly called cockabully; (See [also triplefin](tot-tyr.md#triplefin))
 
 >  <b>GRAHAM</b> Blenny <i>Blennius maoricus</i> Kner ... Blenny <i>Ericentrus ruber</i> (Hutton) ... Blenny <i>Cologrammus flavescens </i>(Hutton) <i>(1956,NZ Fishes: An Identification Guide,411</i>) [NOTES: 1955 Whitley Namelist in 1956 Graham NZ Fishes 411]
 
@@ -3495,7 +3495,7 @@
 
 ### bloody
  
- <i>adj.</i> a colloquial intensifier, used, so EDD, by the `lower classes' `indifferently as a term of depreciation or appreciation'; frequent in NZ speech as it is elsewhere, but not so much as to be regarded as a New Zealandism (contrast <i>great Australian adjective</i>: no doubt used off the New Zealand coast from earliest English rediscovery, but not much recorded in print before WW1 (See [cf. also bloody oath; my oath](../A#also-bloody-oath;-my-oath))
+ <i>adj.</i> a colloquial intensifier, used, so EDD, by the `lower classes' `indifferently as a term of depreciation or appreciation'; frequent in NZ speech as it is elsewhere, but not so much as to be regarded as a New Zealandism (contrast <i>great Australian adjective</i>: no doubt used off the New Zealand coast from earliest English rediscovery, but not much recorded in print before WW1 (See [cf. also bloody oath](bla-bri.md#bloody-oath); [my oath](mob-mys.md#my-oath))
 
 >  <b>FULLARTON</b> Miss Bloody Haigat. <i>(1944,Troop Target,26</i>)
 
@@ -3666,7 +3666,7 @@
 
 
  
- <i>v.</i> of a fly, to deposit eggs on (food, blankets, clothing, etc.), (See [also fly-blown](../A#also-fly-blown))
+ <i>v.</i> of a fly, to deposit eggs on (food, blankets, clothing, etc.), (See [also fly-blown](fin-fly.md#fly-blown))
 
 >  <b>BUTLER</b> Red blankets are usual; white show fly-blows. The blue-bottle flies blow among blankets that are left lying untidily about ... Fly-blown blankets are all very well, provided they have been quite dry ever since they were blown; <i>(Mar 24, 1860,First Year in Canterbury Settlement,iv/52</i>)
 
@@ -4596,7 +4596,7 @@
 
 ### blue bottom
  
- <i>n.</i> (See [cf. blue bar; blue reef; bottom](../B#blue-bar;-blue-reef;-bottom))
+ <i>n.</i> (See [cf. blue bar](bla-bri.md#blue-bar); [blue reef](bla-bri.md#blue-reef); [bottom](bla-bri.md#bottom))
 
 >  The clays and sandstones are called the `Blue Bottom' ... [<i>Ibid. </i>86] The Blue Bottom is so called because it forms the basement formation of the extensive unconsolidated later Tertiary and more recent deposits of the coastal plain, and consists chiefly of blue clay. <i>(1906,NZ Geol. Survey Bulletin,No.1 (NS) 20</i>) [NOTES: (Bell and Fraser, Hokitika)]
 
@@ -5026,7 +5026,7 @@
 
 ### Blue Magic
  
- <i>n.</i> (See [also Blue Stuff](../A#also-blue-stuff))
+ <i>n.</i> (See [also Blue Stuff](bla-bri.md#blue-stuff))
 
 >  [His lawyer] opened proceedings by dispelling media speculations his client had used blue magic. <i>(Aug 20, 2004,Dominion Post  Sport & RaceForm,15</i>)
 
@@ -5388,7 +5388,7 @@
 
 ### Blue Stuff
  
- <i>n.</i> a drug reputedly used in harness racing (See [also Blue Magic](../A#also-blue-magic))
+ <i>n.</i> a drug reputedly used in harness racing (See [also Blue Magic](bla-bri.md#blue-magic))
 
 >  A sample of Blue Stufff analysed at harness racing's drug laboratory in Auckland had been found to contain a broncho-dilator not previously detected here.... Rennell said HRNZ was already conducting its own probe into Blue Stuff, when it became apparent their investigations were crossing the paths of local police. <i>(May 9, 2004,Sunday Star Times,B16</i>)
 
@@ -5601,7 +5601,7 @@
 
 
  
-<b>2</b> <i>n.</i> (Environment) The two spp. also attract the occas. names <i>C. wilsoni</i>, blue (-wattled), North Island crow; <i>C. cinerea, </i>orange-wattled, South Island, (occas. early) yellow-wattled crow. (See [see also kokako](../S#see-also-kokako))
+<b>2</b> <i>n.</i> (Environment) The two spp. also attract the occas. names <i>C. wilsoni</i>, blue (-wattled), North Island crow; <i>C. cinerea, </i>orange-wattled, South Island, (occas. early) yellow-wattled crow. (See [see also kokako](kiw-kwi.md#kokako))
 
 >  <b>HUTTON</b> 42. GLAUCOPIS WILSONI. Bp. Blue-wattled Crow. Kokako. <i>(1871,Birds of New Zealand,16</i>)
 
@@ -6082,7 +6082,7 @@
 
 
  
- <i>n.</i> a notice of summons (to court: orig. printed on blue (laid) paper) (See [cf. blue; blue paper](../B#blue;-blue-paper))
+ <i>n.</i> a notice of summons (to court: orig. printed on blue (laid) paper) (See [cf. blue](bla-bri.md#blue); [blue paper](bla-bri.md#blue-paper))
 
 >  The hundreds of "blueys" which summoned guests to the Law Ball. resulted in.. a nice variety of 'finely-worded replies. <i>(Dec 13, 1947,Sports Post,9</i>)
 
@@ -7699,7 +7699,7 @@
 
 ### bogek
  
- <i>n.</i> (See [pokeka (raincloak)](../P#pokeka-(raincloak)))
+ <i>n.</i> (See [pokeka (raincloak)](per-pop.md#pokeka)))
 
 ### boggi
  
@@ -7841,7 +7841,7 @@
 
 ### boil the billy
  
- <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](b-bla.md#billy),[boil n](../B#boil-n),[brew up](bla-bri.md#brew-up))
+ <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](b-bla.md#billy),[boil n](bla-bri.md#boil),[brew up](bla-bri.md#brew-up))
 
 >  <b>SIMPSON</b> No break for a smoke, no boil the billy, only your cold tea to drink at mid-day. <i>(1974,Sugarbag Years,90</i>)
 
@@ -8213,7 +8213,7 @@
 
 ### bok choy
  
- <i>n.</i> [in ODE as US spelling of PAK CHOI] (See [also Chinese cabbage](../A#also-chinese-cabbage))
+ <i>n.</i> [in ODE as US spelling of PAK CHOI] (See [also Chinese cabbage](chi-con.md#chinese-cabbage))
 
 >  Bok Choy:... Karanda says the leafy vegetable which tastes a little like cauliflower, is used a lot in everyday meals in China and has found a widespread popularity among Europeans. <i>(Feb 6, 2002,Capital Times,17</i>)
 
@@ -8536,7 +8536,7 @@
 
 ### bomb-squasher
  
- <i>n.</i> [cf DARE bombsies a dropping shot in marbles] (See [also bum-squasher](../A#also-bum-squasher))
+ <i>n.</i> [cf DARE bombsies a dropping shot in marbles] (See [also bum-squasher](bri-byo.md#bum-squasher))
 
 >  Culled dairy cows and culled beef animals are sent directly to the works as `boners' - that is, the bones are removed from the carcasses and the meat is used for manufactured products (as distinct from meat that is used for prime cuts). Farmers are paid schedule rates on the killing weights. <i>(1974,NZ Agriculture,188</i>)
 
@@ -8891,7 +8891,7 @@
 
 ### boney heart
  
- <i>n.</i> (See [cf. bone n](../B#bone-n))
+ <i>n.</i> (See [cf. bone n](bla-bri.md#bone))
 
 >  BONEY HEART Hard resin-impregnated heartwood in rimu or miro. <i>(1952,NZ Forest Glossary</i>)
 
@@ -8904,7 +8904,7 @@
 
 
  
- <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](../A#also-boong),[boonga](bla-bri.md#boonga))
+ <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](bla-bri.md#boong),[boonga](bla-bri.md#boonga))
 
 >  <b>LELAND</b> <i>bong</i>: A term borrowed from Australia where it is used to refer to aborigines; in New Zealand, it is a derogatory reference to Maoris and occasionally Pacific Islanders. This is a fighting word; use it only if your neck is red and you enjoy a punch up. <i>(1980,Personal Kiwi-Yankee Dictionary, A,16</i>)
 
@@ -8935,7 +8935,7 @@
 
 ### bonga
  
- <i>n.</i> a Maori or other Polynesian (See [also bong](../A#also-bong))
+ <i>n.</i> a Maori or other Polynesian (See [also bong](bla-bri.md#bong))
 
 >  Other [White Club] members feel perfectly free to talk to me about `bongas', `a touch of the tar brush', `the jungle coming out in him' and `bloody Maoris'. <i>(Apr 3, 1998,Dominion Sunday Times,8</i>)
 
@@ -8967,7 +8967,7 @@
 
 ### bonita
  
- <i>n.</i> bluenose (also blue bream, bream, Griffins silverfish, stone eye). (See [contrast bonito](../C#contrast-bonito))
+ <i>n.</i> bluenose (also blue bream, bream, Griffins silverfish, stone eye). (See [contrast bonito](bla-bri.md#bonito))
 
 >  <b>SORENSON</b> <i>BONITA</i> - Two fish species are taken in small quantities, Ray's Bream (<i>Brama raii</i>) and, chiefly in Cook Strait, <i>Hyperoglyphe porosa</i>. Both are commonly called Bonita or Bream and usually marketed as Groper. The common name Bonita is not to be confused with Bonito which is Skipjack Tuna, (<i>Katsuwonus pelamis</i>). <i>(1970,Nomenclature of NZ Fish,12</i>)
 
@@ -9570,13 +9570,13 @@
 
 ### boong
  
- <i>n.</i> an offensive term for a coloured person. (See [also bong](../A#also-bong))
+ <i>n.</i> an offensive term for a coloured person. (See [also bong](bla-bri.md#bong))
 
 >  Our old people did not like this mingling of blood and warned against fraternising with "those North Island Maori", those "head-hunters", those "Boongs". <i>(Oct 1998,Mana,No. 24: 58</i>)
 
 ### boonga
  
- <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](../A#also-bong),[boong](bla-bri.md#boong))
+ <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](bla-bri.md#bong),[boong](bla-bri.md#boong))
 
 >  Chinaman, boonga, slanty-eyed, fob (fresh off the boat), Sambo ... the multicultural interviewees had heard it all. <i>(Nov 23, 2002,Listener (New Zealand Listener),78</i>)
 
@@ -9916,7 +9916,7 @@
 
 ### borax/borak
  
- <i>n.</i> banter, ridicule [(The 1905 cit. has spg <i>borah,</i> which is taken as a typographical error for<i> borak</i>, which itself is less common in NZ than the folk re-formation borax)] (See [also poke the borax](../A#also-poke-the-borax))
+ <i>n.</i> banter, ridicule [(The 1905 cit. has spg <i>borah,</i> which is taken as a typographical error for<i> borak</i>, which itself is less common in NZ than the folk re-formation borax)] (See [also poke the borax](per-pop.md#poke-the-borax))
 
 >  They've been taking it out on borax since. <i>(Aug 27, 1910,NZ Free Lance,13</i>)
 
@@ -10392,7 +10392,7 @@
 
 ### bosker
  
- <i>adj.</i> bonzer, beaut [Obsolesc. by ?late 1930s; by then confined to mainly to the usage of old people and some children: frequent early use in <i>Truth</i>, and var. spg, suggest a newly-fashionable adoption; an old word for enjoyable or excellent: `Gore must be considered a bosker place to live the good, social life in'; (anything) excellent or enjoyable of its kind; 1953 14 M A19 Thames DHS 4 BOSKER (BOSCER) -->1960 16C F B4 Wanganui Girls C. 4 BOSKER] (See [also boshter](../A#also-boshter))
+ <i>adj.</i> bonzer, beaut [Obsolesc. by ?late 1930s; by then confined to mainly to the usage of old people and some children: frequent early use in <i>Truth</i>, and var. spg, suggest a newly-fashionable adoption; an old word for enjoyable or excellent: `Gore must be considered a bosker place to live the good, social life in'; (anything) excellent or enjoyable of its kind; 1953 14 M A19 Thames DHS 4 BOSKER (BOSCER) -->1960 16C F B4 Wanganui Girls C. 4 BOSKER] (See [also boshter](bla-bri.md#boshter))
 
 >  <b>Alister Robison</b> During the week I also had letters from Nana & Aunt Maud & also a bosker cake from the latter. <i>(Aug 20, 1916,Letter</i>) [NOTES: http://www.nzine.co.nz/features/warletters_8]
 
@@ -11312,7 +11312,7 @@
 
 ### boulder bash
  
- <i>v.</i> to slog along over boulders (on stream beds) (See [cf. boulder hop; bash v](../B#boulder-hop;-bash-v))
+ <i>v.</i> to slog along over boulders (on stream beds) (See [cf. boulder hop](bla-bri.md#boulder-hop); [bash v](b-bla.md#bash))
 
 >  We boulder bashed out to Klondyke Corner. ... Canterbury Mountain Club Hut was reached after a short bush bash. <i>(1978,Manawatu Tramping Club Jubilee,90</i>)
 
@@ -11473,7 +11473,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a dog housed near a boundary prior to fencing, or chained to a gateway in a boundary fence to prevent stock wandering, prior to roads being fenced. (See [dog shepherd; fence dog](../D#dog-shepherd;-fence-dog))
+<b>1</b> <i>n.</i> (Rural) a dog housed near a boundary prior to fencing, or chained to a gateway in a boundary fence to prevent stock wandering, prior to roads being fenced. (See [dog shepherd](dig-dou.md#dog-shepherd); [fence dog](f69-fin.md#fence-dog))
 
 >  <b>KENNEDY</b> The first [dog] seen was a boundary-dog, chained to a break in a fence, to prevent sheep from straying from one run to another. <i>(1876,Colonial Travel,196</i>)
 
@@ -11550,7 +11550,7 @@
 
 ### boundary keeper
  
- <i>n.</i> an old word for a shepherd who patrolled sheep-run boundaries doing the work of a boundary dog; see cit 1933 (See [boundary n](../B#boundary-n))
+ <i>n.</i> an old word for a shepherd who patrolled sheep-run boundaries doing the work of a boundary dog; see cit 1933 (See [boundary n](bla-bri.md#boundary))
 
 >  <b>BRERETON</b> His next effort to raise money entailed a three-days' walk to the Wairau where he had four months' work as `Boundary Keeper' to a runholder. <i>(1947,No Roll of Drums,21</i>)
 
@@ -12130,7 +12130,7 @@
 
 
  
- <i>n.</i> (See [box v](../B#box-v))
+ <i>n.</i> (See [box v](bla-bri.md#box))
 
 >  When two mobs of sheep get mixed accidentally it is called a box. (1) When you put two mobs of sheep together on purpose, you box them. (2) When they join by accident they are said to <i>get boxed</i>. In fact, the active voice of the verb signifies intention; the passive, accident. ([1898 Morris Austral-English]) <i>(Sep 16, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 
@@ -12196,7 +12196,7 @@
 
 
  
- <i>v.</i> to mix mobs of sheep accidentally; usu. in quasi-aj or quasi-av constr. be, get boxed (See [box n](../B#box-n))
+ <i>v.</i> to mix mobs of sheep accidentally; usu. in quasi-aj or quasi-av constr. be, get boxed (See [box n](bla-bri.md#box))
 
 >  <b>BEATTIE</b> At first the diary describes this as `got mixed', but in 1864 I noted the use of the colonial term `boxed.' In 1868, however, I noted a reversion to `got mixed.' <i>(1947,Early Runholding in Otago,84</i>) [NOTES: >?orig. SI station usage: the Puketoi diarist uses at first <i>join</i> as in 1859 July 24 Puketoi Station Diary [Hocken TS] Hume over, said that Wedder & ewe flocks had joined. but later uses join for the deliberate mixing of animals; e.g. putting rams with the ewes. cf Beattie's comment: 1864 Puketoi Diary in 1947 Beattie Early Runholding 84]
 
@@ -12494,7 +12494,7 @@
 
 
  
- <i>n.</i> (Rural) boxing (See [box v](../B#box-v))
+ <i>n.</i> (Rural) boxing (See [box v](bla-bri.md#box))
 
 >  <b>RICHARDS</b> Many a `box up' occurred while the drovers were arguing who had the `right of way' [for their mobs]. <i>(1986,Off the Sheep's Back,53</i>)
 
@@ -12593,7 +12593,7 @@
 
 ### boxing
  
- <i>n.</i> the inadvertent or purposeful mixing of drafts of farm animals (See [box v](../B#box-v))
+ <i>n.</i> the inadvertent or purposeful mixing of drafts of farm animals (See [box v](bla-bri.md#box))
 
 >  <b>BARKER</b> [Shepherd speaks] He couldn't cross [his mob] over a river ... and never a week passes without his getting boxed. That's mixed-up ma'am. We calls it boxing when your sheep go and join another mob feeding close by, and you can't tell one from another except by the brand or the earmark. <i>(1872,Xmas Cake in Four Quarters, A,Chapter iii</i>)
 
@@ -12665,7 +12665,7 @@
 
 
  
- <i>n.</i> maire (See [contrast box n](../C#contrast-box-n))
+ <i>n.</i> maire (See [contrast box n](bla-bri.md#box))
 
 >  <b>MORRIS</b> <i>Box-wood </i>... a New Zealand wood, <i>Olea lanceolata</i>, Hook., <i>N.O. Jasmineae</i> (Maori name, <i>Maire</i>. Used by the `Wellington Independent' (April 19, 1845) for woodcuts, and recommended as superior to box-wood for the purpose. See also <i>box. </i> <i>(1898,Austral English,51</i>)
 
@@ -13199,7 +13199,7 @@
 
 ### branding
  
- <i>n.</i> [1984 17 F E48 Pakuranga Coll. 21 BRANDING [a game out of school]] (See [also brandy](../A#also-brandy))
+ <i>n.</i> [1984 17 F E48 Pakuranga Coll. 21 BRANDING [a game out of school]] (See [also brandy](bla-bri.md#brandy))
 
 >  <b>SUTTON-SMITH</b> There are games recorded in this period for which there is no record before 1900 though they may well have existed under other names. <i>West Coast:</i> Dunk and Davey, Spang Weazling; <i>Wellington:</i> Who Goes Round My Stone Wall, Beg o' My Neighbor, Bellahonie, Run a Mile, On and Off the Bridge, Here Come Two Nuns, Colours, Isaac and Rebecca. Scrag, Diabolo, Bumble Puppy, Homai, Fives; <i>Auckland:</i> My Fair Young Lady, Rushes and Reeds, Surrender the Tower, Walls, Ball Hopscotch, ball games, Solomon Says; <i>Hawkes Bay</i>: Wolf Wolf Go Home, Homai; <i>Canterbury</i>: Poor Old Tom, Rats and Rabbits and Rips, Steps, Skin the Snake, Steal a Peg, Toodle-em-Buck, The Gag;<i> Golden Bay</i>: Who's That Walking Round My House Tonight, I've Come to See Poor Mary Jane, Steps and Stairs, Creeping, Branding, O'Leary; <i>Otago:</i> Sir Roger de Coverley, Who's That Knocking at My Door. <i>(1981,History of Children's Play,231</i>)
 
@@ -13530,7 +13530,7 @@
 
 ### break feeding
  
- <i>n.</i> the rationing of feed to stock by a temporary fence (usually electric), moved at frequent intervals (See [cf. break n](../B#break-n))
+ <i>n.</i> the rationing of feed to stock by a temporary fence (usually electric), moved at frequent intervals (See [cf. break n](bla-bri.md#break))
 
 >  Break feeding: Feed is rationed by use of a temporary fence (usually electric) moved at frequent intervals. <i>(1982,MAF Agricultural Glossary,15</i>)
 

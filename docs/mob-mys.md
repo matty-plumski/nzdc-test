@@ -2,7 +2,7 @@
 
 ### Mob
  
- <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
+ <i>n.</i> the Mongrel Mob gang (See [cf mobster](mob-mys.md#mobster))
 
 >  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
 
@@ -218,7 +218,7 @@
 
 ### mob grazing
  
- <i>n.</i> (Rural) mob stocking to stimulate growth or to eradicate fern and weeds. (See [hoof and tooth treatment; mob stocking](../H#hoof-and-tooth-treatment;-mob-stocking))
+ <i>n.</i> (Rural) mob stocking to stimulate growth or to eradicate fern and weeds. (See [hoof and tooth treatment](hom-hyp.md#hoof-and-tooth-treatment); [mob stocking](mob-mys.md#mob-stocking))
 
 >  <b>LEVY</b> Both hard fern and pirpiri decline and disappear if the pasture is stimulated by topdressing and by the adoption of an off-and-on mob grazing system. <i>(1951,Grasslands of NZ,303</i>)
 
@@ -620,7 +620,7 @@
 
 ### mogge
  
- <i>n.</i> (See [moki; mokihi](../M#moki;-mokihi))
+ <i>n.</i> (See [moki](mob-mys.md#moki); [mokihi](mob-mys.md#mokihi))
 
 ### moggy
  
@@ -641,7 +641,7 @@
 
 ### moguey
  
- <i>n.</i> (See [moki; mokihi](../M#moki;-mokihi))
+ <i>n.</i> (See [moki](mob-mys.md#moki); [mokihi](mob-mys.md#mokihi))
 
 ### Mohakatino
  
@@ -721,7 +721,7 @@
 
 ### moho-pereru
  
- <i>n.</i> banded rail (See [also moho](../A#also-moho))
+ <i>n.</i> banded rail (See [also moho](mob-mys.md#moho))
 
 >  <b>BULLER</b> RALLUS PHILIPPENSIS. (STRIPED RAIL.) ... <i>Native names</i>. Patatai, Popotai, Mohotatai, Moho-patatai, Moho-pereru <i>(1873,Birds of New Zealand,171</i>)
 
@@ -889,7 +889,7 @@
 
 ### moki
  
- <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See [also painted moki](../A#also-painted-moki),[moki shark](../M#moki-shark),[moki trumpeter](mob-mys.md#moki-trumpeter))
+ <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See [also painted moki](p-per.md#painted-moki),[moki shark](../M#moki-shark),[moki trumpeter](mob-mys.md#moki-trumpeter))
 
 >  <b>KOHERE</b> The opening of the moki season always roused great interest and was attended with some ritual. <i>(1951,Autobiography of a Maori,29</i>)
 
@@ -1220,7 +1220,7 @@
 
 
  
- <i>n.</i> tattooing on the face or body [cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71] (See [cf tattoo v](../C#cf-tattoo-v),[tatooed is used by Earle NZ 1832 (1966) p71](../T#tatooed-is-used-by-earle-nz-1832-(1966)-p71))
+ <i>n.</i> tattooing on the face or body [cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71] (See [cf tattoo v](t-ten.md#tattoo),[tatooed is used by Earle NZ 1832 (1966) p71](../T#tatooed-is-used-by-earle-nz-1832-(1966)-p71))
 
 >  <b>BAKER</b> Sean watched the group take in his moko and his dog's head tee short. <i>(2000,Kokopu Dreams,87</i>)
 
@@ -3201,7 +3201,7 @@
 
 ### moth mullein
  
- <i>n.</i> (See [also mullein](../A#also-mullein))
+ <i>n.</i> (See [also mullein](mob-mys.md#mullein))
 
 >  <b>HILGENDORF</b> MOTH MULLEIN (<i>Verbascum [virgatum]</i>), also called golden rod, is [not] Cheeseman says `not uncommon in pastures and waste places in both islands'. It is biennial, slender, up to 4 ft. in height, ... <i>(1926,Weeds of New Zealand,157,1967, p. 157 ed.</i>)
 
@@ -4436,7 +4436,7 @@
 
 ### mountain totara
  
- <i>n.</i> (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i> (See [also alpine totara](../A#also-alpine-totara))
+ <i>n.</i> (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i> (See [also alpine totara](all-ari.md#alpine-totara))
 
 >  <i>Podocarpus nivalis</i> mountain totara <i>(1872,Catalogue of the Colonial and Vienna Exhibition</i>) [NOTES: (And)]
 
@@ -5709,7 +5709,7 @@
 
 ### mullet
  
- <i>n.</i> a fish (See [also muddy fish](../A#also-muddy-fish),[settler](sa-sho.md#settler))
+ <i>n.</i> a fish (See [also muddy fish](mob-mys.md#muddy-fish),[settler](sa-sho.md#settler))
 
 >  This variety of mullet [which feeds in the ocean and shoals along the coast] is known to the fishermen and the [Northland] settlers as the `clean-gut', `clean-run', or `sea-mullet'. ... The other variety [which stays in the harbour] is known to the fishermen as the `settler' or muddy fish'. When opened they are not clean and bright ... but full of slimy mud ... <i>(1897,AJHR,H-17/2</i>) [NOTES: (Hector Protection of Mullet)]
 
@@ -6665,7 +6665,7 @@
 
 
  
- <i>n.</i> (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show] [(The word seems to have been introduced to Canterbury) Acland (1933) notes the following musters on high-country stations. -->So far as I know the usual ones are (beginning in the spring): <i>the cutting and tailing muster; shearing</i> muster; <i>straggle</i> muster (in the old days the shorn sheep were always turned not before the country .us;was straggled, <i>so that they would lead the woolies in); dipping or wearing </i>m.; <i>straggle </i>again; then <i>scratch</i> m. or <i>`lock-over' </i>to get the last of the sheep off the summer country before winter. This last is an undress sort of muster, the men catching what stragglers they can in the basins. There are always other partical musters of the flock; e.g., ewes to ram, or eye-slipping of hoggets.] (See [also tailing muster](../A#also-tailing-muster))
+ <i>n.</i> (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show] [(The word seems to have been introduced to Canterbury) Acland (1933) notes the following musters on high-country stations. -->So far as I know the usual ones are (beginning in the spring): <i>the cutting and tailing muster; shearing</i> muster; <i>straggle</i> muster (in the old days the shorn sheep were always turned not before the country .us;was straggled, <i>so that they would lead the woolies in); dipping or wearing </i>m.; <i>straggle </i>again; then <i>scratch</i> m. or <i>`lock-over' </i>to get the last of the sheep off the summer country before winter. This last is an undress sort of muster, the men catching what stragglers they can in the basins. There are always other partical musters of the flock; e.g., ewes to ram, or eye-slipping of hoggets.] (See [also tailing muster](t-ten.md#tailing-muster))
 
 >  It knocks the sheep about too much to do other than have one principal muster for docking. <i>(Oct 16, 1912,Otago Witness,16</i>)
 
@@ -7170,7 +7170,7 @@
 
 ### mustering gang
  
-<b>1</b> <i>n.</i> (Rural) a team of musterers. (See [hill gang; mountain gang](../H#hill-gang;-mountain-gang))
+<b>1</b> <i>n.</i> (Rural) a team of musterers. (See [hill gang](hea-hom.md#hill-gang); [mountain gang](mob-mys.md#mountain-gang))
 
 >  <b>NEWTON</b> On the average station, the mustering gang consists of the 'Boss,' a head shepherd - a permanent station employee - and four to six musterers. There is also a packman who packs, on horses, the men's bed rolls and rations, and who does the cooking. <i>(1947,Wayleggo,13</i>)
 
@@ -7184,7 +7184,7 @@
 
 ### mustering hut
  
- <i>n.</i> [cf. shepherd's hut] (See [also musterers' hut](../A#also-musterers'-hut))
+ <i>n.</i> [cf. shepherd's hut] (See [also musterers' hut](mob-mys.md#musterers-hut))
 
 >  <i>Mustering Hut.</i>- More often simply <i>hut.</i> Built out on a run for men to camp in, it is usually of one room with a fire-place, table, bench, and bunks round the sides.(C.) <i>(Nov 4, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 
@@ -7243,7 +7243,7 @@
 
 
  
- <i>n.</i> (See [also musterer's stick](../A#also-musterer's-stick))
+ <i>n.</i> (See [also musterer's stick](mob-mys.md#musterers-stick))
 
 >  <b>McLEOD</b> ... with his long mustering stick in his hand, he has a walking beat. ... Mustering sticks are usually nearly shoulder high and must be strong and tough and not too heavy. They are hard to get in some districts and a good one is carefully kept. Manuka is the commonest wood, but Miki-miki and Hazel are sometimes used. <i>(1951,High Country,24</i>)
 
@@ -7462,7 +7462,7 @@
 
 ### mutton-boil
  
- <i>n.</i> a boil or sore attributed to handling raw mutton [ca 1949 Havelock ca 1951 Foxton Freezing Works] (See [cf mutton staggers](../C#cf-mutton-staggers))
+ <i>n.</i> a boil or sore attributed to handling raw mutton [ca 1949 Havelock ca 1951 Foxton Freezing Works] (See [cf mutton staggers](mob-mys.md#mutton-staggers))
 
 ### mutton-flapper
  
@@ -7637,7 +7637,7 @@
 
 ### muttonbird island
  
- <i>n.</i> (See [also Titi Islands](../A#also-titi-islands))
+ <i>n.</i> (See [also Titi Islands](ten-tot.md#titi-islands))
 
 >  The first big drafts of mutton-birds from the Mutton-bird Islands have reached the market. <i>(May 4, 1939,Taranaki Herald,6</i>)
 
@@ -7736,7 +7736,7 @@
 
 ### muttonbird tree
  
- <i>n.</i> (See [also mutton tree](../A#also-mutton-tree))
+ <i>n.</i> (See [also mutton tree](mob-mys.md#mutton-tree))
 
 >  The bush is mainly Olearia Colensoi.. This tree is known as the mutton bird tree; and we found the reason for the whole of the ground on the island is honeycombed with mutton bird holes <i>(Jan 30, 1890,Otago Witness,15</i>)
 
@@ -7917,7 +7917,7 @@
 
 ### muttonwood
  
- <i>n.</i> <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood (See [also leatherwood](../A#also-leatherwood))
+ <i>n.</i> <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood (See [also leatherwood](lay-liv.md#leatherwood))
 
 >  <b>KIRK</b> <i>Olearia Colensoi</i> mutton-wood <i>(1889,Forest Flora</i>) [NOTES: (And)]
 
@@ -8001,7 +8001,7 @@
 
 ### my oath
  
- <i>exclam.</i> (informal) certainly! an exclamation of assent or enthusiasm (See [also my colonial oath ; bloody oath](../A#also-my-colonial-oath-;-bloody-oath))
+ <i>exclam.</i> (informal) certainly! an exclamation of assent or enthusiasm (See [also my colonial oath](mob-mys.md#my-colonial-oath); [bloody oath](bla-bri.md#bloody-oath))
 
 >  `Do you like going to church?' asked a visitor of a Methodist minister's son. `My oath!' said the lad. `It's a real boshter to hear Dad talking for a solid hour and a half, and Ma never allowed to say a word!' <i>(Sep 8, 1906,NZ Truth,64/1/3</i>)
 

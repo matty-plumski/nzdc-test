@@ -94,7 +94,7 @@
 
 ### foamer
  
- <i>n.</i> a trainspotter (See [also foamist](../A#also-foamist))
+ <i>n.</i> a trainspotter (See [also foamist](fly-fuz.md#foamist))
 
 >  Enthusiasts are also aware that the locomotive drivers call them Foamers - because they are often seen alongside the track foaming at the mouth. <i>(Apr 10, 2005,Sunday Star Times,3 Escape</i>)
 
@@ -1053,7 +1053,7 @@
 
 ### foreigner
  
-<b>1</b> <i>n.</i> (Rural) a sheep belonging to a neighbouring farmer that has strayed on to a farm. (See [stranger; stray](../S#stranger;-stray))
+<b>1</b> <i>n.</i> (Rural) a sheep belonging to a neighbouring farmer that has strayed on to a farm. (See [stranger](spa-sys.md#stranger); [stray](spa-sys.md#stray))
 
 >  <b>LOUGHNAN</b> Foreigner: another man's sheep brought in with the muster. <i>(1981,Loughnan Glossary,32</i>)
 
@@ -2444,7 +2444,7 @@
 
 ### free selector
  
- <i>n.</i> (See [also selector](../A#also-selector))
+ <i>n.</i> (See [also selector](sa-sho.md#selector))
 
 >  <b>LADY BARKER</b> [Aust] Hence it often happened that large runs in the most favourable situations were often cut up by small investors, `free selectors' as they are called in Australia. <i>(1873,Station Amusements in NZ,90</i>)
 
@@ -4522,7 +4522,7 @@
 
 ### fuchsia-barked totara
  
- <i>n.</i> <i>Podocarpus Hallii </i> (See [also totara-kiri-kotukutuku](../A#also-totara-kiri-kotukutuku))
+ <i>n.</i> <i>Podocarpus Hallii </i> (See [also totara-kiri-kotukutuku](ten-tot.md#totara-kiri-kotukutuku))
 
 >  <b>MATTHEWS</b> <i>(1905,Tree Culture in NZ</i>) [NOTES: (And)]
 
@@ -4647,7 +4647,7 @@
 
 ### full as a goog
  
- <i>phr.</i> see full as a boot (See [see also goog](../S#see-also-goog))
+ <i>phr.</i> see full as a boot (See [see also goog](go-gra.md#goog))
 
 ### full as a lord
  

@@ -424,7 +424,7 @@
 
 ### ladies a plate
  
- <i>phr.</i> request for women to bring a plate of food, to a party etc. [[AND 1961: OED(S b 18h.] to provide food as (part of) an admission fee to a function.] (See [plate (bring a plate)](../P#plate-(bring-a-plate)))
+ <i>phr.</i> request for women to bring a plate of food, to a party etc. [[AND 1961: OED(S b 18h.] to provide food as (part of) an admission fee to a function.] (See [plate (bring a plate)](per-pop.md#plate)))
 
 >  Others react to the ladies-a-plate politics. <i>(Oct 2, 1993,Listener (New Zealand Listener),24</i>)
 
@@ -1041,7 +1041,7 @@
 
 
  
- <i>n.</i> [AND 1882 (?earmarking); 1948 (tailing and castrating).] (See [marking n](../M#marking-n))
+ <i>n.</i> [AND 1882 (?earmarking); 1948 (tailing and castrating).] (See [marking n](mar-moa.md#marking))
 
 >  <b>AYSON</b> Mr. Shaw took on what was called thirds at lamb marking time, and put his own earmark on every third lamb [of Brugh's flock running with his]. <i>(1937,Pioneering in Otago,94</i>)
 
@@ -1271,7 +1271,7 @@
 
 ### lamington
  
- <i>n.</i> a sponge square covered with chocolate icing and coconut; later occas. with jelly and coconut; possibly earlier used of the sponge itself [prob. f. Baron Lamington, Governor of Queensland (1895-1901); also (misspelt) le(m)minton, leamington] (See [also lamington cake](../A#also-lamington-cake))
+ <i>n.</i> a sponge square covered with chocolate icing and coconut; later occas. with jelly and coconut; possibly earlier used of the sponge itself [prob. f. Baron Lamington, Governor of Queensland (1895-1901); also (misspelt) le(m)minton, leamington] (See [also lamington cake](l-lay.md#lamington-cake))
 
 >  What he really wanted was thirty dozen leamingtons. <i>(Jul 12, 1943,NZEF Times,III/107 : 5</i>)
 
@@ -1397,7 +1397,7 @@
 
 ### lamprey
  
- <i>n.</i> (See [also blind eel](../A#also-blind-eel))
+ <i>n.</i> (See [also blind eel](bla-bri.md#blind-eel))
 
 >  <b>McDOWALL</b> The lamprey (<i>Geotria australis</i>) is eel-like at first glance but closer examination soon reveals that it has no jaws, no paired fins, no bones, and no gill covers (but seven small external gill apertures)... Adult lampreys migrate into freshwater during spring, mostly at night. <i>(1984,NZ Whitebait Book, The,24</i>)
 
@@ -2394,7 +2394,7 @@
 
 ### land-leaguer
  
- <i>n.</i> [1855 see cit. LAND-LEAGUE] (See [also leaguer](../A#also-leaguer))
+ <i>n.</i> [1855 see cit. LAND-LEAGUE] (See [also leaguer](lay-liv.md#leaguer))
 
 >  His court of appeal was at first the Land League, after 1860 the King - ... the active interference of the Land-leaguers with the Taranaki land question ... <i>(Mar 27, 1899,Richmond-Atkinson Papers,2/615,1960 ed.</i>) [NOTES: A.S.Atkinson]
 
@@ -2852,7 +2852,7 @@
 
 ### large/big/great kiwi
  
- <i>n.</i> (Environment) (See [also BROWN](../A#also-brown),[GREY](gra-gyp.md#grey),[SPOTTED](spa-sys.md#spotted))
+ <i>n.</i> (Environment) (See [also BROWN](bri-byo.md#brown),[GREY](gra-gyp.md#grey),[SPOTTED](spa-sys.md#spotted))
 
 >  <b>HUTTON</b> 61. ? APTERYX MAXIMA. Verr. Great Kiwi. Roa-roa. <i>(1871,Birds of New Zealand,23</i>)
 
@@ -3317,7 +3317,7 @@
 
 ### late wet ewe
  
-<b>1</b> <i>n.</i> (Rural) a ewe that lambs late in the season. (See [late lamber; tailender](../L#late-lamber;-tailender))
+<b>1</b> <i>n.</i> (Rural) a ewe that lambs late in the season. (See [late lamber](l-lay.md#late-lamber); [tailender](t-ten.md#tailender))
 
 >  <b>KERR</b> 'Get the dry dries, the wet dries and the late wets' .. When Nimmo came by me, I asked him to translate. The first were fat barren ewes destined for harder territory, the second were those who lost their lambs destined for harder territory, and then he too was gone, but I figured 'late wets' were late lambers who'd want a wee spell before their lambs were docked. <i>(2000,High Times in the High Country,171</i>)
 
@@ -3604,7 +3604,7 @@
 
 ### Lawson's cypress
  
- <i>n.</i> (See [also lawsoniana](../A#also-lawsoniana))
+ <i>n.</i> (See [also lawsoniana](l-lay.md#lawsoniana))
 
 >  The most important exotic timbers being grown on a commercial scale are: ... <i>Sequoia sempervirens</i> (Californian redwood), <i>Thuya plicata </i>(western red cedar), <i>Cupressus Lawsoniana </i>(Lawson's cypress or Port Oxford cedar). <i>(1936,Agricultural Organization in NZ,578</i>)
 

@@ -688,7 +688,7 @@
 
 ### Rock College
  
-<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See [Cf budgie cage](../C#cf-budgie-cage))
+<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See [Cf budgie cage](bri-byo.md#budgie-cage))
 
 
 
@@ -791,7 +791,7 @@
 
 ### rock oyster
  
- <i>n.</i> <i>Saxostrea glomerata</i> (See [also Auckland rock oyster](../A#also-auckland-rock-oyster))
+ <i>n.</i> <i>Saxostrea glomerata</i> (See [also Auckland rock oyster](ari-axe.md#auckland-rock-oyster))
 
 >  <b>BURTON</b> The New Zealand rock oyster lives at the tide marks on rocks and wharf piles in the northern half of the North Island. ... Compared with the plump and juicy Bluff oyster, the rock oyster seems a rather withered specimen, ... <i>(1982,Two Hundred Years of NZ Food & Cookery,60</i>)
 
@@ -1625,7 +1625,7 @@
 
 ### roll the knot
  
- <i>phr.</i> [(obs. musterers')] (See [cf roll n](../C#cf-roll-n))
+ <i>phr.</i> [(obs. musterers')] (See [cf roll n](roa-ruv.md#roll))
 
 >  <b>PETER NEWTON</b> `Roll the knot means to roll one's swag - musterers on the bigger places shift camp as the muster progresses and as their `gear' consists of blankets and a change of clothes, this is rolled into a ...bundle for loading onto the packhorse whenever they shift camp. <i>(Apr 21, 1952,Letter</i>)
 
@@ -1837,7 +1837,7 @@
 
 
  
- <i>n.</i> the drug Rohypnol (See [also rolie](../A#also-rolie))
+ <i>n.</i> the drug Rohypnol (See [also rolie](roa-ruv.md#rolie))
 
 >  "We were all on rollies [Rohypnol]. It's not a very nice display; on rollies you think you're as staunch as, eh."... "Doing rollies," says the kaitiaki, " is now a head-smashable offence in the Black Power." <i>(May 14, 1990,Listener (New Zealand Listener),13</i>)
 
@@ -2110,7 +2110,7 @@
 
 ### roopu
  
- <i>n.</i> group [ORIGIN: Maori, see Ryan 224.] (See [also ropu](../A#also-ropu))
+ <i>n.</i> group [ORIGIN: Maori, see Ryan 224.] (See [also ropu](roa-ruv.md#ropu))
 
 >  In addition, many positions allocated to Maatua Whangai within this Department would disappear, and other mechanisms need to be developed to maintain the links between social workers and tribal roopu. <i>(1987,Briefing papers - see notes,124</i>) [NOTES: NZ Dept of Social Welfare. Briefing papers for Incoming Minister of Social Welfare, 1987. Wellington: Dept of Social Welfare.]
 
@@ -2450,7 +2450,7 @@
 
 ### ropey
  
- <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See [rope n](../R#rope-n))
+ <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See [rope n](roa-ruv.md#rope))
 
 >  <b>GEORGE</b> Among the other employees there was.. the 'ropey' whose job it was to fasten a heavy steel rope to the log... <i>(1990,Ohakune,95</i>)
 
@@ -2493,7 +2493,7 @@
 
 ### ropu
  
- <i>n.</i> a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See [also roopu](../A#also-roopu))
+ <i>n.</i> a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See [also roopu](roa-ruv.md#roopu))
 
 >  Harawira was the founding member of the Waiariki Maori netball ropu and was awarded the Queen's Service medal for her services to Maori. <i>(Apr 11, 2006,Whakatane Beacon,12 (back page)</i>)
 
@@ -2704,7 +2704,7 @@
 
 ### rotary
  
- <i>n.</i> (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See [also rotary shed](../A#also-rotary-shed))
+ <i>n.</i> (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See [also rotary shed](roa-ruv.md#rotary-shed))
 
 >  A rotary would probably cost from $2500 to $3000 more than a herringbone. <i>(Jul 1971,NZ Dairy Exporter,9</i>)
 
@@ -2728,7 +2728,7 @@
 
 ### rotary shed
  
- <i>n.</i> (See [also rotary](../A#also-rotary))
+ <i>n.</i> (See [also rotary](roa-ruv.md#rotary))
 
 >  A lot has been written about the various types of rotary shed. <i>(Feb 1972,NZ Dairy Exporter,2</i>)
 
@@ -3104,7 +3104,7 @@
 
 ### rough as guts
  
- <i>phr.</i> (See [cf. rough-as-guts adj](../R#rough-as-guts-adj))
+ <i>phr.</i> (See [cf. rough-as-guts adj](roa-ruv.md#rough-as-guts))
 
 >  Our Sergeant sez we are as `rough as gutz' <i>(Jul 5, 1918,NZEF Chronicles,253</i>)
 
@@ -3260,7 +3260,7 @@
 
 ### rough sheep
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See [double-fleecer; double-decker; hermit; long tailer](../D#double-fleecer;-double-decker;-hermit;-long-tailer))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See [double-fleecer](dou-dyn.md#double-fleecer); [double-decker](dou-dyn.md#double-decker); [hermit](hea-hom.md#hermit); [long tailer](liv-lyn.md#long-tailer))
 
 >  The tobacco may be put in wire cages or gunny bags, and allowed to boil ten minutes, 400 gallons at once, in malt tanks, the lids being on; but the best plan is to infuse under pressure of steam from a boiler, a pipe from which would heat the dip in the morning and regulate the temperature afterwards, which with newly shorn sheep should be 115 to 118 deg., and in rough sheep 120 to 125 deg. About 1 minutes for shorn and 2 for rough sheep should be effectual. <i>(Jan 23, 1875,Otago Witness,18</i>)
 
@@ -3371,7 +3371,7 @@
 
 ### rough-guts
  
- <i>n.</i> roughly-behaved person; ill-bred person (See [cf rough as guts](../C#cf-rough-as-guts))
+ <i>n.</i> roughly-behaved person; ill-bred person (See [cf rough as guts](roa-ruv.md#rough-as-guts))
 
 >  How dare that little rough-guts make fun of Firpo. <i>(1949,Landfall,9/50</i>) [NOTES: (B. Mason)]
 
@@ -3562,7 +3562,7 @@
 
 ### roughy/roughie
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one docking or shearing. (See [double-fleecer; double-decker; hermit; double](../D#double-fleecer;-double-decker;-hermit;-double))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one docking or shearing. (See [double-fleecer](dou-dyn.md#double-fleecer); [double-decker](dou-dyn.md#double-decker); [hermit](hea-hom.md#hermit); [double](dig-dou.md#double))
 
 >  <b>NEWTON</b> When the Brooksdale gang is out these roughies duck down the Castle Hill side and vice versa. <i>(1947,Wayleggo,94</i>)
 
@@ -3668,7 +3668,7 @@
 
 ### roundie
  
- <i>n.</i> a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See [also round](../A#also-round))
+ <i>n.</i> a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See [also round](roa-ruv.md#round))
 
 >  <b>Ihimaera & Long</b> He was smoking roundies! <i>(1982,Into the World of Light,175</i>)
 
@@ -4735,7 +4735,7 @@
 
 ### rubbity-dub
  
- <i>n.</i> a pub [ORIGIN: rhyming slang, various spellings] (See [also rubbity](../A#also-rubbity))
+ <i>n.</i> a pub [ORIGIN: rhyming slang, various spellings] (See [also rubbity](roa-ruv.md#rubbity))
 
 >  <b>SLATTER</b> `Give us a bloody beer.' ... `Turn it up, Tom. This isn't the rubblededub. This is pie-cart' <i>(1959,Gun in My Hand, A,165</i>)
 
@@ -5060,7 +5060,7 @@
 
 
  
- <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](../A#also-cattle-run),[sheep run](sa-sho.md#sheep-run))
+ <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](c-chi.md#cattle-run),[sheep run](sa-sho.md#sheep-run))
 
 >  FOR SALE, a Small Farm, part of which is heavily timbered, convenient to a shipping place, with plenty of water, and a good run for cattle. <i>(Apr 23, 1864,Otago Witness,12</i>)
 
@@ -5214,7 +5214,7 @@
 
 
  
- <i>v.</i> [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See [run n](../R#run-n))
+ <i>v.</i> [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See [run n](roa-ruv.md#run))
 
 >  (8) To keep or carry. "He runs merinos"; "The station runs 10,000 sheep." (AE.;C). <i>(Nov 18, 1933,Press, The,15</i>) [NOTES: Acland Gloss]
 
@@ -5325,7 +5325,7 @@
 
 
  
- <i>v.</i> to send a dog out (See [cf also running out](../C#cf-also-running-out))
+ <i>v.</i> to send a dog out (See [cf also running out](roa-ruv.md#running-out))
 
 >  <b>15</b> Run.- (1) To send [a dog]. (2) Work [of a young dog]. `That dog is just beginning to r.' 3. Stretch of work [shearing]. Shearers work for an hour before breakfast, two stretches in te morning and three in the afternoon. The stretches are divided by meal-times and smokos (q.v.). (C.) <i>(Nov 18, 1933,Press, The</i>) [NOTES: Acland Glossary]
 
@@ -5605,7 +5605,7 @@
 
 ### run cattle
  
- <i>n.</i> (See [also run cow](../A#also-run-cow))
+ <i>n.</i> (See [also run cow](roa-ruv.md#run-cow))
 
 >  <b>BEATTIE</b> I climbed up to see some of the cattle, and run cattle are always wild, and found there were no planks on top only the railing. <i>(1939,First White Boy Born in Otago,151</i>)
 

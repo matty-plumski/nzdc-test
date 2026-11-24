@@ -1694,7 +1694,7 @@
 
 ### general storekeeper
  
- <i>n.</i> (See [also storekeeper](../A#also-storekeeper))
+ <i>n.</i> (See [also storekeeper](spa-sys.md#storekeeper))
 
 >  In consequence of the undersigned having to compete with so many General Storekeepers which are daily presenting themselves before the public, feels it is his duty to offer to the public a choice selection of Groceries ... <i>(Apr 1983,NZ Gazette</i>) [NOTES: 1843 Apr `NZ Gazette' in 1956 Gore Levins 9]
 
@@ -2362,7 +2362,7 @@
 
 ### German owl
  
- <i>n.</i> (See [also little owl](../A#also-little-owl))
+ <i>n.</i> (See [also little owl](lay-liv.md#little-owl))
 
 >  <b>FALLA et al.</b> LITTLE OWL<i> Athene noctua Local name</i>: German Owl. ... Between 1906 and 1910 several shipments were liberated in Otago whence other districts were stocked. <i>(1966,Birds of New Zealand,185</i>)
 
@@ -2514,7 +2514,7 @@
 
 ### get fast/make fast
  
- <i>phr.</i> to make a successful harpoon strike; to harpoon [(whaling)In NZ records 1836; 1845 EJW; fasten to 1864] (See [also fasten](../A#also-fasten))
+ <i>phr.</i> to make a successful harpoon strike; to harpoon [(whaling)In NZ records 1836; 1845 EJW; fasten to 1864] (See [also fasten](f69-fin.md#fasten))
 
 >  2 mate got fast but was obliged to cut in consequence of receiving a blow from the whales flukes; lost an Iron, and about 10 fathoms of line. <i>(May 14, 1836,Piraki Log,35</i>)
 
@@ -2815,7 +2815,7 @@
 
 ### get the toot
  
- <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](../A#also-tooted),[tutued](tot-tyr.md#tutued))
+ <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](ten-tot.md#tooted),[tutued](tot-tyr.md#tutued))
 
 >  When we got back to camp we found 13 or 14 bullocks had got the `toot' - i.e. had eaten tutu and so poisoned themselves. <i>(Apr 19, 1864,Richmond-Atkinson Papers,2/107</i>) [NOTES: (A.S. Atkinson)]
 
@@ -2910,7 +2910,7 @@
 
 ### getting up
  
- <i>n.</i> the preparing of wool for sale. (See [get up v](../G#get-up-v))
+ <i>n.</i> the preparing of wool for sale. (See [get up v](g-go.md#get-up))
 
 >  <b>WELD</b> the `sorting' [3] and 'getting up' of the wools has not hitherto been sufficiently attended to. <i>(1851,Hints to Intending Sheep-Farmers in New Zealand,2</i>)
 
@@ -3439,7 +3439,7 @@
 
 ### gicks
  
- <i>n.</i> (See [dry (as dry as gicks)](../D#dry-(as-dry-as-gicks)))
+ <i>n.</i> (See [dry (as dry as gicks)](dou-dyn.md#dry)))
 
 ### gid
  
@@ -3642,7 +3642,7 @@
 
 ### ginger
  
- <i>n.</i> (See [also Kahili ginger](../A#also-kahili-ginger))
+ <i>n.</i> (See [also Kahili ginger](k-kea.md#kahili-ginger))
 
 >  "Ginger is as far south as Punakaiki but the reason for banning some things nationally is partly due to the difficulty of regulating regionally," says Ms Newfield. "In the South Island, ginger is a definite threat on the West Coast and around Nelson-Marlborough. <i>(Feb 14, 2004,Dominion Post,E10</i>)
 
@@ -3660,7 +3660,7 @@
 
 ### gink
  
- <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](../A#also-geek),[gekko](g-go.md#gekko))
+ <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](g-go.md#geek),[gekko](g-go.md#gekko))
 
 >  <b>DAVIN</b> Didn't I see you when I was having a gink at your truck? <i>(1970,Not Here, Not Now,276</i>)
 
@@ -4058,7 +4058,7 @@
 
 ### give the chat/get the chat
  
- <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](../C#chip-v))
+ <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](chi-con.md#chip))
 
 >  Skipper Roberts had better give the `chat' to play the game as it should be played. <i>(Apr 10, 1909,NZ Truth,199/3/1</i>)
 
@@ -4092,7 +4092,7 @@
 
 ### gizzo
  
- <i>n.</i> A look, a squiz (See [Cf. geek](../C#cf.-geek),[gink](g-go.md#gink),[gekko](g-go.md#gekko))
+ <i>n.</i> A look, a squiz (See [Cf. geek](g-go.md#geek),[gink](g-go.md#gink),[gekko](g-go.md#gekko))
 
 >  <b>VIRTUE</b> He'd go on up and have a good gizzo before Mum came inside. <i>(1987,Redemption of Elsdon Bird, The,6,1988 ed.</i>)
 
@@ -4396,7 +4396,7 @@
 
 ### glide time
  
- <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](../A#also-gliding-on))
+ <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](g-go.md#gliding-on))
 
 >  <b>HALL</b> ... you look as if you spent the night there. ... Isn't that carrying glide-time to excess? <i>(1977,Glide Time,14</i>)
 
@@ -5041,7 +5041,7 @@
 
 ### go butcher's hook
  
- <i>phr.</i> (informal) to go crook (at); go off (at); become angry (with); tell off. [also go butcher's ca1910 at least W.H.B. Orsman] (See [also go butcher's](../A#also-go-butcher's))
+ <i>phr.</i> (informal) to go crook (at); go off (at); become angry (with); tell off. [also go butcher's ca1910 at least W.H.B. Orsman] (See [also go butcher's](g-go.md#go-butchers))
 
 >  <b>FRAME</b> I'll come back with a salmon or I'll go butcher's hook. <i>(1951,Lagoon, The,20</i>) [NOTES: (`Keel and Kool')]
 
@@ -5185,7 +5185,7 @@
 
 ### go flatting
  
- <i>phr.</i> (of young people) to go to live in shared accommodation (See [flat v](../F#flat-v))
+ <i>phr.</i> (of young people) to go to live in shared accommodation (See [flat v](fin-fly.md#flat))
 
 >  <b>McLauchlan ed.</b> We talked about varsity... Both of us, it turned out, had decided to go flatting for our second year. <i>(2000,Morrieson's Motel,143</i>)
 

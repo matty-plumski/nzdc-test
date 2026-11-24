@@ -336,7 +336,7 @@
 
 ### China-stone
  
- <i>n.</i> (See [also Chinaman stone](../A#also-chinaman-stone))
+ <i>n.</i> (See [also Chinaman stone](chi-con.md#chinaman-stone))
 
 >  1) He says that "China-stones" which are found in the area also support this theory. ... The "China-stones" contain remains of plants, animals and people, like those found Pompei after the Vesuvius eruption, says Dr Pajak. <i>(Aug 1988,Geological Society of NZ Newsletter,81/52</i>)
 
@@ -473,7 +473,7 @@
 
 ### Chinaman's luck
  
- <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See [also Chinese luck](../A#also-chinese-luck))
+ <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See [also Chinese luck](chi-con.md#chinese-luck))
 
 >  <b>BARR</b> Chinaman's luck, thought our hero, as `John' entered ... <i>(1908,British Rugby Team in Maoriland,111</i>)
 
@@ -734,7 +734,7 @@
 
 
  
- <i>n.</i> spec. in shearing, a reprimand or warning about faulty workmanship (See [chip v](../C#chip-v))
+ <i>n.</i> spec. in shearing, a reprimand or warning about faulty workmanship (See [chip v](chi-con.md#chip))
 
 >  During shearing at one station in the early days, the boss came along and gave him a chip for shearing roughly, and asked him how it was that he shore all right in the morning but got rough after dinner. `... Professional shearers ... shear to the chip and if they don't get a chip then shearings fall off ...' <i>(Oct 15, 1910,Maoriland Worker,2/4/3</i>)
 
@@ -1324,7 +1324,7 @@
 
 
  
- <i>n.</i> a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See [also chookie](../A#also-chookie))
+ <i>n.</i> a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See [also chookie](chi-con.md#chookie))
 
 >  Eyes bulging from their heads, the bargain-hunters were feverishly going through stacks of books like chooks turning over straw in search of the grains of wheat they are sure are in there somewhere. <i>(Aug 15, 1999,Sunday Star Times,C4</i>)
 
@@ -1398,7 +1398,7 @@
 
 ### chook raffle
  
- <i>n.</i> (See [also chook lotto](../A#also-chook-lotto))
+ <i>n.</i> (See [also chook lotto](chi-con.md#chook-lotto))
 
 >  Now, she should know how to spin the wheel for the chook raffle. <i>(Feb 22, 2003,Dominion Post,A14</i>)
 
@@ -2150,13 +2150,13 @@
 
 ### chukky
  
- <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](../A#also-chucks),[chuckstones](chi-con.md#chuckstones))
+ <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](chi-con.md#chucks),[chuckstones](chi-con.md#chuckstones))
 
 >  West Coast miners call these [bits of stone in coal] <i>chukkies</i>, another north-country term. A chukky in the north was (and is) a pebble, and the children's game of knuckle-bones was there called chukkies or chukky-stones, played not with sheep's bones but with pebbles. It was - like skipping-ropes - a purely female sport and no six-year-old male chauvinist would touch a <i>chukky</i> - unless he wanted to use it as a projectile. <i>(May 2, 1981,Listener (New Zealand Listener),43</i>)
 
 ### chum
  
- <i>n.</i> (See [also chummy; new chum](../A#also-chummy;-new-chum),[old chum](o-on.md#old-chum))
+ <i>n.</i> (See [also chummy](chi-con.md#chummy); [new chum](n-new.md#new-chum),[old chum](o-on.md#old-chum))
 
 >  <b>COOK</b> Who is the big, smiling chum gettin' out the luggage? ... came out to learn sheep farming, eh? <i>(1925,Far Flung,14</i>)
 
@@ -2426,7 +2426,7 @@
 
 ### cicada
  
- <i>n.</i> <i>Amphipsalta cingulata</i> (See [also scorpion fly](../A#also-scorpion-fly))
+ <i>n.</i> <i>Amphipsalta cingulata</i> (See [also scorpion fly](sa-sho.md#scorpion-fly))
 
 >  [Caption] The red grub at right is a nymph of the common clapping cicada (<i>Amphipsalta cingulata</i>), cause of the happy commotion that is the soundtrack of a New Zealand summer. <i>(Sep 2001,NZ Geographic,No. 53/71</i>)
 
@@ -2924,7 +2924,7 @@
 
 ### clapping
  
- <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](../C#clap-v))
+ <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](chi-con.md#clap))
 
 >  <b>RENNIE</b> Clapping is considered a fault in heading dogs [38] by most trainers in New Zealand. The term describes the habit of some heading dogs particularly those with a strong eye, of lying down every time they stop moving. ... If you decide clapping is a fault you wish to correct, the time to do it is when the dog ... `claps' for the first time. <i>(1985,Working Dogs,37</i>)
 
@@ -3234,7 +3234,7 @@
 
 
  
- <i>adj.</i> innocent (See [see also cleanskin](../S#see-also-cleanskin))
+ <i>adj.</i> innocent (See [see also cleanskin](chi-con.md#cleanskin))
 
 >  <b>NEWBOLD</b> Clean (adj) Innocent, free from incriminating evidence. <i>(1982,Big Huey, The,246</i>)
 
@@ -3535,7 +3535,7 @@
 
 ### cleaning-up
  
- <i>n.</i> [goldmining] (See [cit](chi-con.md#cit),[see also clean up v](../S#see-also-clean-up-v))
+ <i>n.</i> [goldmining] (See [cit](chi-con.md#cit),[see also clean up v](chi-con.md#clean-up))
 
 >  <b>MAY</b> WASHING-UP: the whole operation of saving gold from the wash-dirt. `Cleaning up' had the same meaning. <i>(1967,West Coast Gold Rushes,528,1962 ed.</i>)
 
@@ -3674,7 +3674,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) an area cleared of bush; a cleared part of a bush-farm (See [also bush clearing](../A#also-bush-clearing))
+<b>1</b> <i>n.</i> (Rural) an area cleared of bush; a cleared part of a bush-farm (See [also bush clearing](bri-byo.md#bush-clearing))
 
 >  <b>ARNOLD</b> She is one of a lot of cattle that have just been landed ... but she is now out on the clearing with Mr. Barrow's cows, and feeding away heartily, ... <i>(Jul 24, 1848,NZ Letters,60,1960 ed.</i>)
 
@@ -3801,7 +3801,7 @@
 
 ### clearskin
  
- <i>n.</i> unbranded, wild cattle-beast; (See [also cleanskin](../A#also-cleanskin))
+ <i>n.</i> unbranded, wild cattle-beast; (See [also cleanskin](chi-con.md#cleanskin))
 
 >  <i>Clean.skins.</i> (kl&emacr.n.sk&ibreve.nz.), } <i>Clear.skins.</i> emacr.r.sk&ibreve.nz.), } n. pl. Unbranded cattle. <i>(1898,Merriam-Webster Third International,2020</i>)
 
@@ -3814,7 +3814,7 @@
 
 
  
-<b>2</b> <i>n.</i> a man who has not crossed with the police before. (See [also cleanskin](../A#also-cleanskin))
+<b>2</b> <i>n.</i> a man who has not crossed with the police before. (See [also cleanskin](chi-con.md#cleanskin))
 
 >  <b>TURNER</b> <i>Clearskin or cleanskin</i> are names for unbranded animals. In the underworld, <i>cleanskin</i> has been used for a man who has not crossed with the police before. <i>(1966,English Language in Aust. & NZ, The,148</i>)
 
@@ -4391,7 +4391,7 @@
 
 ### clipon lane
  
- <i>n.</i> one of the traffic lanes added to the Auckland Harbour Bridge (See [also Nippon clipon](../A#also-nippon-clipon))
+ <i>n.</i> one of the traffic lanes added to the Auckland Harbour Bridge (See [also Nippon clipon](new-no.md#nippon-clipon))
 
 >  All four lanes will have to close each night, as will the on-ramp from Curran St in St Mary's Bay, confining traffic to the two clip-on lanes in each direction. ... He acknowledged that the work would have to be finished before a separate project to reseal the two northbound clip-on lanes could begin but said he was not about to start panicking. <i>(Oct 11, 2005,NZ Herald,A2</i>)
 
@@ -4605,7 +4605,7 @@
 
 ### Closer Economic Partnership
  
- <i>phr.</i> economic pact with Singapore etc. (See [also CEP](../A#also-cep))
+ <i>phr.</i> economic pact with Singapore etc. (See [also CEP](c-chi.md#cep))
 
 >  It fits neatly alongside the superbly Orwellian terminology "Closer Economic Partnership", coined for Singapore, and now Hong Kong. <i>(Jun 9, 2001,Listener (New Zealand Listener),8</i>)
 
@@ -6219,7 +6219,7 @@
 
 ### cocco
  
- <i>n.</i> taro (See [also sweet potato](../A#also-sweet-potato))
+ <i>n.</i> taro (See [also sweet potato](spa-sys.md#sweet-potato))
 
 >  In them were planted sweet potatoes, cocos and some one of the cucumber kind. <i>(Oct 21, 1769,Banks Journal,1/41,1962 ed.</i>)
 
@@ -6719,7 +6719,7 @@
 
 ### cocksfooting
  
- <i>n.</i> the gathering of wild cocksfoot seed for sale (See [also grass-seeding](../A#also-grass-seeding))
+ <i>n.</i> the gathering of wild cocksfoot seed for sale (See [also grass-seeding](go-gra.md#grass-seeding))
 
 >  Cocksfooting on Banks Peninsula [title] In many ways cocksfooting resembles shearing. <i>(1903,NZ Illustrated Magazine,8/349</i>)
 
@@ -6755,7 +6755,7 @@
 
 ### cocky
  
- <i>n.</i> (Rural) a general term for farmer. (See [bush cocky; cow cocky](../B#bush-cocky;-cow-cocky))
+ <i>n.</i> (Rural) a general term for farmer. (See [bush cocky](bri-byo.md#bush-cocky); [cow cocky](con-cyp.md#cow-cocky))
 
 >  .. another cocky can drag a man's gates, fences, wife or farming methods through any verbal mire ... <i>(Aug 16, 1951,NZ Farmer,63</i>)
 
@@ -7032,7 +7032,7 @@
 
 ### cod
  
- <i>n.</i> [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See [also codfish; tommy cod](../A#also-codfish;-tommy-cod))
+ <i>n.</i> [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See [also codfish](chi-con.md#codfish); [tommy cod](ten-tot.md#tommy-cod))
 
 >  <b>POLACK</b> Among the piscivorous tribes, are those well known in Europe under the appellations of snapper, tench, haddocks, pollock, salmon, gurnets, john dory, hakes, bream, sword-fish, elephant-fish, diodons, pipe-fish, cod ... <i>(1840,Manners & Customs of the NZers,1/202fn</i>)
 
@@ -7234,7 +7234,7 @@
 
 ### cold biting/cold botting
  
- <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../B#bite-v),[bot v](../B#bot-v),[cold pigging](chi-con.md#cold-pigging))
+ <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](b-bla.md#bite),[bot v](bla-bri.md#bot),[cold pigging](chi-con.md#cold-pigging))
 
 >  <b>BAKER</b> Here we find that <i>cold biting</i> is rendered as a straight-out request by a tramp or dead-beat for money. On the other hand <i>cold botting</i> is a straight-out request for food at house-doors. <i>(1941,NZ Slang,52</i>)
 
@@ -7305,7 +7305,7 @@
 
 ### cold lake
  
- <i>n.</i> (usu. pl.) one of the SI non-thermal lakes (See [contrast hot lake](../C#contrast-hot-lake))
+ <i>n.</i> (usu. pl.) one of the SI non-thermal lakes (See [contrast hot lake](hom-hyp.md#hot-lake))
 
 >  <b>LYSNAR</b> [South Island] lakes are sometimes called the Cold Lakes , in order to distinguish them from the Hot Lakes in the North Island. <i>(1924,New Zealand (various authors/titles),15</i>)
 
@@ -7347,7 +7347,7 @@
 
 ### cold teaite
  
- <i>n.</i> a prohibitionist [[frequent about this time]] (See [also coldwaterite](../A#also-coldwaterite))
+ <i>n.</i> a prohibitionist [[frequent about this time]] (See [also coldwaterite](chi-con.md#coldwaterite))
 
 >  He is a bigot of the worst type, a rabid cold tea-ite, and was secretary of the N.S.W. Alliance, which, like its Maoriland prototype, is down on all the good liquid things of the world. <i>(Jul 28, 1906,NZ Truth,58/1/7</i>)
 
@@ -7933,7 +7933,7 @@
 
 ### colonial language
  
- <i>n.</i> coarse language (See [also great colonial adjective](../A#also-great-colonial-adjective))
+ <i>n.</i> coarse language (See [also great colonial adjective](gra-gyp.md#great-colonial-adjective))
 
 >  <b>VON HAAST</b> For the first day we were fairly free from sandflies ... but ... with the rain, the sandflies, and the mosquitoes we passed our existence, now and then indulging in a little Colonial language in our impatience. <i>(1948,Julius Von Haast,282</i>) [NOTES: 1862 Von Haast in 1948 Von Haast Julius Von Haast 282]
 
@@ -8472,7 +8472,7 @@
 
 
  
- <i>phr.</i> to comb country in search of gold. (See [also gold-combing](../A#also-gold-combing))
+ <i>phr.</i> to comb country in search of gold. (See [also gold-combing](go-gra.md#gold-combing))
 
 
 

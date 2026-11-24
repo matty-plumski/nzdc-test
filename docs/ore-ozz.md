@@ -811,7 +811,7 @@
 
 
  
-<b>2</b> <i>adj.</i> (See [cf. outer n](../O#outer-n))
+<b>2</b> <i>adj.</i> (See [cf. outer n](ore-ozz.md#outer))
 
 >  `Out' bettors tore their hair and swore -/ The `ins' were in the sun! <i>(May 6, 1917,NZEF Chronicles,137</i>)
 
@@ -884,7 +884,7 @@
 
 ### out of the wool
  
-<b>1</b> <i>phr.</i> (Rural) shorn. (See [off the blades; off the shears](../O#off-the-blades;-off-the-shears))
+<b>1</b> <i>phr.</i> (Rural) shorn. (See [off the blades](o-on.md#off-the-blades); [off the shears](o-on.md#off-the-shears))
 
 >  <b>NEWTON</b> The lambs which are sold out of the wool, in August, go direct to Nelson butchers. <i>(1973,Big Country of the South Island,38</i>)
 
@@ -1588,7 +1588,7 @@
 
 ### outgun
  
- <i>v.</i> [(shearers')] (See [cf. gun n](../G#gun-n))
+ <i>v.</i> [(shearers')] (See [cf. gun n](gra-gyp.md#gun))
 
 >  <b>RICHARDS</b> Could I change my style and adapt to the Australian merino technique of shearing in time to outshear and out `gun' the Aussies who were experienced merino shearers? <i>Ibid.</i> 122 As we increased the pace and pulled away he tried desperately to hold his position as `ringer', but he soon realised he was `out-gunned' and gave up the chase. <i>(1986,Off the Sheep's Back,115</i>)
 
@@ -2186,7 +2186,7 @@
 
 
  
- <i>adj.</i> (See [also overland mail](../A#also-overland-mail))
+ <i>adj.</i> (See [also overland mail](ore-ozz.md#overland-mail))
 
 >  <b>MUELLER</b> The Overland Route [from Christchurch to Hokitika] was perfectly frightful. <i>(Sep 26, 1865,My Dear Bannie,41,1958 ed.</i>)
 
@@ -2353,7 +2353,7 @@
 
 ### overseas experience
  
- <i>n.</i> (See [also OE](../A#also-oe))
+ <i>n.</i> (See [also OE](o-on.md#oe))
 
 >  <b>REILLY</b> They were an attractive couple at training college, and their `overseas experience' had made them even more so. They had come back from the years in Britain to learn the maori language ... <i>(1986,Deputy Head,17</i>)
 
@@ -2977,7 +2977,7 @@
 
 
  
-<b>2</b> <i>n.</i> <i>Haemotopus reischeki </i> (See [also torea](../A#also-torea))
+<b>2</b> <i>n.</i> <i>Haemotopus reischeki </i> (See [also torea](ten-tot.md#torea))
 
 >  <b>COLENSO</b> A black and graceful species of <i>Haemotopus</i> with orange coloured bill and legs is common [near Tokomaru Bay - East Cape] ... The natives call them Torea. [FN] Presumably the black form of the North Island Oyster catcher (<i>Haemotopus reischeki</i>). <i>(1840,Excursion in the Northern Island of NZ</i>) [NOTES: 1844 Colenso Excursion North Island in1959 Taylor Early Travellers 14]
 
@@ -3035,7 +3035,7 @@
 
 
  
- <i>n.</i> (usually pl.) (children's) opaque brown and grey marbles [also smokies ca early 1950's Naenae Wellington] (See [also smokies](../A#also-smokies))
+ <i>n.</i> (usually pl.) (children's) opaque brown and grey marbles [also smokies ca early 1950's Naenae Wellington] (See [also smokies](sho-spa.md#smokies))
 
 ### oysters on bugnets
  

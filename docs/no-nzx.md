@@ -868,7 +868,7 @@
 
 ### North Auckland
  
- <i>n.</i> (See [also Far North](../A#also-far-north))
+ <i>n.</i> (See [also Far North](f69-fin.md#far-north))
 
 >  203. Sterna nereis (Gould, 1843) Fairy Tern New Caledonia, Australia and Tasmania; New Zealand, rare and local; a few pairs breeding North Auckland. <i>(1970,Annotated Checklist of Birds of NZ,55,1980 ed.</i>)
 
@@ -2994,7 +2994,7 @@
 
 
  
- <i>n.</i> a small piece of kauri-gum (? an official grade-size possibly but perhaps not directly related to the coal-mining term [gumfields] (See [also GUM-NUT](../A#also-gum-nut))
+ <i>n.</i> a small piece of kauri-gum (? an official grade-size possibly but perhaps not directly related to the coal-mining term [gumfields] (See [also GUM-NUT](gra-gyp.md#gum-nut))
 
 >  ... one ingenious individual, knowing that white `range nuts' were twice as valuable asblack `nuts', obtained a quantity of the latter and carefully shook them up with some white pipeclay from the hillside. <i>(1923,NZ Journal of Science & Technology,6/96</i>) [NOTES: Firth]
 
@@ -3306,7 +3306,7 @@
 
 ### NZer/NZder
  
- <i>n.</i> New Zealander [ORIGIN: abbreviation] (See [see Enzedder](../S#see-enzedder))
+ <i>n.</i> New Zealander [ORIGIN: abbreviation] (See [see Enzedder](ens-eye.md#enzedder))
 
 ### NZFP
  

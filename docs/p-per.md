@@ -1521,7 +1521,7 @@
 
 
  
- <i>n.</i> (See [also dolly](../A#also-dolly))
+ <i>n.</i> (See [also dolly](dig-dou.md#dolly))
 
 >  <b>MACDONALD</b> Generally there has been little change in fellmongering practice since 1892. Skins are still cold-water washed in `dollies' or paddles, deburring machines are no longer used, but the de-wooling paint is applied on a moving conveyor instead of on the piled skins. <i>(1957,Canterbury Frozen Meat Company,69</i>)
 
@@ -2109,7 +2109,7 @@
 
 ### paddocking
  
- <i>n.</i> working a gold bearing area by excavating a paddock [goldmining] (See [paddock (goldmining)](../P#paddock-(goldmining)))
+ <i>n.</i> working a gold bearing area by excavating a paddock [goldmining] (See [paddock (goldmining)](p-per.md#paddock)))
 
 >  <b>SINCLAIR & HARREX</b> The method used to extract the gold from the gully was 'paddocking'. The top soil was removed off a section of the 'paddock' to expose the auriferous pay dirt. <i>(1978,Looking Back,75</i>)
 
@@ -2439,7 +2439,7 @@
 
 ### Pai Marire
  
- <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](../A#also-hauhau(ism)),[Ringatu](red-roa.md#ringatu))
+ <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](h-hea.md#hauhau)),[Ringatu](red-roa.md#ringatu))
 
 >  [Te Ua] sought consolation by praying tohis God, and Atua Pai Marire... Te Uasent out two prophets to the tribes ofthe Eats Coast to establish the PaiMarire doctrine, Kereopa and Patara. <i>(Jan 25, 1933,NZ Tablet,15</i>)
 
@@ -2599,7 +2599,7 @@
 
 ### painkiller
  
- <i>n.</i> the proprietary Perry-Davis Painkiller [ca1949 Still sold in Havelock] (See [see also Maori painkiller (horopito)](../S#see-also-maori-painkiller-(horopito)))
+ <i>n.</i> the proprietary Perry-Davis Painkiller [ca1949 Still sold in Havelock] (See [see also Maori painkiller (horopito)](m-mar.md#maori-painkiller)))
 
 >  Bathe the painful parts with clear "Painkiller" 3 or 4 times a day - and keep warmly wrapped with flannel moistened with "Painkiller." <i>(Jul 8, 1926,NZ Truth,8</i>)
 
@@ -3048,7 +3048,7 @@
 
 ### Pakeha time
  
- <i>n.</i> time concerned with punctuality (See [contrast Maori time](../C#contrast-maori-time))
+ <i>n.</i> time concerned with punctuality (See [contrast Maori time](m-mar.md#maori-time))
 
 >  All people who live in urban industrial societies have their lives requlated by measured time. This concept of time is referred to by Maoris as `Pakeha time' and they conform to its dictates inasmuch as they are on time for work, to catch buses or to fulfil engagements. However, because they are bicultural, Maoris function in their own time-frame as well, which they refer to as `Maori time'. <i>(Sep 24, 1983,Listener (New Zealand Listener),59</i>) [NOTES: [Ranginui Walker]]
 
@@ -3186,7 +3186,7 @@
 
 ### Pakehafied
  
- <i>adj.</i> (contrastive with Maorified) (See [also Pakehafy verb](../A#also-pakehafy-verb))
+ <i>adj.</i> (contrastive with Maorified) (See [also Pakehafy verb](p-per.md#pakehafy))
 
 >  <b>Liu , James et al</b> .. I was really Pakehafied if you get it .. What does it mean Pakehafied? ..like I didn't go to Kohanga, I went to a kindy. <i>(2005,NZ Identities: Departures & Destinations,196</i>)
 
@@ -3202,7 +3202,7 @@
 
 ### Pakehafy
  
- <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See [also Pakehafied adjective](../A#also-pakehafied-adjective))
+ <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See [also Pakehafied adjective](p-per.md#pakehafied))
 
 >  Instead an [sic] attempt to liberate woman, any outside comment can be seen as pressure to "Pakeha-fy" maori further. <i>(Feb 4, 2006,NZ Herald,Cancas p22</i>)
 
@@ -3238,7 +3238,7 @@
 
 ### pakepake
  
- <i>n.</i> (See [pake n](../P#pake-n))
+ <i>n.</i> (See [pake n](p-per.md#pake))
 
 ### pakerikeri
  
@@ -4212,7 +4212,7 @@
 
 ### panahi
  
- <i>n.</i> an indigenous scrambling perennial herb that grows on coasts and lake edges and which has a stabilising effect on sand. (See [cf panake](../C#cf-panake))
+ <i>n.</i> an indigenous scrambling perennial herb that grows on coasts and lake edges and which has a stabilising effect on sand. (See [cf panake](p-per.md#panake))
 
 >  <b>HOOKER</b> Panahi, <i>Col[enso]. Convolvulus sepium.</i> <i>(1867,Handbook NZ Flora (List of Names),767</i>)
 
@@ -4346,7 +4346,7 @@
 
 ### pancake
  
- <i>n.</i> this is more like a girdle scone (See [also panakeke](../A#also-panakeke))
+ <i>n.</i> this is more like a girdle scone (See [also panakeke](p-per.md#panakeke))
 
 >  <b>MONEY</b> ... their looks fell on the yellow pancakes ... After slowly sipping a quantity of hot tea ... and eating some more scone, they revived ... <i>(1871,Knocking About in NZ,38</i>)
 
@@ -4467,7 +4467,7 @@
 
 ### Pannells
  
- <i>n.</i> mustering boots (See [also  Harry Pannells](../A#also--harry-pannells))
+ <i>n.</i> mustering boots (See [also  Harry Pannells](h-hea.md#harry-pannells))
 
 >  <b>McLEOD</b> At one time practically all the musterers in Canterbury got their boots from Pannells in Christchurch and even now I think the majority do; so much so that a Canterbury man will quite understand if you refer to boots simply as Pannells. <i>(1951,High Country,43</i>)
 
@@ -5762,7 +5762,7 @@
 
 ### parakeet
  
- <i>n.</i> any of numerous usually small slender parrots with long, graduated tails. See also native parakeet [<i>Cyanorhamphus spp. (formerly Platycercus), KAKARIKI, BUSH PARAKEET (1843 Dieffenbach NZ) ee <i>C. malherbei</i> ORANGE-FRONTED P.; <i>C. auriceps</i>, YELLOW-FRONTED P.; and <i>C. novaezelandiae</i>, RED-FRONTED P.] (See [also kakariki](../A#also-kakariki))
+ <i>n.</i> any of numerous usually small slender parrots with long, graduated tails. See also native parakeet [<i>Cyanorhamphus spp. (formerly Platycercus), KAKARIKI, BUSH PARAKEET (1843 Dieffenbach NZ) ee <i>C. malherbei</i> ORANGE-FRONTED P.; <i>C. auriceps</i>, YELLOW-FRONTED P.; and <i>C. novaezelandiae</i>, RED-FRONTED P.] (See [also kakariki](k-kea.md#kakariki))
 
 >  <i>(Dec 4, 1907,Evening Post,8</i>) [NOTES: Those from the Auckland Islands closely resemble the New Zealand parakeet, but are much larger.]
 
@@ -6009,7 +6009,7 @@
 
 ### parareka
  
- <i>n.</i> (See [also para](../A#also-para))
+ <i>n.</i> (See [also para](p-per.md#para))
 
 >  <b>CHEESEMAN</b> <i>M[arattia] fraxinea, Smith </i>... NORTH ISLAND: ... <i>Para; Parareka</i>. ... The large starchy rhizome was formerly eaten by the Maoris ... It is now fast becoming rare. <i>(1906,Manual NZ Flora,1026</i>)
 
@@ -6075,7 +6075,7 @@
 
 ### parawai
  
- <i>n.</i> (See [also paraoa](../A#also-paraoa))
+ <i>n.</i> (See [also paraoa](p-per.md#paraoa))
 
 >  Te Teira then placed a parawai (bordered mat), at the Governor's feet, which his Excellency accepted. <i>(Mar 12, 1859,Taranaki Herald,3</i>)
 
@@ -6196,7 +6196,7 @@
 
 ### Pare
  
- <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
+ <i>n.</i> Paremoremo Prison (See [also Parry](p-per.md#parry))
 
 >  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
 
@@ -6650,7 +6650,7 @@
 
 ### Parnell shout
  
- <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](../A#also-dutch-shout),[Yankee shout](y-yc.md#yankee-shout))
+ <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](dou-dyn.md#dutch-shout),[Yankee shout](y-yc.md#yankee-shout))
 
 >  Finally, they resolved themselves into a committee of ways and means, and escaped from the dilemma by what is vulgarly known as a 'Parnell shout.' <i>(Oct 1, 1892,Observer (Auckland),4</i>)
 
@@ -7095,7 +7095,7 @@
 
 ### PARS
  
- <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See [also NZPARS](../A#also-nzpars))
+ <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See [also NZPARS](no-nzx.md#nzpars))
 
 >  Patron of the society is Elsie Waker; who gave an interesting account of her involvement with PARS dating back some 30 years. ... The Guest Speaker, John Whitty, from NZ PARS, spoke on a number of issues, one of them being the elections and what we stood to lose or gain from the two main parties. <i>(Nov 4, 2005,Whakatane Beacon,8</i>)
 
@@ -7558,7 +7558,7 @@
 
 ### paru
  
- <i>adj.</i> dirty, filthy [ORIGIN: Maori] (See [paru n](../P#paru-n))
+ <i>adj.</i> dirty, filthy [ORIGIN: Maori] (See [paru n](p-per.md#paru))
 
 >  <b>Grace</b> 'On the side of the road, clothes all paru, scratches all over, crying, dark...?' <i>(2001,Dogside Story,100</i>)
 
@@ -8978,7 +8978,7 @@
 
 ### patotara
  
- <i>n.</i> a bronze-coloured, pungent-leafed shrub, Leucopogon fraseri (See [also mingimingi](../A#also-mingimingi))
+ <i>n.</i> a bronze-coloured, pungent-leafed shrub, Leucopogon fraseri (See [also mingimingi](mar-moa.md#mingimingi))
 
 >  <b>WILLIAMS</b> The Papapa [Patotara] is a little flower growing on a short stem, with sharp prickly leafs, has a fragrant smell but is not handsome; it bears a small red berry. <i>(1844,NZ Journal,111,1956 ed.</i>) [NOTES: [?1956 ed. note]]
 
@@ -10187,7 +10187,7 @@
 
 ### peach
  
- <i>n.</i> cultivated NZ peach (See [also Maori peach](../A#also-maori-peach))
+ <i>n.</i> cultivated NZ peach (See [also Maori peach](m-mar.md#maori-peach))
 
 >  <b>YATE</b> <i>(1835,New Zealand (various authors/titles),76</i>) [NOTES: (Griffiths Collection)]
 
@@ -11232,7 +11232,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [also yellow-crowned penguin](../A#also-yellow-crowned-penguin))
+<b>2</b> <i>n.</i> (See [also yellow-crowned penguin](ydu-yen.md#yellow-crowned-penguin))
 
 >  <b>BULLER</b> EUDYPTES CHRYSOCOMUS {PACHYRHYNCHUS}. (YELLOW-CRESTED PENGUIN. {CRESTED PENGUIN.} <i>Native name{s}</i>.- Tawaki {and Pokotiwha}. <i>(1873,Birds of New Zealand,344,1888 2nd edn 2/287 ed.</i>)
 
@@ -12153,7 +12153,7 @@
 
 
  
- <i>n.</i> 1. see kawakawa. 2. see horopito [also pepper assign 1958 Jan NZTJ 46/2 and 1946 JPS 149 1. <i>Drimys</i> (formerly <i>Wintera</i> or <i>Pseudowintera</i>) spp., esp. <i>D.axillaris, </i>and south of Rotorua, <i>D. colorata</i>, =horopito, =Maori painkiller.] (See [also pepper](../A#also-pepper))
+ <i>n.</i> 1. see kawakawa. 2. see horopito [also pepper assign 1958 Jan NZTJ 46/2 and 1946 JPS 149 1. <i>Drimys</i> (formerly <i>Wintera</i> or <i>Pseudowintera</i>) spp., esp. <i>D.axillaris, </i>and south of Rotorua, <i>D. colorata</i>, =horopito, =Maori painkiller.] (See [also pepper](p-per.md#pepper))
 
 >  <b>TANCRED</b> Pepper-tree, from its round black seeds being used for pepper. <i>(1856,Natural History of Canterbury,23</i>)
 
@@ -12487,7 +12487,7 @@
 
 ### perf
  
- <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
+ <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](p-per.md#perf))
 
 >  These observers tell of deepening despond as valuable senior staff.. perf and run. <i>(Oct 1997,North & South,35</i>)
 

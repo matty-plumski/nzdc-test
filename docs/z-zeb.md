@@ -2,7 +2,7 @@
 
 ### Z class
  
- <i>n.</i> a former class of small racing yacht (aka Takapuna class) (See [also zeddie](../A#also-zeddie))
+ <i>n.</i> a former class of small racing yacht (aka Takapuna class) (See [also zeddie](zeb-zip.md#zeddie))
 
 >  <b>CARTER</b> Next to the X class. is the Z class, orwhat are often referred to as theCornwall Cup boats. They owe theirexistence to a small band of Takapunayachtsmen who planned the first boat,with much the same idea in their minds asdid George Honour when he built the firstof the 14-foot square bilge boats,namely, low first cost, ease ofconstruction, and an ever-watchful eye onspeed and performance under Aucklandharbour weather conditions. The yachtswere originally designed for the TakapunaBoating Club but owing to theirpopularity from the outset the type wasquickly adopted by many other yacht clubsthroughout New Zealand... From smallbeginnings the Takapuna one-design classrapidly expanded. <i>(1944,Little Ships: NZ's Yachting Fleet,127</i>)
 

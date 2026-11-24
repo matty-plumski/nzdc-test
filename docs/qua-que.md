@@ -75,7 +75,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See [quarter-bred; comeback](../Q#quarter-bred;-comeback))
+<b>1</b> <i>n.</i> (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See [quarter-bred](qua-que.md#quarter-bred); [comeback](chi-con.md#comeback))
 
 >  We penned 400, and sold them as follows:- On account of .. John Bruce, Esq. (Brighton), 30 quarter-back ewes at 12s 9d ... <i>(Feb 2, 1884,Otago Witness,19</i>)
 

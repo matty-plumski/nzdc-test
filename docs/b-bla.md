@@ -415,7 +415,7 @@
 
 
  
- <i>v.</i> to live alone as a bachelor, to `do' for oneself (often in the temporary absence of a spouse); to share living quarters, domestic chores and expenses, usu. with a person of the same sex. Often bachelorise with. [also bach Hence bachelorising ppl. aj. and vbl. n.] (See [also bach](../A#also-bach))
+ <i>v.</i> to live alone as a bachelor, to `do' for oneself (often in the temporary absence of a spouse); to share living quarters, domestic chores and expenses, usu. with a person of the same sex. Often bachelorise with. [also bach Hence bachelorising ppl. aj. and vbl. n.] (See [also bach](b-bla.md#bach))
 
 >  At one time, he and two other young men.. "bachelorised," together in Wellington. <i>(Dec 20, 1879,Auckland Weekly News,19</i>)
 
@@ -1202,7 +1202,7 @@
 
 ### back-scarf
  
- <i>v.</i> to scarf a tree on the side opposite the direction of intended fall. (See [cf. scarf v](../S#scarf-v))
+ <i>v.</i> to scarf a tree on the side opposite the direction of intended fall. (See [cf. scarf v](sa-sho.md#scarf))
 
 >  He went out into the bush and backscarfed a big tree so that it would fall in one particular direction. <i>(1892,One Lady at Wairakei,36,1983 ed.</i>)
 
@@ -1211,7 +1211,7 @@
 
 
  
- <i>n.</i> a scarf or cut so made (See [also back-cut](../A#also-back-cut))
+ <i>n.</i> a scarf or cut so made (See [also back-cut](b-bla.md#back-cut))
 
 >  <b>WILSON</b> If you go too deep [with the belly-scarf], the tree might split and fall before you put in the back-scarf; ... <i>(1955,Land of My Children,24</i>)
 
@@ -1487,7 +1487,7 @@
 
 ### backblocks
  
- <i>n.</i> the sparsely settled hinterland of more closely-settled districts [aka back blocks, back-blocks] (See [also back-country](../A#also-back-country),[the boohai](../T#the-boohai),[the sticks](../T#the-sticks))
+ <i>n.</i> the sparsely settled hinterland of more closely-settled districts [aka back blocks, back-blocks] (See [also back-country](b-bla.md#back-country),[the boohai](../T#the-boohai),[the sticks](../T#the-sticks))
 
 >  Far away in the bush backblocks. <i>(1901,NZ Illustrated Magazine,7/266</i>)
 
@@ -1638,7 +1638,7 @@
 
 ### backing dog
  
- <i>n.</i> (Rural) a dog used to clear congestion of sheep in a gateway, race or into a pen by running along the backs of sheep; a dog trained to help move yarded sheep by running across their backs. (See [back v](../B#back-v))
+ <i>n.</i> (Rural) a dog used to clear congestion of sheep in a gateway, race or into a pen by running along the backs of sheep; a dog trained to help move yarded sheep by running across their backs. (See [back v](b-bla.md#back))
 
 >  I had this feeling he'd make a good backing dog, and I was right. He just loves running around on the sheep. <i>(2003,Huia 5: Contemp. Maori Fiction,237</i>)
 
@@ -1907,7 +1907,7 @@
 
 
  
-<b>8</b> <i>n.</i> a hole dug under the grain-outlet of a threshing-machine to facilitate the filling, ramming, and sewing up of the grainsacks; bag-rammer, bag-sewer. (See [also baggie](../A#also-baggie))
+<b>8</b> <i>n.</i> a hole dug under the grain-outlet of a threshing-machine to facilitate the filling, ramming, and sewing up of the grainsacks; bag-rammer, bag-sewer. (See [also baggie](b-bla.md#baggie))
 
 >  <b>KERSE</b> c1900] Sheets were placed under the [threshing] mill to catch any seed that leaked out and the bag hole men would dig out the bag hole so that the bags could be rammed full. ... The usual gang for stack threshing [c1900] was 12 men. The boss kept steam up and attended to the mill adjustments and lubrication, three men worked in the bag hole, the bag-rammer, the bag-sewer, and the bag-carrier; two men were on top of the mill, a band cutter and a man to turn the sheaves to the band cutter. <i>(1984,Knapdale Run, The</i>)
 
@@ -2407,7 +2407,7 @@
 
 ### bake
  
- <i>v.</i> to become exhausted (also as be baked: be exhausted) (See [cf. knock(ed) up](../K#knock(ed)-up))
+ <i>v.</i> to become exhausted (also as be baked: be exhausted) (See [cf. knock(ed) up](kiw-kwi.md#knock)-up))
 
 >  In connection with stock the following terms were used: - `Let the sheep draw down to the Taieri'; `stags,' `crawlers,' `stragglers,' `a horse with couples in his mouth,' `the bull baked on the road,' `cut and tailed,' `lagoon washing,' `spaying cattle,' `killed a pleuro,' `herding lambs,' `buisting weaners,' `a camp for the cattle,' ... <i>(1858,Puketoi Station Diary</i>) [NOTES: [1858-1869] Puketoi Station Diary in 1947 Beattie Early Runholding 85]
 
@@ -4440,7 +4440,7 @@
 
 ### barracouta
  
- <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](../S#see-also-barra),[coota](con-cyp.md#coota),[king barracouta](kee-kiw.md#king-barracouta))
+ <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](b-bla.md#barra),[coota](con-cyp.md#coota),[king barracouta](kee-kiw.md#king-barracouta))
 
 >  The barracouta is one of the few fish New Zealander anglers will encounter with teeth large or sharp enough to cut through most monofilament lines with ease. <i>(Jul 8, 1993,Evening Post,30</i>)
 
@@ -4531,7 +4531,7 @@
 
 
  
-<b>2</b> <i>n.</i> A nominal one-and-a-half pound loaf, baked long and narrow in an open-topped tin to give a raised crust which fancifully resembles the (back of a) barracouta fish, and often indented in the middle to enable breaking into two `quarter' loaves; also barracouta loaf. [also couta also barracuda] (See [also couta](../A#also-couta))
+<b>2</b> <i>n.</i> A nominal one-and-a-half pound loaf, baked long and narrow in an open-topped tin to give a raised crust which fancifully resembles the (back of a) barracouta fish, and often indented in the middle to enable breaking into two `quarter' loaves; also barracouta loaf. [also couta also barracuda] (See [also couta](con-cyp.md#couta))
 
 >  [Advt] Sunland's Many Varieties. Brought to you each day by the Sunland Bread Man... Long Tin.. Concertina or Ring Loaf.. Vienna.. Barr[a]couta]. <i>(Dec 7, 1935,Christchurch Star-Sun,00</i>) [NOTES: Check page number]
 
@@ -5351,7 +5351,7 @@
 
 
  
-<b>2</b> <i>adj.</i> (See [cod](chi-con.md#cod),[red; dory; skate; trumpeter](../R#red;-dory;-skate;-trumpeter))
+<b>2</b> <i>adj.</i> (See [cod](chi-con.md#cod),[red](ra-red.md#red); [dory](dig-dou.md#dory); [skate](sho-spa.md#skate); [trumpeter](tot-tyr.md#trumpeter))
 
 
 
@@ -5926,7 +5926,7 @@
 
 ### battery box
  
- <i>n.</i> (See [also box](../A#also-box))
+ <i>n.</i> (See [also box](bla-bri.md#box))
 
 >  The battery has three stampers in each box, double cams, quickslver placed in battery boxes, grating perpendicular, with round holes. The copper-plate tables are about 12ft. long by 5ft. wide, and raised about 14in. above the blanket boards; ... [The blankets] appear to be ordinary grey blankets of a very inferior description. <i>(1868,Thames Miner's Guide, The,93</i>)
 
@@ -6627,7 +6627,7 @@
 
 
  
- <i>n.</i> [goldmining] (See [contrast bank claim](../C#contrast-bank-claim))
+ <i>n.</i> [goldmining] (See [contrast bank claim](b-bla.md#bank-claim))
 
 >  Arrow Township, 10th July. - ... Huts, tents, wheels, sluice-boxes - everything on the beach and river claims have been swept off by the torrent, ... <i>(Jul 18, 1863,Otago Witness,7</i>)
 
@@ -7529,7 +7529,7 @@
 
 
  
- <i>n.</i> something excellent, admirable, or to one's liking [cf. beaut n. 1951 14 M 10 Wellington H.S. 4 BEAUTY [something/-one liked] ] -->1951 14 M 14 St Bede's, Chch 4 BEAUTY [M4] -->1951 14 M 10 Wellington H.S. 8 BEAUTY [something good] -->1951 14 M 14 St Bede's, Chch 8 BEAUTY [M3] -->1953 14-16 M A5 Thames DHS 4 BEAUTY [M7] -->1953 14-16 M A2 Thames DHS 8 BEAUTY [M5] -->1960 18C M B11 Nelson Boys C. 8 BEAUTY -->1960 16C F B2 Hawera Tech, C. 8 BEAUTY -->1984 14 F E121Wgton Girls C. 4 BEAUTY [F2] -->1984 16-17 M E82 Pakuranga Coll. 8 BEAUTY [M4]] (See [cf. beaut n](../B#beaut-n))
+ <i>n.</i> something excellent, admirable, or to one's liking [cf. beaut n. 1951 14 M 10 Wellington H.S. 4 BEAUTY [something/-one liked] ] -->1951 14 M 14 St Bede's, Chch 4 BEAUTY [M4] -->1951 14 M 10 Wellington H.S. 8 BEAUTY [something good] -->1951 14 M 14 St Bede's, Chch 8 BEAUTY [M3] -->1953 14-16 M A5 Thames DHS 4 BEAUTY [M7] -->1953 14-16 M A2 Thames DHS 8 BEAUTY [M5] -->1960 18C M B11 Nelson Boys C. 8 BEAUTY -->1960 16C F B2 Hawera Tech, C. 8 BEAUTY -->1984 14 F E121Wgton Girls C. 4 BEAUTY [F2] -->1984 16-17 M E82 Pakuranga Coll. 8 BEAUTY [M4]] (See [cf. beaut n](b-bla.md#beaut))
 
 >  Only a reversion to the steady rhythmic pull will restore his sense of well-being and cause his lips to form.. the words: "You little beauty." <i>(Sep 11, 1944,NZEF Times,IV/168 : 5</i>)
 
@@ -7625,7 +7625,7 @@
 
 ### bed
  
- <i>n.</i> (See [also river-bed](../A#also-river-bed))
+ <i>n.</i> (See [also river-bed](red-roa.md#river-bed))
 
 >  Strictly speaking, the term `bed' is applicable only to that part of the valley actually covered by the flowing water. But the cass, like most New Zealand rivers, is continually liable to flood ... In this paper the term `river-bed', following the colloquial usage, is used to include that part of the valley liable to be covered with water in times of severe floods. This `river-bed' is bounded on either side by a broad expanse of flat land, chiefly tussock-covered, termed colloquially `river-flat', but in this paper `terrace'. <i>(1917,TrNZI,49/4</i>)
 
@@ -7655,7 +7655,7 @@
 
 ### bedrock
  
- <i>n.</i> the solid rock base underlying alluvial or other formations (See [also bottom](../A#also-bottom))
+ <i>n.</i> the solid rock base underlying alluvial or other formations (See [also bottom](bla-bri.md#bottom))
 
 >  In the meantime Mr. C. Ring found it necessary to abandon the first digging, owing to the obstruction offered to his reaching bed rock by the presence of large Quartz Boulders, ... <i>(Nov 9, 1852,NZ Government Gazette,V/26/165</i>) [NOTES: (Report of Sub-Committee on Recent Gold Discovery in the Coromandel District)]
 
@@ -7993,7 +7993,7 @@
 
 ### beer chewer
  
- <i>n.</i> (obsolete) a (practised) beer drinker. (See [also beer eater](../A#also-beer-eater))
+ <i>n.</i> (obsolete) a (practised) beer drinker. (See [also beer eater](b-bla.md#beer-eater))
 
 >  ... the wicked beer-chewer. <i>(Aug 12, 1905,NZ Truth,8/5/4</i>)
 
@@ -8355,7 +8355,7 @@
 
 ### Belgium sausage
  
- <i>n.</i> variant of Belgian sausage (See [also German sausage](../A#also-german-sausage),[luncheon sausage](liv-lyn.md#luncheon-sausage))
+ <i>n.</i> variant of Belgian sausage (See [also German sausage](g-go.md#german-sausage),[luncheon sausage](liv-lyn.md#luncheon-sausage))
 
 >  <b>MARSHALL</b> He ate damaged cheese, ... furrowed snouts of Belgium sausage rolls that were left lying by the slicer. <i>(1984,Day Hemingway Died, The,44</i>) [NOTES: (The Spendthrift)]
 
@@ -8407,7 +8407,7 @@
 
 ### Bell's brick
  
- <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See [also brickie](../A#also-brickie))
+ <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See [also brickie](bla-bri.md#brickie))
 
 >  A loaf of Bell's Brick sliding into Bill's back ... <i>(1948,Canterbury Mountaineer, The,4/18/290</i>)
 
@@ -8624,7 +8624,7 @@
 
 
  
- <i>n.</i> (See [also bellringer](../A#also-bellringer))
+ <i>n.</i> (See [also bellringer](b-bla.md#bellringer))
 
 >  <b>BATHGATE</b> Amongst its [a capsized ferry's] passengers was one of the bellmen who plied their trade, and often made a hideous noise in the city streets. This man had been engaged to announce the different events on the day's programme [at Vauxhall Gardens, Dunedin, c1860s], and as he landed dripping on the Vauxhall jetty he exclaimed: `Oh! What'll I do? I've lost my bell.' `Wring your clothes,' said a bystander. <i>(1925,Random Recollections,16</i>)
 
@@ -8835,7 +8835,7 @@
 
 
  
- <i>n.</i> (See [also stockwhip](../A#also-stockwhip))
+ <i>n.</i> (See [also stockwhip](spa-sys.md#stockwhip))
 
 >  <i>Belly</i>. (1) The thick part of the lash of a stock whip, toward the middle. (C.) <i>(Sep 9, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 
@@ -9006,7 +9006,7 @@
 
 ### belly-scarf
  
- <i>v.</i> (See [contrast back-scarf](../C#contrast-back-scarf))
+ <i>v.</i> (See [contrast back-scarf](b-bla.md#back-scarf))
 
 >  <b>KENWAY</b> He will `belly-scarf' and `back-scarf' the lot, that is to say, he will cut about a third through on both the lower and higher sides. <i>(1928,Pioneering in Poverty Bay,38</i>)
 
@@ -9095,7 +9095,7 @@
 
 ### bench
  
- <i>v.</i> (usually as (well-)benched adjective) (of a hillside track or road) to cut out or form as a ledge. [bench n. also as benched out] (See [bench n](../B#bench-n))
+ <i>v.</i> (usually as (well-)benched adjective) (of a hillside track or road) to cut out or form as a ledge. [bench n. also as benched out] (See [bench n](b-bla.md#bench))
 
 >  <b>PASCOE</b> The treacherous Hokitika River is bridged by a wire and cage, and where the boulder beaches merge into gorges well-benched foot-tracks make delightful walking. <i>(1960,Over the Whitcombe Pass,14</i>)
 
@@ -9476,7 +9476,7 @@
 
 ### berko
  
- <i>adj.</i> berserk, wild; go berko also go berker(s) (See [also burko](../A#also-burko))
+ <i>adj.</i> berserk, wild; go berko also go berker(s) (See [also burko](bri-byo.md#burko))
 
 >  <b>CRUMP</b> He's okay when he's sober but when he's got a few in he goes berko. <i>(1961,Hang on a Minute, Mate,163</i>)
 
@@ -9675,7 +9675,7 @@
 
 ### beta-beta
  
- <i>n.</i> (See [biddy-bid (piripiri)](../B#biddy-bid-(piripiri)))
+ <i>n.</i> (See [biddy-bid (piripiri)](b-bla.md#biddy-bid)))
 
 ### better an empty house
  
@@ -9770,7 +9770,7 @@
 
 ### Bible-banger
  
- <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See [cf. cow-banger; Bible-puncher](../C#cow-banger;-bible-puncher))
+ <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See [cf. cow-banger](con-cyp.md#cow-banger); [Bible-puncher](b-bla.md#bible-puncher))
 
 >  Baptist Bible-banger. <i>(Aug 19, 1905,NZ Truth,9/3/3</i>)
 
@@ -9836,7 +9836,7 @@
 
 ### biddy
  
- <i>v.</i> (See [biddy-bid v](../B#biddy-bid-v))
+ <i>v.</i> (See [biddy-bid v](b-bla.md#biddy-bid))
 
 
 
@@ -9963,7 +9963,7 @@
 
 
  
- <i>v.</i> to extract biddy-bids from (wool, clothing, etc.) (See [biddy-bid n](../B#biddy-bid-n))
+ <i>v.</i> to extract biddy-bids from (wool, clothing, etc.) (See [biddy-bid n](b-bla.md#biddy-bid))
 
 >  <b>POTTS</b> Piri-piri (<i>acaena sanguisorbe</i>) [Morris, sanguisorbe sic] by the settlers has been converted or corrupted into <i>biddy-biddy</i>; a verb has been formed on it, which is in very constant use for a great [Morris, good: check] part of the year at least. To biddy is to rid one of burrs, as `I'll just biddy my clothes before I come in'. <i>(1880,Out in the Open</i>) [NOTES: 1880 T.H. Potts `Out in the Open' NZ Country Journal 12/195 (1898 Morris, 29),]
 
@@ -10036,7 +10036,7 @@
 
 ### bidi-bidi
  
-<b>1</b> <i>n.</i> (Rural) [alteration of piripiri] a burred weed of the Acaena spp. that flaws fleecewool and that was used by colonists to augment tea leaves. (See [also biddy-bid](../A#also-biddy-bid))
+<b>1</b> <i>n.</i> (Rural) [alteration of piripiri] a burred weed of the Acaena spp. that flaws fleecewool and that was used by colonists to augment tea leaves. (See [also biddy-bid](b-bla.md#biddy-bid))
 
 >  I would be greatly obliged if you would let me know through your Journal if there is any known method of eradicating 'bidabid.' <i>(Jan 15, 1912,NZ Journal of Agriculture,81</i>)
 
@@ -11371,7 +11371,7 @@
 
 ### billy tea
  
- <i>n.</i> tea made in a billy [--[Cf description in 1945 Simpson If You'd Care to Know 99-100 The billy is filled with water and suspended over a fire ... When the water boils, the tea is popped in, the lid is clamped down to confine the flavour, and the billy is removed from the fire. A few minutes is allowed for the brew to `draw', and there is your tea in the Australian bush fashion. Maybe there is no sugar in it, and of a certainty there is no milk or lemon; you take this liquor straight and you take it hot, although the temperature of the day may be a hundred in the shade.] W. Ramson: common in Aust., also a trade name; nf W3.] Tea made in a billy over a fire, tea made by tossing a handful of tea-leaves into a billy of water on <i>the boil (used often with the epithet</i> black,<i> either defining</i> tea from the strength of the tea made judged by its colour); or <i>billy</i> from its open-fire blackened appearance: cf [1864 Apr 16 Otago Witness in 1976 Veitch Clyde on the Dunstan 29-30 Heavily swagged diggers and laden horses whose swags consist of all the household goods of a mining party, from the black billy which boils the tea, to the tom cat which kills the rats and mice.]] (See [also boil the billy](../A#also-boil-the-billy))
+ <i>n.</i> tea made in a billy [--[Cf description in 1945 Simpson If You'd Care to Know 99-100 The billy is filled with water and suspended over a fire ... When the water boils, the tea is popped in, the lid is clamped down to confine the flavour, and the billy is removed from the fire. A few minutes is allowed for the brew to `draw', and there is your tea in the Australian bush fashion. Maybe there is no sugar in it, and of a certainty there is no milk or lemon; you take this liquor straight and you take it hot, although the temperature of the day may be a hundred in the shade.] W. Ramson: common in Aust., also a trade name; nf W3.] Tea made in a billy over a fire, tea made by tossing a handful of tea-leaves into a billy of water on <i>the boil (used often with the epithet</i> black,<i> either defining</i> tea from the strength of the tea made judged by its colour); or <i>billy</i> from its open-fire blackened appearance: cf [1864 Apr 16 Otago Witness in 1976 Veitch Clyde on the Dunstan 29-30 Heavily swagged diggers and laden horses whose swags consist of all the household goods of a mining party, from the black billy which boils the tea, to the tom cat which kills the rats and mice.]] (See [also boil the billy](bla-bri.md#boil-the-billy))
 
 >  <b>HYDE</b> Starkie ... was off again - not entirely discouraged, for he had eggs, bacon, and billy tea in his stomach and [pounds]26 in his pocket. <i>Ibid.</i> 70 Rannock fed his prison labour on honest bush food: fresh meat, billy tea, enormous flat damper scones cooked on the three-legged camp oven. <i>(1936,Passport to Hell,50</i>)
 
@@ -11447,7 +11447,7 @@
 
 ### billy tin
  
- <i>n.</i> (See [also tin billy](../A#also-tin-billy))
+ <i>n.</i> (See [also tin billy](ten-tot.md#tin-billy))
 
 >  <b>MYERS</b> ... she was on her way across the paddocks, carrying [35] the `Billy'-tin and the basket of good things for tea. <i>(1941,Valiant Love,34</i>) [NOTES: [Mrs Myers spells always with a cap B., probably mistakenly thinking thinking it derived from the proper noun, Billy.]]
 

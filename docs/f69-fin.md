@@ -710,7 +710,7 @@
 
 ### fair dos
  
- <i>exclam.</i> indicating a request for fair play; or ironically) doubt at an exaggeration. [[Spec. or extended sense of fair equitable, reasonable. cf OED2 aj 10.]] (See [also fair go](../A#also-fair-go))
+ <i>exclam.</i> indicating a request for fair play; or ironically) doubt at an exaggeration. [[Spec. or extended sense of fair equitable, reasonable. cf OED2 aj 10.]] (See [also fair go](f69-fin.md#fair-go))
 
 >  <b>CHAMIER</b> [Sailor Jack speaks] He cut right under me again. `Fair doos! you hamimal!' says I. And with that, hup I jumps and goes for him straight, and we had a set to. <i>(1891,Philosopher Dick,140</i>)
 
@@ -1082,7 +1082,7 @@
 
 
  
- <i>n.</i> see cit. 1933. [also stockwhip (station)] (See [also stockwhip](../A#also-stockwhip))
+ <i>n.</i> see cit. 1933. [also stockwhip (station)] (See [also stockwhip](spa-sys.md#stockwhip))
 
 >  Fall ... (2) A plain strip of leather at the end of the lash of a whip to which the cracker is attached. (C.) <i>(Oct 14, 1933,Press, The,15</i>) [NOTES: (Acland Gloss.)]
 
@@ -1192,7 +1192,7 @@
 
 ### falling
  
- <i>n.</i> tree-felling (See [also bush-falling](../A#also-bush-falling))
+ <i>n.</i> tree-felling (See [also bush-falling](bri-byo.md#bush-falling))
 
 >  <b>MURRY</b> For the falling, splitting and cross-cutting of his posts and rails, he will find it again an advantage to get a mate. <i>(1866,Description Province Southland,29</i>)
 
@@ -1513,7 +1513,7 @@
 
 ### fanging
  
- <i>n.</i> speeding, hooning (See [fang verb](../F#fang-verb))
+ <i>n.</i> speeding, hooning (See [fang verb](f69-fin.md#fang))
 
 >  Cross-cultural differences mean the Germans can't understand the New Zealanders' passion for what the hacks call "fanging" - basically sophisticated hooning. <i>(May 26, 2001,Dominion,13</i>)
 
@@ -1663,7 +1663,7 @@
 
 ### fantailed flycatcher
  
- <i>n.</i> fantail [also fantail flycatcher] (See [also flycatcher](../A#also-flycatcher))
+ <i>n.</i> fantail [also fantail flycatcher] (See [also flycatcher](fin-fly.md#flycatcher))
 
 >  The Fan-tailed Flycatcher (<i>Rhipidura flabellifera</i>) is the commonest. ... The Black Flycatcher (<i>R. melanura</i>) belongs exclusively to the South. <i>(1869,TrNZI,1/III/10</i>) [NOTES: (Buller Ornithology)]
 
@@ -3694,7 +3694,7 @@
 
 ### Fell engine
  
- <i>n.</i> (See [also Fell locomotive](../A#also-fell-locomotive))
+ <i>n.</i> (See [also Fell locomotive](f69-fin.md#fell-locomotive))
 
 >  <b>McKEON</b> It was the job of the Fell engines on the downward journey to grip this rail and prevent the train from gathering too much momentum. <i>(1971,Fruitful Years, The,15</i>)
 
@@ -4287,7 +4287,7 @@
 
 
  
- <i>n.</i> as simplex, or as common fern applied to a plant of open spaces, usu. <i>Pteridium esculentum</i>, =bracken; often {?occas.] to <i>Paesia scaberula</i>, ring fern (q.v. ?2.?. below); occas. to <i>Blechnum spp. </i>. See also bracken, fern-tree, hymenophyllum, lycopodium, para, polypody, ponga, Prince of Wales feathers, spleenwort [prob out], Cf. fire in the fern; land of ferns. See further 1989 Brownsey and Smith-Dodsworth New Zealand Ferns and Allied Plants. (See [also tree fern](../A#also-tree-fern))
+ <i>n.</i> as simplex, or as common fern applied to a plant of open spaces, usu. <i>Pteridium esculentum</i>, =bracken; often {?occas.] to <i>Paesia scaberula</i>, ring fern (q.v. ?2.?. below); occas. to <i>Blechnum spp. </i>. See also bracken, fern-tree, hymenophyllum, lycopodium, para, polypody, ponga, Prince of Wales feathers, spleenwort [prob out], Cf. fire in the fern; land of ferns. See further 1989 Brownsey and Smith-Dodsworth New Zealand Ferns and Allied Plants. (See [also tree fern](tot-tyr.md#tree-fern))
 
 >  `... instead of bread they eat the roots of a kind of Fern <i>Pteris crenulata</i>, very like that which grows upon our commons in England.' [fn] The common N.Z. bracken fern, <i>Pteridium aquilinium</i> var. <i>esculentum</i> (Forst.) <i>(Oct 21, 1769,Banks Journal,1/416,1962 ed.</i>)
 
@@ -4639,7 +4639,7 @@
 
 ### fern-pilot
  
- <i>n.</i> the catch-fly (See [also fern-herald](../A#also-fern-herald))
+ <i>n.</i> the catch-fly (See [also fern-herald](f69-fin.md#fern-herald))
 
 >  <b>HUTCHINSON</b> `fern-pilot' or `fern-herald', as the catch-fly is sometimes called. <i>(1947,At Omatua's Fireside,121</i>)
 
@@ -5751,7 +5751,7 @@
 
 ### find (the) colour
  
- <i>phr.</i> to discover gold [goldmining] (See [also colour](../A#also-colour))
+ <i>phr.</i> to discover gold [goldmining] (See [also colour](chi-con.md#colour))
 
 >  <b>WALKER</b> (Dunstan diggings) prospected [sic l.c.] about 2 miles down the bank of the river, opened a hole. Tuesday 9th bottomed the hole, found colour, ... <i>(Jan 8, 1863,Journal and Letters (Walker)</i>)
 

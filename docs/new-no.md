@@ -282,7 +282,7 @@
 
 
  
- <i>n.</i> the country (See [cf MAORILAND](../C#cf-maoriland),[ENZED](ens-eye.md#enzed))
+ <i>n.</i> the country (See [cf MAORILAND](m-mar.md#maoriland),[ENZED](ens-eye.md#enzed))
 
 >  The name <i>New Zealand</i> is sometimes wrongly attributed to Tasman himself. <i>(Aug 2000,NZWords,4 : 1</i>)
 
@@ -1151,7 +1151,7 @@
 
 ### New Zealand Natives
  
- <i>n.</i> a touring rugby team 1888-89 (See [also Native Team](../A#also-native-team))
+ <i>n.</i> a touring rugby team 1888-89 (See [also Native Team](n-new.md#native-team))
 
 >  The same correspondent also wants to knowwho paid the expenses of the 1888-89 NewZealand Native Rugby Union's team to theBritish Isles and Australia... The NewZealand Natives team's tour was organisedby J.A. Warbrick. <i>(May 20, 1950,Southern Cross (Wgton),10</i>)
 
@@ -1556,7 +1556,7 @@
 
 ### New Zealand thorn
  
- <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See [also native thorn](../A#also-native-thorn))
+ <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See [also native thorn](n-new.md#native-thorn))
 
 >  The spines of the Tumatakuru, or New Zealand Thorn, <i>(Discaria Toumatou,) </i>were sometime [sic] used for tattooing ... <i>(1869,TrNZI,1/III/37</i>) [NOTES: (Colenso Botany North Isd)]
 
@@ -2662,7 +2662,7 @@
 
 ### ngoiro
  
- <i>n.</i> Williams 234 <i>Ngo[o]iro</i> ... 3. Young gulls, karoro.: (See [karoro; southern black-backed gull](../K#karoro;-southern-black-backed-gull))
+ <i>n.</i> Williams 234 <i>Ngo[o]iro</i> ... 3. Young gulls, karoro.: (See [karoro](k-kea.md#karoro); [southern black-backed gull](sho-spa.md#southern-black-backed-gull))
 
 >  The dissimilarity in appearance of immature gulls and their elders prompted Maori to give fully grown birds one name - karoro - and juveniles another - ngoiro. <i>(May 2005,NZ Geographic,73 / 47</i>)
 
@@ -2799,7 +2799,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](hea-hom.md#hillpole),[hillstick; mustering stick; mustering pole; rakau](../H#hillstick;-mustering-stick;-mustering-pole;-rakau))
+<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](hea-hom.md#hillpole),[hillstick](hea-hom.md#hillstick); [mustering stick](mob-mys.md#mustering-stick); [mustering pole](mob-mys.md#mustering-pole); [rakau](ra-red.md#rakau))
 
 >  <b>NEWTON</b> The high-country musterer covers a lot of dangerous country, day after day, and with nothing to aid him but his nibby or walking stick. <i>(1964,Straggle Muster,94</i>)
 
@@ -2901,7 +2901,7 @@
 
 ### nigger
  
- <i>n.</i> an abusive and contemptuous term for MAORI relatively rare (at least in written record) since the Land Wars of the 1860's, when it was especially frequent among Taranaki settlers, regimental soldiers (?fresh from India and other colonial venues) In theRichmond-Atkinson Papers (1960), up to 1860, except for one use by Jane Maria (1860 July 171/618) and one by H. Ronalds in his Diary of the Taranaki War (1860 Mar. 9, 1/535), it seems the personal use of A.S. Atkinson all in his private journal and not in his `public' letters. His first use is Aug 18, 1855 (see quote), thence 1856 June 10, with two more `playful' uses of negroes, the first curious (1858 Sep 19, I-429 `Consulted with Maria whether it would be well to go among the Negroes for six months to learn Maori'), the second 1859 Mar 8 I-452 `Attended conference between Negroes and Governor'. [(obsolesc offensive)] (See [also NEGRO; HORI; BLACK JOB](../A#also-negro;-hori;-black-job),[BROWN JOB](../B#brown-job))
+ <i>n.</i> an abusive and contemptuous term for MAORI relatively rare (at least in written record) since the Land Wars of the 1860's, when it was especially frequent among Taranaki settlers, regimental soldiers (?fresh from India and other colonial venues) In theRichmond-Atkinson Papers (1960), up to 1860, except for one use by Jane Maria (1860 July 171/618) and one by H. Ronalds in his Diary of the Taranaki War (1860 Mar. 9, 1/535), it seems the personal use of A.S. Atkinson all in his private journal and not in his `public' letters. His first use is Aug 18, 1855 (see quote), thence 1856 June 10, with two more `playful' uses of negroes, the first curious (1858 Sep 19, I-429 `Consulted with Maria whether it would be well to go among the Negroes for six months to learn Maori'), the second 1859 Mar 8 I-452 `Attended conference between Negroes and Governor'. [(obsolesc offensive)] (See [also NEGRO](n-new.md#negro); [HORI](hom-hyp.md#hori); [BLACK JOB](b-bla.md#black-job),[BROWN JOB](../B#brown-job))
 
 >  <b>BLACKLEY</b> It was only when a number of new settlersin the district, mostly low class Irish,began to exhibit their inhospitabilitytowards the 'niggers', as they calledthem, that those 'niggers' began to do soalso to the whiteman. <i>(1992,Art of Alfred Sharpe, The,29</i>) [NOTES: From 1888 SHARPE in Newcastle Morning Herald]
 
@@ -2968,7 +2968,7 @@
 
 
  
-<b>2</b> <i>n.</i> an offensive term of abuse for a Polynesian (See [cf coconut](../C#cf-coconut))
+<b>2</b> <i>n.</i> an offensive term of abuse for a Polynesian (See [cf coconut](chi-con.md#coconut))
 
 
 
@@ -3853,7 +3853,7 @@
 
 ### niniwa
  
- <i>n.</i> <i>Niwa</i>. ... niniwa ... <i>Gaultheria oppositifolia</i> a shrub (See [also tarawera](../A#also-tarawera),[Taupo snowberry](../T#taupo-snowberry))
+ <i>n.</i> <i>Niwa</i>. ... niniwa ... <i>Gaultheria oppositifolia</i> a shrub (See [also tarawera](t-ten.md#tarawera),[Taupo snowberry](../T#taupo-snowberry))
 
 >  <b>MARTIN</b> <i>Gaultheria oppositifolia</i> Niniwa or Tarawera Snowberry. <i>(1961,Flora NZ,235,1929 ed.</i>)
 

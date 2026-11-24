@@ -692,7 +692,7 @@
 
 ### lederall
  
- <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](../L#leadenall-(lederall-sic-in-paul?)))
+ <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](lay-liv.md#leadenall)))
 
 >  <b>PAUL et al.</b> [index to common names 283-293] lederall 2049 <i>(1987,Fishes: A Bibliography</i>)
 
@@ -1162,7 +1162,7 @@
 
 ### lemon sole
  
- <i>n.</i> a common NZ flatfish. (See [also lemon](../A#also-lemon))
+ <i>n.</i> a common NZ flatfish. (See [also lemon](lay-liv.md#lemon))
 
 >  <b>BURTON</b> These much sought-after but relatively rare flatfish [flounder and sole] are generally found on sandy bottoms of shallow inshore areas. There are eight commercial species in New Zealand : the sand flounder, yellowbelly flounder, greenback flounder, black flounder, lemon sole, common sole, brill and turbot. <i>(1982,Two Hundred Years of NZ Food & Cookery,73</i>)
 
@@ -1621,7 +1621,7 @@
 
 ### ley
  
- <i>n.</i> (See [Compare lea](../C#compare-lea))
+ <i>n.</i> (See [Compare lea](lay-liv.md#lea))
 
 >  <b>LEVY</b> ... the term `ley' is used to denote pastures established to maintain themselves over stated periods of time. Thus we have the long-duration leys, short-duration leys, and temporary leys. <i>(1951,Grasslands of NZ,66,1970 ed.</i>)
 

@@ -2441,7 +2441,7 @@
 
 
  
- <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](../A#also-top-hand-(sc.-a-sawyer).-1.-(mainly-pl)-also),[bush hand](bri-byo.md#bush-hand),[old hand](o-on.md#old-hand),[station hand](spa-sys.md#station-hand))
+ <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](ten-tot.md#top-hand).-1.-(mainly-pl)-also),[bush hand](bri-byo.md#bush-hand),[old hand](o-on.md#old-hand),[station hand](spa-sys.md#station-hand))
 
 >  TO CARPENTERS & JOiNERS WANTED, TWO GOOD HANDS in the above line. <i>(Feb 22, 1851,Lyttelton Times,1</i>)
 
@@ -3656,7 +3656,7 @@
 
 ### harakeke
  
- <i>n.</i> the NZ flax <i>Phormium tenax</i> [also known as harakeke, whararahi or swamp flax] (See [also swamp flax](../A#also-swamp-flax))
+ <i>n.</i> the NZ flax <i>Phormium tenax</i> [also known as harakeke, whararahi or swamp flax] (See [also swamp flax](spa-sys.md#swamp-flax))
 
 >  There are two species: Phormium tenax, also known as harakeke, whararahi or swamp flax; and Phormium cookianum, also known as wharariki or mountain flax. ... Harakeke can be differentiated from wharariki by its larger size and seed pods. <i>(Apr 22, 2006,Dominion Post,indulgence (supplement) /20</i>)
 
@@ -4025,13 +4025,13 @@
 
 
  
-<b>2</b> <i>n.</i> Paesia scaberula (See [also silver king](../A#also-silver-king))
+<b>2</b> <i>n.</i> Paesia scaberula (See [also silver king](sho-spa.md#silver-king))
 
 >  <b>HiLGENDORF</b> HARD FERN (<i>Paesia scaberula</i>), called also pig fern [ring fern], and silver fern, is abundant in both islands, ... <i>(1926,Weeds of New Zealand,19,1967 ed.</i>)
 
 ### hard graft
  
- <i>n.</i> (See [see graft](../S#see-graft))
+ <i>n.</i> (See [see graft](go-gra.md#graft))
 
 >  For ian Ferguson and the other five Olympic canoeists, the preparation for the Games has been hard graft twice a day, seven days a week. <i>(Oct 7, 2000,Listener (New Zealand Listener),12</i>)
 
@@ -6514,7 +6514,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [sheep dogs and dog trials] a run by a heading dog. (See [short head; long head](../S#short-head;-long-head))
+<b>1</b> <i>n.</i> (Rural) [sheep dogs and dog trials] a run by a heading dog. (See [short head](sho-spa.md#short-head); [long head](liv-lyn.md#long-head))
 
 >  <b>DAViS</b> i knew that in the Long Head event, when a dog had run up the hill and reached a position behind the mob, his owner had to stop him in order to constitute a proper "head", and he could not go on with the business of bringing the sheep down towards him in the "draw" until the judge gave him a wave to carry on. <i>(1962,Mutton on the Menu,79</i>)
 

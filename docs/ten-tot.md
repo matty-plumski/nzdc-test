@@ -1692,7 +1692,7 @@
 
 ### thresher shark
  
- <i>n.</i> also called mango ripi, a shark noted for the large upper fluke on its tail (See [also sea-fox](../A#also-sea-fox))
+ <i>n.</i> also called mango ripi, a shark noted for the large upper fluke on its tail (See [also sea-fox](sa-sho.md#sea-fox))
 
 >  <i>In Account of the Alopias Vulpes, Thresher, or Fox Shark; by</i> G. WILLIAMS, <i>Esq.</i> .. On examination, the fish proved to be a male <i>Alopias Vulpes</i>, or Thresher, known also by the names, Fox Shark, Sea Fox, and Sea Ape. <i>(Jun 8, 1870,Nelson Examiner and New Zealand Chronicle,3</i>)
 
@@ -2072,7 +2072,7 @@
 
 ### thrush
  
- <i>n.</i> any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See [also piopio](../A#also-piopio),[shrike thrush](../S#shrike-thrush))
+ <i>n.</i> any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See [also piopio](per-pop.md#piopio),[shrike thrush](../S#shrike-thrush))
 
 >  <b>FORSTER</b> We landed & ... shot a Thrush [[ed. fn] <i>Turdus ochrotarsus</i> of <i>Descr. Anim</i>.,<i>Ibid.</i> 2/269 The male & female of a small Thrush [[ed. fn] <i>Turdus minutus </i>of <i>Descr. Anim</i>. p.83; ... Now the Yellow-breasted Tit ...] was shot, which we hitherto had taken for a variety of the small yellow legged Thrush, commonly called Robin by our Ship's-crew; ... <i>(Mar 27, 1773,Resolution Journal of J.R. Forster, The,2/240</i>)
 
@@ -2246,7 +2246,7 @@
 
 ### ti
  
- <i>n.</i> cabbage tree [ORIGIN: Maori, The form <i>ti-tree </i> often leads to confusion with TEA-TREE (=MANUKA) and possibly underlies the spellings <i>ti-tree, titri </i> for <i>tea-tree </i>. (But see TI-SHRUB for distinction from MANUKA] (See [also ti palm](../A#also-ti-palm))
+ <i>n.</i> cabbage tree [ORIGIN: Maori, The form <i>ti-tree </i> often leads to confusion with TEA-TREE (=MANUKA) and possibly underlies the spellings <i>ti-tree, titri </i> for <i>tea-tree </i>. (But see TI-SHRUB for distinction from MANUKA] (See [also ti palm](ten-tot.md#ti-palm))
 
 >  The name "cabbage" tree seems to have been applied to the ti because the leaf buds provided for the early settlers a substance that could be cooked and eaten in the place of green vegetables. <i>(1945,Korero (AEWS Background Bulletin),III/1 : 13</i>)
 
@@ -2466,7 +2466,7 @@
 
 ### ti-palm
  
- <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](../A#also-ti),[ti-ti palm](ten-tot.md#ti-ti-palm))
+ <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](ten-tot.md#ti),[ti-ti palm](ten-tot.md#ti-ti-palm))
 
 >  <b>SEWELL</b> The Chapman's house is about half a mile from the River bank, with nothing to mark it but a perfect grove of those Ti-palms. <i>(Mar 12, 1856,Journal,210</i>) [NOTES: in McIntyre (1980) Sewell Journal 1953-1856]
 
@@ -2526,7 +2526,7 @@
 
 ### ti-ti palm
  
- <i>n.</i> ti, cabbage tree [ti-palm, see] (See [also ti](../A#also-ti))
+ <i>n.</i> ti, cabbage tree [ti-palm, see] (See [also ti](ten-tot.md#ti))
 
 >  <b>DRURY</b> TREES [MET WITH IN PELORUS]. Ti - Ti palm or Ti bush, common everywhere. Supplejacks - Karea of natives, ... <i>(1855,Sailing Alone,67</i>)
 
@@ -2830,7 +2830,7 @@
 
 ### tie-up fence
  
- <i>n.</i> (See [also taiepa](../A#also-taiepa))
+ <i>n.</i> (See [also taiepa](t-ten.md#taiepa))
 
 >  <b>NESFIELD</b> A large Hau Hau flag-staff stood in an enclosure, ... and twenty or thirty whares with their usual `tie-up' fences around them formed the outside Pah. <i>(1881,Chequered Career,43</i>)
 
@@ -3417,7 +3417,7 @@
 
 ### tiki
  
- <i>v.</i> elliptical for tiki-tour (See [tiki tour n](../T#tiki-tour-n),[tiki-tour v](../T#tiki-tour-v))
+ <i>v.</i> elliptical for tiki-tour (See [tiki tour n](ten-tot.md#tiki-tour),[tiki-tour v](ten-tot.md#tiki-tour))
 
 >  I loved watching travel.co hosts Petra Bagust and Dean Cornish tiki-ing about the world. <i>(Dec 29, 2002,Sunday Star Times,D11</i>) [NOTES: [Jo McCarroll]]
 
@@ -3648,7 +3648,7 @@
 
 ### tilter
  
- <i>n.</i> (Rural) a harvesting machine. (See [also back delivery](../A#also-back-delivery))
+ <i>n.</i> (Rural) a harvesting machine. (See [also back delivery](b-bla.md#back-delivery))
 
 >  <b>STUDHOLME</b> It took a lot of men to work the old back-delivery machines or 'tilters' which looked rather like grass-mowers. <i>(1940,Te Waimate,174</i>)
 
@@ -3937,7 +3937,7 @@
 
 ### tin
  
- <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](../T#tinny-adj))
+ <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](ten-tot.md#tinny))
 
 
 
@@ -5160,7 +5160,7 @@
 
 ### tit
  
- <i>n.</i> teat [ca1935 Havelock children's rhyme Johnny come milk the bull,/Only one tit to pull:/Pulled the wrong tit/Got covered in shit,/O Johnny come milk the bull.] (See [also pussy's tit](../A#also-pussy's-tit))
+ <i>n.</i> teat [ca1935 Havelock children's rhyme Johnny come milk the bull,/Only one tit to pull:/Pulled the wrong tit/Got covered in shit,/O Johnny come milk the bull.] (See [also pussy's tit](pop-pyo.md#pussys-tit))
 
 >  <b>BROWN</b> [The cockies] labour at the `tits'. <i>(1900,Lay of Bantry Bay,32,1917 ed.</i>)
 
@@ -5676,7 +5676,7 @@
 
 ### tituriwhatu-pukunui
  
- <i>n.</i> [red breasted plover] (See [also tuturiwhatu-pukunui](../A#also-tuturiwhatu-pukunui))
+ <i>n.</i> [red breasted plover] (See [also tuturiwhatu-pukunui](tot-tyr.md#tuturiwhatu-pukunui))
 
 >  CHARADRIUS OBSCURUS, Gml. Tituriwhatu-pukunui. Red-breasted Plover. <i>(1870,TrNZI,2/68</i>) [NOTES: (Potts Birds)]
 
@@ -5696,7 +5696,7 @@
 
 ### tiver
  
- <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](../A#also-taewa),[tawai](t-ten.md#tawai))
+ <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](t-ten.md#taewa),[tawai](t-ten.md#tawai))
 
 >  <b>MARSDEN</b> [The old chief] told us he had seen three generations and was in the middle life when the first ship came to New Zealand. The captain's name was Stivers. [fn] <i>Sta[?]ivers</i>, hence another name for the potato, <i>taewa</i>, since he apparently supplied some seed.] <i>(Oct 20, 1819,Letters & Journals of Samuel Marsden,208,1932 ed.</i>)
 
@@ -6854,7 +6854,7 @@
 
 ### tohunga
  
- <i>n.</i> a (Maori) priest or gifted or learned person; a teacher, faith-healer, doctor, or wise man (often in English contexts, `medicine man') [ORIGIN: Maori] (See [also priest](../A#also-priest),[wizard](../W#wizard))
+ <i>n.</i> a (Maori) priest or gifted or learned person; a teacher, faith-healer, doctor, or wise man (often in English contexts, `medicine man') [ORIGIN: Maori] (See [also priest](pop-pyo.md#priest),[wizard](../W#wizard))
 
 >  <b>COLLINS</b> ?explanation Etang-a-te[acute]da Eti-ket-ti-ca, means a principal chief, or a man in very great authority. ... Etanga-roa, or E-ta-hon-ga, is a priest; whose authority in many cases is equal, and in some superior to the Etiketica. <i>(1804,English Colony in NSW,344</i>)
 
@@ -7231,7 +7231,7 @@
 
 ### toitoi
  
- <i>n.</i> a univalve (See [also Cook's turban shell](../A#also-cook's-turban-shell))
+ <i>n.</i> a univalve (See [also Cook's turban shell](con-cyp.md#cooks-turban-shell))
 
 >  <b>POLACK</b> This repast consisted of three different kinds of shellfish, the large muscle, or uru roa [a-acute]; cockles, or the toi; and iwirou; ... <i>(1838,New Zealand  (Polack),1/93</i>)
 
@@ -8623,7 +8623,7 @@
 
 
  
- <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](../A#also-tutter))
+ <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](tot-tyr.md#tutter))
 
 
 
@@ -8848,7 +8848,7 @@
 
 ### top beat man
  
-<b>1</b> <i>n.</i> (Rural) a musterer who works in a mustering team at highest altitude. (See [high beat man; top man](../H#high-beat-man;-top-man))
+<b>1</b> <i>n.</i> (Rural) a musterer who works in a mustering team at highest altitude. (See [high beat man](hea-hom.md#high-beat-man); [top man](ten-tot.md#top-man))
 
 >  <b>MOMATIUK & EASTCOTT</b> The top beat man will go for the ridge, others for their assigned positions further down the slope. <i>(1980,High Country,69</i>)
 
@@ -8866,7 +8866,7 @@
 
 ### top man
  
- <i>n.</i> attrib use of TOP n1, of the highest level of a musterer's beat; or phs as a collocation TOP MAN, the musterer working the higher (or highest) beat (See [also top beat man](../A#also-top-beat-man))
+ <i>n.</i> attrib use of TOP n1, of the highest level of a musterer's beat; or phs as a collocation TOP MAN, the musterer working the higher (or highest) beat (See [also top beat man](ten-tot.md#top-beat-man))
 
 >  <b>HARPER</b> ... the top man <i>(1937,Windy Island,232</i>)
 
@@ -8875,7 +8875,7 @@
 
 
  
- <i>n.</i> (Rural) a musterer in a mustering team who has the beat at highest altitude. (See [top beat man; high beat man](../T#top-beat-man;-high-beat-man))
+ <i>n.</i> (Rural) a musterer in a mustering team who has the beat at highest altitude. (See [top beat man](ten-tot.md#top-beat-man); [high beat man](hea-hom.md#high-beat-man))
 
 >  <b>NEWTON</b> Although their instructions were to 'just scratch the bottoms' it was inevitable that the top man would have some long hard 'heads' catching sheep up in the basins. <i>(1949,High Country Days,70</i>)
 
@@ -9079,7 +9079,7 @@
 
 ### tope
  
- <i>n.</i> (See [also shark](../A#also-shark),[school shark](sa-sho.md#school-shark))
+ <i>n.</i> (See [also shark](sa-sho.md#shark),[school shark](sa-sho.md#school-shark))
 
 >  <b>HUTTON</b> 130. GALEUS CANIS. L. Tope. <i>(1872,Fishes,81</i>)
 
@@ -9222,7 +9222,7 @@
 
 ### topknotting
  
- <i>n.</i> (Rural) the cutting of headwool from sheep. (See [eye-wigging; eye-clipping](../E#eye-wigging;-eye-clipping))
+ <i>n.</i> (Rural) the cutting of headwool from sheep. (See [eye-wigging](ens-eye.md#eye-wigging); [eye-clipping](ens-eye.md#eye-clipping))
 
 >  Crutching rates are 10/- per 100 plus an extra 2/- per 100 for topknotting or eyewigging, plus 15 per cent. <i>(May 24, 1951,NZ Farmer,26</i>)
 
@@ -9275,7 +9275,7 @@
 
 ### topping
  
- <i>n.</i> informing (See [cf. top (on)](ten-tot.md#top-(on)),[top off v](../T#top-off-v))
+ <i>n.</i> informing (See [cf. top (on)](ten-tot.md#top-(on)),[top off v](ten-tot.md#top-off))
 
 >  The complainant's fiance said `topping' was a term the gang used to describe reporting a matter to the police. <i>(Dec 24, 1973,NZ Truth,3</i>)
 
@@ -9423,7 +9423,7 @@
 
 ### tor
  
- <i>n.</i> a marble (See [also taw](../A#also-taw))
+ <i>n.</i> a marble (See [also taw](t-ten.md#taw))
 
 >  Tor - the one you used for all shooting - a marble never to be given away <i>(1987,Alfredton,75</i>) [NOTES: Quote from c1935]
 
@@ -10052,7 +10052,7 @@
 
 ### Totalisator Agency Board
  
- <i>n.</i> the government sponsored betting agency (See [also TAB](../A#also-tab))
+ <i>n.</i> the government sponsored betting agency (See [also TAB](t-ten.md#tab))
 
 >  This was soon followed by the establishment of private bookmakers, known as 'bookies' who were to remain on the New Zealand scene, albeit illegally, until the Totalisator Agency Board was established in 1950. <i>(Jun 2005,NZ Memories,No. 54, p. 46</i>)
 
@@ -10371,7 +10371,7 @@
 
 ### totarra
  
- <i>n.</i> (See [see totara](../S#see-totara))
+ <i>n.</i> (See [see totara](ten-tot.md#totara))
 
 ### tote
  

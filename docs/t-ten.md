@@ -423,7 +423,7 @@
 
 ### taewa
  
- <i>n.</i> (See [also tiver](../A#also-tiver))
+ <i>n.</i> (See [also tiver](ten-tot.md#tiver))
 
 >  The indigenous Maori potato Taewa could be a hot new gourmet food on menus, thanks to trials now under way at seven sites around New Zealand... At their best, Taewa are a flavoursome root vegetable in colours ranging from purples to reds and yellows, which are traditionally boiled or steamed... [The research] builds on a number of other research projects already carried out into Taewa, which have helped identify four cultivars... These are called Tutaekuri, Kowiniwiri aka Karuparera, Moemoe and Huakaroro. <i>(Aug 28, 2003,Dominion Post,C7</i>)
 
@@ -1588,7 +1588,7 @@
 
 ### tailender
  
- <i>n.</i> (Rural) a bad doer or low producing farm animal or a lamb or calf born late in the lambing/calving season. (See [tail cow; tailend](../T#tail-cow;-tailend))
+ <i>n.</i> (Rural) a bad doer or low producing farm animal or a lamb or calf born late in the lambing/calving season. (See [tail cow](t-ten.md#tail-cow); [tailend](t-ten.md#tailend))
 
 >  <b>DU FAUR</b> It is of course necessary to see that the ewe lambs are not penalised, while the 'tail-enders' of this mob could be drenched, and either run with the wether lambs, or in a separate 'tail-ender' mob. <i>(1966,Sheep Farming for Profit,115</i>)
 
@@ -1966,7 +1966,7 @@
 
 ### tainui
  
- <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See [also golden tainui](../A#also-golden-tainui))
+ <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See [also golden tainui](go-gra.md#golden-tainui))
 
 >  <b>FEATON</b> POMADERRIS TAINUI (<i>Hector.</i>) ... Its specific name is accorded to it by the discoverer in honour of the great canoe, as that by which it is known by the Maoris. <i>(1889,Art Album NZ Flora,92</i>)
 
@@ -4276,7 +4276,7 @@
 
 ### tandem shed
  
- <i>n.</i> (See [also herringbone](../A#also-herringbone),[rotary](roa-ruv.md#rotary),[walk-through](../W#walk-through))
+ <i>n.</i> (See [also herringbone](hea-hom.md#herringbone),[rotary](roa-ruv.md#rotary),[walk-through](../W#walk-through))
 
 >  <b>McMEEKAN</b> The tandem shed consists of a set of bails which the cows stand in line, head to tail... on a platform 30 inches above the milker's level. <i>(1960,Grass to Milk,149</i>)
 
@@ -5107,7 +5107,7 @@
 
 ### Tangier pea
  
- <i>n.</i> (See [contrast everlasting pea](../C#contrast-everlasting-pea))
+ <i>n.</i> (See [contrast everlasting pea](ens-eye.md#everlasting-pea))
 
 >  <i>pea, Tangier </i>[s] <i>Lathyrus tingitanus</i> L. <i>Ibid.</i> 77 <i>Tangier pea</i> [s] <i>Lathyrus tingitanus</i> L. <i>(1969,Standard Common Names for Weeds,57</i>)
 
@@ -6284,7 +6284,7 @@
 
 ### tar-mark
  
- <i>n.</i> [tar mark or brand as label on farm animal] (See [see tar-brand](../S#see-tar-brand))
+ <i>n.</i> [tar mark or brand as label on farm animal] (See [see tar-brand](t-ten.md#tar-brand))
 
 >  LOST, last week, four fat COWS; and the week previous, one fat STEER with tar-mark on shoulder. <i>(Apr 20, 1883,Otago Daily Times,1</i>)
 
@@ -6997,7 +6997,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See [Taranaki gate; Taranaki huntaway; Taranaki drive](../T#taranaki-gate;-taranaki-huntaway;-taranaki-drive))
+<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See [Taranaki gate](t-ten.md#taranaki-gate); [Taranaki huntaway](t-ten.md#taranaki-huntaway); [Taranaki drive](t-ten.md#taranaki-drive))
 
 >  Referring to the use of the word 'Taranaki', Mr Loughnan says that it always seems to have suffered at the hands of South Islanders, who have used it as an adjective to refer to something makeshift, but which implies a definite degree of usefulness and ingenuity. The most common use of Taranaki is, of course, for the makeshift gate of wires and battens, which is a nightmare for the novice to open and shut. <i>(Feb 11, 1977,Press, The,19</i>)
 
@@ -7212,7 +7212,7 @@
 
 ### Taranaki steel
  
- <i>n.</i> (See [also New Zealand steel](../A#also-new-zealand-steel))
+ <i>n.</i> (See [also New Zealand steel](new-no.md#new-zealand-steel))
 
 >  <b>GORST</b> The landing [at Onehunga] used to be effected through heavy surf upon the black sand of the seashore....This sand is composed of a very fine haematite iron ore, which many projectors have made vain efforts to utilise commercially, and out of which a small quantity of what is known as `Taranaki Steel' is made, used chiefly for surgical instruments. <i>(1908,New Zealand Revisited,46</i>)
 
@@ -10796,7 +10796,7 @@
 
 ### TEAL
  
- <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](../S#see-also-tea))
+ <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](t-ten.md#tea))
 
 >  [Ansett] put the cat among the pigeons when he offered to buy Teal (the international fore-runner of Air New Zealand) for GBP2 million. <i>(Dec 6, 2000,Evening Post,24</i>)
 

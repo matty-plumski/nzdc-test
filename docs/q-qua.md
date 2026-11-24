@@ -102,7 +102,7 @@
 
 ### quad/farm quad
  
-<b>2</b> <i>n.</i> (Rural) a quad bike (which can be used on hill country) (See [also farm bike; four-wheeler](../A#also-farm-bike;-four-wheeler))
+<b>2</b> <i>n.</i> (Rural) a quad bike (which can be used on hill country) (See [also farm bike](f69-fin.md#farm-bike); [four-wheeler](fly-fuz.md#four-wheeler))
 
 >  <b>RENNIE</b> Later (in the 1960s) farm bikes, which were both cheaper and more convenient, were introduced. Following on from them there have been farm trikes and even farm quads. <i>(1988,Agriculture in NZ,22</i>)
 
@@ -128,7 +128,7 @@
 
 ### quail
  
- <i>n.</i> 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See [also Californian quail](../A#also-californian-quail))
+ <i>n.</i> 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See [also Californian quail](c-chi.md#californian-quail))
 
 >  [It is] the opinion of this meeting all applications for the introduction of quail or birds of a similar character should be refused unless the importations are consented to by the agricultural community. <i>(Aug 8, 1906,Otago Witness,24</i>)
 
@@ -185,7 +185,7 @@
 
 
  
- <i>n.</i> koreke (See [also New Zealand quail](../A#also-new-zealand-quail))
+ <i>n.</i> koreke (See [also New Zealand quail](new-no.md#new-zealand-quail))
 
 >  In his report on the zoology of the district he states that on the open plains he saw myriads of native quail, a bird which is now commonly believed to be extinct. <i>(Aug 6, 1910,Evening Post,13</i>)
 
@@ -284,7 +284,7 @@
 
 ### quarter
  
- <i>n.</i> [also (below) quarter loaf, quarter white] (See [contrast half-loaf](../C#contrast-half-loaf))
+ <i>n.</i> [also (below) quarter loaf, quarter white] (See [contrast half-loaf](h-hea.md#half-loaf))
 
 >  <b>TURNER</b> What is called a quarter (loaf of bread) in the South Island is a half a loaf in the North Island. <i>(1966,English Language in Aust. & NZ, The,178</i>)
 

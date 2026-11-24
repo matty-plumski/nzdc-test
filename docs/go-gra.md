@@ -630,7 +630,7 @@
 
 ### goatfish
  
- <i>n.</i> (See [also night walker](../A#also-night-walker))
+ <i>n.</i> (See [also night walker](new-no.md#night-walker))
 
 >  Bottom-dwelling goatfish use the barbels on their lower jaws to search for food among the sand and shells on the deck. <i>(Nov 1, 2003,Dominion Post,E9</i>)
 
@@ -1123,13 +1123,13 @@
 
 ### gold drift
  
- <i>n.</i> (See [cf drift](../C#cf-drift))
+ <i>n.</i> (See [cf drift](dou-dyn.md#drift))
 
 >  `Gold drift' consists of sand and gravel containing gold, and is formed by the action of running water in streams, or water in motion, as along a sea or lake beach. <i>(1869,TrNZI,371</i>) [NOTES: Hector]
 
 ### gold escort
  
- <i>n.</i> (See [also escort](../A#also-escort))
+ <i>n.</i> (See [also escort](ens-eye.md#escort))
 
 >  It is very impressive to see the close contact of violence and order indicated by the armed gold escort amidst the busy street of Sydney: a long phaeton with four seats one behind another, with moustachioed men in plain dresses intended for work, with glistening muskets and pistols, and perhaps a lady passenger in the middle, it is I suppose the gold carriage, and a van and rear-guard of horsemen attend this. <i>(Mar 31, 1854,Richmond-Atkinson Papers,1/146,1960 ed.</i>) [NOTES: (J.C.Richmond)]
 
@@ -1551,7 +1551,7 @@
 
 ### Golden Coast
  
-<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See [also Gold Coast](../A#also-gold-coast))
+<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See [also Gold Coast](go-gra.md#gold-coast))
 
 >  The Golden Coast has been dulled by leaden skies and as I write is in a sodden state. Month after month of what the Wellington watersiders call `wharfies' sunshine' have checked its growth. ... At the end of the war the Golden Coast was scattered with baches where Wellington people spent summer weekends. <i>(Oct 1963,Comment,17/11</i>)
 
@@ -1560,7 +1560,7 @@
 
 
  
-<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See [also Gold Coast](../A#also-gold-coast))
+<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See [also Gold Coast](go-gra.md#gold-coast))
 
 >  <b>REID</b> This was the first recognition of `the Golden Coast'. <i>(1884,Rambles on the Golden Coast,122</i>)
 
@@ -1969,7 +1969,7 @@
 
 ### goldsaving cloth
  
- <i>n.</i> [goldmining] (See [also blanket](../A#also-blanket))
+ <i>n.</i> [goldmining] (See [also blanket](bla-bri.md#blanket))
 
 >  <b>BLYTH</b> Gold Saving Table: A sloping surface covered with goldsaving cloth over which are placed slats to break up the wash and catch the heavier particles. <i>(1935,Gold Mining Year Book,11</i>)
 
@@ -2643,7 +2643,7 @@
 
 ### Goods and Services Tax
  
- <i>n.</i> (See [also GST](../A#also-gst))
+ <i>n.</i> (See [also GST](gra-gyp.md#gst))
 
 >  In the 1984 Budget the Government announced that it would introduce a Value Added Tax similar to that which exists in many other rich economies. Ours, more accurately described as a Goods and Services Tax, or GST, commences on October 1. <i>(Sep 27, 1986,Listener (New Zealand Listener),83</i>)
 
@@ -2692,7 +2692,7 @@
 
 
  
- <i>n.</i> an egg (See [also goog](../A#also-goog))
+ <i>n.</i> an egg (See [also goog](go-gra.md#goog))
 
 >  goog, googy n. (Coll.) an egg; whence full as a goog, drunk. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),9</i>)
 
@@ -2854,7 +2854,7 @@
 
 
  
- <i>n.</i> (See [also solan goose (=gannet)](../A#also-solan-goose-(=gannet)))
+ <i>n.</i> (See [also solan goose (=gannet)](sho-spa.md#solan-goose)))
 
 
 
@@ -3126,7 +3126,7 @@
 
 
  
- <i>adj.</i> having gorges (See [also gorgey](../A#also-gorgey))
+ <i>adj.</i> having gorges (See [also gorgey](go-gra.md#gorgey))
 
 >  <b>PASCOE</b> Some very ugley [sic] gorgy gaps are looming up at the head of the flat. <i>Ibid.</i> 205 But I could not get down ..., the creek being gorgy with a succession of waterfalls. <i>(1957,Mr Explorer Douglas,132</i>) [NOTES: 1891 Jan 29 C. Douglas Report to G. Roberts in 1957 Pascoe Mr Explorer Douglas 132]
 
@@ -3304,7 +3304,7 @@
 
 ### goulash
  
- <i>n.</i> A rough stew, carelessly concocted. [(Esp. trampers and boarding school.) ->1951 14 M 10 Wellington H.S. 22B GOOLASH (2) -->1951 14 M 14 St Bede's, Chch 22B GOULASH -->1953 16 M A30 Thames DHS 22B GOO-LASH -->1953 15 M A24 Thames DHS 22B GOULASH -->1953 15 M A27 Thames DHS 22B GOULASH (GOOLASH) -->1953 15 M A26 Thames DHS 22B GOULASH (GOOLASH)] (See [also goo](../A#also-goo))
+ <i>n.</i> A rough stew, carelessly concocted. [(Esp. trampers and boarding school.) ->1951 14 M 10 Wellington H.S. 22B GOOLASH (2) -->1951 14 M 14 St Bede's, Chch 22B GOULASH -->1953 16 M A30 Thames DHS 22B GOO-LASH -->1953 15 M A24 Thames DHS 22B GOULASH -->1953 15 M A27 Thames DHS 22B GOULASH (GOOLASH) -->1953 15 M A26 Thames DHS 22B GOULASH (GOOLASH)] (See [also goo](go-gra.md#goo))
 
 >  <b>JOHNSTON (ed)</b> ... remember that goulash we used to turn out up at the hut. <i>(1946,21 Years with Boots and Pack,38</i>)
 
@@ -4579,7 +4579,7 @@
 
 
  
- <i>n.</i> (See [also Poa](../A#also-poa))
+ <i>n.</i> (See [also Poa](per-pop.md#poa))
 
 >  (And) <i>Poa litorosa</i> poa-like fescue <i>(1880,Indigenous Grasses</i>)
 
@@ -4956,7 +4956,7 @@
 
 
  
- <i>n.</i> Kentucky blue grass. (See [also poor pretences](../A#also-poor-pretences))
+ <i>n.</i> Kentucky blue grass. (See [also poor pretences](per-pop.md#poor-pretences))
 
 >  <b>HAY</b> We used a mixture of poa pratensis, timothy, and Dutch clover, and [are] ... satisfied with the result. <i>(1882,Brighter Britain,1/187</i>)
 
@@ -5430,7 +5430,7 @@
 
 
  
- <i>n.</i> (See [also old man couch](../A#also-old-man-couch))
+ <i>n.</i> (See [also old man couch](o-on.md#old-man-couch))
 
 >  <b>TUCKETT</b> Like the narrow plains of the Waikauroa, it grows only the wiry tree grass or something [225] similar, and <i>Phormium tenax</i>, no aniseed, perennial groundsel, or milk thistle, and very little couchgrass, ... the prevailing species of trees are remo [rimu], totara, and tall manuka, all indicative of inferior soil.... The bush-like woods on the east side are of white birch, likewise no recommendation of the soil, but the chief objection to the district is, that the prairie soil affords scarcely any food for cattle ... it grows only the wiry tree grass [tussock] ... and <i>Phormium tenax</i> [flax], no aniseed, perennial groundsel, or milk thistle, and very little couch grass. <i>(May 24, 1844,Diary</i>) [NOTES: 1844 May 24 Tuckett Diary in 1898 Hocken Contributions 223-224]
 
@@ -5459,7 +5459,7 @@
 
 
  
- <i>n.</i> <i>Elymus apricus, E. rectisetus</i> (syn. <i>Agropyron scabrum), E tenuis</i> in Weeds 1984 (See [also tussock](../A#also-tussock),[blue; blue-grass](../B#blue;-blue-grass))
+ <i>n.</i> <i>Elymus apricus, E. rectisetus</i> (syn. <i>Agropyron scabrum), E tenuis</i> in Weeds 1984 (See [also tussock](tot-tyr.md#tussock),[blue](bla-bri.md#blue); [blue-grass](bla-bri.md#blue-grass))
 
 >  (And ) <i>Agropyron scabrum</i> blue wheat grass <i>(1880,Indigenous Grasses</i>)
 

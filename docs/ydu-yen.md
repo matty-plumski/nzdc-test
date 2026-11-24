@@ -458,7 +458,7 @@
 
 ### yellow-crowned parakeet
  
- <i>n.</i> a small parrot, Cyanoramphus auriceps, with red forehead and yellow crown (compare RED-CROWNED PARAKEET). [also yellow-head parakeet (1908 below)] (See [also Chatham Island yellow-crowned parakeet](../A#also-chatham-island-yellow-crowned-parakeet))
+ <i>n.</i> a small parrot, Cyanoramphus auriceps, with red forehead and yellow crown (compare RED-CROWNED PARAKEET). [also yellow-head parakeet (1908 below)] (See [also Chatham Island yellow-crowned parakeet](c-chi.md#chatham-island-yellow-crowned-parakeet))
 
 >  We have a yellow-head parakeet, which we have had for about seven years. <i>(Nov 25, 1908,Otago Witness,86</i>)
 
@@ -492,13 +492,13 @@
 
 ### yellow-eye
  
- <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, yellow-eyed penguin, hoiho] (See [also yellow-eyed penguin](../A#also-yellow-eyed-penguin))
+ <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, yellow-eyed penguin, hoiho] (See [also yellow-eyed penguin](ydu-yen.md#yellow-eyed-penguin))
 
 >  If we had not become aware of their plight, we would not have yellow-eyes on the mainland now. ... The yellow-eyes have a problem with chicks . <i>(Apr 3, 1988,Dominion Sunday Times,19</i>)
 
 ### yellow-eyed mullet
  
- <i>n.</i> (See [also mullet](../A#also-mullet))
+ <i>n.</i> (See [also mullet](mob-mys.md#mullet))
 
 >  Black cardinalfish, frostfish, ghost shark, ribaldo, rubyfish, sea perch, trumpeter, white warehou and yellow-eyed mullet have now been included... Other reductions to catch limits are to specific stocks of grey mullet, barracouta and oreo dory. <i>(Sep 12, 1998,Dominion,2</i>)
 
@@ -512,7 +512,7 @@
 
 ### yellow-eyed penguin
  
- <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, hoiho, yellow eye] (See [also yellow-eye](../A#also-yellow-eye))
+ <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, hoiho, yellow eye] (See [also yellow-eye](ydu-yen.md#yellow-eye))
 
 >  A variety which breeds exclusively on the New Zealand coast and its adjacent islands is the Yellow-eyed Penguin. <i>(Apr 14, 1920,Grey River Argus,6</i>)
 
@@ -780,7 +780,7 @@
 
 ### yellowtail
  
- <i>n.</i> Latris lineata, Forst. = TRUMPETER but applied to various sea fish (See [also yellowtail kingfish](../A#also-yellowtail-kingfish))
+ <i>n.</i> Latris lineata, Forst. = TRUMPETER but applied to various sea fish (See [also yellowtail kingfish](ydu-yen.md#yellowtail-kingfish))
 
 >  One of the most pleasant sights.. was a vast shoal of fish, known as yellow tails (latris lineata) which came along joyfully, so close as to touch each other, their heads slightly projecting above the water, and their mouths wide open, skimming the surface. <i>(Nov 5, 1887,Auckland Weekly News,7</i>)
 

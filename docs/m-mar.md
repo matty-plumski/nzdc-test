@@ -189,7 +189,7 @@
 
 ### machine shears
  
- <i>n.</i> (See [contrast blades](../C#contrast-blades))
+ <i>n.</i> (See [contrast blades](bla-bri.md#blades))
 
 >  <b>ACTON-ADAMS</b> <i>Shearing</i>: I have arranged with the Smoko Shearing Company of Wellington, to erect 10 machine shears on the western board of the shed. <i>(May 22, 1900,Letter</i>) [NOTES: 1900 May 22 Acton-adams Letter in 1969 McCaskill Molesworth 83]
 
@@ -801,7 +801,7 @@
 
 ### maga
  
- <i>n.</i> (See [manga (maka)](../M#manga-(maka)))
+ <i>n.</i> (See [manga (maka)](m-mar.md#manga)))
 
 ### Magellan shag
  
@@ -2639,7 +2639,7 @@
 
 ### make a smoke
  
- <i>phr.</i> to make a smoke signal [ca1952 Dec Hollyford Valley, Davie Gunn (advising tyro trampers) HWO `Make a smoke for the steamer at Greenstone [on Lake Wakatipu].'] (See [also put up (a) smoke](../A#also-put-up-(a)-smoke))
+ <i>phr.</i> to make a smoke signal [ca1952 Dec Hollyford Valley, Davie Gunn (advising tyro trampers) HWO `Make a smoke for the steamer at Greenstone [on Lake Wakatipu].'] (See [also put up (a) smoke](pop-pyo.md#put-up)-smoke))
 
 >  Arriving at last at the lake, we made a smoke as a signal for a canoe, and shortly afterwards had the satisfaction of seeing one approaching from Hiruharama; the Poihipi's pa, situated on the opposite side of the lake, which is here about five miles broad. <i>(Dec 2, 1857,Hawke's Bay Herald,2</i>)
 
@@ -3966,7 +3966,7 @@
 
 ### manga
  
- <i>n.</i> (See [munga (food)](../M#munga-(food)))
+ <i>n.</i> (See [munga (food)](mob-mys.md#munga)))
 
 
 
@@ -4384,7 +4384,7 @@
 
 ### mango tuatini
  
- <i>n.</i> white shark [ORIGIN: Maori] (See [also tuatini](../A#also-tuatini))
+ <i>n.</i> white shark [ORIGIN: Maori] (See [also tuatini](tot-tyr.md#tuatini))
 
 >  <b>DOOGUE & MORELAND</b> WHITE SHARK ... <i>Other names: Carcharodon carcharias</i>; great white shark, white pointer, man-eater; mango-tuatini (Maori). <i>(1966,Sea Anglers' Guide,185</i>)
 
@@ -4392,7 +4392,7 @@
 
 ### mangrove
  
- <i>n.</i> any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa (See [also manawa](../A#also-manawa))
+ <i>n.</i> any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa (See [also manawa](m-mar.md#manawa))
 
 >  <i>mangrove</i> n. a tree that grows on the muddy banks of estuaries. [Port. mangue, and E. grove] <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,7</i>)
 
@@ -4573,7 +4573,7 @@
 
 ### manoa
  
- <i>n.</i> (See [also monoao](../A#also-monoao))
+ <i>n.</i> (See [also monoao](mob-mys.md#monoao))
 
 ### manoao
  
@@ -4794,7 +4794,7 @@
 
 ### manuka
  
- <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See [also kanuka](../A#also-kanuka),[manuea](m-mar.md#manuea))
+ <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See [also kanuka](k-kea.md#kanuka),[manuea](m-mar.md#manuea))
 
 >  tea tree bush - man|nook [manuka] <i>(1826,Boultbee Journal,110</i>) [NOTES: also in 1826-28 Boultbee Vocabulary in 1979 Begg 283-]
 
@@ -6354,7 +6354,7 @@
 
 ### Maori celery
  
- <i>n.</i> wild or native celery, <i>Apium prostratum</i> (See [also native celery](../A#also-native-celery),[wild celery](../W#wild-celery))
+ <i>n.</i> wild or native celery, <i>Apium prostratum</i> (See [also native celery](n-new.md#native-celery),[wild celery](../W#wild-celery))
 
 >  <b>LAING & BLACKWELL</b> <i>Apium prostratum (The Prostrate Parsley)</i>... (Maori celery). <i>(1940,Plants of NZ,334</i>)
 
@@ -6518,7 +6518,7 @@
 
 ### Maori daphne
  
- <i>n.</i> (See [taranga; also daphne](../T#taranga;-also-daphne))
+ <i>n.</i> (See [taranga](t-ten.md#taranga); [also daphne](d-dif.md#daphne))
 
 >  <b>MARTIN</b> <i>Pimelea longifolia</i> Maori Daphne or taranga. <i>(1929,Flora NZ,235,1961 ed.</i>)
 
@@ -6570,7 +6570,7 @@
 
 ### Maori dog
  
- <i>n.</i> = kuri [also cunning as a Maori dog see also kuri, peropero] (See [also cunning as a Maori dog](../A#also-cunning-as-a-maori-dog))
+ <i>n.</i> = kuri [also cunning as a Maori dog see also kuri, peropero] (See [also cunning as a Maori dog](con-cyp.md#cunning-as-a-maori-dog))
 
 >  On a number of visits to Hauturu in the 1880s, the notorious tomb-robber and collector of rare bird skins Andreas Reischek reported Maori dogs and feral pigs wandering free all over the island <i>(Jan 2002,NZ Geographic,No. 55/23</i>)
 
@@ -6997,7 +6997,7 @@
 
 ### Maori huntaway
  
-<b>1</b> <i>n.</i> (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster. (See [Nelson huntaway; Taranaki huntaway](../N#nelson-huntaway;-taranaki-huntaway))
+<b>1</b> <i>n.</i> (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster. (See [Nelson huntaway](n-new.md#nelson-huntaway); [Taranaki huntaway](t-ten.md#taranaki-huntaway))
 
 >  <b>SCURR</b> Rolling stone to shift sheep:- Maori huntaway <i>(2000,Rabbiters' Glossary,1</i>)
 
@@ -7507,7 +7507,7 @@
 
 ### Maori oven
  
- <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](../C#cf-also-native-oven),[earth oven](e-eft.md#earth-oven),[see Williams)](../S#see-williams)))
+ <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](n-new.md#native-oven),[earth oven](e-eft.md#earth-oven),[see Williams)](../S#see-williams)))
 
 >  [photo caption] The potatoes being taken out of the Maori oven. <i>(Jan 14, 1903,Otago Witness,41</i>)
 
@@ -7671,7 +7671,7 @@
 
 ### Maori pigeon
  
- <i>n.</i> (Environment) (See [kereru; pigeon](../K#kereru;-pigeon))
+ <i>n.</i> (Environment) (See [kereru](kee-kiw.md#kereru); [pigeon](per-pop.md#pigeon))
 
 >  <i>ku[u]ku[u], also ku[u]kupa; Maori pigeon, see kereru[u]. </i> <i>(1946,Journal of the Polynesian Society,55/153</i>) [NOTES: Andersen Maori Words in English]
 
@@ -7885,7 +7885,7 @@
 
 ### Maori question
  
- <i>adj.</i> (See [cf Maori difficulty](../C#cf-maori-difficulty),[problem](../P#problem))
+ <i>adj.</i> (See [cf Maori difficulty](m-mar.md#maori-difficulty),[problem](../P#problem))
 
 >  <b>MACLEAN</b> However, every well-wisher of the Maori race must hail with satisfaction a spirit of enquiry among the Europeans, as to the Maori question, which must lead to a more full appreciation and just recognition of their social and political rights. <i>(Nov 3, 1860,Letter</i>) [NOTES: 1860 Nov 3 Maclean to F.E. Maning in 1940 Cowan Sir Donald Maclean 77]
 
@@ -7925,7 +7925,7 @@
 
 ### Maori rat
  
- <i>n.</i> the rat introduced by the Maori, also called kiore (See [also bush rat](../A#also-bush-rat))
+ <i>n.</i> the rat introduced by the Maori, also called kiore (See [also bush rat](bri-byo.md#bush-rat))
 
 >  <b>ROBERTS</b> ... I think it was the Norwegian rat, which had destroyed the Maori rat and overrun the country. It also caught quail, ground larks, grass birds, and anything else that came its way. <i>(Jun 1856,Diary</i>) [NOTES: 1856 June W.H.S. Roberts Diary in 1947 Beattie Early Runholding 31]
 
@@ -8723,7 +8723,7 @@
 
 ### Maori-phile
  
- <i>adj.</i> (See [cf. philo-Maori noun](../P#philo-maori-noun))
+ <i>adj.</i> (See [cf. philo-Maori noun](per-pop.md#philo-maori))
 
 >  For this we owe a great debt to Coates. The danger is that some day they will accuse him of being ultra Maori-phile. <i>(Oct 9, 1928,Na To Hoa Aroha,1/140</i>) [NOTES: (Ngata)]
 
@@ -8858,7 +8858,7 @@
 
 ### Maorified
  
- <i>adj.</i> (See [also Maorify](../A#also-maorify))
+ <i>adj.</i> (See [also Maorify](m-mar.md#maorify))
 
 >  <b>BULLER</b> They took the name of Pikopo. This no doubt was maorified from the Latin word <i>episcopos</i>. <i>(1878,Forty Years in NZ,295</i>)
 
@@ -9300,7 +9300,7 @@
 
 
  
- <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See [also mapauriki](../A#also-mapauriki),[maple](m-mar.md#maple))
+ <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See [also mapauriki](m-mar.md#mapauriki),[maple](m-mar.md#maple))
 
 >  <b>HOOKER</b> Mapau, <i>Col[enso]. Myrsine australis. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
 
@@ -9783,7 +9783,7 @@
 
 ### marblefish
  
- <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See [also granite trout](../A#also-granite-trout),[Maori chief](m-mar.md#maori-chief))
+ <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See [also granite trout](go-gra.md#granite-trout),[Maori chief](m-mar.md#maori-chief))
 
 >  APLODACTYLUS MEANDRATUS (Richardson). <i>Marble-fish; Keke</i>. Secured in deep water in the vicinity of kelp, and is sometimes taken in mullet-nets. <i>(Jun 1921,NZ Journal of Science & Technology,4/115</i>) [NOTES: Phillipps Notes on the Edible Fishes]
 

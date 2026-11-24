@@ -471,7 +471,7 @@
 
 ### great-moko
  
- <i>n.</i> great grandchild/grandchildren [-] (See [great-mokopuna; moko](../G#great-mokopuna;-moko))
+ <i>n.</i> great grandchild/grandchildren [-] (See [great-mokopuna](gra-gyp.md#great-mokopuna); [moko](mob-mys.md#moko))
 
 >  Much loved by her partner John Massey Wade; and children, Helen, Leeanne, Massey, Andre, Destri and Benjamin; and many, many mokopuna and great-moko. <i>(Nov 29, 2005,NZ Herald,C8</i>)
 
@@ -1700,7 +1700,7 @@
 
 ### grey warbler
  
- <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](../A#also-piripiri),[teetotum](t-ten.md#teetotum),[warchie](../W#warchie))
+ <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](per-pop.md#piripiri),[teetotum](t-ten.md#teetotum),[warchie](../W#warchie))
 
 >  The migratory shining cuckoo.. sometimes visits gardens where it may lay an egg in the nest of the grey warbler, another insect-eating native bird which can live and breed in the garden. <i>(May 2002,Forest & Bird,25</i>)
 
@@ -2191,7 +2191,7 @@
 
 ### grim dig
  
- <i>n.</i> (See [also dig](../A#also-dig))
+ <i>n.</i> (See [also dig](dig-dou.md#dig))
 
 >  ...the German translator appears to have been defeated by the term "Grim Dig"... <i>(Mar 7, 1987,Listener (New Zealand Listener),40</i>)
 
@@ -2540,7 +2540,7 @@
 
 ### grog-seller
  
- <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](../C#cf-grog-shop-keeper),[grog-vendor](gra-gyp.md#grog-vendor))
+ <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](gra-gyp.md#grog-shop-keeper),[grog-vendor](gra-gyp.md#grog-vendor))
 
 >  Of the others, the most part are following the occupation of grog-selling; ... but the grog seller has decidedly the most lucrative business ... <i>(Aug 9, 1834,NZ Independent,30,1979 ed.</i>)
 
@@ -4474,7 +4474,7 @@
 
 ### gully tree fern
  
-<b>2</b> <i>n.</i> <i>Cyathea cunninghamii</i> (See [also gully fern](../A#also-gully-fern))
+<b>2</b> <i>n.</i> <i>Cyathea cunninghamii</i> (See [also gully fern](gra-gyp.md#gully-fern))
 
 >  <b>F15</b> The Gully tree fern, another giant, might be easily confused with mamku [sic], were it not for its preference for damp valleys. <i>(Nov 30, 2002,Dominion Post</i>)
 
@@ -5692,7 +5692,7 @@
 
 ### gun
  
- <i>n.</i> an expert fast shearer, gun shearer; cf. ringer. ?Orig of gun n1. in big gun: .bd;see 1933 Acland: or go great guns [also gun shearer (station and farming)] (See [also gun shearer](../A#also-gun-shearer))
+ <i>n.</i> an expert fast shearer, gun shearer; cf. ringer. ?Orig of gun n1. in big gun: .bd;see 1933 Acland: or go great guns [also gun shearer (station and farming)] (See [also gun shearer](gra-gyp.md#gun-shearer))
 
 >  In contract sheds only fast men are welcomed by the `boss'. Some men who are what we term `guns,' are kept going all the season, and in many cases good honest shearers are cast off to make room for these `guns.' Of course, the `gun' shearer who comes along does not know that this has happened, as the `gun' shearers are as a rule good unionists, and would not demean themselves by `waiting for a death.' At the same time, the `boss' knows when the gun is cutting out, perhaps 200 miles away, and he knows from the other boss which way the `gun' is going, and everything is in readiness when he arrives at the shed. <i>(Oct 6, 1911,Maoriland Worker,31/17/1</i>)
 
@@ -6171,7 +6171,7 @@
 
 
  
- <i>n.</i> (Rural) the flexible drive-shaft of a shearing machine encased in a downtube. (See [chute; chimney; staircase](../C#chute;-chimney;-staircase))
+ <i>n.</i> (Rural) the flexible drive-shaft of a shearing machine encased in a downtube. (See [chute](chi-con.md#chute); [chimney](chi-con.md#chimney); [staircase](spa-sys.md#staircase))
 
 >  <b>SALISBURY</b> When I started up the motor I checked each of the four stands to make sure all was well when to my horror, all the guts on the shearing arms wound themselves backwards. <i>(1994,I Was So Lucky,148</i>)
 
@@ -6182,7 +6182,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See [chute; chimney; staircase](../C#chute;-chimney;-staircase))
+<b>1</b> <i>n.</i> (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See [chute](chi-con.md#chute); [chimney](chi-con.md#chimney); [staircase](spa-sys.md#staircase))
 
 >  <b>PORTER</b> Following up some deer, we had to drop into a small gut, just a step down and another up the other side. <i>(1970,Under the Nor'West Arch,61</i>)
 

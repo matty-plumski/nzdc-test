@@ -101,7 +101,7 @@
 
 ### head sherang
  
- <i>n.</i> an overseer or boss [aka head serang, big serang] (See [also sherang](../A#also-sherang))
+ <i>n.</i> an overseer or boss [aka head serang, big serang] (See [also sherang](sa-sho.md#sherang))
 
 >  Cut to a really old, on-his-last-legs head-sharang, brother and keeper of all sexual-spiritual knowledge who explains the meaning of having your cake and eating it too. <i>(Nov 27, 1999,Dominion,23</i>)
 
@@ -2346,7 +2346,7 @@
 
 ### heron
  
- <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane; kotuku](../A#also-crane;-kotuku),[matuku(-moana)](mar-moa.md#matuku(-moana)))
+ <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane](con-cyp.md#crane); [kotuku](kiw-kwi.md#kotuku),[matuku(-moana)](mar-moa.md#matuku(-moana)))
 
 >  <b>FORSTER</b> We saw two shags & white bird which removed from tree to tree ... it seemed to be a Heron. [ed. fn] White Heron ... <i>(Mar 29, 1773,Resolution Journal of J.R. Forster, The,2/243</i>)
 
@@ -2613,7 +2613,7 @@
 
 ### herringbone (milking) shed
  
- <i>n.</i> (See [also herringbone](../A#also-herringbone))
+ <i>n.</i> (See [also herringbone](hea-hom.md#herringbone))
 
 >  But the consequent increase in cow numbers would bring another problem - the farms' [<i>sic</i>] 40-bail herringbone milking shed would not be big enough to cope. <i>(Dec 8, 2005,Dominion Post,C9</i>)
 
@@ -3730,7 +3730,7 @@
 
 ### hillpole
  
-<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [mustering stick; hillstick; nibby; pole](../M#mustering-stick;-hillstick;-nibby;-pole))
+<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [mustering stick](mob-mys.md#mustering-stick); [hillstick](hea-hom.md#hillstick); [nibby](new-no.md#nibby); [pole](per-pop.md#pole))
 
 >  Boots and a hill pole are - along with a team of dogs - a high country musterer's stock in trade. <i>(Sep 1985,NZ Journal of Agriculture,43</i>)
 
@@ -3776,7 +3776,7 @@
 
 ### hillstick
  
- <i>n.</i> (Rural) a mustering stick. (See [hillpole; nibby; mustering stick; pole](../H#hillpole;-nibby;-mustering-stick;-pole))
+ <i>n.</i> (Rural) a mustering stick. (See [hillpole](hea-hom.md#hillpole); [nibby](new-no.md#nibby); [mustering stick](mob-mys.md#mustering-stick); [pole](per-pop.md#pole))
 
 >  <b>LOUGHNAN</b> hillstick: in Otago, a musterer's staff. <i>(1981,Loughnan Glossary,42</i>)
 
@@ -5673,7 +5673,7 @@
 
 ### holes
  
- <i>n.</i> a marbles game (See [also holesy](../A#also-holesy))
+ <i>n.</i> a marbles game (See [also holesy](hea-hom.md#holesy))
 
 >  Colin Houlbrooke recalled the two main areas for battle with marbles as being the sealed area for 'rings' and the dirt behind the shed for 'holes'. <i>(1987,Alfredton,75</i>) [NOTES: Refers to c1935]
 
@@ -6092,7 +6092,7 @@
 
 
  
- <i>n.</i> [attrib. uses] (See [also Home boat](../A#also-home-boat),[Homeboat](hom-hyp.md#homeboat))
+ <i>n.</i> [attrib. uses] (See [also Home boat](hea-hom.md#home-boat),[Homeboat](hom-hyp.md#homeboat))
 
 >  <b>SAM STEPHENS</b> [My] land around me is begining to have a `home' look [?? homely] <i>(1844,Journal,358</i>)
 

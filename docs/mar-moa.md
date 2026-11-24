@@ -12,7 +12,7 @@
 
 ### marking
  
- <i>n.</i> castration and ?docking of stock, possibly f. <i>earmarking</i> (See [also lamb-marking](../A#also-lamb-marking))
+ <i>n.</i> castration and ?docking of stock, possibly f. <i>earmarking</i> (See [also lamb-marking](l-lay.md#lamb-marking))
 
 >  <b>PERRY</b> <i>Lamb Marking</i>. - The castration and docking of lambs is best carried out when the lambs are from four to six weeks old; ... <i>Ibid.</i> 94 <i>Lamb Marking.</i> ... [95] Once the operation of earmarking, tailing, and castrating is commenced, ... <i>(1922,Sheep Farming in NZ,79</i>)
 
@@ -315,7 +315,7 @@
 
 ### marsh crake
  
- <i>n.</i> a small secretive swamp bird, Porzana pusilla affinis (also called koitareke). (See [also marsh rail](../A#also-marsh-rail))
+ <i>n.</i> a small secretive swamp bird, Porzana pusilla affinis (also called koitareke). (See [also marsh rail](mar-moa.md#marsh-rail))
 
 >  They include the endangered crested grebe,.. black swan and marsh crake... <i>(Aug 2002,Forest & Bird,305/30</i>)
 
@@ -475,7 +475,7 @@
 
 ### mash
  
- <i>v.</i> (See [masher](mar-moa.md#masher),[mash n](../M#mash-n))
+ <i>v.</i> (See [masher](mar-moa.md#masher),[mash n](mar-moa.md#mash))
 
 >  "The gods" love her, but she still lives to mash the boys. <i>(May 28, 1887,Auckland Weekly News,20</i>)
 
@@ -542,7 +542,7 @@
 
 ### mashing
  
- <i>n.</i> = pashing (See [masher](mar-moa.md#masher),[mash v](../M#mash-v))
+ <i>n.</i> = pashing (See [masher](mar-moa.md#masher),[mash v](mar-moa.md#mash))
 
 >  W.P. and E.M. were doing more mashing than dancing on Friday night. <i>(Aug 19, 1893,NZ Observer,21</i>)
 
@@ -574,7 +574,7 @@
 
 ### mason bee
  
- <i>n.</i> (See [cf mason fly](../C#cf-mason-fly),[mason wasp](mar-moa.md#mason-wasp))
+ <i>n.</i> (See [cf mason fly](mar-moa.md#mason-fly),[mason wasp](mar-moa.md#mason-wasp))
 
 >  <b>FINLAYSON</b> Jake stares hard at a mason-bee that's building its clay nest in the sleeve of Mr Crummer's coat ... <i>(1948,Tidal Creek,56,1979 ed.</i>)
 
@@ -692,7 +692,7 @@
 
 ### Masseys
  
- <i>n.</i> Soldiers' issue boots WWI (See [also Bill Masseys](../A#also-bill-masseys))
+ <i>n.</i> Soldiers' issue boots WWI (See [also Bill Masseys](b-bla.md#bill-masseys))
 
 >  Tiny looked his very best in his `Massey's' <i>(1917,Digger Transport Magazine, The,26</i>)
 
@@ -948,7 +948,7 @@
 
 
  
- <i>n.</i> = fernbird [ORIGIN: Maori] (See [matata (1842)](../M#matata-(1842)))
+ <i>n.</i> = fernbird [ORIGIN: Maori] (See [matata (1842)](mar-moa.md#matata)))
 
 >  SPHENOEACUS PUNCTATUS, Quoy. and Gaim. Mata. Grass-bird, Grass-pheasant, Utick. ... [58] From its call, it is in some places named the Utick. <i>(1870,TrNZI,2/57</i>) [NOTES: (Potts Birds)]
 
@@ -1857,7 +1857,7 @@
 
 
  
- <i>n.</i> 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou] (See [also mapau](../A#also-mapau))
+ <i>n.</i> 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou] (See [also mapau](m-mar.md#mapau))
 
 >  The pittosporums, or matipos, take prominent place among the spring flowering trees. <i>(Oct 12, 1935,Christchurch Star-Sun,14</i>)
 
@@ -2165,7 +2165,7 @@
 
 ### matukituki
  
- <i>n.</i> (See [matuhi(tuhi)](../M#matuhi(tuhi)))
+ <i>n.</i> (See [matuhi(tuhi)](mar-moa.md#matuhi)))
 
 ### Matukituki whitebait
  
@@ -2264,7 +2264,7 @@
 
 ### matuku-moana
  
- <i>n.</i> blue heron (See [also matuku](../A#also-matuku))
+ <i>n.</i> blue heron (See [also matuku](mar-moa.md#matuku))
 
 >  <b>POWELL</b> REEF HERON (<i>Demigretta sacra</i>), Matuku-moana of the Maoris, is a graceful dark slaty grey bird with long beak and legs of bright yellow. <i>(1947,Native Animals of NZ,83</i>)
 
@@ -3454,7 +3454,7 @@
 
 ### men's hut
  
- <i>n.</i> the bunkhouse-dining place of shearers and other station hands (See [cf station house](../C#cf-station-house),[whare](../W#whare))
+ <i>n.</i> the bunkhouse-dining place of shearers and other station hands (See [cf station house](spa-sys.md#station-house),[whare](../W#whare))
 
 >  <b>BARKER</b> The manager has a nice house; and the wood-shed, men's huts, dip, &c., are near each other. <i>Ibid.</i> ) 34 We peeped in at the men's huts - a long, low wooden building, with two rows of `bunks' (berths, I should call them) in one compartment, and a table with forms around it in the other, and piles of tin plates and pannikins all about. <i>(1865,Station Life in NZ,32,1974 ed.</i>)
 
@@ -4099,7 +4099,7 @@
 
 ### Michael
  
- <i>n.</i> the tail of coin (in two-up or pitch-and-toss) [ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.] (See [also Mick](../A#also-mick))
+ <i>n.</i> the tail of coin (in two-up or pitch-and-toss) [ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.] (See [also Mick](mar-moa.md#mick))
 
 ### Mick
  
@@ -4143,7 +4143,7 @@
 
 ### Mick Dooley
  
- <i>n.</i> an Irishman (See [Mick; Micky Doolan](../M#mick;-micky-doolan))
+ <i>n.</i> an Irishman (See [Mick](mar-moa.md#mick); [Micky Doolan](mar-moa.md#micky-doolan))
 
 >  A Mick Dooley asked a Wellington barmaid for `some of that new Frinch drink'. <i>(Sep 9, 1905,NZ Truth,12/1/7</i>)
 
@@ -5574,7 +5574,7 @@
 
 
  
- <i>n.</i> (Rural) a cowshed. (See [cowshed; milking shed](../C#cowshed;-milking-shed))
+ <i>n.</i> (Rural) a cowshed. (See [cowshed](con-cyp.md#cowshed); [milking shed](mar-moa.md#milking-shed))
 
 >  On the west coast of the North Island where the bulk of the dairying is done, the south-west is the most common wind and the milk-sheds, usually skillion-roofed, open eastwards. <i>(Jul 1899,NZ Farmer,237</i>)
 
@@ -5660,7 +5660,7 @@
 
 ### milkydog
  
- <i>n.</i> (See [cf. milky adj](../M#milky-adj))
+ <i>n.</i> (See [cf. milky adj](mar-moa.md#milky))
 
 >  [species name] spiny dogfish .. [scientific name] <i>Squalus acanthias</i> .. [other name(s)] spiky dogfish, spurdog, milkydogs <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
 
@@ -6023,7 +6023,7 @@
 
 ### mineral block
  
-<b>1</b> <i>n.</i> (Rural) a proprietary lick containing specific minerals. (See [lick; salt lick](../L#lick;-salt-lick))
+<b>1</b> <i>n.</i> (Rural) a proprietary lick containing specific minerals. (See [lick](lay-liv.md#lick); [salt lick](sa-sho.md#salt-lick))
 
 >  Mineral blocks do much to promote a fully rounded diet, supplementing natural pastures and winter crops .. The use of mineral blocks will eliminate that nagging feeling that mineral, known to be present, may be locked in the soil .. Stock readily accustoms itself to using mineral blocks. <i>(Sep 1973,NZ Journal of Agriculture,110</i>)
 
@@ -6372,7 +6372,7 @@
 
 ### mint
  
- <i>n.</i> <i>Mentha cunninghamii</i> (See [see also Maori mint](../S#see-also-maori-mint),[hioi](../H#hioi))
+ <i>n.</i> <i>Mentha cunninghamii</i> (See [see also Maori mint](m-mar.md#maori-mint),[hioi](../H#hioi))
 
 >  <b>THOMSON</b> <i>Mentha Cunninghamii</i> <i>(1859,Story of New Zealand, The</i>) [NOTES: (And)]
 

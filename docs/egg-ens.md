@@ -134,7 +134,7 @@
 
 ### egret
  
- <i>n.</i> Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See [also heron](../A#also-heron))
+ <i>n.</i> Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See [also heron](hea-hom.md#heron))
 
 >  <i>Kootuku</i>, a bird (Egretta alba), white heron or egret, always rare even in Maori regard, ... <i>(Jun 1946,Journal of the Polynesian Society,55/153</i>) [NOTES: Andersen Maori Words)]
 
@@ -317,7 +317,7 @@
 
 ### eight ounce
  
- <i>n.</i> An eight-ounce beer, or its glass container (See [also eight](../A#also-eight))
+ <i>n.</i> An eight-ounce beer, or its glass container (See [also eight](egg-ens.md#eight))
 
 >  <b>DAVIS</b> Standing in the pub I was ... And then suddenly, up he pops and sits on the edge of my eight-ounce. [a leprechaun] <i>(1964,Watersiders,43</i>)
 
@@ -563,7 +563,7 @@
 
 ### electroluxing
  
- <i>n.</i> vacuum cleaning (See [also lux](../A#also-lux),[luxing](liv-lyn.md#luxing))
+ <i>n.</i> vacuum cleaning (See [also lux](liv-lyn.md#lux),[luxing](liv-lyn.md#luxing))
 
 >  <b>NEAVE</b> Spring Cleaning: Before the days of electroluxing, once a year in the springtime, the household was galvanised into feverish activity ... <i>(1980,Land of Munros, The,45</i>)
 
@@ -575,7 +575,7 @@
 
 ### elephant
  
- <i>n.</i> sea-elephant; elephant seal. [also seal obs] (See [also seal](../A#also-seal))
+ <i>n.</i> sea-elephant; elephant seal. [also seal obs] (See [also seal](sa-sho.md#seal))
 
 >  <b>J COOK</b> We have killed all the Elephants that have come up here as yet. <i>(1852,Journal on Macquarie Island,1</i>)
 
@@ -709,7 +709,7 @@
 
 ### elephant seal
  
- <i>n.</i> (See [also elephant](../A#also-elephant))
+ <i>n.</i> (See [also elephant](egg-ens.md#elephant))
 
 >  Elephant seals and southern right whales still breed on Campbell Island. <i>(Aug 18, 1984,Listener (New Zealand Listener),81</i>)
 
@@ -803,7 +803,7 @@
 
 ### Emfat
  
- (/'emfat/) <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See [also MFAT](../A#also-mfat))
+ (/'emfat/) <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See [also MFAT](mar-moa.md#mfat))
 
 >  Emfat wallahs say he is taking his job seriously. <i>(Feb 21, 2006,NZ Herald,A11</i>)
 
@@ -856,7 +856,7 @@
 
 ### emigrant barracks
  
- <i>n.</i> (See [also emigration barracks](../A#also-emigration-barracks))
+ <i>n.</i> (See [also emigration barracks](egg-ens.md#emigration-barracks))
 
 >  <b>ROCHFORT</b> There are several good hotels [in Lyttelton] facing the sea, also a custom-house and emigrant barracks. <i>(1853,Adventures of a Surveyor,13</i>)
 
@@ -926,7 +926,7 @@
 
 ### emigration barracks
  
- <i>n.</i> early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.) (See [also emigrant barracks](../A#also-emigrant-barracks))
+ <i>n.</i> early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.) (See [also emigrant barracks](egg-ens.md#emigrant-barracks))
 
 >  <b>SELWYN</b> (The Church in the Colonies) 40 I arrived here [in Nelson] on Sunday, August the 21st, ... and preached at the afternoon Service in the Emigration Barrack. <i>(Aug 1842,Letter</i>) [NOTES: 1842 Aug Selwyn Journal Letter in 1847 NZ Part I]
 
@@ -1162,7 +1162,7 @@
 
 ### encamp
  
- <i>v.</i> (See [camp v](../C#camp-v))
+ <i>v.</i> (See [camp v](c-chi.md#camp))
 
 >  <b>ELWELL</b> They came on some very old camping-grounds where numbers [of sheep] had clearly at one time encamped. <i>(1878,Boy Colonists,182</i>)
 

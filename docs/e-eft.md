@@ -1093,7 +1093,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [also silverbelly](../A#also-silverbelly))
+<b>2</b> <i>n.</i> (See [also silverbelly](sho-spa.md#silverbelly))
 
 >  [species name] silver belly eel .. [scientific name] -- [other name(s)] May be short-finned or long-finned eel ... <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
 

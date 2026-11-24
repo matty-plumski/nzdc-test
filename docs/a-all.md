@@ -1855,7 +1855,7 @@
 
 ### agroforestry
  
-<b>1</b> <i>n.</i> (Rural) the growing of trees in combination with pastoralism. (See [agri-forestry; two-tier farming](../A#agri-forestry;-two-tier-farming))
+<b>1</b> <i>n.</i> (Rural) the growing of trees in combination with pastoralism. (See [agri-forestry](a-all.md#agri-forestry); [two-tier farming](tot-tyr.md#two-tier-farming))
 
 >  <b>BARNES</b> [cap] Agroforestry. Charolais cattle grazing amid Eucalyptus saligna. <i>(1987,Country Calendar (TVNZ),77</i>)
 

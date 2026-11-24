@@ -1219,7 +1219,7 @@
 
 
  
- <i>n.</i> in NZ since 1839 (as elswhere), a rough path or way usually, originally, trodden clear; a rough unsurfaced road [also bush track TRACK is the general use in NZ among outdoors people (trampers, etc); also for regular paths trodden by animals, e.g. <i>sheep tracks, goat tracks; trail</i> is occasionally used, ?esp. of deer cf also MAORI TRACK [AND seems to suggest a much wider spec. use in Aust.]] (See [also bush track](../A#also-bush-track))
+ <i>n.</i> in NZ since 1839 (as elswhere), a rough path or way usually, originally, trodden clear; a rough unsurfaced road [also bush track TRACK is the general use in NZ among outdoors people (trampers, etc); also for regular paths trodden by animals, e.g. <i>sheep tracks, goat tracks; trail</i> is occasionally used, ?esp. of deer cf also MAORI TRACK [AND seems to suggest a much wider spec. use in Aust.]] (See [also bush track](bri-byo.md#bush-track))
 
 >  <b>ACLAND</b> <i>Track.</i>- Pack<i> t</i>., etc. Originally an unformed, unfenced way, but Leach's <i>T</i>., Shand's <i>T.,</i> etc., perpetuate the name. The county councils will probably alter these in time. The Bealey <i>T.</i> (to Hororata) is oftener than not called the Bealey road. `We came upon a very bad track-- that is the name by which all roads are called, and they don't deserve a better.'--S.L., p.76. <i>(Dec 23, 1933,Press, The,15</i>)
 
@@ -2237,7 +2237,7 @@
 
 ### tramway
  
- <i>n.</i> (See [also tram](../A#also-tram))
+ <i>n.</i> (See [also tram](tot-tyr.md#tram))
 
 >  A poll is about to be taken for a loan of GBP30,000 to construct a tramway between Gisborne and the Patutahi quarry, and as it has been shewn in the orignal [sic] prospectus of the 11th March last that the financial success of the proposed tramway depends on the ratification of a tentative agreement entered into by the late members of the Borough Council ... <i>(May 18, 1909,Poverty Bay Herald,5</i>)
 
@@ -2699,7 +2699,7 @@
 
 
  
- <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See [also Tiriti](../A#also-tiriti))
+ <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See [also Tiriti](ten-tot.md#tiriti))
 
 >  <b>MATHEW</b> Accordingly, [we] sailed down to the place of Rendezvous where the ceremony of signing the Treaty (as it was called) was soon performed, ... <i>(Mar 4, 1840,Journal</i>) [NOTES: 1840 Mar 4 F.Mathew Journal in 1940 Founding of NZ 70]
 
@@ -2883,7 +2883,7 @@
 
 ### tree fern
  
- <i>n.</i> a large fern having a trunk-like stem with fronds at the top. See also ponga, mamaku, wheki (See [also fern tree](../A#also-fern-tree))
+ <i>n.</i> a large fern having a trunk-like stem with fronds at the top. See also ponga, mamaku, wheki (See [also fern tree](f69-fin.md#fern-tree))
 
 >  <b>DIEFFENBACH</b> High tree-ferns [fn <i>Cyathea medullaris</i> and <i>dealbata</i>with the cabbage-palm [fn <i>Areca sapida</i>], strike the eye as the most beautiful forms of New Zealand vegetation. <i>(1843,Travels in NZ,1/27</i>)
 
@@ -3025,7 +3025,7 @@
 
 ### tree line
  
- <i>n.</i> (See [cf timber-line](../C#cf-timber-line))
+ <i>n.</i> (See [cf timber-line](ten-tot.md#timber-line))
 
 >  <b>MARK & ADAMS</b> In many parts of New Zealand the lower limit of the alpine zone, marked by the tree line, is a conspicuous feature of the mountain landscape. <i>(1973,NZ Alpine Plants,10,1979 ed.</i>)
 
@@ -3121,7 +3121,7 @@
 
 
  
- <i>n.</i> [These were thought to be first mentioned in NZ in the 1891-92 Seed Catalogue of D Hays and Sons, Nurserymen of Parnell, but see quote 1887 Auckland Weekly] (See [also tamarillo](../A#also-tamarillo))
+ <i>n.</i> [These were thought to be first mentioned in NZ in the 1891-92 Seed Catalogue of D Hays and Sons, Nurserymen of Parnell, but see quote 1887 Auckland Weekly] (See [also tamarillo](t-ten.md#tamarillo))
 
 >  It appears that from Kew, during the last three years, hundreds of packets of seed of the tree tomato have been distributed to various people in the colonies, very favourable accounts having been received of the introduction of the fruit into Southern India, Ceylon and other places. <i>(May 21, 1887,Auckland Weekly News,28</i>)
 
@@ -3226,7 +3226,7 @@
 
 ### tree-daisy
  
- <i>n.</i> <i>Olearia operina</i> (See [also daisy-tree](../A#also-daisy-tree))
+ <i>n.</i> <i>Olearia operina</i> (See [also daisy-tree](d-dif.md#daisy-tree))
 
 >  <b>COCKAYNE</b> <i>(1919,NZ Plants & Their Story</i>)
 
@@ -3573,7 +3573,7 @@
 
 ### Trents
  
- <i>n.</i> (See [cf Dinkums](../C#cf-dinkums),[Dinks](../D#dinks))
+ <i>n.</i> (See [cf Dinkums](dig-dou.md#dinkums),[Dinks](../D#dinks))
 
 >  We have about 1400 men on board [the troopship] all belonging to the Trents ... <i>(Oct 14, 1915,Great Adventure,76,1988 ed.</i>) [NOTES: (Gray)]
 
@@ -3722,7 +3722,7 @@
 
 
  
- <i>n.</i> also called araara a school fish common in North Auckland waters and widely used for bait; arara, cavalli, horse-mackerel, yellowtail; occas. warehou cf. [aka trevalli] (See [also school trevally](../A#also-school-trevally))
+ <i>n.</i> also called araara a school fish common in North Auckland waters and widely used for bait; arara, cavalli, horse-mackerel, yellowtail; occas. warehou cf. [aka trevalli] (See [also school trevally](sa-sho.md#school-trevally))
 
 >  <b>DOOGUE & MORELAND</b> TREVALLY ... <i>Other names: Caranx lutescens</i>; silver trevally (Australia); ara ara (Maori); and a wide variety of other names not generally used in New Zealand. <i>(1966,Sea Anglers' Guide,230</i>)
 
@@ -3738,7 +3738,7 @@
 
 ### trey-bit
  
- <i>n.</i> threepenny coin (See [also tray-bit](../A#also-tray-bit))
+ <i>n.</i> threepenny coin (See [also tray-bit](tot-tyr.md#tray-bit))
 
 >  <b>HYDE</b> If you have green grape women, flour-bin women, / Amber-in-forest, wild-mint-scented women, / Trey-bit in church or drudging kit-bag women. <i>(1999,Book of Nadath, The,xxix</i>)
 
@@ -4168,7 +4168,7 @@
 
 
  
- <i>n.</i> a timber worker who clears stranded logs (See [trim v](../T#trim-v))
+ <i>n.</i> a timber worker who clears stranded logs (See [trim v](tot-tyr.md#trim))
 
 >  <b>REED</b> When a drive goes down it always leaves numerous logs behind on the banks, and the `trimmers' have to jack and roll these into the creek bed again, ready to catch the next drive. <i>(1953,Story of the Kauri, The,258</i>)
 
@@ -4214,7 +4214,7 @@
 
 ### trimming
  
- <i>n.</i> (See [trim v](../T#trim-v))
+ <i>n.</i> (See [trim v](tot-tyr.md#trim))
 
 >  <b>REED</b> After that came the `trimming' - jacking stranded logs into the bed of the creek, and clearing away debris which might impede the next drive. <i>(1953,Story of the Kauri, The,214</i>)
 
@@ -5406,7 +5406,7 @@
 
 ### try
  
- <i>v.</i> to extract oil from blubber by heat (See [also try out](../A#also-try-out))
+ <i>v.</i> to extract oil from blubber by heat (See [also try out](tot-tyr.md#try-out))
 
 >  <b>RHODES</b> `Australien' ... commenced trying the outpart of the blubber. <i>(1836,Journal</i>)
 
@@ -5437,7 +5437,7 @@
 
 
  
- <i>v.</i> to extract oil from blubber (See [also try](../A#also-try))
+ <i>v.</i> to extract oil from blubber (See [also try](tot-tyr.md#try))
 
 >  Mr Perano, of the Te Awaite whaling station, near Picton, has been communicated with regarding the prospects of trying out the mammal. <i>(Feb 3, 1920,Colonist, The,3</i>)
 
@@ -5905,7 +5905,7 @@
 
 ### tucker
  
- <i>n.</i> (Rural) stock feed. (See [milking tucker; dog tucker; hard tucker](../M#milking-tucker;-dog-tucker;-hard-tucker))
+ <i>n.</i> (Rural) stock feed. (See [milking tucker](mar-moa.md#milking-tucker); [dog tucker](dig-dou.md#dog-tucker); [hard tucker](h-hea.md#hard-tucker))
 
 >  The cows have exhibited an unfailing ability to consume every whisp of tucker they're offered, and then make it clear they's like more. <i>(Sep 11, 1961,NZ Dairy Exporter,73</i>)
 
@@ -6026,7 +6026,7 @@
 
 ### tucker bag
  
- <i>n.</i> a container for food, especially as carried by a swagger, outdoor worker, etc. (See [also tucker box](../A#also-tucker-box))
+ <i>n.</i> a container for food, especially as carried by a swagger, outdoor worker, etc. (See [also tucker box](tot-tyr.md#tucker-box))
 
 >  <b>ELKINGTON</b> Each swagman carries his "billy" (a tin can for boiling tea) and a "tucker-bag," in which he keeps his lunch. <i>(1906,Adrift in NZ,127</i>)
 
@@ -7322,7 +7322,7 @@
 
 ### tupakihi
  
- <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](../A#also-tupakihi-(juice):-see-tupakihi-wine),[tutu wine](tot-tyr.md#tutu-wine))
+ <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](tot-tyr.md#tupakihi):-see-tupakihi-wine),[tutu wine](tot-tyr.md#tutu-wine))
 
 >  Otene & his people came down to see us, bringing large stores of tupakihi which I quaffed with pleasure*, also mango ... Rogan fastidious about smell sent them to a distance to eat it. [fn.] The old women whose peculiar duty it is to squeeze the tupakihi berries never wash their hands by any chance. The only approach to it is in squeezing the tupakihi juice ... <i>(Dec 30, 1860,Richmond-Atkinson Papers,1/673,1960 ed.</i>) [NOTES: (A.S. Atkinson)]
 
@@ -7579,7 +7579,7 @@
 
 ### tupuna
  
- <i>n.</i> a grandparent, ancestor [ORIGIN: Maori, -] (See [also tipuna](../A#also-tipuna))
+ <i>n.</i> a grandparent, ancestor [ORIGIN: Maori, -] (See [also tipuna](ten-tot.md#tipuna))
 
 >  He thought he'd offended the tupuna, that they were coming back to get him. <i>(Aug 14, 1999,Listener (New Zealand Listener),33</i>)
 

@@ -388,7 +388,7 @@
 
 ### Homeboat
  
- <i>n.</i> (See [also Home boat](../A#also-home-boat))
+ <i>n.</i> (See [also Home boat](hea-hom.md#home-boat))
 
 >  The "Homeboats", as they were called, were loaded up with frozen lamb and mutton for England (home). <i>(Oct 2005,NZ Memories,No56 p62</i>)
 
@@ -507,7 +507,7 @@
 
 
  
- <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](../A#also-station),[station homestead](spa-sys.md#station-homestead))
+ <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](spa-sys.md#station),[station homestead](spa-sys.md#station-homestead))
 
 >  [South Mauku] is fast becoming open country, with comfortable homesteads and paddocks of good grass. <i>(Mar 22, 1879,Auckland Weekly News,18</i>)
 
@@ -841,7 +841,7 @@
 
 ### Hone Heke's war
  
- <i>n.</i> [name misspelt in citation] (See [Heke('s) War](../H#heke('s)-war))
+ <i>n.</i> [name misspelt in citation] (See [Heke('s) War](hea-hom.md#heke)-war))
 
 >  it will not perhaps be a serious departure from the sequence of events to spend a few minutes in inspection of the series of pictures collected.. by Dr. Hocken, illustrative of Honi Heki's war. <i>(Mar 6, 1890,Otago Witness,17</i>) [NOTES: name misspelt in citation]
 
@@ -982,7 +982,7 @@
 
 ### honeymoon shear
  
-<b>1</b> <i>n.</i> (Rural) a pre-tupping crutch. (See [bullseye; buttonhole; ring-crutch; tup-crutch](../B#bullseye;-buttonhole;-ring-crutch;-tup-crutch))
+<b>1</b> <i>n.</i> (Rural) a pre-tupping crutch. (See [bullseye](bri-byo.md#bullseye); [buttonhole](bri-byo.md#buttonhole); [ring-crutch](red-roa.md#ring-crutch); [tup-crutch](tot-tyr.md#tup-crutch))
 
 >  <b>RiCHARDS</b> As tupping season was approaching i also gave them a light ringcrutch (a honeymoon shear) before turning them out into a larger paddock. <i>(1986,Off the Sheep's Back,148</i>)
 
@@ -1329,7 +1329,7 @@
 
 ### hooer
  
- <i>n.</i> (informal, derogatory) a contemptible person, difficult thing, etc. [a var. pron. of whore] [1953 16 M A34 Thames DHS 27 HOORIN (HOURIN) 1953 17 M A39 Thames DHS 27 HOORIN (HOURIN).] ca1926 Dunedin and Central Otago as an address to men etc.] (See [also hua](../A#also-hua))
+ <i>n.</i> (informal, derogatory) a contemptible person, difficult thing, etc. [a var. pron. of whore] [1953 16 M A34 Thames DHS 27 HOORIN (HOURIN) 1953 17 M A39 Thames DHS 27 HOORIN (HOURIN).] ca1926 Dunedin and Central Otago as an address to men etc.] (See [also hua](hom-hyp.md#hua))
 
 >  <b>KiDMAN</b> Mrs Mawson called her a whore then. Only she said it `whoo-er' the way the children did at school, or over at the [Frankton] Junction. She said [82] Clara was `a dirty little whoo-er', the same as in a swearword, ... <i>(1983,Paddy's Puzzle,81</i>)
 
@@ -1929,7 +1929,7 @@
 
 ### hooray
  
- <i>exclam.</i> goodbye, cheerio [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html] (See [also hurray](../A#also-hurray))
+ <i>exclam.</i> goodbye, cheerio [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html] (See [also hurray](hom-hyp.md#hurray))
 
 >  His companion..thrust back his seat, stood erect, called 'Horray!' and was gone. <i>(1937,Civilian into Soldier,255</i>)
 
@@ -2582,7 +2582,7 @@
 
 ### Horney
  
- <i>n.</i> (See [also King Caesar](../A#also-king-caesar))
+ <i>n.</i> (See [also King Caesar](kee-kiw.md#king-caesar))
 
 >  <b>SUTTON-SMiTH</b> in yet another class of Bar the Door games, there were only two teams. For example, Horney (E-27) (Wakefield, 1875) <i>(1972,Folkgames of Children,85</i>)
 
@@ -3351,7 +3351,7 @@
 
 ### hostie
  
- <i>n.</i> a female flight attendant [Also Australian (informal)] (See [also air hostie](../A#also-air-hostie))
+ <i>n.</i> a female flight attendant [Also Australian (informal)] (See [also air hostie](a-all.md#air-hostie))
 
 >  hostie n. NZ & Austral. colloq. air hostess. <i>(1986,NZ Pocket Oxford Dictionary,362</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
 
@@ -4255,7 +4255,7 @@
 
 ### howlibag
  
- <i>v.</i> grizzle, complain (See [howlybag (noun)](../H#howlybag-(noun)))
+ <i>v.</i> grizzle, complain (See [howlybag (noun)](hom-hyp.md#howlybag)))
 
 >  i had a word with Manawatu hill country farmer Darrell Shellard, after he was quoted saying there was no use howlibagging about flood damage; you just had to get on with cleaning up the mess. ... Howlibagging is a great word, presumably a mixture of howling and bagging (criticising), but Darrell says he has no idea where it came from. <i>(Mar 9, 2005,Dominion Post,B5</i>)
 
@@ -4784,7 +4784,7 @@
 
 ### hui-a-hapu
  
- <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [also hapu hui](../A#also-hapu-hui))
+ <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [also hapu hui](h-hea.md#hapu-hui))
 
 >  Hui-a-hapu Treaty Claims Update. Maungaharuru-Tangitu incorportaed warmly invites all whanaunga to these Treaty information Hui. Come along with your whanau to see and hear all about the progress of your Treaty claims, connect with your treaty claims representatives, and gather all the information you need. <i>(Mar 20, 2010,Dominion Post,C17</i>)
 
@@ -5286,7 +5286,7 @@
 
 ### humpy
  
- <i>n.</i> a shack (See [also humpie](../A#also-humpie))
+ <i>n.</i> a shack (See [also humpie](hom-hyp.md#humpie))
 
 >  You couldn't tie women up with a length of chain and leave them out in the paddock, tied to a corrugated iron humpy for days at a time. They'd scream and cry, which would be damned irritating. <i>(Feb 14, 1999,Sunday Star Times,D2</i>)
 
@@ -5845,7 +5845,7 @@
 
 ### hupiro
  
- <i>n.</i> (See [also stinkwood](../A#also-stinkwood))
+ <i>n.</i> (See [also stinkwood](spa-sys.md#stinkwood))
 
 >  <i>Coprosma foetidissima</i> (the hupiro of the Maori and the `stinkwood' of the settler), ... has proved a disappointment ... <i>(1918,NZ Journal of Science & Technology,1/266</i>)
 
@@ -6248,7 +6248,7 @@
 
 ### hutuwai
  
- <i>n.</i> (See [also hutiwai](../A#also-hutiwai))
+ <i>n.</i> (See [also hutiwai](hom-hyp.md#hutiwai))
 
 >  A problem which faces our sheep farmers is that of the native "piripiri" or "utuwai" in late shorn wool. <i>(Nov 27, 1917,Levin Daily Chronicle,2</i>)
 
@@ -6470,7 +6470,7 @@
 
 ### hypericum
  
- <i>n.</i> (See [also tutsan](../A#also-tutsan),[Saint John's wort](../S#saint-john's-wort))
+ <i>n.</i> (See [also tutsan](tot-tyr.md#tutsan),[Saint John's wort](../S#saint-john's-wort))
 
 >  <i>hypericum, gramineum [s] Hypericum gramineum</i> Hook.f. <i>(1969,Standard Common Names for Weeds,39</i>)
 

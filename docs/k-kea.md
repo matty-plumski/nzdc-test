@@ -869,7 +869,7 @@
 
 ### kai
  
- <i>n.</i> food, a meal (See [also kaikai](../A#also-kaikai))
+ <i>n.</i> food, a meal (See [also kaikai](k-kea.md#kaikai))
 
 >  The beauty of this model is that it's not kai in the sky when you die. it is here and now... <i>(Dec 15, 2001,Dominion,12</i>)
 
@@ -962,7 +962,7 @@
 
 
  
- <i>v.</i> (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See [also kaikai](../A#also-kaikai))
+ <i>v.</i> (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See [also kaikai](k-kea.md#kaikai))
 
 >  <b>RiCHMOND</b> His grass is very low and he has sent his 52 ewes and 56 lambs to 'kai' our grass. <i>(Aug 13, 1851,Letter,102</i>) [NOTES: in Scholefield (1960) Richmond-Atkinson Papers i]
 
@@ -1021,7 +1021,7 @@
 
 ### kai cart/kai kart
  
- <i>n.</i> pie cart or food caravan (See [also kai wagon](../A#also-kai-wagon))
+ <i>n.</i> pie cart or food caravan (See [also kai wagon](k-kea.md#kai-wagon))
 
 >  <b>BAKER</b> One week in that mouldering, medieval pile of black rock, in a wing with the rapists and child molesters, eating food that made Gregory's Kai Kart menu look like haute cuisine, was enough for him. <i>(2000,Kokopu Dreams,86</i>)
 
@@ -1486,7 +1486,7 @@
 
 
  
-<b>3</b> <i>v.</i> to eat [also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);] (See [also kai](../A#also-kai))
+<b>3</b> <i>v.</i> to eat [also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);] (See [also kai](k-kea.md#kai))
 
 >  eat - kai kai [kai] <i>(1826,Boultbee Journal,113,1986 ed.</i>)
 
@@ -1781,7 +1781,7 @@
 
 
  
- <i>n.</i> a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See [also kaik(a)](../A#also-kaik(a)))
+ <i>n.</i> a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See [also kaik(a)](k-kea.md#kaik)))
 
 >  in Maori kaingas the natives have a sort of universal-ownership over everything. <i>(Oct 31, 1917,Hawke's Bay Herald,4</i>)
 
@@ -3150,7 +3150,7 @@
 
 ### kanakana
  
- <i>n.</i> (See [also kunakuna](../A#also-kunakuna))
+ <i>n.</i> (See [also kunakuna](kiw-kwi.md#kunakuna))
 
 >  <b>HULME & MORRiSON</b> There is an abundance of fish here, eel and kanakana. <i>(1989,Homeplaces,9</i>)
 
@@ -4868,7 +4868,7 @@
 
 ### kark it
  
- <i>v.</i> to die (See [also cark](../A#also-cark))
+ <i>v.</i> to die (See [also cark](c-chi.md#cark))
 
 >  if the sap doesn't rise in the city of love, we reckon, you might as well kark it. <i>(Dec 27, 1998,Sunday Star Times,A2</i>)
 
@@ -5313,7 +5313,7 @@
 
 ### katoitoi
  
- <i>n.</i> (See [also katuhituhi](../A#also-katuhituhi))
+ <i>n.</i> (See [also katuhituhi](k-kea.md#katuhituhi))
 
 >  <b>DiEFFENBACH</b> 25. <i>Miro longpipes. Less.</i> ... [191] Gha toitoi of the natives of Dusky Bay. <i>Forst.</i> Miro miro of the natives. <i>Garnot.</i> [possibly <i>Miro australis</i>, the robin (= katoitoi), rather than <i>miromiro</i>, Ni Tit <i>Petroica</i>] <i>(1843,Travels in NZ,2/190</i>) [NOTES: 1842 Gray's Fauna in 1843 Dieffenbach Travels in NZ 2/190-191]
 
@@ -5333,7 +5333,7 @@
 
 ### katuhituhi
  
- <i>n.</i> South island robin, bush robin (See [also katoitoi](../A#also-katoitoi))
+ <i>n.</i> South island robin, bush robin (See [also katoitoi](k-kea.md#katoitoi))
 
 >  <b>BRUNNER</b> ... i have taken [wekas] with my hands only by shaking a <i>katuhituhi</i>, or robin, before them. They ... will fly at a bunch of feathers, or a red rag. <i>(Mar 14, 1848,Journal of an Expedition</i>) [NOTES: 1848 Mar 14 Brunner Expedition Middle isld in 1959 Taylor Early Travs. 308]
 
@@ -5805,7 +5805,7 @@
 
 ### kauri gum
  
- <i>n.</i> hardened, usu. fossilised, resin from kauri trees; often abbrev. gum and occas. and unidiomatically, called kauri resin [also gum [OED 1851.] The resin, often fossilised, from the kauri tree] (See [also gum](../A#also-gum))
+ <i>n.</i> hardened, usu. fossilised, resin from kauri trees; often abbrev. gum and occas. and unidiomatically, called kauri resin [also gum [OED 1851.] The resin, often fossilised, from the kauri tree] (See [also gum](gra-gyp.md#gum))
 
 >  <b>ADAMS</b> Kauri gum is still to be found in forest areas, or below the surface in cleared forest lands now under cultivation. <i>(1973,Kauri,26</i>)
 

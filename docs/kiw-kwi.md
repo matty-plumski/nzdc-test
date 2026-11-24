@@ -1400,7 +1400,7 @@
 
 ### kohekohe
  
- <i>n.</i> <i>Dysoxylum spectabile</i>, a spreading tree of northern coastal forests, with large glossy leaves; aka New Zealand cedar [ORIGIN: Maori] (See [also kohe](../A#also-kohe))
+ <i>n.</i> <i>Dysoxylum spectabile</i>, a spreading tree of northern coastal forests, with large glossy leaves; aka New Zealand cedar [ORIGIN: Maori] (See [also kohe](kiw-kwi.md#kohe))
 
 >  A century of vigorous regeneration has seen its once denuded lower slopes now clothed in tall kanuka, pohutukawa, puriri, kohekohe, karaka and mahoe forest. <i>(Jan 2002,NZ Geographic,No. 55/16</i>)
 
@@ -1626,7 +1626,7 @@
 
 ### kohikohi
  
- <i>n.</i> <i>Haemerocaetes acanthorhynchus.</i> (See [also kohi](../A#also-kohi))
+ <i>n.</i> <i>Haemerocaetes acanthorhynchus.</i> (See [also kohi](kiw-kwi.md#kohi))
 
 >  <b>DiEFFENBACH</b> 51. <i>Haemerocaetes acanthorhynchus</i>. - ... [213] ... The New Zealand name of this fish is written `Kogohooe' by G. Forster, and "Kohikoi' by Dr Dieffenbach. ... [217] Thrown up by a storm in Queen Charlotte's Sound, and termed by the natives `Kogohooee.' At Wangaroa [218] Bay, Chatham island, called `Kohikoi.' - <i>Dr. Dieffenbach ... </i> <i>(1843,Travels in NZ,2/212</i>) [NOTES: 1842 Gray's Fauna (Richardson's Fish) in 1843 Dieffenbach Travels in NZ 2/212-213, 217-218]
 
@@ -1768,7 +1768,7 @@
 
 ### kohuhu
  
- <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](../A#also-kohukohu),[karo](k-kea.md#karo))
+ <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](kiw-kwi.md#kohukohu),[karo](k-kea.md#karo))
 
 >  <b>LEE & KENDALL</b> Koh|uhu, s. A shrub so called. <i>(1820,Grammar & Vocabulary of the Language of NZ,165</i>)
 
@@ -2315,7 +2315,7 @@
 
 
  
- <i>n.</i> cockabully (See [also  bully](../A#also--bully),[trout (mountain](../T#trout-(mountain),[native); para](n-new.md#native);-para))
+ <i>n.</i> cockabully (See [also  bully](bri-byo.md#bully),[trout (mountain](tot-tyr.md#trout),[native); para](n-new.md#native);-para))
 
 >  A biologist.. identified the fish as juvenile banded kokopu, well known for the ability to crawl up steep slopes... Banded kokopu (Galaxias fasciatus) are found only in New Zealand and are related to the inanga or whitebait. <i>(Jan 29, 2001,Evening Post,16</i>)
 
@@ -2729,7 +2729,7 @@
 
 ### konini
  
- <i>n.</i> the banded rail (See [katatai (1842)](../K#katatai-(1842)))
+ <i>n.</i> the banded rail (See [katatai (1842)](k-kea.md#katatai)))
 
 
 
@@ -2851,7 +2851,7 @@
 
 ### kono
  
- <i>n.</i> (See [also konae](../A#also-konae))
+ <i>n.</i> (See [also konae](kiw-kwi.md#konae))
 
 >  <b>BUDDLE</b> Look here, this is mine (holding a food-basket (kono) in his hand, which he buried in the earth <i>(1860,Maori King Movement,47</i>)
 
@@ -2881,7 +2881,7 @@
 
 ### kooter/kooti/kootie
  
- <i>n.</i> variants of kutu (See [also cootie](../A#also-cootie))
+ <i>n.</i> variants of kutu (See [also cootie](con-cyp.md#cootie))
 
 >  <b>BAKER</b> Terms originated in the first Great War [include] <i>chatty</i> ... a louse (the versions koota and <i>kooti </i>from the Maori <i>kutu</i>, a louse had been in use much earlier). <i>(1941,NZ Slang,50</i>)
 
@@ -4693,7 +4693,7 @@
 
 ### kotihewera
  
- <i>n.</i> (See [also kotihe](../A#also-kotihe))
+ <i>n.</i> (See [also kotihe](kiw-kwi.md#kotihe))
 
 >  <b>BULLER</b> POGNORNiS CiNCTA (STiTCH-BiRD.) ... <i>Native names.</i> ihi [omitted 1888], Hihi, Tihe, Kotihe, Kotihewera, \{Tiora, and Tiheora\}; male and female are someties distinguished as Hihi-paka and Hihi-matakiore or Tihe-kiore. <i>(1873,Birds of New Zealand,98,{1888 2nd edn 1/101} ed.</i>)
 
@@ -4867,7 +4867,7 @@
 
 ### koukoupara
  
- <i>n.</i> a fish (See [kokopara](kiw-kwi.md#kokopara),[also kokopu](../A#also-kokopu))
+ <i>n.</i> a fish (See [kokopara](kiw-kwi.md#kokopara),[also kokopu](kiw-kwi.md#kokopu))
 
 >  <b>BEATTiE</b> Koukoupara - is a fish like the kokopu, but differently marked, and following the example of one of his informants, the translator [sc Beattie] has translated this as `mountain trout'. Koukoupara is the spelling adopted in the lists, but the [Maori] compilers have varied this with kopara, koupara, and kokaupara. Never once do they use the southern form of kokopara, which the southerners pronounced kokobala, which the early settlers soon turned into `cockabully'. <i>(1945,Maori Place-Names of Canterbury,63</i>) [NOTES: c1880 South island Maori Lists `Wahi Mahika Kai' in 1945 Beattie Maori Place-names of Canterbury 63]
 
@@ -5119,7 +5119,7 @@
 
 ### kowhai
  
- <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](../A#also-kowhai-ngutukaka),[red kowhai](ra-red.md#red-kowhai))
+ <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](kiw-kwi.md#kowhai-ngutukaka),[red kowhai](ra-red.md#red-kowhai))
 
 >  <b>Crowe</b> ...in 1783 kowhai became one of the first New Zealand plants to appear in London plant catalogues. <i>(2009,Which Native Tree?,36</i>)
 
@@ -5221,7 +5221,7 @@
 
 ### kowhai ngutukaka
  
- <i>n.</i> aka crimson kowhai, red kowhai, kaka('s) beak, parrot's bill [1960 [on the 2d stamp definitive issue]] (See [ngutukaka; kaka beak](../N#ngutukaka;-kaka-beak))
+ <i>n.</i> aka crimson kowhai, red kowhai, kaka('s) beak, parrot's bill [1960 [on the 2d stamp definitive issue]] (See [ngutukaka](new-no.md#ngutukaka); [kaka beak](k-kea.md#kaka-beak))
 
 >  Kakabeak, or K&#333;whai ngutuk&#257;k&#257;, is endangered in the wild. <i>(Jul 2004,Conservation Action,7</i>)
 
@@ -6712,7 +6712,7 @@
 
 
  
- <i>n.</i> a louse, esp. a head louse [ORIGIN: Maori, also cootie] (See [also cootie](../A#also-cootie))
+ <i>n.</i> a louse, esp. a head louse [ORIGIN: Maori, also cootie] (See [also cootie](con-cyp.md#cootie))
 
 >  <b>BEATTiE</b> The Maori wife of Steve Smith, a whaler, was named Kuti. The word `tuiau' means a flea in Maori and according to us youngsters [c1840s] `kuti' meant lousy. <i>(1939,First White Boy Born in Otago,13</i>)
 

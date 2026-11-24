@@ -511,7 +511,7 @@
 
 ### cabin biscuit
  
- <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](../A#also-captain's-biscuit))
+ <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](c-chi.md#captains-biscuit))
 
 >  <b>BUCKLEY</b> In 1866 the [Victoria Flour Mills and Steam Biscuit Factory] advertised - Best Cabin Biscuits [pounds]18 per ton Navy biscuits [pounds]16 per ton <i>(1983,Of Toffs and Toilers,150</i>)
 
@@ -644,7 +644,7 @@
 
 ### cadet
  
- <i>v.</i> (Rural) to work as an apprentice farmer. (See [cadet n](../C#cadet-n))
+ <i>v.</i> (Rural) to work as an apprentice farmer. (See [cadet n](c-chi.md#cadet))
 
 >  <b>GUTHRIE-SMITH</b> At Peel Forest, South Canterbury, where in the early 'eighties I was cadeting ... <i>(1921,Tutira,391</i>)
 
@@ -1710,7 +1710,7 @@
 
 ### caller
  
- <i>n.</i> a race commentator (See [also race-caller](../A#also-race-caller))
+ <i>n.</i> a race commentator (See [also race-caller](ra-red.md#race-caller))
 
 >  Now, as the caller of most races in the north, and part-owner of the highly successful McGinty, he is perhaps the best-known commentator in the country. <i>(Jun 16, 1984,Listener (New Zealand Listener),21</i>)
 
@@ -1912,7 +1912,7 @@
 
 
  
- <i>v.</i> to rest, to assemble, usu. at a preferred place (See [also encamp](../A#also-encamp))
+ <i>v.</i> to rest, to assemble, usu. at a preferred place (See [also encamp](egg-ens.md#encamp))
 
 >  <b>PHARAZYN</b> Inspected Ewes and Hogs, the former all camped on the left hand hill. <i>(1846,Journal,40 (et pass)</i>)
 
@@ -2899,7 +2899,7 @@
 
 ### Canterberian
  
- <i>n.</i> (See [Cantabrian (1983)](../C#cantabrian-(1983)))
+ <i>n.</i> (See [Cantabrian (1983)](c-chi.md#cantabrian)))
 
 ### Canterbury Association
  
@@ -3077,7 +3077,7 @@
 
 
  
- <i>v.</i> to confer a degree (See [also capping](../A#also-capping))
+ <i>v.</i> to confer a degree (See [also capping](c-chi.md#capping))
 
 >  [Advt] `Economy'/ GEORGE COURT .../ Is still teaching Economy/ to a Discerning Public/ THE STUDENTS/ Admit that OUR Value/ `CAPS ALL' <i>(1912,Auckland University Carnival Book,10</i>) [NOTES: 1912 Auckland University Capping Carnival Programme 10]
 
@@ -3457,7 +3457,7 @@
 
 ### capping book
  
- <i>n.</i> (See [also capping mag](../A#also-capping-mag))
+ <i>n.</i> (See [also capping mag](c-chi.md#capping-mag))
 
 >  CAPPING COMMITTEE, 1934 ...CAPPING CONCERT, May 16th ... CAPPING BOOK, May 15th ... <i>(1934,Otago University Capping Book,[inside cover]</i>)
 
@@ -3507,7 +3507,7 @@
 
 ### capping mag
  
- <i>n.</i> (See [also capping book](../A#also-capping-book))
+ <i>n.</i> (See [also capping book](c-chi.md#capping-book))
 
 >  <b>LELAND</b> Capping mag is the GRADUATION week STUDENT PUBLICATION. <i>(1980,Personal Kiwi-Yankee Dictionary, A,21</i>)
 
@@ -3606,7 +3606,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a wild pig. (See [also Captain Cooker](../A#also-captain-cooker))
+<b>1</b> <i>n.</i> (Rural) a wild pig. (See [also Captain Cooker](c-chi.md#captain-cooker))
 
 >  Many a rare old tusker finds a home in the mountain gorges. The immense tusks at Brooksdale attest the size of the wild boars or Captain Cooks, as the patriarchs are generally named. <i>(1879,NZ Country Journal,3/55</i>) [NOTES: (W. Quin) [Morris]]
 
@@ -3654,7 +3654,7 @@
 
 ### Captain Cooker
  
- <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See [also Captain Cook; kunekune](../A#also-captain-cook;-kunekune))
+ <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See [also Captain Cook](c-chi.md#captain-cook); [kunekune](kiw-kwi.md#kunekune))
 
 
 
@@ -4280,7 +4280,7 @@
 
 ### carrier
  
- <i>n.</i> a rabbiter's dog; retriever (See [carry v](../C#carry-v))
+ <i>n.</i> a rabbiter's dog; retriever (See [carry v](c-chi.md#carry))
 
 >  <i>Carrier: </i>Rabbiters always speak of a dog that will retrieve as a dog that will <i>carry</i> or as a <i>carrier. </i> <i>(Sep 23, 1933,Press, The,13</i>) [NOTES: Acland Glossary]
 
@@ -5139,7 +5139,7 @@
 
 ### cat's eye
  
- <i>n.</i> a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See [also ataata](../A#also-ataata))
+ <i>n.</i> a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See [also ataata](ari-axe.md#ataata))
 
 >  <b>POWELL</b> CAT'S EYE (<i>Lunella smaragda</i>). Best known of all our shells of intertidal rocks. ... The circular greenish operculum, the cat's eye, is its most conspicuous feature. The Maori name is Ataata. <i>(1947,Native Animals of NZ,26</i>)
 
@@ -5530,7 +5530,7 @@
 
 ### Cathedral City
  
- <i>n.</i> Christchurch (See [also Garden City](../A#also-garden-city))
+ <i>n.</i> Christchurch (See [also Garden City](g-go.md#garden-city))
 
 >  Some call her the Cathedral City, the most English City, the City of the Plains. <i>(Aug 1, 1928,NZ Free Lance,18</i>)
 
@@ -5812,7 +5812,7 @@
 
 ### cattle-camp
  
- <i>n.</i> (See [also camp](../A#also-camp))
+ <i>n.</i> (See [also camp](c-chi.md#camp))
 
 >  cat'tle-camp n. a place where cattle are herded. <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,3</i>)
 
@@ -6046,7 +6046,7 @@
 
 ### cavalli
  
- <i>n.</i> (See [also trevally (1872)](../A#also-trevally-(1872)))
+ <i>n.</i> (See [also trevally (1872)](tot-tyr.md#trevally)))
 
 >  .. 2 or 3 of them sold us some fish - Cavalles as they are call'd which occasioned my giving the Islands the same name - <i>(Nov 27, 1769,Cook's Journals,1/213</i>)
 
@@ -6084,7 +6084,7 @@
 
 ### cave spider
  
- <i>n.</i> <i>Spelungula cavernicola</i> (See [spelungula; Nelson cave spider](../S#spelungula;-nelson-cave-spider))
+ <i>n.</i> <i>Spelungula cavernicola</i> (See [spelungula](spa-sys.md#spelungula); [Nelson cave spider](n-new.md#nelson-cave-spider))
 
 >  The rare cave spider <i>Spelungula cavernicola</i> resides here, as do wetas and glow-worms. <i>(1990,Tramping in South Island Forest Parks,116</i>)
 
@@ -6144,13 +6144,13 @@
 
 ### cavil
  
- <i>n.</i> (See [also cavel](../A#also-cavel))
+ <i>n.</i> (See [also cavel](c-chi.md#cavel))
 
 >  [Denniston Coal-Miners]. All coal to becavilled for every three months... Allmen who are competent to be included inthe cavil. <i>(1900,Awards etc.,I.186</i>) [NOTES: 1897 award.]
 
 ### cavil for
  
- <i>v.</i> (See [cf. cavel noun](../C#cavel-noun))
+ <i>v.</i> (See [cf. cavel noun](c-chi.md#cavel))
 
 >  [Denniston Coal-Miners]. All coal to becavilled for every three months... Allmen who are competent to be included inthe cavil. <i>(1900,Awards etc.,I. 186</i>) [NOTES: 1897 award.]
 
@@ -6874,7 +6874,7 @@
 
 ### centre hoot
  
- <i>exclam.</i> (to or by two-up players) put your money into the ring (See [hoot n](../H#hoot-n))
+ <i>exclam.</i> (to or by two-up players) put your money into the ring (See [hoot n](hom-hyp.md#hoot))
 
 >  The `ringies' they were bending low/ And yelled for `centre hoot!' <i>(May 16, 1917,NZEF Chronicles,137</i>)
 
@@ -7370,7 +7370,7 @@
 
 ### chamber of horrors
  
- <i>n.</i> (See [also murder house](../A#also-murder-house))
+ <i>n.</i> (See [also murder house](mob-mys.md#murder-house))
 
 >  Under Sir Joseph Ward the building became the social centre of Wellington but in 1935 was nicknamed `chamber of horrors' after it became a [school dental nursing] dental centre. <i>(Dec 20, 1989,Dominion,2</i>)
 
@@ -8001,7 +8001,7 @@
 
 ### Chatham Island robin
  
- <i>n.</i> (See [also black robin](../A#also-black-robin))
+ <i>n.</i> (See [also black robin](bla-bri.md#black-robin))
 
 >  Dr. Cockayne has received a letter from Mr G. Allport, Secretary to the Marine Department, stating that the Colonial Secretary has given permission to take ten of each of the following birds from the islands to be placed on Kapiti Island : .. the Chatham Islands robin, and the Auckland Island ducks. <i>(Nov 2, 1907,Taranaki Herald,5</i>)
 
@@ -8604,7 +8604,7 @@
 
 ### cheese buster
  
- <i>n.</i> equivalent to present-day cheese straws (See [also buster](../A#also-buster))
+ <i>n.</i> equivalent to present-day cheese straws (See [also buster](bri-byo.md#buster))
 
 >  <i>CHEESE BUSTERS </i>... flour ... salt ... butter ... grated cheese. ... Roll out very thin, cut into squares and place on cold oven shelf. Bake ... <i>(1928,Everybody's Cookery Book of Tested Recipes,45</i>)
 
@@ -8885,7 +8885,7 @@
 
 ### chew one's ear/chew one's lug
  
- <i>phr.</i> to accost (a person) for a loan; to borrow money (from); to put the bite (on); (See [bite v](../B#bite-v))
+ <i>phr.</i> to accost (a person) for a loan; to borrow money (from); to put the bite (on); (See [bite v](b-bla.md#bite))
 
 >  If you ask a pal for money/ When you cannot `strap a beer',/ Then you `chew his lug', how funny,/ And what's more you `bite his ear.' <i>(Mar 31, 1906,NZ Truth,41/6/4</i>)
 
@@ -8984,7 +8984,7 @@
 
 ### chiacking
  
- <i>n.</i> cheeking, teasing [also spelt shi-(y)acking] (See [chiack v](../C#chiack-v))
+ <i>n.</i> cheeking, teasing [also spelt shi-(y)acking] (See [chiack v](c-chi.md#chiack))
 
 >  <b>LANCASTER</b> [Stationhand speaks] Stop off yer chiackin', you fellers, can't yer? <i>(1904,Sons o' Men,30</i>)
 

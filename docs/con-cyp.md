@@ -626,7 +626,7 @@
 
 ### cook
  
- <i>n.</i> a look (See [also Captain Cook](../A#also-captain-cook))
+ <i>n.</i> a look (See [also Captain Cook](c-chi.md#captain-cook))
 
 >  When I draw'd me wind, and wus walkin' aht/ In me slommicky 'orspital blue,/ I sights a tart, who `gets me cart'/ Wiv a `glad' wot bites me through./ ... We wus photograrfed, jest me an' 'er,/ 'Ere 'ave a cook at the proof.'/ Bill `cooked' and saw RED. <i>(Jul 10, 1919,Quick March,17</i>) [NOTES: When I draw'd me wind, and wus walkin' aht/ In me slommicky 'orspital blue,/ I sights a tart, who `gets me cart'/ Wiv a `glad' wot bites me through./ ... We wus photograrfed, jest me an' 'er,/ 'Ere 'ave a cook at the proof.'/ Bill `cooked' and saw RED.]
 
@@ -965,7 +965,7 @@
 
 ### Cookham boots
  
- <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens; Harry Pannells](../O#o'briens;-harry-pannells))
+ <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens](o-on.md#obriens); [Harry Pannells](h-hea.md#harry-pannells))
 
 >  Softgoods, and hard, and holloware,/ With Stringers buns and toffees;/ And Cookham's famous boots are there,/ So is the Union Office. <i>(1866,Canterbury Rhymes,76</i>) [NOTES: 1860 Apr in 1866 Canterbury Rhymes 76]
 
@@ -2557,7 +2557,7 @@
 
 ### Correspondence School
  
- <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See [also TCS abbreviation](../A#also-tcs-abbreviation))
+ <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See [also TCS abbreviation](t-ten.md#tcs))
 
 >  According to the Correspondence School principal, the broadcasts back up written lessons, are useful for language and music courses.. and serve to pass on useful housekeeping information. <i>(Apr 8, 1989,Listener (New Zealand Listener),43</i>)
 
@@ -3301,7 +3301,7 @@
 
 ### counting-out pen
  
- <i>n.</i> a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See [also count out](../A#also-count-out))
+ <i>n.</i> a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See [also count out](con-cyp.md#count-out))
 
 >  <b>CARR</b> Fleece-picking. - As soon as a shearer has taken the fleece off and let the sheep go through the port-hole to the counting-out pen, the picker gathers the fleece up in such a manner that she or he can on getting to the rolling table, throw it out with the breech part at the right end. <i>(1913,Country Work,14</i>)
 
@@ -3700,7 +3700,7 @@
 
 ### couta
  
- <i>n.</i> (informal) barracouta [ORIGIN: abbreviation, c1949 Havelock] (See [also king couta](../A#also-king-couta))
+ <i>n.</i> (informal) barracouta [ORIGIN: abbreviation, c1949 Havelock] (See [also king couta](kee-kiw.md#king-couta))
 
 >  <b>MEREDITH</b> ... I amused myself catching barracouta ... When travelling fast through the water, it [sc. the board with a nail in it] resembles a fish, and the 'coota goes for it open-mouthed. ... Directly the line is slackened on deck the 'coota lets go the bait, which is dropped over for the next victim. <i>(1935,Adventuring in Maoriland in the Seventies,9</i>) [NOTES: 1872 Oct 1 in c1875 Meredith Adventuring in Maoriland (1935) 9]
 
@@ -3754,7 +3754,7 @@
 
 ### cove
  
- <i>n.</i> a fellow, bloke, chap (See [also Auckland cove](../A#also-auckland-cove))
+ <i>n.</i> a fellow, bloke, chap (See [also Auckland cove](ari-axe.md#auckland-cove))
 
 >  <b>THOMSON</b> <i>(1859,Story of New Zealand, The</i>) [NOTES: [see AUCKLAND COVE transfer here.]]
 
@@ -3991,7 +3991,7 @@
 
 ### cow country
  
- <i>n.</i> dairy farming country (See [also country](../A#also-country))
+ <i>n.</i> dairy farming country (See [also country](con-cyp.md#country))
 
 >  <b>LAWLOR</b> The first trip had been to the cow country of Taranaki. <i>(1938,House of Templemore, The,144</i>)
 
@@ -4140,7 +4140,7 @@
 
 ### cow stop
  
- <i>n.</i> cattle-stop (See [also cow-grid](../A#also-cow-grid))
+ <i>n.</i> cattle-stop (See [also cow-grid](con-cyp.md#cow-grid))
 
 >  <b>MARSHALL</b> They pull over when the car has rattled past the cow stop. Alun and Meredith look across their father's land to the sea. Dry pasture, ... <i>(1982,Master of Big Jingles,127</i>)
 
@@ -4322,7 +4322,7 @@
 
 ### cow-dog
  
- <i>n.</i> a dog trained to bring home milking-cows. (See [contrast cattle dog](../C#contrast-cattle-dog))
+ <i>n.</i> a dog trained to bring home milking-cows. (See [contrast cattle dog](c-chi.md#cattle-dog))
 
 >  `He's a good enough cow-dog,' he said, soon calm again. <i>(Aug 1986,Islands,37/40</i>)
 
@@ -4342,7 +4342,7 @@
 
 ### cow-grid
  
- <i>n.</i> a cattle-stop (See [also cow stop](../A#also-cow-stop))
+ <i>n.</i> a cattle-stop (See [also cow stop](con-cyp.md#cow-stop))
 
 >  <b>VIRTUE</b> By the time they'd reached the farm, rattled over the cow-grid at the gate and along the track to the house, Elsdon had forgotten feeling bothered. <i>(1987,Redemption of Elsdon Bird, The,84,1988 ed.</i>)
 
@@ -4546,7 +4546,7 @@
 
 
  
- <i>n.</i> a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See [contrast cattle man](../C#contrast-cattle-man))
+ <i>n.</i> a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See [contrast cattle man](c-chi.md#cattle-man))
 
 >  <b>WOOD</b> It did not take Frank long ... to ... drive the cow down. In the township he met Edwards, who ... said ... `Hallo! have you turned cow-boy?' <i>(1875,Waiting for the Mail,83</i>)
 
@@ -4874,7 +4874,7 @@
 
 ### cowshit
  
- <i>n.</i> an occas. var. of bullshit. [ca1952 Wellington] (See [also cowsh](../A#also-cowsh))
+ <i>n.</i> an occas. var. of bullshit. [ca1952 Wellington] (See [also cowsh](con-cyp.md#cowsh))
 
 ### cowsick
  
@@ -4899,7 +4899,7 @@
 
 ### cowspanker
  
- <i>n.</i> a dairy farmer (See [also cow-banger](../A#also-cow-banger))
+ <i>n.</i> a dairy farmer (See [also cow-banger](con-cyp.md#cow-banger))
 
 >  A burly young cow-spanker from the backblocks had come to town. <i>(May 18, 1912,NZ Free Lance,14</i>)
 
@@ -5906,7 +5906,7 @@
 
 ### crash rugby
  
- <i>n.</i> (See [crash n](../C#crash-n))
+ <i>n.</i> (See [crash n](con-cyp.md#crash))
 
 >  <b>NEWBOLD</b> Crash rugby is a bit like rugby league except that in Paremoremo the men are still not permitted to go outside on to the grass, so the game is played in the gymnasium, on a wooden floor. <i>(1982,Big Huey, The,97</i>)
 
@@ -6405,7 +6405,7 @@
 
 ### crazy/screwy as a two-bob watch
  
- <i>phr.</i> (See [also silly as a two-bob watch](../A#also-silly-as-a-two-bob-watch))
+ <i>phr.</i> (See [also silly as a two-bob watch](sho-spa.md#silly-as-a-two-bob-watch))
 
 >  <b>COWLEY</b> "You're mad!" he said. "You know that? You're as crazy as a two-bob watch." <i>(1979,Growing Season, The,74</i>)
 
@@ -7158,7 +7158,7 @@
 
 ### creeping dichondra
  
- <i>n.</i> (See [also dichondra](../A#also-dichondra))
+ <i>n.</i> (See [also dichondra](d-dif.md#dichondra))
 
 >  <b>cockayne</b> creeping dichondra <i>Dichondra repens</i>. <i>(1919,NZ Plants & Their Story</i>)
 
@@ -7545,7 +7545,7 @@
 
 ### crested shag
  
- <i>n.</i> (Environment) spotted shag (See [also flip-flap](../A#also-flip-flap))
+ <i>n.</i> (Environment) spotted shag (See [also flip-flap](fin-fly.md#flip-flap))
 
 >  The crested shag, or cormorant, was another beautiful bird found there! <i>(Mar 30, 1938,Auckland Weekly News,96</i>)
 
@@ -8542,7 +8542,7 @@
 
 ### crookbill
  
- <i>n.</i> a wrybill (See [also crookbill plover](../A#also-crookbill-plover))
+ <i>n.</i> a wrybill (See [also crookbill plover](con-cyp.md#crookbill-plover))
 
 >  NO. B.65. - ANARHYNCHUS FRONTALIS, <i>Quoy</i>. ... In the `Ibis,' January, 1873, also in Dr. Buller's book, page 219, appear statements that the pectoral band is less conspicuous on the left than on the right side of the Crook-bill. <i>(1873,TrNZI,6/150</i>) [NOTES: (Potts)]
 
@@ -8736,7 +8736,7 @@
 
 ### crossbred
  
- <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](../A#also-criss-cross),[rotational cross](roa-ruv.md#rotational-cross))
+ <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](con-cyp.md#criss-cross),[rotational cross](roa-ruv.md#rotational-cross))
 
 >  <b>WELD</b> ... the Merino has the more valuable wool, being finer, and particularly superior in the `skirts', which are remarkably deficient in crossed sheep.] <i>(1851,Hints to Intending Sheep-Farmers in New Zealand,8</i>) [NOTES: [cf crossed sheep]]
 
@@ -9795,7 +9795,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See [crutch man; on the crutch](../C#crutch-man;-on-the-crutch))
+<b>1</b> <i>n.</i> (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See [crutch man](con-cyp.md#crutch-man); [on the crutch](on-ore.md#on-the-crutch))
 
 >  .. the trough is always full from end to end with the sheep passing through it in a continuous string; the man at each partition repeating the process of 'crutching' already described. <i>(1888,Textile Educator I,262</i>)
 
@@ -10764,7 +10764,7 @@
 
 ### cup of tea
  
- <i>phr.</i> [also as cuppa tea below] (See [also cuppa](../A#also-cuppa),[tea break](t-ten.md#tea-break))
+ <i>phr.</i> [also as cuppa tea below] (See [also cuppa](con-cyp.md#cuppa),[tea break](t-ten.md#tea-break))
 
 >  Quipped Sir Roger: "Since 1991 they'vehad a gigantic cup of tea that DavidLange would be proud of." <i>(Sep 17, 1993,Dominion,17</i>)
 
@@ -10822,7 +10822,7 @@
 
 ### cuppa
  
- <i>n.</i> (political allusion) (See [also cup of tea](../A#also-cup-of-tea),[tea break](t-ten.md#tea-break))
+ <i>n.</i> (political allusion) (See [also cup of tea](con-cyp.md#cup-of-tea),[tea break](t-ten.md#tea-break))
 
 >  But what say we have a little breatherhere and then we set off on the roadagain after we have picked up thecasualties and had a cuppa. <i>(Aug 20, 1988,Dominion,1</i>) [NOTES: metaphor.]
 
@@ -11087,7 +11087,7 @@
 
 ### currant tree
  
- <i>n.</i> wineberry, <i>Aristotelia racemosa</i> (See [also currant](../A#also-currant))
+ <i>n.</i> wineberry, <i>Aristotelia racemosa</i> (See [also currant](con-cyp.md#currant))
 
 >  Makomako (currant-tree) .. Aristotelia racemosa .. Timber light and straight grained; ... <i>(1890,PWD Catalogue of Timbers,11</i>)
 
@@ -11127,7 +11127,7 @@
 
 ### curry
  
- <i>n.</i> (offensive) an Indian (See [also curry-muncher](../A#also-curry-muncher))
+ <i>n.</i> (offensive) an Indian (See [also curry-muncher](con-cyp.md#curry-muncher))
 
 >  `THE CURRIES are just like the Jews,' a youth said about the fire-bombing of the shop of a Petone Indian ... `This reference I [Mr Johnson] took to mean the Indians, ...' <i>(Sep 26, 1979,Evening Post,48/1-3</i>)
 
@@ -11150,7 +11150,7 @@
 
 ### curry-muncher
  
- <i>n.</i> (offensive) an Indian (See [also curry](../A#also-curry))
+ <i>n.</i> (offensive) an Indian (See [also curry](con-cyp.md#curry))
 
 >  <i> curry muncher</i>: Indian <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
@@ -11282,7 +11282,7 @@
 
 ### cut
  
- <i>n.</i> esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See [also cut out](../A#also-cut-out))
+ <i>n.</i> esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See [also cut out](con-cyp.md#cut-out))
 
 >  <i>(Oct 7, 1933,Press, The,15</i>) [NOTES: (Acland Gloss.) [see cut @v]]
 
@@ -11375,7 +11375,7 @@
 
 
  
- <i>adj.</i> often of liquor, finished, cut out (See [cut v](../C#cut-v))
+ <i>adj.</i> often of liquor, finished, cut out (See [cut v](con-cyp.md#cut))
 
 >  She's [the keg's] cut, is she? ... <i>(1946,Johnny Enzed in Italy,5</i>)
 
@@ -11409,7 +11409,7 @@
 
 
  
- <i>v.</i> to finish (off), empty, use up (See [also cut out](../A#also-cut-out))
+ <i>v.</i> to finish (off), empty, use up (See [also cut out](con-cyp.md#cut-out))
 
 >  <b>HENDERSON</b> [chk ?131 Let's cut the lot. <i>(1945,Gunner Inglorious,134</i>)
 
@@ -11475,7 +11475,7 @@
 
 ### cut (out) the rough stuff
  
- <i>phr.</i> usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive (See [also cut the rough](../A#also-cut-the-rough))
+ <i>phr.</i> usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive (See [also cut the rough](con-cyp.md#cut-the-rough))
 
 >  `That's why I kicked it.' `Well, cut out the rough stuff. This isn't a test match.' <i>(1933,Auckland Capping Book,27</i>)
 
@@ -11956,7 +11956,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [also cutting toetoe](../A#also-cutting-toetoe))
+<b>2</b> <i>n.</i> (See [also cutting toetoe](con-cyp.md#cutting-toetoe))
 
 >  <b>TURNER</b> <i>Mariscus ustulatus </i> <i>(1909,AJHR,C-11</i>) [NOTES: Botanical Examination Higher Waimarino(And)]
 

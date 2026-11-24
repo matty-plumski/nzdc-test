@@ -1327,7 +1327,7 @@
 
 ### daisy
  
- <i>n.</i> Bellis perennis (See [also moon](../A#also-moon),[oxeye](../O#oxeye),[tree daisy (daisy tree)](../T#tree-daisy-(daisy-tree)))
+ <i>n.</i> Bellis perennis (See [also moon](mob-mys.md#moon),[oxeye](../O#oxeye),[tree daisy (daisy tree)](tot-tyr.md#tree-daisy)))
 
 >  <i>daisy, [s] Bellis perennis</i> L. <i>(1969,Standard Common Names for Weeds,20</i>)
 
@@ -3544,7 +3544,7 @@
 
 ### deburring
  
- <i>n.</i> (See [also burr](../A#also-burr))
+ <i>n.</i> (See [also burr](bri-byo.md#burr))
 
 >  <b>MACDONALD</b> Generally there has been little change in fellmongering practice since 1892. Skins are still cold-water washed in `dolllies' or paddles, deburring machines are no longer used, but the de-wooling paint is applied on a moving conveyor instead of on the piled skins. <i>(1957,Canterbury Frozen Meat Company,69</i>)
 
