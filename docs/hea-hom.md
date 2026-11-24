@@ -333,7 +333,7 @@
 
 ### heading 'em
  
- <i>phr.</i> the game of two-up (See [head them](../H#head-them))
+ <i>phr.</i> the game of two-up (See [head them](hea-hom.md#head-them))
 
 >  The Law defines the classic game of `two-up' as a gamble punishable by a magistrate, but that does not stop men from including in the pastime and losing their hard-earned gonce. There are a few `schools' in Christchurch, and a good deal of money changes hands occasionally. `Heading 'em' as it is called, is carried on in a certain licensed billiard saloon, and the patrons include some pretty hot individuals who are known to copperdom. <i>(May 18, 1907,NZ Truth,100/1/6</i>)
 
@@ -397,7 +397,7 @@
 
 ### headless chookery
  
- <i>n.</i> [also headless bechookery] (See [like a headless chook](../L#like-a-headless-chook))
+ <i>n.</i> [also headless bechookery] (See [like a headless chook](lay-liv.md#like-a-headless-chook))
 
 >  The number of officials shoehorned into the Beehive theatrette for the announcement gave you some idea of the headless chookery that has been going on. <i>(May 31, 2003,Listener (New Zealand Listener),14</i>)
 
@@ -407,7 +407,7 @@
 
 ### headlessly bechooked
  
- <i>phr.</i> Paul Holmes' description of his TVNZ bosses on his departure from the company (See [headless chookery](../H#headless-chookery))
+ <i>phr.</i> Paul Holmes' description of his TVNZ bosses on his departure from the company (See [headless chookery](hea-hom.md#headless-chookery))
 
 >  [Holmes's] description of TVNZ executives as "headlessly bechooked" was pretty good, too. <i>(Oct 14, 2004,Sunday Star Times,C14</i>)
 
@@ -1252,7 +1252,7 @@
 
 ### Hector's tree daisy
  
- <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See [tree daisy](../T#tree-daisy))
+ <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See [tree daisy](tot-tyr.md#tree-daisy))
 
 >  A significant number of hector's [sic] tree daisy, or Olearia hectorii [sic]and Olearia fimbriata [sic], were identified on three properties in the Coal Creek catchment last year... <i>(Jan 24, 2006,NZ Herald,A2</i>)
 
@@ -1346,7 +1346,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See [header](../H#header))
+<b>1</b> <i>n.</i> (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See [header](hea-hom.md#header))
 
 >  heeler - a small quick cattle dog that stirs things along by 'hock hunting.' <i>(Oct 15, 1983,NZ Journal of Agriculture,25</i>)
 
@@ -1733,7 +1733,7 @@
 
 ### hellashun
  
- <i>adv.</i> (See [hellashin](../H#hellashin))
+ <i>adv.</i> (See [hellashin](hea-hom.md#hellashin))
 
 >  <b>BEARDSLEY</b> Oh joy oh boy, the lolly scramble, a hellashun big tin and Mr Stevens shouting and hurling them into the air, a great coloured fan, plop, plop, plop into the grass. <i>(1984,Blackball 08,62</i>)
 
@@ -1747,7 +1747,7 @@
 
 ### hellishing
  
- <i>adj.</i> (See [hellashin](../H#hellashin))
+ <i>adj.</i> (See [hellashin](hea-hom.md#hellashin))
 
 ### hellzapoppin
  
@@ -1991,7 +1991,7 @@
 
 ### heppa
  
- <i>n.</i> (See [pa](../P#pa))
+ <i>n.</i> (See [pa](p-per.md#pa))
 
 ### herb
  
@@ -2083,7 +2083,7 @@
 
 ### herd test
  
-<b>1</b> <i>v.</i> (Rural) to measure the productivity of each cow in a herd. (See [herd-testing](../H#herd-testing))
+<b>1</b> <i>v.</i> (Rural) to measure the productivity of each cow in a herd. (See [herd-testing](hea-hom.md#herd-testing))
 
 >  The Scotts have used the Dairy Board's artificial breeding service for 35 years and they also herd test. <i>(Mar 1986,NZ Journal of Agriculture,42</i>)
 
@@ -2091,7 +2091,7 @@
 
 ### herd tester
  
- <i>n.</i> (Rural) a worker who visits farms to assess total herd productivity by testing individual cows' milk for milk fat content. (See [herd-testing](../H#herd-testing))
+ <i>n.</i> (Rural) a worker who visits farms to assess total herd productivity by testing individual cows' milk for milk fat content. (See [herd-testing](hea-hom.md#herd-testing))
 
 >  Most folk [get] the herd-tester to do their cows. <i>(Jan 22, 1927,NZ Dairy Exporter,35</i>)
 
@@ -2276,7 +2276,7 @@
 
 ### hermit sheep
  
- <i>n.</i> a sheep which has escaped and lived apart from the main flock (See [hermit](../H#hermit))
+ <i>n.</i> a sheep which has escaped and lived apart from the main flock (See [hermit](hea-hom.md#hermit))
 
 >  it's not enough to have had one Shrek - organisers of next month's national agricultural expo at Mystery Creek near Hamilton have rounded up a couple more hermit sheep. <i>(May 27, 2004,Dominion Post,C7</i>)
 
@@ -2346,7 +2346,7 @@
 
 ### heron
  
- <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane; kotuku](../A#also-crane;-kotuku),[matuku(-moana)](../M#matuku(-moana)))
+ <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane; kotuku](../A#also-crane;-kotuku),[matuku(-moana)](mar-moa.md#matuku(-moana)))
 
 >  <b>FORSTER</b> We saw two shags & white bird which removed from tree to tree ... it seemed to be a Heron. [ed. fn] White Heron ... <i>(Mar 29, 1773,Resolution Journal of J.R. Forster, The,2/243</i>)
 
@@ -2368,7 +2368,7 @@
 
 ### herring
  
- <i>n.</i> (See [Picton herring](../P#picton-herring),[aua](../A#aua),[and sardine](../A#and-sardine))
+ <i>n.</i> (See [Picton herring](per-pop.md#picton-herring),[aua](ari-axe.md#aua),[and sardine](../A#and-sardine))
 
 >  <b>THOMSON</b> Herring (<i> Clupea harengus </i>). To the popular mind the introduction of the herring into New Zealand waters is the most desirable form of acclimatisation work which could be undertaken.] <i>(1922,Naturalisation of Animals and Plants,185</i>)
 
@@ -2659,7 +2659,7 @@
 
 ### heruheru
  
- <i>n.</i> (See [Prince of Wales feathers](../P#prince-of-wales-feathers))
+ <i>n.</i> (See [Prince of Wales feathers](pop-pyo.md#prince-of-wales-feathers))
 
 >  Some [ferns], such as the delicate Prince of Wales feathers (Leptopteris superba or Heruheru), is justifiably said to be New Zealand's most beautiful form, but also one of the most difficult to cultivate. <i>(Jul 10, 2004,Dominion Post,E12</i>)
 
@@ -3053,7 +3053,7 @@
 
 ### Higher Salaries Commission
  
- <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See [HSC](../H#hsc))
+ <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See [HSC](hom-hyp.md#hsc))
 
 >  The Auditor-General says MPs should not have the power to set their own entitlements and privileges. That role should be handed over to the Higher Salaries Commission... Currently HSC determines pay levels, but Speaker Jonathan Hunt and Minister Responsible for Ministerial Services, Prime Minister Helen Clark, determine entitlements and privileges. <i>(Jul 24, 2001,Evening Post,1</i>)
 
@@ -3552,7 +3552,7 @@
 
 ### hill man
  
-<b>1</b> <i>n.</i> (Rural) a pastoralist, shepherd or musterer who works on hill blocks. (See [hill shepherd](../H#hill-shepherd))
+<b>1</b> <i>n.</i> (Rural) a pastoralist, shepherd or musterer who works on hill blocks. (See [hill shepherd](hea-hom.md#hill-shepherd))
 
 >  <b>NEWTON</b> However, both the old hands were good men, one in particular being one of the best hillmen in the district. <i>(1949,High Country Days,12</i>)
 
@@ -3605,7 +3605,7 @@
 
 ### hill shepherd
  
-<b>1</b> <i>n.</i> (Rural) a shepherd who looks after sheep on large open hill blocks, as distinct from a paddock shepherd working on fenced land. (See [hill man](../H#hill-man))
+<b>1</b> <i>n.</i> (Rural) a shepherd who looks after sheep on large open hill blocks, as distinct from a paddock shepherd working on fenced land. (See [hill man](hea-hom.md#hill-man))
 
 >  <b>BARKER</b> Very different was Ned Palmer, the most diminutive and wiry of hill shepherds. <i>(1873,Station Amusements in NZ,138</i>)
 
@@ -3891,7 +3891,7 @@
 
 ### hippah
  
- <i>n.</i> (See [pa](../P#pa))
+ <i>n.</i> (See [pa](p-per.md#pa))
 
 ### hippie-tanga
  
@@ -4171,7 +4171,7 @@
 
 ### hobnail
  
- <i>v.</i> (Rural) to walk (See [hobnails](../H#hobnails),[ride one's; hobnail express](../R#ride-one's;-hobnail-express),[go by](../G#go-by))
+ <i>v.</i> (Rural) to walk (See [hobnails](hea-hom.md#hobnails),[ride one's; hobnail express](../R#ride-one's;-hobnail-express),[go by](../G#go-by))
 
 >  <b>STAPLES</b> i didn't feel like hobnailing it all the way. <i>(1964,Cooks and Shepherds Come Away,82</i>)
 
@@ -4228,7 +4228,7 @@
 
 ### Hobson's folly
  
- <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](../H#hobson's-choice))
+ <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](hea-hom.md#hobson's-choice))
 
 >  the Hobson's folly. <i>(1840,NZ Journal,23/290</i>)
 
@@ -4309,7 +4309,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a mutton chop [staple mustering breakfast food.] (See [three-six-five](../T#three-six-five))
+<b>1</b> <i>n.</i> (Rural) a mutton chop [staple mustering breakfast food.] (See [three-six-five](ten-tot.md#three-six-five))
 
 >  <b>NEWTON</b> Mutton chops, or hockey sticks as they are generally known, are day after day and month after month, the back country man's breakfast. <i>(1947,Wayleggo,114</i>)
 
@@ -4554,7 +4554,7 @@
 
 ### hogget country
  
-<b>1</b> <i>n.</i> (Rural) hilly land suitable for hoggets or dry stock requiring little management. (See [hogget block](../H#hogget-block))
+<b>1</b> <i>n.</i> (Rural) hilly land suitable for hoggets or dry stock requiring little management. (See [hogget block](hea-hom.md#hogget-block))
 
 >  <b>NEWTON</b> This block, which is fenced off from the high tops, is the station's hogget country. <i>(1952,High Country Journey,158</i>)
 
@@ -4653,7 +4653,7 @@
 
 ### hogshop
  
- <i>n.</i> a tuckshop [(secondary schools') 1960 16C F B1 Nelson Girls C. 22A HOG-SHOP -->1960 18C M B11 Nelson Boys C. 22A HOGSHOP] (See [hog](../H#hog))
+ <i>n.</i> a tuckshop [(secondary schools') 1960 16C F B1 Nelson Girls C. 22A HOG-SHOP -->1960 18C M B11 Nelson Boys C. 22A HOGSHOP] (See [hog](hea-hom.md#hog))
 
 ### hoha
  
@@ -4703,7 +4703,7 @@
 
 ### hohere
  
- <i>n.</i> (See [houhere](../H#houhere))
+ <i>n.</i> (See [houhere](hom-hyp.md#houhere))
 
 ### hoheria
  
@@ -4768,7 +4768,7 @@
 
 ### hoihere
  
- <i>n.</i> (See [houhere](../H#houhere))
+ <i>n.</i> (See [houhere](hom-hyp.md#houhere))
 
 ### hoiho
  
@@ -4783,7 +4783,7 @@
 
 
  
- <i>n.</i> <i>Megadyptes antipodes</i>, the yellow-eyed penguin (See [yellow-eyed penguin](../Y#yellow-eyed-penguin))
+ <i>n.</i> <i>Megadyptes antipodes</i>, the yellow-eyed penguin (See [yellow-eyed penguin](ydu-yen.md#yellow-eyed-penguin))
 
 >  <b>McLiNTOCK</b> <i>hoiho</i> .. .. Megadyptes antipodes <i>(1966,Encyclopaedia of New Zealand, An,3/705-712</i>)
 
@@ -4819,7 +4819,7 @@
 
 ### hoka
  
- <i>n.</i> (See [red cod](../R#red-cod))
+ <i>n.</i> (See [red cod](ra-red.md#red-cod))
 
 >  <b>TAYLOR</b> The <i>Hoka</i> is a fish with thick lips and very prominent eyes, small scales, having long dorsal and ventral fins, in addition to its pectoral and caudal ones, it is a foot long, and is found in Queen Charlotte's Sound. <i>(1855,Te ika a Maui,628</i>)
 
@@ -5025,7 +5025,7 @@
 
 ### hokioi
  
- <i>n.</i> (See [hakuwai](../H#hakuwai))
+ <i>n.</i> (See [hakuwai](h-hea.md#hakuwai))
 
 >  Many legends are associated with the mythical bird "hokioi"... in the South and in some parts of the North island it is identical, apparently, with the "hakuwai" which has seven joints in its wing, lives in the sky, and presages trouble... "its cry was Hokioi! Hokioi! Hu!" The last word represented the whizzing sound made by the bird in flight. <i>(Sep 11, 1912,Otago Witness,76</i>)
 
@@ -5285,7 +5285,7 @@
 
 ### hold the pa
  
- <i>phr.</i> hold the fort (See [pa](../P#pa))
+ <i>phr.</i> hold the fort (See [pa](p-per.md#pa))
 
 >  Graeme Wilson held the pa while the others were in Oz. <i>(Jun 1989,Geological Society of NZ Newsletter,84/26</i>)
 
@@ -5301,7 +5301,7 @@
 
 ### holder
  
- <i>n.</i> (Rural) a pig-dog that bails wild pigs by holding on to ears, tail or testicles in the case of a boar. (See [holding dog](../H#holding-dog))
+ <i>n.</i> (Rural) a pig-dog that bails wild pigs by holding on to ears, tail or testicles in the case of a boar. (See [holding dog](hea-hom.md#holding-dog))
 
 >  <b>AXBEY</b> Two of us were hunting near Waverley; my mate had a couple of holders and a finder, while i still had just the one. <i>(1991,Along the Track: a collection of NZ hunting yarns,10</i>)
 
@@ -5430,7 +5430,7 @@
 
 ### holding paddock
  
- <i>n.</i> (Rural) [joc.] pensioner flats or elderly rest home, or boarding school. (See [accommodation paddock](../A#accommodation-paddock))
+ <i>n.</i> (Rural) [joc.] pensioner flats or elderly rest home, or boarding school. (See [accommodation paddock](a-all.md#accommodation-paddock))
 
 >  <b>MCGiLL</b> holding paddock: pensioners' flats or old-age housing settlement; from paddock stock held in on way to slaughterhouse ... <i>(1988,Dictionary of Kiwi Slang, A,57</i>)
 
@@ -5488,7 +5488,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See [accommodation paddock](../A#accommodation-paddock))
+<b>1</b> <i>n.</i> (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See [accommodation paddock](a-all.md#accommodation-paddock))
 
 >  <b>LOUGHNAN</b> Holding paddock: one designed not for the grazing of stock, but for retaining a mob close by the woolshed, or drafting yards, or dip yards, or near a mustering hut. <i>(1981,Loughnan Glossary,43</i>)
 
@@ -5707,7 +5707,7 @@
 
 ### holie
  
- <i>n.</i> (See [holey](../H#holey))
+ <i>n.</i> (See [holey](hea-hom.md#holey))
 
 ### hollow licking
  
@@ -6092,7 +6092,7 @@
 
 
  
- <i>n.</i> [attrib. uses] (See [also Home boat](../A#also-home-boat),[Homeboat](../H#homeboat))
+ <i>n.</i> [attrib. uses] (See [also Home boat](../A#also-home-boat),[Homeboat](hom-hyp.md#homeboat))
 
 >  <b>SAM STEPHENS</b> [My] land around me is begining to have a `home' look [?? homely] <i>(1844,Journal,358</i>)
 

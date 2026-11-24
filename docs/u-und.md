@@ -481,7 +481,7 @@
 
 ### unclean
  
- <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See [clean](../C#clean))
+ <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See [clean](chi-con.md#clean))
 
 ### unco
  
@@ -651,7 +651,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a tomo or underground tunnel, a hazard to stock. [also underrun] (See [under-runner](../U#under-runner))
+<b>1</b> <i>n.</i> (Rural) a tomo or underground tunnel, a hazard to stock. [also underrun] (See [under-runner](u-und.md#under-runner))
 
 >  <b>DEANS</b> The poor dog had fallen down what is known as an underrun. <i>(1964,Pioneers on Port Cooper Plains,166</i>)
 
@@ -731,7 +731,7 @@
 
 ### underbush
  
- <i>n.</i> (See [underbrush](../U#underbrush))
+ <i>n.</i> (See [underbrush](u-und.md#underbrush))
 
 >  ... and with some difficulty pushed my way through the low underbush ... <i>(Feb 8, 1848,Nelson Examiner,74,1952 ed.</i>)
 
@@ -792,7 +792,7 @@
 
 ### undercook
  
- <i>v.</i> (See [overcook](../O#overcook))
+ <i>v.</i> (See [overcook](ore-ozz.md#overcook))
 
 ### undercutting
  
@@ -814,7 +814,7 @@
 
 ### underdungas
  
- <i>n.</i> (See [underdungers](../U#underdungers))
+ <i>n.</i> (See [underdungers](u-und.md#underdungers))
 
 ### underdungers
  
@@ -893,6 +893,6 @@
 
 ### Underpanter
  
- <i>n.</i> participant in the Undie 500 (See [Undie Five-Hundy](../U#undie-five-hundy),[Undie 500](../U#undie-500))
+ <i>n.</i> participant in the Undie 500 (See [Undie Five-Hundy](und-up.md#undie-five-hundy),[Undie 500](und-up.md#undie-500))
 
 >  [heading] <b>Underpanters brave the cold</b> <i>(Jul 8, 2005,Dominion Post,A2</i>)

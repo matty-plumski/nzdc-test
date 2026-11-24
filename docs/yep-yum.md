@@ -8,7 +8,7 @@
 
 ### yerk
  
- <i>n.</i> a young bird, a nestling [usu. pl. ca1900 Otago boys p.c. Mr W. Phillipps] (See [cf. younker](../Y#younker))
+ <i>n.</i> a young bird, a nestling [usu. pl. ca1900 Otago boys p.c. Mr W. Phillipps] (See [cf. younker](yep-yum.md#younker))
 
 ### YES
  

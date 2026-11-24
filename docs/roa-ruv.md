@@ -551,7 +551,7 @@
 
 
  
- <i>adj.</i> as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See [cod](../C#cod),[lark](../L#lark),[ling](../L#ling),[lizard](../L#lizard),[lobster](../L#lobster))
+ <i>adj.</i> as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See [cod](chi-con.md#cod),[lark](l-lay.md#lark),[ling](lay-liv.md#ling),[lizard](liv-lyn.md#lizard),[lobster](liv-lyn.md#lobster))
 
 
 
@@ -856,7 +856,7 @@
 
 ### rock snot
  
- <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [didymo](../D#didymo),[river snot](../R#river-snot))
+ <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [didymo](d-dif.md#didymo),[river snot](red-roa.md#river-snot))
 
 >  There are fears that <i>Didymosphenia geminata</i> - known as "rock snot" - will choke waterways. <i>(Sep 30, 2005,Dominion Post,A5</i>)
 
@@ -878,7 +878,7 @@
 
 ### rock trout
  
- <i>n.</i> <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See [kokopu](../K#kokopu))
+ <i>n.</i> <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See [kokopu](kiw-kwi.md#kokopu))
 
 >  It is interesting to note that this fish belongs to the same family (Galaxiidae) as the common kokopo, or New Zealand rock trout, and the inanga (the parent of the New Zealand whitebait), but has been placed in a separate genus (Neochanna) on account of the absence of the paired ventral fins, which characteristic occurs, on the contrary, in all species of the genus Galaxias. <i>(Oct 4, 1930,Evening Post,7</i>)
 
@@ -1148,7 +1148,7 @@
 
 ### rockling
  
- <i>n.</i> (See [ling](../L#ling))
+ <i>n.</i> (See [ling](lay-liv.md#ling))
 
 >  <b>AYLING</b> ROCKLING <i>Gaidropsarus novaezelandiae</i> ... The rockling is a small cod found in rock pools and in shallow coastal waters. <i>(1982,Collins Guide,149,1984 ed.</i>)
 
@@ -1213,7 +1213,7 @@
 
 
  
- <i>n.</i> [[check that could possibly be roi fernroot]] (See [raurau](../R#raurau))
+ <i>n.</i> [[check that could possibly be roi fernroot]] (See [raurau](ra-red.md#raurau))
 
 ### roger rum
  
@@ -1403,7 +1403,7 @@
 
 ### rohi
  
- <i>n.</i> (See [roi](../R#roi))
+ <i>n.</i> (See [roi](roa-ruv.md#roi))
 
 >  <b>KOHERE</b> Even today, the Maoris of Wairoa regard rohi (loaf, or baker's bread) as the cause of a tribal calamity. <i>(1951,Autobiography of a Maori,52</i>)
 
@@ -1547,7 +1547,7 @@
 
 
  
- <i>v.</i> roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See [roll your own](../R#roll-your-own))
+ <i>v.</i> roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See [roll your own](roa-ruv.md#roll-your-own))
 
 >  But then Charlie would have rolled himself one and looked up at the hills and pretended he didn't hear. <i>(1952,Arena,31:2</i>)
 
@@ -1942,7 +1942,7 @@
 
 ### Romer
  
- <i>n.</i> leave in Rome (See [Homer](../H#homer))
+ <i>n.</i> leave in Rome (See [Homer](hom-hyp.md#homer))
 
 >  Yeah, I drew a Romer last week. <i>(Aug 21, 1944,NZEF Times,IV/165 : 5</i>)
 
@@ -2172,7 +2172,7 @@
 
 ### rooster's blood
  
- <i>n.</i> [WW2, Italy] (See [cf. purple death](../P#purple-death))
+ <i>n.</i> [WW2, Italy] (See [cf. purple death](pop-pyo.md#purple-death))
 
 >  Rooster's Blood. <i>(Dec 23, 1944,NZEF Times,18</i>)
 
@@ -2319,7 +2319,7 @@
 
 
  
- <i>v.</i> (See [cf. roping stick](../R#roping-stick))
+ <i>v.</i> (See [cf. roping stick](roa-ruv.md#roping-stick))
 
 >  MacCluchey came ... and branded etc. a lot of young horses. It is very hard work ropeing them. <i>(Nov 17, 1862,Chudleigh Diary,66,1950 ed.</i>)
 
@@ -2794,7 +2794,7 @@
 
 ### roto
  
- <i>n.</i> (See [rata](../R#rata))
+ <i>n.</i> (See [rata](ra-red.md#rata))
 
 ### rotobaler
  
@@ -3694,7 +3694,7 @@
 
 ### roupo
  
- <i>n.</i> (See [raupo](../R#raupo))
+ <i>n.</i> (See [raupo](ra-red.md#raupo))
 
 ### rourou
  
@@ -3836,7 +3836,7 @@
 
 ### rousey
  
- <i>n.</i> (See [rousie](../R#rousie))
+ <i>n.</i> (See [rousie](roa-ruv.md#rousie))
 
 ### rousie
  
@@ -4023,7 +4023,7 @@
 
 ### rouster
  
- <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](../P#poofter))
+ <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](per-pop.md#poofter))
 
 
 
@@ -4047,7 +4047,7 @@
 
 ### rousy
  
- <i>n.</i> (See [rousie](../R#rousie))
+ <i>n.</i> (See [rousie](roa-ruv.md#rousie))
 
 ### route
  
@@ -4601,7 +4601,7 @@
 
 
  
- <i>n.</i> the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See [rubbity-dub](../R#rubbity-dub))
+ <i>n.</i> the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See [rubbity-dub](roa-ruv.md#rubbity-dub))
 
 >  There are many examples of rhyming slang in use at Paparua:..<i>rub-a-dub</i> for the pub. <i>(Oct 1999,NZWords,2(2) : 2</i>)
 
@@ -4611,7 +4611,7 @@
 
 ### rub-de-dub
  
- <i>n.</i> (See [rubbity(-dub)](../R#rubbity(-dub)))
+ <i>n.</i> (See [rubbity(-dub)](roa-ruv.md#rubbity(-dub)))
 
 ### rub-down
  
@@ -4663,7 +4663,7 @@
 
 ### rubbidy
  
- <i>n.</i> pub (See [rubbity(-dub)](../R#rubbity(-dub)))
+ <i>n.</i> pub (See [rubbity(-dub)](roa-ruv.md#rubbity(-dub)))
 
 ### rubbish
  
@@ -4708,7 +4708,7 @@
 
 ### rubbish tip
  
- <i>n.</i> refuse dump, landfill; also the tip (See [dump](../D#dump))
+ <i>n.</i> refuse dump, landfill; also the tip (See [dump](dou-dyn.md#dump))
 
 >  <b>SARGESON</b> <i>(1940,Man & His Wife, A,74</i>)
 
@@ -4761,7 +4761,7 @@
 
 ### rubblededub
  
- <i>n.</i> pub (See [rubbity(-dub)](../R#rubbity(-dub)))
+ <i>n.</i> pub (See [rubbity(-dub)](roa-ruv.md#rubbity(-dub)))
 
 >  <b>SLATTER</b> He shrugs off the other one who is trying to restrain him and pounds the counter. `Pour us a beer, sport. Come on, get cracking. Haven't got all day. Give us a bloody beer.' His friend takes his arm and says, `Turn it up, Tom. This isn't the rubblededub. This is the pie-cart.' <i>(1959,Gun in My Hand, A,165</i>)
 
@@ -4854,7 +4854,7 @@
 
 ### rue
  
-<b>2</b> <i>n.</i> (See [pine](../P#pine),[rue](../R#rue))
+<b>2</b> <i>n.</i> (See [pine](per-pop.md#pine),[rue](roa-ruv.md#rue))
 
 >  In an economic point of view, the chief trees of the Middle Island, are the Red and White Pine, respectively called by the Maoris: the former Mai or Matai (Podicarpus spicata),[fn] the latter the Kahikatea (Podocarpus dacrydioides). [ed. fn] Black Rue of Otago, Hook., f.; Miro, Black Rue or Black Pine in Otago, Hector; Miro, often confounded with Black Pine, Balfour; Matai, Colenso, - Mai or Matai (Taylor) <i>(1869,TrNZI,1/III/12</i>) [NOTES: (Monro).]
 
@@ -4938,7 +4938,7 @@
 
 ### rum-a-rum
  
- <i>n.</i> (See [ramarama](../R#ramarama))
+ <i>n.</i> (See [ramarama](ra-red.md#ramarama))
 
 ### rumaki
  
@@ -4990,7 +4990,7 @@
 
 ### rummy-rum
  
- <i>n.</i> (See [ramarama](../R#ramarama))
+ <i>n.</i> (See [ramarama](ra-red.md#ramarama))
 
 ### rump-munching
  
@@ -5000,7 +5000,7 @@
 
 ### rumpty
  
- <i>n.</i> anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See [rumptydooler](../R#rumptydooler))
+ <i>n.</i> anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See [rumptydooler](roa-ruv.md#rumptydooler))
 
 >  What a rumpty ... <i>(Jan 29, 1945,2NZEF Times</i>) [NOTES: 1945 Jan 29 2 NZEF Times JNZ]
 
@@ -5060,7 +5060,7 @@
 
 
  
- <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](../A#also-cattle-run),[sheep run](../S#sheep-run))
+ <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](../A#also-cattle-run),[sheep run](sa-sho.md#sheep-run))
 
 >  FOR SALE, a Small Farm, part of which is heavily timbered, convenient to a shipping place, with plenty of water, and a good run for cattle. <i>(Apr 23, 1864,Otago Witness,12</i>)
 
@@ -5880,7 +5880,7 @@
 
 ### run sheep
  
- <i>n.</i> (See [cf. paddock sheep](../P#paddock-sheep))
+ <i>n.</i> (See [cf. paddock sheep](p-per.md#paddock-sheep))
 
 >  The sheep from Otago were principally grass fed, and too few run sheep were received to form any conclusion as regards the respective merits of the sheep in the three Provinces. <i>(Oct 13, 1871,North Otago Times,2</i>)
 
@@ -5932,7 +5932,7 @@
 
 ### run-bred
  
-<b>1</b> <i>adj.</i> (Rural) [of store stock] born and raised on a station or grazing run. (See [station-bred](../S#station-bred))
+<b>1</b> <i>adj.</i> (Rural) [of store stock] born and raised on a station or grazing run. (See [station-bred](spa-sys.md#station-bred))
 
 >  Run bred cattle are also in favour at the moment. <i>(Oct 6, 1938,NZ Farmer,42</i>)
 
@@ -6203,7 +6203,7 @@
 
 ### runanganui
  
- <i>n.</i> a general council [ORIGIN: Maori] (See [runanga](../R#runanga))
+ <i>n.</i> a general council [ORIGIN: Maori] (See [runanga](roa-ruv.md#runanga))
 
 >  And so it happened that Sharples spent most of the 1980s chairing both the Ngati Kahungunu runanganui (overall council) and the Hoani Waititi Marae committee, dashing between Hawkes Bay and West Auckland, all the while working for Maori Affairs and raising a family. <i>(Dec 2004,North & South,69</i>)
 
@@ -6215,11 +6215,11 @@
 
 ### rungateeda
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### rungatyeeda
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### runhold
  
@@ -6664,7 +6664,7 @@
 
 ### ruriruri
  
- <i>n.</i> ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See [rowdy-dowdy](../R#rowdy-dowdy),[kow-rowdy-dowdy](../K#kow-rowdy-dowdy))
+ <i>n.</i> ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See [rowdy-dowdy](roa-ruv.md#rowdy-dowdy),[kow-rowdy-dowdy](kiw-kwi.md#kow-rowdy-dowdy))
 
 >  <b>MARKHAM</b> The Women will sit on a heap of Potatoes or log, and do what is called `Roody Doody' [ruriruri]; ... <i>(1834,New Zealand (various authors/titles),50,1963 ed.</i>)
 
@@ -6797,7 +6797,7 @@
 
 
  
- <i>n.</i> [goldmining] (See [gold-rush](../G#gold-rush))
+ <i>n.</i> [goldmining] (See [gold-rush](go-gra.md#gold-rush))
 
 >  <b>SWAINSON</b> In order to check an immediate and indiscriminate rush to the spot, ... the Government now issued provisional regulations,* under which licenses might be obtained by the public to dig, search for, and remove alluvial gold. <i>(1853,Auckland,104</i>)
 
@@ -7381,4 +7381,4 @@
 
 ### ruva-ruva
  
- <i>n.</i> (See [rewarewa](../R#rewarewa))
+ <i>n.</i> (See [rewarewa](red-roa.md#rewarewa))

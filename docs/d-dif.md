@@ -553,7 +553,7 @@
 
 ### dag-classing
  
-<b>1</b> <i>n.</i> (Rural) the sorting of wool from dags. (See [dag-picking](../D#dag-picking))
+<b>1</b> <i>n.</i> (Rural) the sorting of wool from dags. (See [dag-picking](d-dif.md#dag-picking))
 
 >  One man will find himself kept fairly busy keeping the sheep up to two good crutchers, and 'dag-classing' at the same time. <i>(Jul 1911,NZ Farmer,705</i>)
 
@@ -1193,7 +1193,7 @@
 
 ### dairy platform
  
-<b>1</b> <i>n.</i> (Rural) dairy farm. (See [milking platform](../M#milking-platform))
+<b>1</b> <i>n.</i> (Rural) dairy farm. (See [milking platform](mar-moa.md#milking-platform))
 
 >  Horowhenua Dairy Platform: prime dairy opportunity situated in "super safe" climate. 308 acres of Manawatu alluvial silts. <i>(Jun 9, 2001,Dominion,38</i>)
 
@@ -2559,7 +2559,7 @@
 
 ### dark
  
- <i>adj.</i> shady (See [face](../F#face))
+ <i>adj.</i> shady (See [face](f69-fin.md#face))
 
 ### dark chocolate
  
@@ -2573,7 +2573,7 @@
 
 ### dark face
  
-<b>1</b> <i>n.</i> (Rural) a south-facing hillside. (See [shady face](../S#shady-face))
+<b>1</b> <i>n.</i> (Rural) a south-facing hillside. (See [shady face](sa-sho.md#shady-face))
 
 >  From a departmental trial of inoculated [sic] clover seed sown with and without fertiliser on a sunny face and a dark face, it has been found that fertiliser is necessary to enable a quick establishment of clover plants, particularly on the sunny face, though a reasonable strike on the unfertilised dark face was obtained. <i>(Jul 1959,NZ Journal of Agriculture,19</i>)
 
@@ -2651,7 +2651,7 @@
 
 ### Dart
  
- <i>n.</i> (See [Old Dart](../O#old-dart))
+ <i>n.</i> (See [Old Dart](o-on.md#old-dart))
 
 ### dart
  
@@ -2751,7 +2751,7 @@
 
 ### dawk
  
- <i>n.</i> (See [dork](../D#dork))
+ <i>n.</i> (See [dork](dig-dou.md#dork))
 
 >  <b>STEWART</b> `You cheating lot of Ag dawks, cut it out and play properly.' To which the 5Ag [team] fullback ... called back. `Up you too ...' <i>(1985,Gumboots and Goalposts,55</i>)
 
@@ -2893,7 +2893,7 @@
 
 ### dayfill
  
- <i>n.</i> the job of filling supermarket shelves during the day (See [nightfill](../N#nightfill))
+ <i>n.</i> the job of filling supermarket shelves during the day (See [nightfill](new-no.md#nightfill))
 
 >  Dayfill: We have a vacancy for a person to do dayfill, Monday to Friday, 8.00-4.00pm. <i>(Mar 20, 2004,Hawke's Bay Today,C3</i>)
 
@@ -3073,7 +3073,7 @@
 
 ### dead
  
- <i>adj.</i> in the sense `exact (likeness, etc.)' (See [cut](../C#cut),[ring](../R#ring),[rink](../R#rink))
+ <i>adj.</i> in the sense `exact (likeness, etc.)' (See [cut](con-cyp.md#cut),[ring](red-roa.md#ring),[rink](../R#rink))
 
 
 
@@ -3086,7 +3086,7 @@
 
 ### dead as a moa
  
- <i>phr.</i> long dead (See [moa](../M#moa))
+ <i>phr.</i> long dead (See [moa](mar-moa.md#moa))
 
 ### dead as Ned Kelly
  
@@ -3252,7 +3252,7 @@
 
 ### dead spit
  
- <i>n.</i> the exact likeness [(the dead spit of) the spitting image[OED2 spit sb?. 3 the very spit of 1825-1886; EDD gen. dial. and EDD. spit, esp. in phrs the very spit of in most Eng. dials except SW.]] (See [dead ring](../D#dead-ring))
+ <i>n.</i> the exact likeness [(the dead spit of) the spitting image[OED2 spit sb?. 3 the very spit of 1825-1886; EDD gen. dial. and EDD. spit, esp. in phrs the very spit of in most Eng. dials except SW.]] (See [dead ring](d-dif.md#dead-ring))
 
 >  He is well proportioned, and the dead spit of his daddy, with legs like bars of steel; a few black splodges through his golden coat indicate the Stockwell strain, as the Duke of Westminster's celebrated stud horse Bend Or is marked similarly. <i>(Aug 3, 1893,Otago Witness,30</i>)
 
@@ -3510,7 +3510,7 @@
 
 ### deaner
  
- <i>n.</i> (See [deener](../D#deener))
+ <i>n.</i> (See [deener](d-dif.md#deener))
 
 ### death cap mushroom
  
@@ -3538,7 +3538,7 @@
 
 ### debt-evader
  
- <i>n.</i> [(WW2) usu. pl.] (See [debt-dodger](../D#debt-dodger))
+ <i>n.</i> [(WW2) usu. pl.] (See [debt-dodger](d-dif.md#debt-dodger))
 
 >  <b>FULLARTON</b> 'Truth' said last week ... that this First Echelon was made up of debt-evaders and wife-deserters and out-of-works. <i>(1946,We Walked Alone,62</i>)
 
@@ -3635,7 +3635,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) an animal used to attract others into yards or across hazards. (See [leader](../L#leader),[Judas sheep](../J#judas-sheep),[pet](../P#pet))
+<b>1</b> <i>n.</i> (Rural) an animal used to attract others into yards or across hazards. (See [leader](lay-liv.md#leader),[Judas sheep](../J#judas-sheep),[pet](per-pop.md#pet))
 
 >  I would strongly advise making use of them [pets] as indicated as decoys. Thus when moving sheep, if the owner of the pet goes ahead with the decoy, it will be found there is little if any use for dogs or strong language. <i>(Nov 1917,NZ Farmer,1238</i>)
 
@@ -4349,7 +4349,7 @@
 
 ### deMondayised
  
- <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See [Mondayise](../M#mondayise))
+ <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See [Mondayise](mob-mys.md#mondayise))
 
 >  Occasionally such decisions are reversed and the word demondayized is heard ... <i>(1966,English Language in Aust. & NZ, The,156</i>)
 
@@ -4419,7 +4419,7 @@
 
 ### dental nurse
  
- <i>n.</i> [aka school dental nurse] (See [school dental nurse](../S#school-dental-nurse),[dental clinic](../D#dental-clinic))
+ <i>n.</i> [aka school dental nurse] (See [school dental nurse](sa-sho.md#school-dental-nurse),[dental clinic](d-dif.md#dental-clinic))
 
 >  The number of dental therapists, formerly called dental nurses, has dropped from 860 to 500 since 1990. <i>(Dec 22, 2004,Dominion Post,A1</i>)
 
@@ -5008,7 +5008,7 @@
 
 ### diamond
  
- <i>n.</i> ellipt. for diamond-back(ed) flounder. (See [flounder](../F#flounder))
+ <i>n.</i> ellipt. for diamond-back(ed) flounder. (See [flounder](fin-fly.md#flounder))
 
 >  <b>DOOGUE & MORELAND</b> SAND FLOUNDER ... <i>Other names: Rhombosolea plebeia</i>; diamond, tinplate, dab, square; patiki (Maori). <i>(1966,Sea Anglers' Guide,216</i>)
 
@@ -5035,7 +5035,7 @@
 
 ### diamond fish
  
- <i>n.</i> (See [diamond](../D#diamond))
+ <i>n.</i> (See [diamond](d-dif.md#diamond))
 
 >  <b>WILSON</b> DIAMOND FISH A species of sand flounder. See Flounder. <i>(1981,Fisherman's Bible,50</i>)
 
@@ -5218,7 +5218,7 @@
 
 ### didymo
  
- <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [rock snot](../R#rock-snot))
+ <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [rock snot](roa-ruv.md#rock-snot))
 
 >  In 2004 didymo was discovered in New Zealand, the first time it was found in the southern hemisphere. To restrict its spread, the whole of the South Island of New Zealand was declared a controlled area in December 2005. <i>(2006,Internet - see Notes</i>) [NOTES: http://en.wikipedia.org/wiki/Didymosphenia_geminataAccessed 10/02/06]
 

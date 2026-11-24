@@ -361,7 +361,7 @@
 
 ### Yankee axe
  
- <i>n.</i> (See [American axe](../A#american-axe))
+ <i>n.</i> (See [American axe](all-ari.md#american-axe))
 
 >  <b>BAINES</b> To hew a canoe into shape ... having the aid of Yankee axes, iron wedges, ... is no small undertaking ... but what a labour! with nothing save ... hard wood wedges, and tools of `jade'. <i>Ibid.</i> 152 We had also noticed ... good `stands' of kauri, a great portion of which ... is still untouched by the Yankee axe of the bushman, though the cream of one forest, capable of being driven out by dams, fell about the year 1864 ... <i>Ibid.</i> 171 The principal toolsrequired [by the kauri bushman] were Yankee axes, cross-cut saws, and timber (not screw) jacks. <i>Ibid.</i>172 One day, since my return to this worn-out old country, I happened to meet afriend who some time previous having heard of the superiority of the Yankee axe, had bought one of these British imitations, and finding the tool a poor one, had jumped to the conclusion that, `after all,' there was no axe equal to the old-fashioned one in use in England, and wasconsiderably `riled' at my intense derision and scorn of that conservative weapon; indeed, so hot did we get in our dispute that I offered to chop against the best woodman he could produce, his man armed with the medieval tool, whilst I was to use an American which I happen still to have <i>(1874,Edward Crewe,84</i>)
 
@@ -411,7 +411,7 @@
 
 ### Yankee shout
  
- <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](../A#also-dutch-shout),[Parnell shout](../P#parnell-shout))
+ <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](../A#also-dutch-shout),[Parnell shout](p-per.md#parnell-shout))
 
 >  <b>LELAND</b> Yankee shout: GO DUTCH <i>(1980,Personal Kiwi-Yankee Dictionary, A,115</i>)
 
@@ -505,7 +505,7 @@
 
 
  
- <i>n.</i> (often in plural) an enclosure in which sheep, cattle, etc. are confined for a particular purpose; a stockyard. (See [yards](../Y#yards),[receiving yards](../R#receiving-yards),[saleyards](../S#saleyards))
+ <i>n.</i> (often in plural) an enclosure in which sheep, cattle, etc. are confined for a particular purpose; a stockyard. (See [yards](y-yc.md#yards),[receiving yards](../R#receiving-yards),[saleyards](sa-sho.md#saleyards))
 
 >  <b>W.H.S. Roberts</b> At Macfarlane's the men saddled fresh horses and rode in some cattle which we had a great bother to yard, as everything was new ... The yard was divided into three - one large and two small - but as there was no crush pen, or drafting race, we had to head rope those requiring branding, and after hauling them up to a corner post, leg-roped and threw them on [44] their side, placing a long lever on their neck and under the lowest rail so that they would not move much ... When released the poor beast is not in an amiable temper ... So anyone in the yard has to climb the rails quickly ..., and the idea that it may catch you before your legs are safely over the cap rail certainly accelerates one's movements. <i>(Dec 18, 1856,Diary</i>) [NOTES: W.H.S. Roberts diary in 1947 Beattie Early Runholding 43-]
 
@@ -617,7 +617,7 @@
 
 ### yard sheep
  
-<b>1</b> <i>n.</i> (Rural) a sheep that is kept at yards to lead or encourage others. (See [decoy](../D#decoy),[Judas sheep](../J#judas-sheep),[leader](../L#leader),[pet](../P#pet))
+<b>1</b> <i>n.</i> (Rural) a sheep that is kept at yards to lead or encourage others. (See [decoy](d-dif.md#decoy),[Judas sheep](../J#judas-sheep),[leader](lay-liv.md#leader),[pet](per-pop.md#pet))
 
 >  <b>KERR</b> Freezing works yarders reward an individual yard sheep, called the Judas sheep, to lead others to the sticking pens. Same principle here. <i>(2000,High Times in the High Country,82</i>)
 
@@ -689,7 +689,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a worker who drives stock into sheep or cattle yards. (See [penner-up](../P#penner-up))
+<b>1</b> <i>n.</i> (Rural) a worker who drives stock into sheep or cattle yards. (See [penner-up](p-per.md#penner-up))
 
 >  The first dip-hand was the yarder-up, whose duty it was to keep working the sheep forward as the final small pen and the yard leading into it were emptied. <i>(1888,Textile Educator I,261</i>)
 
@@ -863,6 +863,6 @@
 
 ### YC station
  
- <i>n.</i> (See [YC](../Y#yc))
+ <i>n.</i> (See [YC](y-yc.md#yc))
 
 >  <b>McLINTOCK</b> For the serious listener the YC stations provide a wealth of good music in which all schools of composition are well represented. <i>(1966,Encyclopaedia of New Zealand, An,II/610</i>)

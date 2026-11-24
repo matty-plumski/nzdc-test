@@ -16,11 +16,11 @@
 
 ### tepo
  
- <i>n.</i> (See [taipo](../T#taipo))
+ <i>n.</i> (See [taipo](t-ten.md#taipo))
 
 ### terakihi
  
- <i>n.</i> (See [tarakihi](../T#tarakihi))
+ <i>n.</i> (See [tarakihi](t-ten.md#tarakihi))
 
 ### terapo
  
@@ -252,7 +252,7 @@
 
 ### terraki
  
- <i>n.</i> (See [tarakihi](../T#tarakihi))
+ <i>n.</i> (See [tarakihi](t-ten.md#tarakihi))
 
 ### Terralink
  
@@ -270,7 +270,7 @@
 
 ### terrior
  
- <i>n.</i> (See [terrier](../T#terrier))
+ <i>n.</i> (See [terrier](ten-tot.md#terrier))
 
 ### Territorial
  
@@ -286,7 +286,7 @@
 
 ### Territorial Customary Right
  
- <i>n.</i> (See [TCR](../T#tcr))
+ <i>n.</i> (See [TCR](t-ten.md#tcr))
 
 >  <b>A2</b> But there was concern at how a finding in the High Court of a Territorial Customary Right (TCR) would be given effect, and Government MPs were looking at ways to give the courts some guidelines. <i>(Nov 5, 2004,Dominion Post</i>)
 
@@ -1588,7 +1588,7 @@
 
 ### three-six-five
  
-<b>1</b> <i>n.</i> (Rural) a mutton chop. (See [hockey stick](../H#hockey-stick))
+<b>1</b> <i>n.</i> (Rural) a mutton chop. (See [hockey stick](hea-hom.md#hockey-stick))
 
 >  <b>SALISBURY</b> mutton chop, so-called because it is for breakfast every day of the year. <i>(2000,Glossary,3 365</i>)
 
@@ -1654,7 +1654,7 @@
 
 ### threepenny
  
- <i>n.</i> a blenny (See [threefin blenny](../T#threefin-blenny),[triplefin](../T#triplefin))
+ <i>n.</i> a blenny (See [threefin blenny](../T#threefin-blenny),[triplefin](tot-tyr.md#triplefin))
 
 >  <i>Tripterygion tripenne</i> (Forster). Threepenny. <i>(1938,TrRSNZ,68/416</i>) [NOTES: Graham Fishes of Otago Harbour]
 
@@ -2153,7 +2153,7 @@
 
 ### thumper
  
- <i>n.</i> rammer, for compacting earth around post (See [rammer](../R#rammer),[post rammer](../P#post-rammer))
+ <i>n.</i> rammer, for compacting earth around post (See [rammer](ra-red.md#rammer),[post rammer](pop-pyo.md#post-rammer))
 
 >  "There were no post hole borers or thumpers... so we just used a spade." <i>(Apr 12, 2003,Hawke's Bay Today,C1</i>)
 
@@ -2466,7 +2466,7 @@
 
 ### ti-palm
  
- <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](../A#also-ti),[ti-ti palm](../T#ti-ti-palm))
+ <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](../A#also-ti),[ti-ti palm](ten-tot.md#ti-ti-palm))
 
 >  <b>SEWELL</b> The Chapman's house is about half a mile from the River bank, with nothing to mark it but a perfect grove of those Ti-palms. <i>(Mar 12, 1856,Journal,210</i>) [NOTES: in McIntyre (1980) Sewell Journal 1953-1856]
 
@@ -2766,7 +2766,7 @@
 
 ### tide-rip
  
- <i>n.</i> (See [rip](../R#rip))
+ <i>n.</i> (See [rip](red-roa.md#rip))
 
 ### tide-waiter
  
@@ -2894,7 +2894,7 @@
 
 ### tierawaki
  
- <i>n.</i> (See [tiraueke](../T#tiraueke))
+ <i>n.</i> (See [tiraueke](ten-tot.md#tiraueke))
 
 ### tiffin
  
@@ -3310,7 +3310,7 @@
 
 ### tikanga
  
- <i>n.</i> (Maori) culture [ORIGIN: Maori] (See [tikanga Maori](../T#tikanga-maori))
+ <i>n.</i> (Maori) culture [ORIGIN: Maori] (See [tikanga Maori](ten-tot.md#tikanga-maori))
 
 >  They're people who have come from a very strong tikanga basis, they have been engaged with Maori people in quite a significantly different way. <i>(Jul 23, 2002,Sunday Star Times,C14</i>)
 
@@ -3403,7 +3403,7 @@
 
 ### tike
  
- <i>n.</i> [aka tyke] (See [tyke](../T#tyke))
+ <i>n.</i> [aka tyke] (See [tyke](tot-tyr.md#tyke))
 
 >  The Marist Old Boys' teams, often called "The Tikes" on account of the grim determination they exhibited in all their games, were called together by Brother Virgilius (now of Wellington) in May, 1905, when the Auckland Secondary Schools Old Boys' Unions played matches for a banner donated by Messrs Smith and Caughey. <i>(Jul 20, 1912,NZ Truth,3</i>)
 
@@ -3741,7 +3741,7 @@
 
 ### timber drive
  
- <i>n.</i> (See [drive](../D#drive))
+ <i>n.</i> (See [drive](dou-dyn.md#drive))
 
 >  <b>BAINES</b> <i>(1874,Edward Crewe</i>)
 
@@ -3957,7 +3957,7 @@
 
 ### tin billy
  
- <i>n.</i> (See [cf. billy-tin](../B#billy-tin))
+ <i>n.</i> (See [cf. billy-tin](b-bla.md#billy-tin))
 
 >  <b>BAINES</b> [in quots: colloc. tin] The tin `billy' had been slung over a roaring fire, and the tea made; I was using the pannikin - ... while my companion drank his tea from out the `billy's' lid ... <i>(1874,Edward Crewe,142</i>)
 
@@ -3987,7 +3987,7 @@
 
 ### tin cat
  
- <i>n.</i> (tinned) fish (See [tin dog](../T#tin-dog))
+ <i>n.</i> (tinned) fish (See [tin dog](ten-tot.md#tin-dog))
 
 ### tin cow
  
@@ -4449,7 +4449,7 @@
 
 ### tinker grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### tinker up
  
@@ -4845,7 +4845,7 @@
 
 
  
- <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../R#ram-tipping))
+ <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](ra-red.md#ram-tipping))
 
 >  The rams have been tipped, the dog whistles blown, and the caps have long since flown from the tops of giant brown bottles of beer. A bunch of hard-case southern sheilas battling it out for the title of the southern man's Perfect Woman - tipping rams, digging in fence posts, reversing farm bikes and trailers of hay. The 10 finalists followed up on the Sunday with a repeat of those events as well as tipping a ram into the shearing position ... <i>(Nov 2, 2002,Dominion Post,F12</i>)
 
@@ -4889,7 +4889,7 @@
 
 ### tip-dray
  
- <i>v.</i> (See [dray](../D#dray))
+ <i>v.</i> (See [dray](dou-dyn.md#dray))
 
 ### tip-head
  
@@ -4957,7 +4957,7 @@
 
 ### tipo
  
- <i>n.</i> (See [taipo](../T#taipo))
+ <i>n.</i> (See [taipo](t-ten.md#taipo))
 
 ### tiporu
  
@@ -5048,7 +5048,7 @@
 
 ### tipuna
  
- <i>n.</i> ancestor, grandparent [ORIGIN: Maori, [Ma. <b>tipuna</b> Ancestor, grandparent.] cf. P.M. Ryan Dict. Modern Maori (1995) 261.] (See [tupuna](../T#tupuna))
+ <i>n.</i> ancestor, grandparent [ORIGIN: Maori, [Ma. <b>tipuna</b> Ancestor, grandparent.] cf. P.M. Ryan Dict. Modern Maori (1995) 261.] (See [tupuna](tot-tyr.md#tupuna))
 
 >  There were songs for aunties and uncles, tipuna and mokopuna all over the island. <i>(Jul 17, 1999,Listener (New Zealand Listener),64</i>)
 
@@ -5078,7 +5078,7 @@
 
 ### tira-oua-ke
  
- <i>n.</i> (See [tiraueke](../T#tiraueke))
+ <i>n.</i> (See [tiraueke](ten-tot.md#tiraueke))
 
 ### tirairaka
  
@@ -5371,7 +5371,7 @@
 
 ### titi-a-weka
  
- <i>n.</i> (See [teteaweka](../T#teteaweka))
+ <i>n.</i> (See [teteaweka](ten-tot.md#teteaweka))
 
 ### titi-wainui
  
@@ -5596,7 +5596,7 @@
 
 
  
-<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](../M#matai-beer))
+<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](mar-moa.md#matai-beer))
 
 >  ... this reminiscence reminds me, too, of the variety of bush berries which we children would eat [in Carterton in the 1860s] - the white pine berries, the runi-runi, and ti-toke, these last very much resembling a raspberry, with a black seed on the head of it. <i>(Feb 10, 1921,Quick March,13</i>)
 
@@ -5628,7 +5628,7 @@
 
 ### titongi
  
- <i>n.</i> (See [titoki](../T#titoki))
+ <i>n.</i> (See [titoki](ten-tot.md#titoki))
 
 ### titri
  
@@ -5696,7 +5696,7 @@
 
 ### tiver
  
- <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](../A#also-taewa),[tawai](../T#tawai))
+ <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](../A#also-taewa),[tawai](t-ten.md#tawai))
 
 >  <b>MARSDEN</b> [The old chief] told us he had seen three generations and was in the middle life when the first ship came to New Zealand. The captain's name was Stivers. [fn] <i>Sta[?]ivers</i>, hence another name for the potato, <i>taewa</i>, since he apparently supplied some seed.] <i>(Oct 20, 1819,Letters & Journals of Samuel Marsden,208,1932 ed.</i>)
 
@@ -5712,11 +5712,11 @@
 
 ### tiwai-waka
  
- <i>n.</i> (See [tiwakawaka](../T#tiwakawaka))
+ <i>n.</i> (See [tiwakawaka](ten-tot.md#tiwakawaka))
 
 ### tiwaikawaka
  
- <i>n.</i> (See [tiwakawaka](../T#tiwakawaka))
+ <i>n.</i> (See [tiwakawaka](ten-tot.md#tiwakawaka))
 
 ### tiwakawaka
  
@@ -6076,7 +6076,7 @@
 
 ### tobacco plant
  
- <i>n.</i> <i>Linotea Hectori</i> [possibly from the fancied resemblance of the leaves to those of the tobacco plant] (See [mullein](../M#mullein))
+ <i>n.</i> <i>Linotea Hectori</i> [possibly from the fancied resemblance of the leaves to those of the tobacco plant] (See [mullein](mob-mys.md#mullein))
 
 >  `Linotea Hectori' better known through the [West Coast, Nelson] district as the `tobacco plant'. <i>(1902,NZ Illustrated Magazine,8/100</i>)
 
@@ -6186,7 +6186,7 @@
 
 ### tochee
  
- <i>n.</i> [empty headword] (See [toki](../T#toki))
+ <i>n.</i> [empty headword] (See [toki](ten-tot.md#toki))
 
 ### tod
  
@@ -6447,7 +6447,7 @@
 
 ### toetoe-upoko-tangata
  
- <i>n.</i> (See [cf. Maorihead](../M#maorihead))
+ <i>n.</i> (See [cf. Maorihead](m-mar.md#maorihead))
 
 >  <b>CHEESEMAN</b> <i>M[ariscus] ustulatus, C.B.Clarke, </i>... [767] Abundant in lowland districts throughout. ... <i>Toetoe-upoko-tangata; Toetoe-whatu-manu</i>. <i>(1906,Manual NZ Flora,766</i>)
 
@@ -6514,15 +6514,15 @@
 
 ### toghee
  
- <i>n.</i> [empty headword] (See [toki](../T#toki))
+ <i>n.</i> [empty headword] (See [toki](ten-tot.md#toki))
 
 ### togho-togho
  
- <i>n.</i> (See [tokotoko](../T#tokotoko))
+ <i>n.</i> (See [tokotoko](ten-tot.md#tokotoko))
 
 ### togs
  
- <i>n.</i> (See [togs](../T#togs))
+ <i>n.</i> (See [togs](ten-tot.md#togs))
 
 
 
@@ -6638,7 +6638,7 @@
 
 ### tohe
  
- <i>n.</i> (See [toetoe](../T#toetoe))
+ <i>n.</i> (See [toetoe](ten-tot.md#toetoe))
 
 ### tohemunga
  
@@ -6775,7 +6775,7 @@
 
 ### tohetohe
  
- <i>n.</i> toetoe [toetoe aka tohitohi, tohi tohi, tohi, tohetohe, tohi grass; see toetoe] (See [toetoe](../T#toetoe))
+ <i>n.</i> toetoe [toetoe aka tohitohi, tohi tohi, tohi, tohetohe, tohi grass; see toetoe] (See [toetoe](ten-tot.md#toetoe))
 
 >  <b>ANGAS</b> Close to Pipitea is a whare karakia, or chapel,belonging to the Christian natives, which is built of <i>raupo</i> and <i>tohi-tohi</i> grass, according to the native fashion. <i>Ibid.</i> 1/289 The New Zealand flax grows in every direction ... and the <i>tohi tohi</i>, a species of long rush-like sedge, is abundant on the margin of the water, and in marshy and damp situations. <i>(1847,Savage Life,1/235</i>)
 
@@ -6804,7 +6804,7 @@
 
 ### tohi-palm
  
- <i>n.</i> <i>Cordyline indivisa</i> (See [toi-palm](../T#toi-palm))
+ <i>n.</i> <i>Cordyline indivisa</i> (See [toi-palm](ten-tot.md#toi-palm))
 
 ### tohitohi
  
@@ -7056,7 +7056,7 @@
 
 
  
- <i>n.</i> (See [toetoe](../T#toetoe))
+ <i>n.</i> (See [toetoe](ten-tot.md#toetoe))
 
 >  This arrangement of the toi clumps ... seemed to have disturbed all the insects ... <i>(1898,TrNZI,30/416</i>) [NOTES: Listed in databse under headword "toe" - check]
 
@@ -7115,7 +7115,7 @@
 
 ### toi-roa
  
- <i>n.</i> (See [toheroa](../T#toheroa))
+ <i>n.</i> (See [toheroa](ten-tot.md#toheroa))
 
 ### toi-toi
  
@@ -7238,7 +7238,7 @@
 
 
  
- <i>adj.</i> [includes all toe/toi/tohi/tohe etc as attrib] (See [toetoe](../T#toetoe))
+ <i>adj.</i> [includes all toe/toi/tohi/tohe etc as attrib] (See [toetoe](ten-tot.md#toetoe))
 
 >  <b>ANGAS</b> ... an enormous fire was kindled in the centre of a <i>tohi-tohi</i> house that constituted the chapel, ... <i>(1847,Savage Life,2/103</i>)
 
@@ -7458,7 +7458,7 @@
 
 ### tokee
  
- <i>n.</i> [empty headword] (See [toki](../T#toki))
+ <i>n.</i> [empty headword] (See [toki](ten-tot.md#toki))
 
 ### Tokelauan
  
@@ -7502,7 +7502,7 @@
 
 ### tokey
  
- <i>n.</i> [empty headword] (See [toki](../T#toki))
+ <i>n.</i> [empty headword] (See [toki](ten-tot.md#toki))
 
 ### toki
  
@@ -7675,7 +7675,7 @@
 
 ### toku pepeha
  
- <i>phr.</i> [ORIGIN: Maori, pepeha = idiom, motto, proverb, quotation, saying toku = my, mine http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary] (See [pepeha](../P#pepeha))
+ <i>phr.</i> [ORIGIN: Maori, pepeha = idiom, motto, proverb, quotation, saying toku = my, mine http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary] (See [pepeha](p-per.md#pepeha))
 
 >  "..They will have the chance to learn their kaupapa and toku pepeha - who they are and who and what they represent." <i>(Jan 11, 2005,Whakatane Beacon,12 (back page)</i>)
 
@@ -7913,15 +7913,15 @@
 
 ### tomat(t)agor(r)a
  
- <i>n.</i> (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tomatagora
  
- <i>n.</i> (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tomatakuru
  
- <i>n.</i> [also tomataguru] (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> [also tomataguru] (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 >  <i>To&#769;.ma&#769;.ta-ku&#769;.ru</i>to.&#769;.ma.&#769;.t&adot.-ku&#769;.ru),<i> n. (Bot.)</i> See TUMATUKURU. <i>(1898,Merriam-Webster Third International,2032</i>)
 
@@ -7984,7 +7984,7 @@
 
 
  
- <i>n.</i> [a currant loaf] (See [spotted Tommy](../S#spotted-tommy))
+ <i>n.</i> [a currant loaf] (See [spotted Tommy](spa-sys.md#spotted-tommy))
 
 >  <i>Brownie </i>.- Bread baked with currants and sugar. Sometimes called <i> Tommy </i>.up <i>and now, usually </i>, currant loaf.<i> ([1898 Morris Austral-English]) </i> <i>(Sep 16, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 
@@ -8229,7 +8229,7 @@
 
 ### tomtit
  
- <i>n.</i> (Environment) a small bird found in both the native bush and exotic forest, also called miromiro or ngirungiru; occas. used for esp <i>Petroica toitoi</i>, pied tit, white-breasted tit (tomtit preferred for euphemistic reasons to TIT simplex) (See [tit](../T#tit))
+ <i>n.</i> (Environment) a small bird found in both the native bush and exotic forest, also called miromiro or ngirungiru; occas. used for esp <i>Petroica toitoi</i>, pied tit, white-breasted tit (tomtit preferred for euphemistic reasons to TIT simplex) (See [tit](ten-tot.md#tit))
 
 >  The wren and the tomtit and the thrush all are represented quite as nearly or even more so than the robin save that the tomtit is black headed with a yellow breast. <i>(Jun 1860,Forest Creek MS,44,1960 ed.</i>)
 
@@ -8546,7 +8546,7 @@
 
 ### tooey
  
- <i>n.</i> (See [tui](../T#tui))
+ <i>n.</i> (See [tui](tot-tyr.md#tui))
 
 ### tooky
  
@@ -8554,7 +8554,7 @@
 
 ### tookytook
  
- <i>n.</i> an anglicised form of kotukutuku, the native fuschia tree (cf matagouri from tumatakuru) [ca1935 Havelock] (See [kotukutuku](../K#kotukutuku))
+ <i>n.</i> an anglicised form of kotukutuku, the native fuschia tree (cf matagouri from tumatakuru) [ca1935 Havelock] (See [kotukutuku](kiw-kwi.md#kotukutuku))
 
 >  <b>MORRIS</b> <i>Tookytook, n</i>. a corruption of <i>Kotukutuku</i> (q.v.), a Maori name equivalent to <i>Konini,</i> the fruit of the <i>Fuchsia-tree</i> (q.v.). ' <i>(1898,Austral English,475</i>)
 
@@ -8610,7 +8610,7 @@
 
 ### toot
  
- <i>n.</i> (See [tutu](../T#tutu))
+ <i>n.</i> (See [tutu](tot-tyr.md#tutu))
 
 >  FOR SALE, about 50 superior bred heifers most of them heavy in calf, and having been some time in the Colony, not liable to suffer from the effects of the Toot. <i>(Jul 2, 1842,New Zealand Gazette & Wellington Spectator,1</i>)
 
@@ -8654,7 +8654,7 @@
 
 ### tooth-leaved beech
  
- <i>n.</i> <i>Nothofagus fusca</i> [[So Kirk, Botany Thames Goldfields TrNZI 1869 90]] (See [beech](../B#beech))
+ <i>n.</i> <i>Nothofagus fusca</i> [[So Kirk, Botany Thames Goldfields TrNZI 1869 90]] (See [beech](b-bla.md#beech))
 
 >  The tooth-leaved beech (<i>Fagus fusca</i>) occurs in considerable quantity at the sea level ... <i>(1879,TrNZI,11/445</i>) [NOTES: (Kirk Hauraki Gulf)]
 
@@ -8769,7 +8769,7 @@
 
 
  
- <i>n.</i> high point, ridge of mountain on musterer's beat (See [tops](../T#tops))
+ <i>n.</i> high point, ridge of mountain on musterer's beat (See [tops](ten-tot.md#tops))
 
 >  <b>HARPER</b> [Is he] sleeping out top. <i>(1937,Windy Island,22</i>)
 
@@ -8894,7 +8894,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [top](../T#top))
+<b>2</b> <i>n.</i> (See [top](ten-tot.md#top))
 
 >  Before preference to unionists was passed the pay [for coal workers in the Wellington Branch of the Waterside Workers' Federation] was per hour for shovellers 1s 6d and for top hands (i.e. winchmen, bullrope-men, trimmers, and tippers), is 3d. .. A gang of men consists of eight - four shovellers - and four top men - with an aggregate of 11s per hour, before preference. <i>(Jun 9, 1911,Maoriland Worker,14/12/3</i>)
 
@@ -9079,7 +9079,7 @@
 
 ### tope
  
- <i>n.</i> (See [also shark](../A#also-shark),[school shark](../S#school-shark))
+ <i>n.</i> (See [also shark](../A#also-shark),[school shark](sa-sho.md#school-shark))
 
 >  <b>HUTTON</b> 130. GALEUS CANIS. L. Tope. <i>(1872,Fishes,81</i>)
 
@@ -9134,7 +9134,7 @@
 
 ### tope shark
  
- <i>n.</i> (See [tope](../T#tope))
+ <i>n.</i> (See [tope](ten-tot.md#tope))
 
 >  4. <i>Galeorhinus australis</i> Macleay. Tope.Mangoreremai <i>(1929,TrNZI,61/139</i>)
 
@@ -9142,7 +9142,7 @@
 
 ### topi
  
- <i>n.</i> (See [tope](../T#tope))
+ <i>n.</i> (See [tope](ten-tot.md#tope))
 
 ### topitopi
  
@@ -9275,7 +9275,7 @@
 
 ### topping
  
- <i>n.</i> informing (See [cf. top (on)](../T#top-(on)),[top off v](../T#top-off-v))
+ <i>n.</i> informing (See [cf. top (on)](ten-tot.md#top-(on)),[top off v](../T#top-off-v))
 
 >  The complainant's fiance said `topping' was a term the gang used to describe reporting a matter to the police. <i>(Dec 24, 1973,NZ Truth,3</i>)
 
@@ -9431,11 +9431,11 @@
 
 ### tora
  
- <i>adj.</i> (See [toro](../T#toro))
+ <i>adj.</i> (See [toro](ten-tot.md#toro))
 
 ### torairi
  
- <i>n.</i> (See [taraire](../T#taraire))
+ <i>n.</i> (See [taraire](t-ten.md#taraire))
 
 ### toraro
  
@@ -9464,7 +9464,7 @@
 
 ### torching
  
- <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](../S#spotlighting))
+ <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](spa-sys.md#spotlighting))
 
 >  <b>BAILEY & ROTH</b> We catch all our birds in the torching,/ And after the cleaning we're scorching;/ <i>(1967,Shanties,136</i>)
 
@@ -9878,7 +9878,7 @@
 
 ### torpedo
  
- <i>n.</i> a shark (See [ray](../R#ray))
+ <i>n.</i> a shark (See [ray](ra-red.md#ray))
 
 >  <i>Narcobatus fairchildi</i> (Hutton). SOUTHERN NUMBFISH, OR WHAI REPO. ... The species is also called `torpedo' or `electric ray.' Hutton states that the Natives (presumably of Napier) call it whai-ngenge. <i>(1930,Selected Poems,11/198</i>) [NOTES: Phillipps]
 
@@ -9952,7 +9952,7 @@
 
 ### toru
  
- <i>n.</i> variant of toro (See [toro](../T#toro))
+ <i>n.</i> variant of toro (See [toro](ten-tot.md#toro))
 
 >  Some interesting botanical associations - such as toru, kauri and tanekaha - occur in the 85 hectares of coastal modified primary and secondary forest at Taupiri Bay. ... <i>Toronia toru</i>, the only endemic species of the <i>Toronia</i> genus, has fragrant flowers, leaves that can be red-tinged, and corky spots on the bark. <i>(Nov 2005,Open Space,5</i>)
 
@@ -10068,7 +10068,7 @@
 
 ### totalla
  
- <i>n.</i> (See [totara](../T#totara))
+ <i>n.</i> (See [totara](ten-tot.md#totara))
 
 ### totalled
  
@@ -10293,7 +10293,7 @@
 
 ### totara birch
  
- <i>n.</i> ?=hard beech, <i>Nothofagus fusca</i> [ca1935 Marlborough like TOTARA, resistant to decay in the ground, and wood of a reddish colour: used especially for fence-posts] (See [totara birch](../T#totara-birch))
+ <i>n.</i> ?=hard beech, <i>Nothofagus fusca</i> [ca1935 Marlborough like TOTARA, resistant to decay in the ground, and wood of a reddish colour: used especially for fence-posts] (See [totara birch](ten-tot.md#totara-birch))
 
 ### totara knot
  
@@ -10438,7 +10438,7 @@
 
 ### tothersider
  
- <i>n.</i> an Australian, an Australian immigrant (See [also the other side](../A#also-the-other-side),[othersider](../O#othersider))
+ <i>n.</i> an Australian, an Australian immigrant (See [also the other side](../A#also-the-other-side),[othersider](ore-ozz.md#othersider))
 
 >  In those early years the whaling vessels often brought doubtful characters from Australia, most of them ticket-of-leave men or ex-convicts, commonly called `T'othersiders', or `Van Demonians', etc. <i>(1900,Canterbury Old & New,33</i>)
 
@@ -10452,7 +10452,7 @@
 
 ### totitoti
  
- <i>n.</i> (See [toetoe](../T#toetoe))
+ <i>n.</i> (See [toetoe](ten-tot.md#toetoe))
 
 ### totoa
  
@@ -10496,7 +10496,7 @@
 
 ### totore
  
- <i>n.</i> [Maori tobacco aka totori, torore, torori] (See [torore](../T#torore))
+ <i>n.</i> [Maori tobacco aka totori, torore, torori] (See [torore](ten-tot.md#torore))
 
 >  The Maori tobacco, <i>totori</i>, as it is called, though it looks very well when not cured too green, is rank, hot, and pungent. <i>(Jan 18, 1884,Timaru Herald,2</i>)
 
@@ -10529,4 +10529,4 @@
 
 ### totorra
  
- <i>n.</i> (See [totara](../T#totara))
+ <i>n.</i> (See [totara](ten-tot.md#totara))

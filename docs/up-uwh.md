@@ -22,7 +22,7 @@
 
 ### up the Awatere/Ashburton/Rakaia
  
- <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See [up the gorge](../U#up-the-gorge))
+ <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See [up the gorge](up-uwh.md#up-the-gorge))
 
 >  <b>NEWTON</b> I called and saw Sam when I was up the Awatere and he was full of his days at Hakatere. <i>(1973,Big Country of the South Island,225</i>)
 
@@ -162,7 +162,7 @@
 
 
  
- <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](../U#up-the-duff))
+ <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](up-uwh.md#up-the-duff))
 
 >  <b>HOOPER</b> There's always something happening, like ... some sheila you know geting put up the wop ... <i>(1981,Goat Paddock,13</i>)
 
@@ -416,7 +416,7 @@
 
 ### upright cut
  
- <i>n.</i> (See [cf. underhand chop](../U#underhand-chop))
+ <i>n.</i> (See [cf. underhand chop](u-und.md#underhand-chop))
 
 >  <b>DEVANNY</b> The quickest time through a two foot upright or underhand cut. <i>(1926,Butcher Shop, The,13</i>)
 
@@ -452,7 +452,7 @@
 
 ### urban assault vehicle
  
- <i>n.</i> an SUV [apparently a Wellington nickname] (See [Remuera taxi](../R#remuera-taxi))
+ <i>n.</i> an SUV [apparently a Wellington nickname] (See [Remuera taxi](red-roa.md#remuera-taxi))
 
 ### urban drift
  
@@ -470,7 +470,7 @@
 
 ### urban migration
  
- <i>n.</i> Specifically, the post World War II migration of Maori to urban centres (See [silent migration](../S#silent-migration))
+ <i>n.</i> Specifically, the post World War II migration of Maori to urban centres (See [silent migration](sho-spa.md#silent-migration))
 
 >  <b>HARVEY</b> First came the Maori people sometime between the 8th and 14th centuries in great seaward migrations across the Pacific Ocean... The Maori in effect became an under-class... The final social transformation came in the 1940s and 50s with the import of American cultural and economic dominance - the automobile, urban migration, urban sprawl and a consumer culture. <i>(1999,Internet - see Notes</i>) [NOTES: www.csis.org/e4e/Mayor12Harvey.html (Mayor's Asia Pacific Environmental Summit, 1999. Plenary Session 1.2)]
 
@@ -808,11 +808,11 @@
 
 ### utiwai
  
- <i>n.</i> variant of hutiwai (biddy-bid) (See [hutiwai](../H#hutiwai))
+ <i>n.</i> variant of hutiwai (biddy-bid) (See [hutiwai](hom-hyp.md#hutiwai))
 
 ### utu
  
- <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](../H#hoot))
+ <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](hom-hyp.md#hoot))
 
 >  Kiwis want something done and now we are letting a family squabble and an utu get in the way of it. <i>(Jan 11, 2001,Dominion,1</i>)
 

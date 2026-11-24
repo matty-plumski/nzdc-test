@@ -182,11 +182,11 @@
 
 ### kackahow
  
- <i>n.</i> (See [kakahu](../K#kakahu))
+ <i>n.</i> (See [kakahu](k-kea.md#kakahu))
 
 ### kadi
  
- <i>n.</i> (See [cady](../C#cady))
+ <i>n.</i> (See [cady](c-chi.md#cady))
 
 ### kadoodie
  
@@ -196,11 +196,11 @@
 
 ### kaeaea
  
- <i>n.</i> (See [kaiaia](../K#kaiaia))
+ <i>n.</i> (See [kaiaia](k-kea.md#kaiaia))
 
 ### kaeio
  
- <i>n.</i> (See [kea](../K#kea))
+ <i>n.</i> (See [kea](k-kea.md#kea))
 
 ### kaeo
  
@@ -425,7 +425,7 @@
 
 ### kahawhai
  
- <i>n.</i> (See [kahawai](../K#kahawai))
+ <i>n.</i> (See [kahawai](k-kea.md#kahawai))
 
 ### kahawhiti
  
@@ -613,7 +613,7 @@
 
 ### kahikatoa
  
- <i>n.</i> <i>Leptospermum scoparium</i>, manuka, tea-tree, katoa. (See [manuka](../M#manuka))
+ <i>n.</i> <i>Leptospermum scoparium</i>, manuka, tea-tree, katoa. (See [manuka](m-mar.md#manuka))
 
 >  <b>McCRAE</b> ...kaikatoria... <i>(1820,Journal,16</i>)
 
@@ -1506,7 +1506,7 @@
 
 ### kaikaranga
  
- <i>n.</i> a woman who leads the karanga to welcome visitors on to a marae. [ORIGIN: Maori] (See [karanga](../K#karanga))
+ <i>n.</i> a woman who leads the karanga to welcome visitors on to a marae. [ORIGIN: Maori] (See [karanga](k-kea.md#karanga))
 
 >  TOKO-JONES Stuart Temai 1990-2006 ... A great big thank you to our kai karanga, our koroua on the Pae Pae, na manu Tioriori, and our kaimahi who worked tirelessly at the back. <i>(Jun 16, 2006,Whakatane Beacon,22</i>)
 
@@ -1514,11 +1514,11 @@
 
 ### kaikatea
  
- <i>n.</i> (See [kahikatea](../K#kahikatea),[kahikatoa](../K#kahikatoa))
+ <i>n.</i> (See [kahikatea](k-kea.md#kahikatea),[kahikatoa](k-kea.md#kahikatoa))
 
 ### kaikatoa
  
- <i>n.</i> (See [kahikatea](../K#kahikatea),[kahikatoa](../K#kahikatoa))
+ <i>n.</i> (See [kahikatea](k-kea.md#kahikatea),[kahikatoa](k-kea.md#kahikatoa))
 
 ### kaikawaka
  
@@ -1594,13 +1594,13 @@
 
 ### Kaikoura Orogenesis
  
- <i>n.</i> Geol. classification (See [Kaikoura Orogeny](../K#kaikoura-orogeny))
+ <i>n.</i> Geol. classification (See [Kaikoura Orogeny](k-kea.md#kaikoura-orogeny))
 
 >  Mrs. J.K.Campbell: The Alpine and Akatore Faults: a comparative study of Pleistocene chronology and Kaikoura orogenesis in southwest Nelson and southeast Otago. <i>(May 1968,Geological Society of NZ Newsletter,25/23</i>)
 
 ### Kaikoura Orogeny
  
- <i>n.</i> Geol. classification (See [Kaikoura Orogenesis](../K#kaikoura-orogenesis))
+ <i>n.</i> Geol. classification (See [Kaikoura Orogenesis](k-kea.md#kaikoura-orogenesis))
 
 >  That the Kaikoura Orogeny culminated during a short interval of time at the end of the middle Pleistocene (Table 12.1) and is now waning would be cheering if it could be proved, but no proof is given and it is equally likely that the culmination is yet to come, and that we have to expect as many earthquakes and uplifts in the next ten thousand years as we had in the last ten thousand. <i>(Nov 1968,Geological Society of NZ Newsletter,Vol 26</i>) [NOTES: No page numbers in Newsletter 26]
 
@@ -1690,7 +1690,7 @@
 
 ### Kaimanawa horse
  
- <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See [Kaimanawa](../K#kaimanawa))
+ <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See [Kaimanawa](k-kea.md#kaimanawa))
 
 >  However, not all the Kaimanawa horses go on to do so well. <i>(Mar 2005,NZ Geographic,72/16</i>)
 
@@ -1772,7 +1772,7 @@
 
 ### kainga
  
- <i>n.</i> (See [cf. pa](../P#pa))
+ <i>n.</i> (See [cf. pa](p-per.md#pa))
 
 >  <b>MARKHAM</b> ... i went up ... to a Native Village (Kangar Mourie). <i>(1834,New Zealand (various authors/titles),41,1963 ed.</i>)
 
@@ -2095,7 +2095,7 @@
 
 
  
- <i>n.</i> guardian, trustee (See [Kai Tiaki](../K#kai-tiaki))
+ <i>n.</i> guardian, trustee (See [Kai Tiaki](k-kea.md#kai-tiaki))
 
 >  Our supportive team at Poroporo will go out of our way to help you become a kaitiaki of the environment. <i>(Dec 13, 2005,Whakatane Beacon,4</i>)
 
@@ -2393,7 +2393,7 @@
 
 ### kakaha
  
- <i>n.</i> <i>Astelia</i> spp. astelia, bush flax [ORIGIN: Maori, [Ma. <b>kakaha</b> mountain astelia (<i>astelia nervosa</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 78.] (See [bush flax](../B#bush-flax))
+ <i>n.</i> <i>Astelia</i> spp. astelia, bush flax [ORIGIN: Maori, [Ma. <b>kakaha</b> mountain astelia (<i>astelia nervosa</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 78.] (See [bush flax](bri-byo.md#bush-flax))
 
 >  Now looking safely back from the borderline, but still classified as nationally endangered, is Astelia chathamica, or kakaha, endemic to just two islands in the Chathams group, where it survives in areas that are safe from grazing. <i>(Oct 23, 2004,Dominion Post,E13</i>)
 
@@ -2425,7 +2425,7 @@
 
 
  
- <i>n.</i> NZ freshwater mussel, <i>Diploden entulentus</i> (See [mussel](../M#mussel),[freshwater](../F#freshwater))
+ <i>n.</i> NZ freshwater mussel, <i>Diploden entulentus</i> (See [mussel](mob-mys.md#mussel),[freshwater](../F#freshwater))
 
 >  Around Rotorua, Maori wet nurses used to feed motherless children or foundlings. if no wet nurses were available, the orphaned babies were fed fresh-water mussels - kakahi. <i>(Aug 16, 2004,Dominion Post,B5</i>)
 
@@ -2789,7 +2789,7 @@
 
 ### kakawai
  
- <i>n.</i> a bird (See [hakuwai](../H#hakuwai))
+ <i>n.</i> a bird (See [hakuwai](h-hea.md#hakuwai))
 
 >  The most incredible is the strange tale of the mystery bird - named, because of its call, the kakawai. <i>(Oct 14, 1953,NZ Observer,16</i>)
 
@@ -2802,7 +2802,7 @@
 
 ### kakawariki
  
- <i>n.</i> a parakeet (See [kakariki](../K#kakariki))
+ <i>n.</i> a parakeet (See [kakariki](k-kea.md#kakariki))
 
 >  <b>BULLER</b> PLATYCERCUS NOVAE ZEALANDiAE. (RED-FRONTED PARRAKEET.) ... <i>Native names.</i> Kakariki, Kakawariki, Powhaitere, Porere, and Torete ...[59] The Red-fronted Parrakeet is very generally dispersed over the whole country - but is more plentiful in the southern portion of the North island than in the far north, where the yellow-fronted species predominates. <i>(1873,Birds of New Zealand,58,1888 2nd edn 1/137 ed.</i>)
 
@@ -2812,7 +2812,7 @@
 
 ### kakeno
  
- <i>n.</i> (See [kekeno](../K#kekeno))
+ <i>n.</i> (See [kekeno](kee-kiw.md#kekeno))
 
 ### kaki
  
@@ -2858,11 +2858,11 @@
 
 ### kakkahow
  
- <i>n.</i> (See [kakahu](../K#kakahu))
+ <i>n.</i> (See [kakahu](k-kea.md#kakahu))
 
 ### kakorimaka
  
- <i>n.</i> (See [kokorimako](../K#kokorimako))
+ <i>n.</i> (See [kokorimako](kiw-kwi.md#kokorimako))
 
 ### kakote
  
@@ -2870,11 +2870,11 @@
 
 ### kaladdie
  
- <i>n.</i> (See [korari](../K#korari))
+ <i>n.</i> (See [korari](kiw-kwi.md#korari))
 
 ### kaladi
  
- <i>n.</i> (See [korari](../K#korari))
+ <i>n.</i> (See [korari](kiw-kwi.md#korari))
 
 ### kale
  
@@ -2913,7 +2913,7 @@
 
 ### kamahi
  
- <i>n.</i> <i>Weinmannia</i> spp. often confused in popular terminology with beech (birch) species, esp. perhaps <i>towai</i> through similarity with <i>tawhai</i> (beech), hence popular misapplication of <i>kamahi</i> to <i>Nothofagus </i>spp.: some distinguish <i>towai</i> as <i>W. sylvicola</i> only; others apply <i>towai</i> to both spp. (so Williams) reserving <i>kamahi</i> (and <i>tawhero</i>) for W. racemosa only; a tall, spreading forest tree [ORIGIN: Maori] (See [red birch](../R#red-birch))
+ <i>n.</i> <i>Weinmannia</i> spp. often confused in popular terminology with beech (birch) species, esp. perhaps <i>towai</i> through similarity with <i>tawhai</i> (beech), hence popular misapplication of <i>kamahi</i> to <i>Nothofagus </i>spp.: some distinguish <i>towai</i> as <i>W. sylvicola</i> only; others apply <i>towai</i> to both spp. (so Williams) reserving <i>kamahi</i> (and <i>tawhero</i>) for W. racemosa only; a tall, spreading forest tree [ORIGIN: Maori] (See [red birch](ra-red.md#red-birch))
 
 >  Karmahi, <i>Hector. Weinmannia silvicola</i> and <i>racemosa. </i> <i>(1867,Handbook NZ Flora (List of Names),765</i>)
 
@@ -3060,7 +3060,7 @@
 
 ### kanae
  
- <i>n.</i> the mullet, <i>Mugil cephalus</i> (See [grey mullet](../G#grey-mullet))
+ <i>n.</i> the mullet, <i>Mugil cephalus</i> (See [grey mullet](gra-gyp.md#grey-mullet))
 
 >  <b>LEE & KENDALL</b> Kan|ae, s. The mullet fish. <i>(1820,Grammar & Vocabulary of the Language of NZ,158</i>)
 
@@ -3164,7 +3164,7 @@
 
 ### kaneree
  
- <i>n.</i> Hooker's 1853 (203) misprint or transcription error for kauere. (See [kauere](../K#kauere))
+ <i>n.</i> Hooker's 1853 (203) misprint or transcription error for kauere. (See [kauere](k-kea.md#kauere))
 
 ### kanga
  
@@ -3296,7 +3296,7 @@
 
 ### kangaroo grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### kangaroo hound
  
@@ -3328,7 +3328,7 @@
 
 ### kani
  
- <i>n.</i> (See [kanae](../K#kanae))
+ <i>n.</i> (See [kanae](k-kea.md#kanae))
 
 ### kanohi
  
@@ -3378,7 +3378,7 @@
 
 ### kanuka
  
- <i>n.</i> <i>Leptospermum ericoides<\i>, now <i>Kunzea ericoides</i> tree manuka, white manuka (See [manuka](../M#manuka))
+ <i>n.</i> <i>Leptospermum ericoides<\i>, now <i>Kunzea ericoides</i> tree manuka, white manuka (See [manuka](m-mar.md#manuka))
 
 >  "if wallabies remain, the last generation of big native trees will eventually die childless," says Weaver. That would just leave the kanuka and "Governor Grey's Big Weed" - the pines centred around DOC's land at Mansion House Bay. <i>(Apr 13, 2002,Listener (New Zealand Listener),31</i>)
 
@@ -3915,7 +3915,7 @@
 
 ### kapuka
  
- <i>n.</i> (See [broadleaf](../B#broadleaf))
+ <i>n.</i> (See [broadleaf](bri-byo.md#broadleaf))
 
 >  <b>Crowe</b> As a garden tree or shrub, kapuka offers attractive foliage and a tolerance of persistent winds and salt spray. <i>(2009,Which Native Tree?,50</i>)
 
@@ -4091,7 +4091,7 @@
 
 
  
- <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](../C#cook's-turban-shell))
+ <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](con-cyp.md#cook's-turban-shell))
 
 >  <b>PEARSON</b> [Gloss] <i>cracker</i>: Common West Coast bushman's name for a larger-leaved species of <i>Coprosma.</i> (Probably from Maori <i>karaka</i>, a very different tree whose leaves are vaguely similar. <i>(1963,Coal Flat,420</i>)
 
@@ -4478,7 +4478,7 @@
 
 ### kareao
  
- <i>n.</i> supplejack (See [supplejack](../S#supplejack))
+ <i>n.</i> supplejack (See [supplejack](spa-sys.md#supplejack))
 
 >  Bright orange berries of the karaka and karamu trees and the vivid red kareao berries (supplejack) hang in bright clusters and litter the floor of the forest in a carpet of colour. <i>(Nov 19, 2005,Dominion Post,E15</i>)
 
@@ -4552,7 +4552,7 @@
 
 ### karearea
  
- <i>n.</i> the indigenous falcon, of which there are three forms: the bush, the eastern, and southern falcons. [ORIGIN: Maori] (See [bush hawk](../B#bush-hawk))
+ <i>n.</i> the indigenous falcon, of which there are three forms: the bush, the eastern, and southern falcons. [ORIGIN: Maori] (See [bush hawk](bri-byo.md#bush-hawk))
 
 >  The New Zealand falcon, or karearea, is known to be a fearless and aggressive hunter. <i>(Jul 12, 2005,Dominion Post,A8</i>)
 
@@ -4739,7 +4739,7 @@
 
 ### karewau
  
- <i>n.</i> (See [kareao](../K#kareao))
+ <i>n.</i> (See [kareao](k-kea.md#kareao))
 
 ### kariba weed
  
@@ -4894,7 +4894,7 @@
 
 ### karmai
  
- <i>n.</i> (See [kamahi](../K#kamahi))
+ <i>n.</i> (See [kamahi](k-kea.md#kamahi))
 
 ### karo
  
@@ -5022,7 +5022,7 @@
 
 ### karreau
  
- <i>n.</i> (See [kareao](../K#kareao))
+ <i>n.</i> (See [kareao](k-kea.md#kareao))
 
 ### karu-hiriwha
  
@@ -5046,7 +5046,7 @@
 
 ### karuhiruhi
  
- <i>n.</i> [?Erron. spg or transcription <i>raruhiruhi </i>which is pied shag.] (See [pied shag](../P#pied-shag))
+ <i>n.</i> [?Erron. spg or transcription <i>raruhiruhi </i>which is pied shag.] (See [pied shag](per-pop.md#pied-shag))
 
 >  <b>LEE & KENDALL</b> Ka d|ui d|ui; Name of a certain bird. <i>(1820,Grammar & Vocabulary of the Language of NZ,154</i>)
 
@@ -5132,7 +5132,7 @@
 
 ### Kathleen Maroon
  
- <i>n.</i> (See [Kathleen Mavourneen](../K#kathleen-mavourneen))
+ <i>n.</i> (See [Kathleen Mavourneen](k-kea.md#kathleen-mavourneen))
 
 ### Kathleen Mavourneen
  
@@ -5284,7 +5284,7 @@
 
 ### katiu
  
- <i>n.</i> (See [kahu](../K#kahu))
+ <i>n.</i> (See [kahu](k-kea.md#kahu))
 
 ### kato fat
  
@@ -5921,7 +5921,7 @@
 
 ### kauri gumdigger
  
- <i>n.</i> (See [gumdigger](../G#gumdigger))
+ <i>n.</i> (See [gumdigger](gra-gyp.md#gumdigger))
 
 >  <b>BARLOW</b> [Chapter heading] CHAPTER XiX THE KAURi GUMDiGGER <i>(1888,Kaipara and Waitemata Echo,142</i>)
 
@@ -6019,7 +6019,7 @@
 
 ### kauri snail
  
- <i>n.</i> PUPURANGi or KAURi SNAiL (<i>Paryphanta busbyi</i>) (See [pupurangi](../P#pupurangi))
+ <i>n.</i> PUPURANGi or KAURi SNAiL (<i>Paryphanta busbyi</i>) (See [pupurangi](pop-pyo.md#pupurangi))
 
 >  The reserves are home to geckos, kauri snails, fern birds and rare native orchids. <i>(Jul 2005,Conservation Action,26</i>)
 
@@ -6095,13 +6095,13 @@
 
 ### kauri-gum nut
  
- <i>n.</i> (See [kauri gum; nut](../K#kauri-gum;-nut))
+ <i>n.</i> (See [kauri gum; nut](k-kea.md#kauri-gum;-nut))
 
 >  <b>FiNLAYSON</b> She lugs in a kerosene-tin full of newly gathered kauri-gum nuts ... The Hoppy Crummers are supposed to live on the sale of kauri-gum nuts - the dirty little nobs of kauri-gum that the gum-diggers wouldn't bother with. <i>(1948,Tidal Creek,55,1979 ed.</i>)
 
 ### kauri-gumdigging
  
- <i>n.</i> (See [gumdigging](../G#gumdigging))
+ <i>n.</i> (See [gumdigging](gra-gyp.md#gumdigging))
 
 ### kauri-swamp moss
  
@@ -6214,7 +6214,7 @@
 
 ### kawai
  
- <i>n.</i> a mis-spelling of kahawai. (See [kahawai](../K#kahawai))
+ <i>n.</i> a mis-spelling of kahawai. (See [kahawai](k-kea.md#kahawai))
 
 ### kawaka
  
@@ -6357,7 +6357,7 @@
 
 ### Kawana
  
- <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See [Te Kawana](../T#te-kawana))
+ <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See [Te Kawana](t-ten.md#te-kawana))
 
 ### kawanatanga
  
@@ -6477,7 +6477,7 @@
 
 ### kawe
  
- <i>n.</i> (See [covey](../C#covey))
+ <i>n.</i> (See [covey](con-cyp.md#covey))
 
 >  <b>DOBSON</b> We carried all our loads with the Maori <i>kawe</i>, two long flat bands of plaited flax, the ends of which, dressed and narrowed down, were connected or joined together with a flat band about ten inches in length. <i>(1930,Reminiscences</i>)
 
@@ -6515,11 +6515,11 @@
 
 ### kawhai
  
- <i>n.</i> (See [kahawai](../K#kahawai))
+ <i>n.</i> (See [kahawai](k-kea.md#kahawai))
 
 ### kawhaka
  
- <i>n.</i> (See [kawaka](../K#kawaka))
+ <i>n.</i> (See [kawaka](k-kea.md#kawaka))
 
 >  The building timber is all totara and kawhaka, cut out of the bush close by. <i>(1935,Canterbury Mountaineer, The,iV/125</i>)
 
@@ -6537,7 +6537,7 @@
 
 ### Kay Force
  
- <i>n.</i> (See [K-force](../K#k-force))
+ <i>n.</i> (See [K-force](k-kea.md#k-force))
 
 ### Kb
  
@@ -6738,7 +6738,7 @@
 
 ### kea louse
  
- <i>n.</i> (See [kea flea](../K#kea-flea))
+ <i>n.</i> (See [kea flea](k-kea.md#kea-flea))
 
 >  The stories we had been told of kea lice seemed only too true. <i>(1978,Manawatu Tramping Club Jubilee,79</i>)
 

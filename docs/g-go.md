@@ -69,7 +69,7 @@
 
 ### gadoa
  
- <i>n.</i> (See [katoa](../K#katoa))
+ <i>n.</i> (See [katoa](k-kea.md#katoa))
 
 ### gadoobrey
  
@@ -128,7 +128,7 @@
 
 ### gafu
  
- <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](../S#safu),[tafu](../T#tafu))
+ <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](sa-sho.md#safu),[tafu](../T#tafu))
 
 >  <b>WILSON</b> `I remember that as fast as I got a squad on its feet to move, it was shot down again.' ... `What a gafu!' exclaims Corry. <i>Ibid.</i> 146 A bloody gafu again; silent night advance ... hell! <i>(1951,Brave Company,48</i>)
 
@@ -301,7 +301,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [mudfish](../M#mudfish),[Canterbury](../C#canterbury))
+<b>2</b> <i>n.</i> (See [mudfish](mob-mys.md#mudfish),[Canterbury](../C#canterbury))
 
 
 
@@ -503,7 +503,7 @@
 
 ### gambrel
  
- <i>n.</i> (See [gamble](../G#gamble))
+ <i>n.</i> (See [gamble](g-go.md#gamble))
 
 ### game as Ned Kelly
  
@@ -515,7 +515,7 @@
 
 ### Game Industry Board
  
-<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See [GIB](../G#gib))
+<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See [GIB](g-go.md#gib))
 
 >  Early indications from deer farmers show that the Game Industry Board should at least remain or at best have more powers. <i>(Oct 8, 1998,NZ Farmer,7</i>)
 
@@ -823,7 +823,7 @@
 
 ### garden huckleberry
  
- <i>n.</i> (See [huckleberry](../H#huckleberry))
+ <i>n.</i> (See [huckleberry](hom-hyp.md#huckleberry))
 
 >  <i>garden huckleberry [s] Solanum nigrum</i> L. var. <i>guineese</i> L. <i>Ibid.</i> 39 <i>huckleberry, garden [s] Solanum nigrum</i> L. var. <i>guineense</i> L. <i>(1969,Standard Common Names for Weeds,28</i>)
 
@@ -980,7 +980,7 @@
 
 ### garlic
  
- <i>n.</i> <i>Allium</i> spp.: Usu.with distinguishing epithet (See [onion plant](../O#onion-plant),[onion weed](../O#onion-weed))
+ <i>n.</i> <i>Allium</i> spp.: Usu.with distinguishing epithet (See [onion plant](on-ore.md#onion-plant),[onion weed](on-ore.md#onion-weed))
 
 
 
@@ -1451,13 +1451,13 @@
 
 ### gege
  
-<b>2</b> <i>n.</i> [attrib.] (See [kiekie](../K#kiekie))
+<b>2</b> <i>n.</i> [attrib.] (See [kiekie](kee-kiw.md#kiekie))
 
 >  <b>BAUGHAN</b> ... untrimmed <i>gege</i> hat tilted back upon her head .. soft shirts with turned-down collars, blue dungarees, belts, and great <i>gege</i> hats make up [the haymakers'] `rig'. <i>(1912,Brown Bread,132, 136</i>)
 
 ### gekko
  
- <i>n.</i> [possibly main spg here at gekko cf dekko??] (See [gecko](../G#gecko))
+ <i>n.</i> [possibly main spg here at gekko cf dekko??] (See [gecko](g-go.md#gecko))
 
 ### gelly
  
@@ -1475,7 +1475,7 @@
 
 ### gelly poisoning
  
- <i>n.</i> (See [gelly head](../G#gelly-head))
+ <i>n.</i> (See [gelly head](g-go.md#gelly-head))
 
 >  <b>BALE</b> If you must roll the jelly to smaller or larger size do so with a piece of cardboard, paper or use gloves. If it does get on your hands, wash them immediately otherwise you will get jelly poisoning, and have a headache you won't forget in a hurry. <i>(1971,Maratoto Gold,75</i>)
 
@@ -1526,7 +1526,7 @@
 
 ### gem pan
  
- <i>n.</i> A special pan or tin in which gems were cooked; later gem iron (See [gem iron](../G#gem-iron))
+ <i>n.</i> A special pan or tin in which gems were cooked; later gem iron (See [gem iron](g-go.md#gem-iron))
 
 >  WHITE FLOUR GEMS ... Flour ... Milk ... 2 Eggs (whites only) ... make a batter ... Bake in hot gem pans in a quick oven. <i>(1910,Colonial Everyday Cookery,277</i>)
 
@@ -1658,7 +1658,7 @@
 
 ### general store
  
- <i>n.</i> a store esp. rural selling general merchandise for all home, farm and work needs: by the 1980s confined to country use. (See [store](../S#store))
+ <i>n.</i> a store esp. rural selling general merchandise for all home, farm and work needs: by the 1980s confined to country use. (See [store](spa-sys.md#store))
 
 >  Wholesale & Retail General Store, ... <i>(Apr 1843,NZ Gazette</i>) [NOTES: 1843 Apr `NZ Gazette' in 1956 Gore Levins 9]
 
@@ -1726,7 +1726,7 @@
 
 ### genetic bottlenecking
  
- <i>n.</i> (See [genetic bottleneck](../G#genetic-bottleneck))
+ <i>n.</i> (See [genetic bottleneck](g-go.md#genetic-bottleneck))
 
 >  Genetic bottlenecking occurs when a population is reduced to very few individuals with similar genetic code, and can result in fertility and health problems in future generations. <i>(Sep 7, 2005,Dominion Post,14</i>)
 
@@ -2046,7 +2046,7 @@
 
 
  
-<b>3</b> <i>n.</i> [WWI] (See [Anafarta Annie](../A#anafarta-annie))
+<b>3</b> <i>n.</i> [WWI] (See [Anafarta Annie](all-ari.md#anafarta-annie))
 
 >  GENTLE ANNIE: A nickname for a certain Turkish gun at the Dardanelles. <i>(1925,Soldier and Sailor Words,104</i>)
 
@@ -2139,7 +2139,7 @@
 
 ### George
  
- <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See [hori](../H#hori))
+ <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See [hori](hom-hyp.md#hori))
 
 >  <b>CRUISE</b> He was accompanied by a person to whom the whalers had given the name of King George [Te Uru-ti or Kingi Hori]. ... As he and the celebrated George of Wangarooa will be frequently mentioned ..., [one] may caution the reader not to mistake the one for the other. <i>(Apr 9, 1823,Journal</i>) [NOTES: 1823 (1820 Apr 9) Cruise Journal (1957) 77]
 
@@ -2293,7 +2293,7 @@
 
 ### geri
  
- <i>n.</i> (See [gerry](../G#gerry))
+ <i>n.</i> (See [gerry](g-go.md#gerry))
 
 ### geriatric generals
  
@@ -2340,7 +2340,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See [Maori huntaway](../M#maori-huntaway),[Nelson huntaway](../N#nelson-huntaway),[Taranaki huntaway](../T#taranaki-huntaway))
+<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See [Maori huntaway](m-mar.md#maori-huntaway),[Nelson huntaway](n-new.md#nelson-huntaway),[Taranaki huntaway](t-ten.md#taranaki-huntaway))
 
 >  <b>PEACHE</b> Towards the plain the sides of the mountains were steep and we sent some 'German doggies' down to hurry the sheep. 'German doggies' are what the shepherds call the stones and rocks they roll down. <i>(1975,Journal,39</i>) [NOTES: in GRAY (1970) Quiet With the Hills]
 
@@ -2444,7 +2444,7 @@
 
 ### get a spark up
  
- <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](../S#spark-up))
+ <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](spa-sys.md#spark-up))
 
 >  <b>BELTON</b> Today young men who intend going to a dance drink until closing time ... just to get a spark up, they say. <i>(1939,Outside the Law,50</i>)
 
@@ -2605,7 +2605,7 @@
 
 ### get into gear
  
- <i>phr.</i> get moving (See [get one's arse into gear](../G#get-one's-arse-into-gear))
+ <i>phr.</i> get moving (See [get one's arse into gear](g-go.md#get-one's-arse-into-gear))
 
 >  Doom reckoned I should go because I could run the fastest. Before any of us could get into gear, Mrs Douglas came into the woolshed ... <i>(Dec 1986,Marist Messenger,36</i>) [NOTES: Joy Cowley]
 
@@ -2639,11 +2639,11 @@
 
 ### get off
  
- <i>v.</i> (See [bike](../B#bike),[grass](../G#grass),[horse](../H#horse))
+ <i>v.</i> (See [bike](../B#bike),[grass](go-gra.md#grass),[horse](hom-hyp.md#horse))
 
 ### get off one's bike
  
- <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](../G#get-off-one's-horse))
+ <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](g-go.md#get-off-one's-horse))
 
 >  <b>BENNETT</b> `Don't get off your bike' (from `don't get off your horse', via a music-hall song?) means `don't get rattled, excited' <i>(1943,English as it is spoken in NZ</i>)
 
@@ -2729,7 +2729,7 @@
 
 ### get one's kite out
  
- <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](../K#kitey))
+ <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](kee-kiw.md#kitey))
 
 ### get one's mocker up
  
@@ -2815,7 +2815,7 @@
 
 ### get the toot
  
- <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](../A#also-tooted),[tutued](../T#tutued))
+ <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](../A#also-tooted),[tutued](tot-tyr.md#tutued))
 
 >  When we got back to camp we found 13 or 14 bullocks had got the `toot' - i.e. had eaten tutu and so poisoned themselves. <i>(Apr 19, 1864,Richmond-Atkinson Papers,2/107</i>) [NOTES: (A.S. Atkinson)]
 
@@ -2961,7 +2961,7 @@
 
 ### GHB
  
- <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See [rinse](../R#rinse),[wash](../W#wash))
+ <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See [rinse](red-roa.md#rinse),[wash](../W#wash))
 
 >  GBL breaks down in the body into its better-known relative gamma-hydroxybutyric acid (GHB), commonly called fantasy, wash or rinse. <i>(Jan 19, 2006,Dominion Post,A3</i>)
 
@@ -2971,7 +2971,7 @@
 
 ### ghoa
  
- <i>n.</i> (See [kowhai](../K#kowhai))
+ <i>n.</i> (See [kowhai](kiw-kwi.md#kowhai))
 
 ### ghoi
  
@@ -2987,7 +2987,7 @@
 
 ### ghooparee
  
- <i>n.</i> (See [kuparu](../K#kuparu))
+ <i>n.</i> (See [kuparu](kiw-kwi.md#kuparu))
 
 ### ghost shark
  
@@ -3011,7 +3011,7 @@
 
 ### gi-gi
  
- <i>n.</i> (See [kiekie](../K#kiekie))
+ <i>n.</i> (See [kiekie](kee-kiw.md#kiekie))
 
 >  <b>MAY</b> Fern-tree tops and 'gigi-gigi' served as a substitute for cabbage and to some extent helped prevent scurvy. <i>(1962,West Coast Gold Rushes,290</i>)
 
@@ -3197,7 +3197,7 @@
 
 ### giant Spaniard
  
- <i>n.</i> (See [Spaniard](../S#spaniard),[bloody Spaniard](../B#bloody-spaniard),[wild Spaniard; cf. wild Irishman](../W#wild-spaniard;--wild-irishman))
+ <i>n.</i> (See [Spaniard](sho-spa.md#spaniard),[bloody Spaniard](bla-bri.md#bloody-spaniard),[wild Spaniard; cf. wild Irishman](../W#wild-spaniard;--wild-irishman))
 
 >  <i> giant Spaniard </i> [s]<i> Aciphylla scott-thomsonii </i> Ckn. & Allan <i>(1969,Standard Common Names for Weeds,29</i>)
 
@@ -3593,7 +3593,7 @@
 
 ### Gimblett Gravel
  
- <i>adj.</i> relating to the Gimblett Gravels wine region (See [Gimblett Gravels](../G#gimblett-gravels))
+ <i>adj.</i> relating to the Gimblett Gravels wine region (See [Gimblett Gravels](g-go.md#gimblett-gravels))
 
 >  John O'Connor enjoys digging holes. This one shows the Gimblett Gravel stones underneath his cabernet sauvignon vines. <i>(Aug 21, 2004,Hawke's Bay Today,B12</i>)
 
@@ -3660,7 +3660,7 @@
 
 ### gink
  
- <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](../A#also-geek),[gekko](../G#gekko))
+ <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](../A#also-geek),[gekko](g-go.md#gekko))
 
 >  <b>DAVIN</b> Didn't I see you when I was having a gink at your truck? <i>(1970,Not Here, Not Now,276</i>)
 
@@ -3896,7 +3896,7 @@
 
 ### give it a go
  
- <i>phr.</i> have a try (See [go](../G#go))
+ <i>phr.</i> have a try (See [go](g-go.md#go))
 
 >  <b>DEVANNY</b> You'll have plenty of time to learn to waltz.. if you start now. Shift the table back, Messenger, and give it a go. <i>(1981,Butcher Shop, The,71</i>)
 
@@ -4092,7 +4092,7 @@
 
 ### gizzo
  
- <i>n.</i> A look, a squiz (See [Cf. geek](../C#cf.-geek),[gink](../G#gink),[gekko](../G#gekko))
+ <i>n.</i> A look, a squiz (See [Cf. geek](../C#cf.-geek),[gink](g-go.md#gink),[gekko](g-go.md#gekko))
 
 >  <b>VIRTUE</b> He'd go on up and have a good gizzo before Mum came inside. <i>(1987,Redemption of Elsdon Bird, The,6,1988 ed.</i>)
 
@@ -4410,7 +4410,7 @@
 
 ### Glide Time
  
- <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../G#gliding-on))
+ <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](g-go.md#gliding-on))
 
 >  It was a shock. It was so slack. Actually, it was like <i>Glide Time</i>. So I didn't stay very long. <i>(Aug 29, 2004,Sunday Star Times,C3</i>)
 
@@ -4628,7 +4628,7 @@
 
 ### glory pea
  
- <i>n.</i> (See [glory flower](../G#glory-flower))
+ <i>n.</i> (See [glory flower](g-go.md#glory-flower))
 
 >  (And) <i>Clianthus puniceus </i> <i>(1837,Botanist, The</i>) [NOTES: 1837 The Botanist (1837-1846) ed. B. Maund]
 
@@ -4874,7 +4874,7 @@
 
 ### go a binder
  
- <i>phr.</i> to feel like, need (occas. eat) a meal (See [binder](../B#binder))
+ <i>phr.</i> to feel like, need (occas. eat) a meal (See [binder](b-bla.md#binder))
 
 >  <b>PARTRIDGE</b> <i>Binder, go a</i>. To eat a meal: New Zealanders' (esp. tramps'): from before 1932. <i>(1937,Dictionary of Slang,54</i>)
 
@@ -4923,7 +4923,7 @@
 
 ### go away/go away fat
  
- <i>phr.</i> (Rural) [of stock] be sent to freezing works as prime or fat. (See [go off fat](../G#go-off-fat))
+ <i>phr.</i> (Rural) [of stock] be sent to freezing works as prime or fat. (See [go off fat](go-gra.md#go-off-fat))
 
 >  My own bred cattle go away fat from March on. <i>(May 15, 1945,NZ Journal of Agriculture,503</i>)
 
@@ -5211,7 +5211,7 @@
 
 ### go for the catch
  
- <i>phr.</i> (Rural) [shearing] to attempt to take the last sheep in a catching pen before the bell. (See [catch](../C#catch))
+ <i>phr.</i> (Rural) [shearing] to attempt to take the last sheep in a catching pen before the bell. (See [catch](c-chi.md#catch))
 
 >  <b>NEWTON</b> .. the men would endeavour to select sheep which would enable them to just beat the gong and get an extra sheep. This was known as 'getting the catch'. <i>(1949,High Country Days,53</i>)
 

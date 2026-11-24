@@ -70,7 +70,7 @@
 
 ### ta moko
  
- <i>n.</i> [-] (See [moko](../M#moko))
+ <i>n.</i> [-] (See [moko](mob-mys.md#moko))
 
 >  At this stage it is envisaged that the Awanuiarangi's visual arts faculty will move to the site - carving, weaving, ta moko and contemporary art - with room for the expansion there of other faculties. <i>(Nov 2, 2005,Whakatane Beacon,4</i>)
 
@@ -175,7 +175,7 @@
 
 ### tab-a-tab
  
- <i>n.</i> (See [tapu](../T#tapu))
+ <i>n.</i> (See [tapu](t-ten.md#tapu))
 
 ### Tabby
  
@@ -183,7 +183,7 @@
 
 ### tabby-tab
  
- <i>n.</i> (See [tapu](../T#tapu))
+ <i>n.</i> (See [tapu](t-ten.md#tapu))
 
 ### tabernacle
  
@@ -322,7 +322,7 @@
 
 
  
- <i>n.</i> [cf tapu] (See [tapu](../T#tapu))
+ <i>n.</i> [cf tapu] (See [tapu](t-ten.md#tapu))
 
 >  The heathen taboo, as firmly binds the missionary native as it does the unconverted. <i>(Sep 28, 1852,Daily Southern Cross,3</i>)
 
@@ -369,7 +369,7 @@
 
 
  
- <i>adj.</i> (See [tapu](../T#tapu))
+ <i>adj.</i> (See [tapu](t-ten.md#tapu))
 
 ### TACC
  
@@ -411,7 +411,7 @@
 
 ### taepo
  
- <i>n.</i> (See [taipo](../T#taipo))
+ <i>n.</i> (See [taipo](t-ten.md#taipo))
 
 ### taerarua
  
@@ -645,11 +645,11 @@
 
 ### taheke
  
- <i>n.</i> (See [takeke](../T#takeke))
+ <i>n.</i> (See [takeke](t-ten.md#takeke))
 
 ### tahepa
  
- <i>n.</i> (See [taiepa](../T#taiepa))
+ <i>n.</i> (See [taiepa](t-ten.md#taiepa))
 
 ### tahora
  
@@ -695,7 +695,7 @@
 
 ### tai pari
  
- <i>n.</i> ebb tide (See [tai timu](../T#tai-timu))
+ <i>n.</i> ebb tide (See [tai timu](t-ten.md#tai-timu))
 
 >  <b>MARKHAM</b> We returned the seven miles but found the Tide, ti Puddie <i>[tai pari]</i> or Ebb Tide, had made so that the Boat would not float, so we staid that night. So we Cooked our Pork and Potatoes, drank my Grog and took a Stroll. [fn] The Maori phrase literally means flowing tide. <i>(1834,New Zealand (various authors/titles),43,1963 ed.</i>)
 
@@ -707,7 +707,7 @@
 
 ### taia
  
- <i>n.</i> (See [taiaha](../T#taiaha))
+ <i>n.</i> (See [taiaha](t-ten.md#taiaha))
 
 ### taiaha
  
@@ -1281,7 +1281,7 @@
 
 
  
- <i>n.</i> of a coin (See [heads and tails](../H#heads-and-tails))
+ <i>n.</i> of a coin (See [heads and tails](hea-hom.md#heads-and-tails))
 
 
 
@@ -1706,7 +1706,7 @@
 
 
  
- <i>n.</i> (Rural) 1. the removing of lambs' tails with knife, searing iron or runner ring. [Used loosely to include ear-marking and castration of male lambs at the same time and used mainly in the South Island.] 2. the quiet following of stock as they graze while being driven. [docking two senses in one entry here] (See [docking](../D#docking))
+ <i>n.</i> (Rural) 1. the removing of lambs' tails with knife, searing iron or runner ring. [Used loosely to include ear-marking and castration of male lambs at the same time and used mainly in the South Island.] 2. the quiet following of stock as they graze while being driven. [docking two senses in one entry here] (See [docking](dig-dou.md#docking))
 
 >  WANTED, at Elephant Hill Station, SHEPHERDS, with good dogs , for Mustering and Tailing. <i>(Nov 15, 1872,North Otago Times,5</i>)
 
@@ -2062,7 +2062,7 @@
 
 ### taipa
  
- <i>n.</i> (See [taiepa](../T#taiepa))
+ <i>n.</i> (See [taiepa](t-ten.md#taiepa))
 
 ### taiparu
  
@@ -3166,7 +3166,7 @@
 
 ### takiwai
  
- <i>n.</i> teardrop greenstone (See [tangiwai](../T#tangiwai))
+ <i>n.</i> teardrop greenstone (See [tangiwai](t-ten.md#tangiwai))
 
 >  [Milford Sound's] waters were familiar to [Maori] from their travels to mine the takiwai, or teardrop greenstone, found at the entrance to Milford Sound. <i>(Nov 5, 2002,Dominion Post,C8</i>)
 
@@ -3190,7 +3190,7 @@
 
 ### talamea
  
- <i>n.</i> (See [taramea](../T#taramea))
+ <i>n.</i> (See [taramea](t-ten.md#taramea))
 
 ### talc
  
@@ -3280,7 +3280,7 @@
 
 ### talk bullock
  
- <i>phr.</i> to use colourful language (See [bullock language](../B#bullock-language),[bullocky](../B#bullocky))
+ <i>phr.</i> to use colourful language (See [bullock language](bri-byo.md#bullock-language),[bullocky](bri-byo.md#bullocky))
 
 >  In modern Australia ... we hear of men on up-country stations who can do nothing but `talk bullock;' and so all men did to a great extent in days when both word and idiom had origin in cattle-speech. [fn] For ancient use of expression `talking bullock' see Bible (Apocrypha), Ecclesiasticus, xxxix, 25. [HWO: Jerusalem and Vulgate references don't seem to be quite apt.] <i>(1889,TrNZI,21/450</i>)
 
@@ -3536,11 +3536,11 @@
 
 ### talla maer
  
- <i>n.</i> (See [taramea](../T#taramea))
+ <i>n.</i> (See [taramea](t-ten.md#taramea))
 
 ### talle
  
- <i>n.</i> (See [taro](../T#taro))
+ <i>n.</i> (See [taro](t-ten.md#taro))
 
 ### talleyman
  
@@ -4044,7 +4044,7 @@
 
 
  
- <i>n.</i> a child (See [tama](../T#tama),[tamaiti](../T#tamaiti))
+ <i>n.</i> a child (See [tama](t-ten.md#tama),[tamaiti](t-ten.md#tamaiti))
 
 >  <b>COLLINS</b> E-Ta-ma-ree-kee[acute], <i>A young man. </i> <i>(1804,English Colony in NSW,562</i>)
 
@@ -4068,7 +4068,7 @@
 
 ### tamarikitanga
  
- <i>n.</i> (See [tamariki](../T#tamariki))
+ <i>n.</i> (See [tamariki](t-ten.md#tamariki))
 
 ### tamarillo
  
@@ -4133,7 +4133,7 @@
 
 ### tamate
  
- <i>n.</i> (See [tamaiti](../T#tamaiti))
+ <i>n.</i> (See [tamaiti](t-ten.md#tamaiti))
 
 ### Tame Nikau
  
@@ -4233,7 +4233,7 @@
 
 ### tana
  
- <i>n.</i> (See [tawa](../T#tawa))
+ <i>n.</i> (See [tawa](t-ten.md#tawa))
 
 
 
@@ -4250,7 +4250,7 @@
 
 ### tanakaa
  
- <i>n.</i> (See [tanekaha](../T#tanekaha))
+ <i>n.</i> (See [tanekaha](t-ten.md#tanekaha))
 
 ### tanalised
  
@@ -4276,7 +4276,7 @@
 
 ### tandem shed
  
- <i>n.</i> (See [also herringbone](../A#also-herringbone),[rotary](../R#rotary),[walk-through](../W#walk-through))
+ <i>n.</i> (See [also herringbone](../A#also-herringbone),[rotary](roa-ruv.md#rotary),[walk-through](../W#walk-through))
 
 >  <b>McMEEKAN</b> The tandem shed consists of a set of bails which the cows stand in line, head to tail... on a platform 30 inches above the milker's level. <i>(1960,Grass to Milk,149</i>)
 
@@ -4321,11 +4321,11 @@
 
 ### taneewha
  
- <i>n.</i> (See [taniwha](../T#taniwha))
+ <i>n.</i> (See [taniwha](t-ten.md#taniwha))
 
 ### taneka
  
- <i>n.</i> (See [tanekaha](../T#tanekaha))
+ <i>n.</i> (See [tanekaha](t-ten.md#tanekaha))
 
 ### tanekaha
  
@@ -4421,7 +4421,7 @@
 
 ### tanewa
  
- <i>n.</i> (See [taniwha](../T#taniwha))
+ <i>n.</i> (See [taniwha](t-ten.md#taniwha))
 
 ### tanga
  
@@ -4447,7 +4447,7 @@
 
 ### tangao
  
- <i>n.</i> (See [tangeao](../T#tangeao))
+ <i>n.</i> (See [tangeao](t-ten.md#tangeao))
 
 ### tangaroa
  
@@ -5103,7 +5103,7 @@
 
 ### tangiao
  
- <i>n.</i> (See [tangeao](../T#tangeao))
+ <i>n.</i> (See [tangeao](t-ten.md#tangeao))
 
 ### Tangier pea
  
@@ -5269,7 +5269,7 @@
 
 ### tani raha
  
- <i>n.</i> (See [tanekaha](../T#tanekaha))
+ <i>n.</i> (See [tanekaha](t-ten.md#tanekaha))
 
 ### taniko
  
@@ -5751,7 +5751,7 @@
 
 ### taoka tuku iho
  
- <i>phr.</i> treasured asset of the past [ORIGIN: Maori, SI Maori taoka = taonga] (See [taonga tuku iho](../T#taonga-tuku-iho))
+ <i>phr.</i> treasured asset of the past [ORIGIN: Maori, SI Maori taoka = taonga] (See [taonga tuku iho](t-ten.md#taonga-tuku-iho))
 
 >  It's an opportunity for Ngai Tahu to restore a taoka tuku iho (treasured asset of the past) ... <i>(Jul 2005,Conservation Action,21</i>)
 
@@ -5837,7 +5837,7 @@
 
 ### taonga species
  
- <i>n.</i> treasured species (See [species taonga](../S#species-taonga))
+ <i>n.</i> treasured species (See [species taonga](spa-sys.md#species-taonga))
 
 >  Taonga species are native birds, plants and animals of special cultural significance and importance to Ngai Tahu that are found within the Ngai Tahu takiwa, defined by the Te Runanga o Ngai Tahu Act 1996 as being most of the South Island (excluding a northern segment) and the islands to the south including Stewart Island/Rakiura and others. There are 49 bird, 58 plant and 6 marine mammal taonga species - see full list below. <i>(2010,Internet - see Notes</i>) [NOTES: http://www.doc.govt.nz/about-doc/role/maori/settlements/ngai-tahu/species/]
 
@@ -5888,7 +5888,7 @@
 
 ### tap-a-tap
  
- <i>n.</i> [[e.g. under tattoo - 1842 Bremner???]] (See [tapu](../T#tapu))
+ <i>n.</i> [[e.g. under tattoo - 1842 Bremner???]] (See [tapu](t-ten.md#tapu))
 
 ### tap-room
  
@@ -5970,7 +5970,7 @@
 
 ### tappy-tap
  
- <i>n.</i> (See [tapu](../T#tapu))
+ <i>n.</i> (See [tapu](t-ten.md#tapu))
 
 ### tapu
  
@@ -6041,7 +6041,7 @@
 
 
  
- <i>adj.</i> [also tapu'd] (See [tabooed](../T#tabooed))
+ <i>adj.</i> [also tapu'd] (See [tabooed](t-ten.md#tabooed))
 
 >  <b>WILLIAMS</b> In the afternoon we were told that a large party was on their way to this place, for the purpose of stripping us ... Tikoki had stripped an Englishman on the opposite side yesterday ... out of revenge for some property of his, which had been stolen out of a <i>tapu</i>ed house ... <i>(Jan 29, 1827,Early Journals of Henry Williams, The</i>) [NOTES: 1827 Jan 29 H. Williams Early Journals (1961) 41]
 
@@ -6268,7 +6268,7 @@
 
 
  
- <i>n.</i> [tar mark on farm animal, as label; incl attrib] (See [tar-mark](../T#tar-mark))
+ <i>n.</i> [tar mark on farm animal, as label; incl attrib] (See [tar-mark](t-ten.md#tar-mark))
 
 >  At first sight I thought I was in this way going to escape the tar-brand business; but no turning to clause 19, I find that though I may ear-mark if I like, I am in some mysterious way to do so "without removing any part of the whole ear," under a penalty of GBP20. <i>(Jun 8, 1880,Evening Post,2</i>)
 
@@ -6522,7 +6522,7 @@
 
 ### tara
  
- <i>n.</i> (See [taro](../T#taro))
+ <i>n.</i> (See [taro](t-ten.md#taro))
 
 
 
@@ -6648,7 +6648,7 @@
 
 ### taragehe
  
- <i>n.</i> (See [tarakihi](../T#tarakihi))
+ <i>n.</i> (See [tarakihi](t-ten.md#tarakihi))
 
 ### tarahine
  
@@ -6972,7 +6972,7 @@
 
 ### taramoa
  
- <i>n.</i> (See [tataramoa](../T#tataramoa))
+ <i>n.</i> (See [tataramoa](t-ten.md#tataramoa))
 
 >  <b>KEENE</b> <i> tataramoa</i> or<i> taramoa</i>: climbing bramble of the bush known as 'bush lawyer'. <i>(1963,O Te Raki,194</i>)
 
@@ -7557,7 +7557,7 @@
 
 
  
- <i>n.</i> a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See [lemonwood](../L#lemonwood))
+ <i>n.</i> a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See [lemonwood](lay-liv.md#lemonwood))
 
 >  <i>Ta-ra&#769;.ta </i>(ta.-ra.&#769;.t&adot.; <i>colloq</i>. t&adot.-ra.&#769;.t&adot.), <i>n</i>. [Maori.] <i>(Bot.) A New Zealand tree (Pittosporum eugenoides). </i> <i>(1898,Merriam-Webster Third International,2032</i>)
 
@@ -7635,7 +7635,7 @@
 
 ### tarau
  
- <i>n.</i> (See [tarao](../T#tarao))
+ <i>n.</i> (See [tarao](t-ten.md#tarao))
 
 >  His tarau's in a real mess... He's tutaed himself. <i>(Oct 1, 1990,Listener (New Zealand Listener),109</i>)
 
@@ -7731,7 +7731,7 @@
 
 ### tarnicar
  
- <i>n.</i> (See [tanekaha](../T#tanekaha))
+ <i>n.</i> (See [tanekaha](t-ten.md#tanekaha))
 
 ### taro
  
@@ -7912,7 +7912,7 @@
 
 ### tarra
  
- <i>n.</i> (See [taro](../T#taro))
+ <i>n.</i> (See [taro](t-ten.md#taro))
 
 ### tarring
  
@@ -7922,7 +7922,7 @@
 
 ### tarro
  
- <i>n.</i> (See [taro](../T#taro))
+ <i>n.</i> (See [taro](t-ten.md#taro))
 
 ### tarry soil
  
@@ -8129,7 +8129,7 @@
 
 ### tarwhine
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 ### Taskforce Green
  
@@ -8399,7 +8399,7 @@
 
 ### tatare
  
- <i>n.</i> (See [totara](../T#totara))
+ <i>n.</i> (See [totara](ten-tot.md#totara))
 
 ### tatariki
  
@@ -8415,7 +8415,7 @@
 
 ### tatatarra
  
- <i>n.</i> (See [totara](../T#totara))
+ <i>n.</i> (See [totara](ten-tot.md#totara))
 
 ### tatau
  
@@ -8493,7 +8493,7 @@
 
 
  
- <i>n.</i> . [aka tatu, tatto; derived from Polynesian dialects, was introduced to general English after the publication of Cook's Voyages (so Morris), and used by English speakers in New Zealand as the usual word for (applying) the Maori <i>moko</i> n `tattooing (on face or body)'] (See [moko](../M#moko))
+ <i>n.</i> . [aka tatu, tatto; derived from Polynesian dialects, was introduced to general English after the publication of Cook's Voyages (so Morris), and used by English speakers in New Zealand as the usual word for (applying) the Maori <i>moko</i> n `tattooing (on face or body)'] (See [moko](mob-mys.md#moko))
 
 >  Both sexes paint their bodys. <i>Tattow </i>as it is called in their language. [check context and reference: ??Maori] <i>(Jul 1769,Cook's Journals,1/125,1955 ed.</i>)
 
@@ -8663,7 +8663,7 @@
 
 ### tau inu
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 ### tau tau
  
@@ -8763,11 +8763,11 @@
 
 ### tauhau
  
- <i>n.</i> (See [tauhou](../T#tauhou))
+ <i>n.</i> (See [tauhou](t-ten.md#tauhou))
 
 ### tauhino
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 >  The Maori name for a shrub, cassinia, which spreads rapidly as a weed in parts of New Zealand. <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),406</i>)
 
@@ -8929,7 +8929,7 @@
 
 ### tauhou
  
- <i>n.</i> [Maori, stranger: the bird arrived from Australia in the mid-19th century] <i>Zosterops lateralis</i>, silvereye, white-eye, wax-eye, blight bird (See [silvereye](../S#silvereye))
+ <i>n.</i> [Maori, stranger: the bird arrived from Australia in the mid-19th century] <i>Zosterops lateralis</i>, silvereye, white-eye, wax-eye, blight bird (See [silvereye](sho-spa.md#silvereye))
 
 >  ZOSTEROPS LATERALIS, Lath. Tauhou. Blight-bird. We first noticed this bird ... in the Rockwood Valley, Malvern Hills, July 28th, 1856. ... It very soon obtained the name of Blight-bird ... from its habit of feeding on the American blight, with which apple trees in this colony are so generally infested ... <i>(1870,TrNZI,2/61</i>) [NOTES: (Potts Birds)]
 
@@ -9041,7 +9041,7 @@
 
 ### taunuka
  
- <i>n.</i> (See [taunoka](../T#taunoka))
+ <i>n.</i> (See [taunoka](t-ten.md#taunoka))
 
 ### taupare
  
@@ -9263,7 +9263,7 @@
 
 ### tauwhinau
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 ### tavern
  
@@ -9512,7 +9512,7 @@
 
 ### tawara
  
- <i>n.</i> (See [tawhara](../T#tawhara))
+ <i>n.</i> (See [tawhara](t-ten.md#tawhara))
 
 ### tawari
  
@@ -9612,7 +9612,7 @@
 
 ### tawha
  
- <i>n.</i> (See [tawhara](../T#tawhara))
+ <i>n.</i> (See [tawhara](t-ten.md#tawhara))
 
 ### tawhai
  
@@ -9753,7 +9753,7 @@
 
 ### tawheke
  
- <i>n.</i> (See [taweke](../T#taweke))
+ <i>n.</i> (See [taweke](t-ten.md#taweke))
 
 ### tawheowheo
  
@@ -9778,7 +9778,7 @@
 
 ### tawhera
  
- <i>n.</i> (See [tawhara](../T#tawhara))
+ <i>n.</i> (See [tawhara](t-ten.md#tawhara))
 
 >  Racemes of small white flowers of the red birch - kamahi in part of the South Island, tawhera in the North Island, Weinmannia racemosa to botanists.. are reflected in magic mirrors while they drink the waters of the lake. <i>(Nov 23, 1922,Auckland Weekly News,17</i>)
 
@@ -9838,7 +9838,7 @@
 
 ### tawhina
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 ### tawhiri
  
@@ -9909,7 +9909,7 @@
 
 ### tawini
  
- <i>n.</i> (See [tauhinu](../T#tauhinu))
+ <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 ### tawiniwini
  
@@ -9928,7 +9928,7 @@
 
 
  
- <i>n.</i> (See [tawari](../T#tawari),[tawhiri](../T#tawhiri))
+ <i>n.</i> (See [tawari](t-ten.md#tawari),[tawhiri](t-ten.md#tawhiri))
 
 ### tawny owl
  
@@ -10016,7 +10016,7 @@
 
 ### TCS
  
- <i>abbr.</i> The Correspondence School (See [Correspondence School](../C#correspondence-school))
+ <i>abbr.</i> The Correspondence School (See [Correspondence School](con-cyp.md#correspondence-school))
 
 >  The bags - which have been in use since The Correspondence School (TCS) started in 1922 - are a quaint reminder of a pastoral, low-tech New Zealand that has faded quickly in the past two decades... Eight in 10 of TCS's secondary students are dual-enrolled, and 98 per cent of New Zealand's secondary schools use the service. <i>(May 8, 2004,Dominion Post,A12</i>)
 
@@ -10080,7 +10080,7 @@
 
 ### Te Horo spuds
  
- <i>n.</i> (informal) (See [local turnips](../L#local-turnips))
+ <i>n.</i> (informal) (See [local turnips](liv-lyn.md#local-turnips))
 
 >  Enjoy your new patch of dirt/sand/Te Horo spuds! <i>(Nov 9, 2006,Internet - see Notes</i>) [NOTES: http://www.nzairgunners.com/nzairgunforum/archive/index.php/t-871.html]
 
@@ -10220,7 +10220,7 @@
 
 ### Te Reinga
  
- <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See [Reinga](../R#reinga))
+ <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See [Reinga](red-roa.md#reinga))
 
 >  <b>Ihimaera</b> This was the time when Maori believed that the spirits of the dead began their long voyage to Te Reinga. There, at the northernmost tip of Aotearoa, they waited for the sun to go down. <i>(2000,Uncle's Story, The,109</i>)
 
@@ -10236,7 +10236,7 @@
 
 ### Te Ropu Maori
  
- <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See [roopu](../R#roopu),[ropu](../R#ropu))
+ <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See [roopu](roa-ruv.md#roopu),[ropu](roa-ruv.md#ropu))
 
 >  The students were taught a haka powhiri (or greeting) which is a traditional Maori performance by six of the members of Te Ropu Maori group. <i>(2005,Internet - see Notes,0</i>) [NOTES: http://www.bbc.co.uk/cambridgeshire/out_about/2003/07/whale_rider.shtml Accessed on 09/01/2006. true date of writing unknown.]
 
@@ -10384,7 +10384,7 @@
 
 ### Te Whitism
  
- <i>n.</i> (See [Te Whiti-ism](../T#te-whiti-ism))
+ <i>n.</i> (See [Te Whiti-ism](t-ten.md#te-whiti-ism))
 
 >  Defendant used to preach to the people, and he believed that she had endeavored to get the people to abstain from drink and the children and women from smoking; did not know if she used to try and get people away from Te Whitism. <i>(Sep 23, 1910,Hawera & Normanby Star,6</i>)
 
@@ -10396,7 +10396,7 @@
 
 ### te-matau kauri
  
- <i>n.</i> (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tea
  
@@ -10410,7 +10410,7 @@
 
 ### TEA
  
- <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](../T#teal))
+ <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](t-ten.md#teal))
 
 >  A likely alternative for T.E.A. is to take over nearby yacht buildings as temporary passenger handling accommodation. <i>(Jul 29, 1950,Dominion,8</i>)
 
@@ -10424,7 +10424,7 @@
 
 ### tea break
  
- <i>n.</i> (political allusion) (See [cup of tea](../C#cup-of-tea),[cuppa](../C#cuppa))
+ <i>n.</i> (political allusion) (See [cup of tea](con-cyp.md#cup-of-tea),[cuppa](con-cyp.md#cuppa))
 
 >  1988 Dominion 26 Aug. 8 We are invited by Mr Lange, the chief architect of our adversity, to pause and take tea... A tea break is not going to solve anything. <i>(Aug 26, 1988,Dominion,8</i>)
 
@@ -10560,7 +10560,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. [nb see also ti-tree, incl fig: in the tea-tree] (See [ti-tree](../T#ti-tree))
+<b>1</b> <i>n.</i> (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. [nb see also ti-tree, incl fig: in the tea-tree] (See [ti-tree](ten-tot.md#ti-tree))
 
 >  <b>KIRK</b> An infusion of the leaves is often used by bushmen as a substitute for tea: in all probability it owes its common name 'tea-tree' to its having been used for this purpose by early voyagers. <i>(1889,Forest Flora,136</i>)
 
@@ -11138,7 +11138,7 @@
 
 ### teehokee
  
- <i>n.</i> (See [titoki](../T#titoki))
+ <i>n.</i> (See [titoki](ten-tot.md#titoki))
 
 ### teeth arms
  
@@ -11172,7 +11172,7 @@
 
 ### tehori
  
- <i>n.</i> (See [taiore](../T#taiore))
+ <i>n.</i> (See [taiore](t-ten.md#taiore))
 
 ### TEI
  
@@ -11200,7 +11200,7 @@
 
 ### tekateka
  
- <i>n.</i> [empty headword] (See [tekoteko](../T#tekoteko))
+ <i>n.</i> [empty headword] (See [tekoteko](t-ten.md#tekoteko))
 
 ### tekoteko
  
@@ -11379,7 +11379,7 @@
 
 ### ten-acre blockie
  
- <i>n.</i> (Rural) a hobby farmer, or one running a farmlet on approx. ten acres. (See [lifestyle farmer](../L#lifestyle-farmer))
+ <i>n.</i> (Rural) a hobby farmer, or one running a farmlet on approx. ten acres. (See [lifestyle farmer](lay-liv.md#lifestyle-farmer))
 
 >  These are not just the 10-acre blockies or lifestyle farmers who don't understand or don't care about the economics of calf-rearing... <i>(Apr 6, 2000,Taranaki Daily News,19</i>)
 
@@ -11542,7 +11542,7 @@
 
 ### tena korua
  
- <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](../T#tena-koe),[tena koutou](../T#tena-koutou))
+ <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](t-ten.md#tena-koe),[tena koutou](../T#tena-koutou))
 
 >  <i>te[e]na[a]koe, tenakorua, tenakoutou,</i> greeting to one, two, or more. Really two words in all three - Tena koe! (That you! or There you are! Fancy!) I have heard it Tenaaqui)! <i>(1946,Journal of the Polynesian Society,55/159</i>) [NOTES: Andersen Maori Words in English]
 
@@ -11655,7 +11655,7 @@
 
 ### tent fly
  
- <i>n.</i> (See [fly](../F#fly))
+ <i>n.</i> (See [fly](fin-fly.md#fly))
 
 ### tentage
  

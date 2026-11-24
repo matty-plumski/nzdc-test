@@ -86,7 +86,7 @@
 
 
  
-<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See [hold the pa](../H#hold-the-pa))
+<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See [hold the pa](hea-hom.md#hold-the-pa))
 
 >  Cook describes a hippa or eppah as enclosed on three sides, and the place chosen could not have been better if the best engineer in England had been employed to choose it. <i>(Aug 25, 1892,Otago Witness,43</i>)
 
@@ -437,7 +437,7 @@
 
 ### Pacific cricket
  
- <i>n.</i> an attempted commercial naming (See [kirikiti](../K#kirikiti))
+ <i>n.</i> an attempted commercial naming (See [kirikiti](kee-kiw.md#kirikiti))
 
 >  Corned beef and a frenetic game involving up to 200 a side, both curious legacies of the colonisation of the South Seas, are about to make the big time together. The game is krikiti, kirikiti or kilikiti which arrived in the Pacific well over a century ago in the more sedate form of English cricket. Now a couple of Aucklanders have taken the game that's more a social event than a sport, given it some formal rules, and come up with [dollars]100,000 to remould it under the new name of `Pacific Cricket'. <i>(Jan 10, 1988,Dominion Sunday Times,14</i>)
 
@@ -589,7 +589,7 @@
 
 ### pack
  
- <i>n.</i> a backpack (and its contents); (tends to replace earlier swag, but usually refers to a shop-bought pack: cf <i>Bergan</i>) (See [flat pack](../F#flat-pack))
+ <i>n.</i> a backpack (and its contents); (tends to replace earlier swag, but usually refers to a shop-bought pack: cf <i>Bergan</i>) (See [flat pack](fin-fly.md#flat-pack))
 
 >  Food and gear have to be carried. Everyone in New Zealand..puts it in a pack. <i>(1958,Tararua,12: 27</i>)
 
@@ -930,7 +930,7 @@
 
 ### pack one's swag
  
- <i>phr.</i> be sacked (See [swag](../S#swag))
+ <i>phr.</i> be sacked (See [swag](spa-sys.md#swag))
 
 ### pack out
  
@@ -1074,7 +1074,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a narrow track cut through bush or rock wide enough only to accommodate a pack-horse or pack-bullock. (See [horse-track](../H#horse-track))
+<b>1</b> <i>n.</i> (Rural) a narrow track cut through bush or rock wide enough only to accommodate a pack-horse or pack-bullock. (See [horse-track](hom-hyp.md#horse-track))
 
 >  <b>RICHARDS</b> From there the pack-track went up the Rakaia Valley to Lake Coleridge then over the Craigieburn Saddle just west of Redhill ... <i>(1951,Chatham Islands,54</i>)
 
@@ -1180,7 +1180,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) 1. a shearing shed worker who packs fleeces into bales 2. a person in charge of station pack-horse team 3. a person in charge of a mustering pack-train, setting up camp and often cooking. (See [packman](../P#packman))
+<b>1</b> <i>n.</i> (Rural) 1. a shearing shed worker who packs fleeces into bales 2. a person in charge of station pack-horse team 3. a person in charge of a mustering pack-train, setting up camp and often cooking. (See [packman](p-per.md#packman))
 
 >  <b>STEVENS</b> The packer went to Fulton & Co, camp for stores. <i>(Jul 14, 1914,Diary</i>)
 
@@ -1370,7 +1370,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a large shed for pressing scoured wool. (See [pressing shed](../P#pressing-shed))
+<b>1</b> <i>n.</i> (Rural) a large shed for pressing scoured wool. (See [pressing shed](pop-pyo.md#pressing-shed))
 
 >  <b>BREMNER</b> Wool press is in the packing shed on right. <i>(1985,Woolscours of NZ,72</i>)
 
@@ -1397,7 +1397,7 @@
 
 
  
- <i>n.</i> the rugby football sense `forward', general English : first recorded NZ 1905 Aug 19 Truth 9/2/7 (See [packer](../P#packer))
+ <i>n.</i> the rugby football sense `forward', general English : first recorded NZ 1905 Aug 19 Truth 9/2/7 (See [packer](p-per.md#packer))
 
 
 
@@ -1480,7 +1480,7 @@
 
 ### packy
  
- <i>n.</i> (See [packie](../P#packie))
+ <i>n.</i> (See [packie](p-per.md#packie))
 
 ### Pacrim
  
@@ -1527,7 +1527,7 @@
 
 ### paddle crab
  
- <i>n.</i> (See [crab](../C#crab))
+ <i>n.</i> (See [crab](con-cyp.md#crab))
 
 ### paddle pop
  
@@ -1722,7 +1722,7 @@
 
 ### paddock  wether
  
- <i>n.</i> (See [cf. hill wether](../H#hill-wether),[paddock sheep](../P#paddock-sheep))
+ <i>n.</i> (See [cf. hill wether](../H#hill-wether),[paddock sheep](p-per.md#paddock-sheep))
 
 >  100 FAT PADDOCK WETHERS. <i>(Sep 7, 1877,Nelson Evening Mail,3</i>)
 
@@ -1797,7 +1797,7 @@
 
 ### paddock farming
  
- <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](../F#forty-acre-farmer))
+ <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](fly-fuz.md#forty-acre-farmer))
 
 >  This increase in number of these sheep year by year at previous shows used to be looked upon with no small amount of satisfaction, giving as it did undoubted evidence of the extent to which paddock farming was being adopted, and the consequent cultivation of the waste lands by the plough. <i>(Oct 30, 1874,Timaru Herald,3</i>)
 
@@ -2358,7 +2358,7 @@
 
 ### pah
  
- <i>n.</i> (See [pa](../P#pa))
+ <i>n.</i> (See [pa](p-per.md#pa))
 
 >  <i>Pah</i> (pa.), <i>n.; pl.</i> PAHS (pa.z). [Maori <i>pa</i>.] {Written also<i>a]. 1.</i> A Maori stronghold, fortified with stakes, fences, and ditches. <i>2</i>. A Maori village. <i>(1898,Merriam-Webster Third International,2028</i>)
 
@@ -2376,7 +2376,7 @@
 
 ### pahautea
  
- <i>n.</i> (See [kaikawaka](../K#kaikawaka))
+ <i>n.</i> (See [kaikawaka](k-kea.md#kaikawaka))
 
 >  <b>HOOKER</b> Pahautea, <i>Col[enso]. Libocedrus Bidwillii. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
 
@@ -2423,7 +2423,7 @@
 
 ### pai
  
- <i>adj.</i> good; pleasant; willing (See [cf. pie on](../P#pie-on),[kapai](../K#kapai))
+ <i>adj.</i> good; pleasant; willing (See [cf. pie on](per-pop.md#pie-on),[kapai](k-kea.md#kapai))
 
 >  Pai ... <i>a</i>. Good; <i>(1820,Grammar & Vocabulary of the Language of NZ,187</i>)
 
@@ -2439,7 +2439,7 @@
 
 ### Pai Marire
  
- <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](../A#also-hauhau(ism)),[Ringatu](../R#ringatu))
+ <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](../A#also-hauhau(ism)),[Ringatu](red-roa.md#ringatu))
 
 >  [Te Ua] sought consolation by praying tohis God, and Atua Pai Marire... Te Uasent out two prophets to the tribes ofthe Eats Coast to establish the PaiMarire doctrine, Kereopa and Patara. <i>(Jan 25, 1933,NZ Tablet,15</i>)
 
@@ -2739,7 +2739,7 @@
 
 ### pairairai
  
- <i>n.</i> (See [paraerae](../P#paraerae))
+ <i>n.</i> (See [paraerae](p-per.md#paraerae))
 
 ### pakaha
  
@@ -2845,7 +2845,7 @@
 
 ### pakaru
  
- <i>adj.</i> ruined; broken [puckeroo. 1960 17C M B8 Wanganui Girls C.I 19 PAKARU,MAKE IT GO PAKARU (NOT SURE OF SPELLING)] (See [puckeroo](../P#puckeroo))
+ <i>adj.</i> ruined; broken [puckeroo. 1960 17C M B8 Wanganui Girls C.I 19 PAKARU,MAKE IT GO PAKARU (NOT SURE OF SPELLING)] (See [puckeroo](pop-pyo.md#puckeroo))
 
 >  This man, when ejected, shook his fist at Lieut. Snow, and threatened, in the jargon that passes current between the two races, to make a "pakaru" of him "tihoa." <i>(Oct 27, 1847,New Zealander, The,2</i>)
 
@@ -3545,7 +3545,7 @@
 
 ### pakihi rush
  
- <i>n.</i> (See [rush](../R#rush))
+ <i>n.</i> (See [rush](roa-ruv.md#rush))
 
 >  <i> Cladium teretifolium</i> <i>(1929,NZ Journal of Science & Technology,11/236</i>) [NOTES: (Easterfield <i>et al.</i>)]
 
@@ -3777,7 +3777,7 @@
 
 ### Palangi
  
- <i>n.</i> (See [Palagi](../P#palagi))
+ <i>n.</i> (See [Palagi](p-per.md#palagi))
 
 >  <i>palangi </i> <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
@@ -4204,7 +4204,7 @@
 
 ### panacan
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### panahe
  
@@ -4244,7 +4244,7 @@
 
 ### panakin
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### panako
  
@@ -4424,7 +4424,7 @@
 
 ### panican
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### panikeke
  
@@ -4436,7 +4436,7 @@
 
 ### panikin
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### Paniora
  
@@ -4461,7 +4461,7 @@
 
 ### Pannell country
  
-<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See [Pannells](../P#pannells))
+<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See [Pannells](p-per.md#pannells))
 
 >  <b>LOUGHNAN</b> Pannell country: see marrowbone country. <i>(1981,Loughnan Glossary,59</i>)
 
@@ -4490,7 +4490,7 @@
 
 ### pannican
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### pannie
  
@@ -4500,7 +4500,7 @@
 
 ### panniken
  
- <i>n.</i> (See [pannikin](../P#pannikin))
+ <i>n.</i> (See [pannikin](p-per.md#pannikin))
 
 ### pannikin
  
@@ -5023,7 +5023,7 @@
 
 ### Papa
  
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](p-per.md#papatuanuku))
 
 >  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
 
@@ -5061,7 +5061,7 @@
 
 ### papaauma
  
- <i>n.</i> (See [papauma](../P#papauma))
+ <i>n.</i> (See [papauma](p-per.md#papauma))
 
 >  The various Coprosmae, Karamu, Taupata, and Papaauma [sic], with their brilliant, laurel-like leaves, and yellow or red berries, must not be overlooked. <i>(Dec 21, 1882,Wanganui Herald,4</i>)
 
@@ -5167,7 +5167,7 @@
 
 ### papanga
  
- <i>n.</i> (See [papango](../P#papango))
+ <i>n.</i> (See [papango](p-per.md#papango))
 
 ### papango
  
@@ -5275,7 +5275,7 @@
 
 ### papauma
  
- <i>n.</i> (See [broadleaf](../B#broadleaf))
+ <i>n.</i> (See [broadleaf](bri-byo.md#broadleaf))
 
 >  ... the curious red fruit of the Titoki, or Titongi, (<i>Alectryon excelsum</i>); .. of several species of <i>Coprosma</i>, - particlularly the Karamu (<i>C. lucida</i>), and <i>C. robusta</i>), of the Papaauma (<i>C. grandifolia</i>), and of the two littoral species, Taupata (<i>C. retusa</i>), and Tataraheke (<i>C. acerosa</i>); of the Koropuku (<i>Gaultheria depressa</i>) ... <i>(1869,TrNZI,1/III/31</i>) [NOTES: (Colenso Botany North Isd)]
 
@@ -5619,7 +5619,7 @@
 
 
  
- <i>n.</i> (See [painted duck](../P#painted-duck),[putangitangi](../P#putangitangi))
+ <i>n.</i> (See [painted duck](p-per.md#painted-duck),[putangitangi](pop-pyo.md#putangitangi))
 
 >  Both sanctuaries in the Botanical andWoodhaugh Gardens are live withwaterfowl, the grey duck (parera) beingespecially numerous though there are alsothe Paradise Duck (Putangitangi). <i>(Aug 16, 1933,NZ Tablet,27</i>)
 
@@ -5970,7 +5970,7 @@
 
 ### paraparaua
  
- <i>n.</i> (See [paraoa](../P#paraoa))
+ <i>n.</i> (See [paraoa](p-per.md#paraoa))
 
 ### parapox
  
@@ -6001,7 +6001,7 @@
 
 
  
- <i>n.</i> flax sandal (See [paraerae](../P#paraerae))
+ <i>n.</i> flax sandal (See [paraerae](p-per.md#paraerae))
 
 >  <b>ROBERTS</b> rode down to Dunedin with a pair of pararas lined with red blanket instead of boots. <i>(1890,History of Oamaru & North Otago,7</i>) [NOTES: quote from 1853]
 
@@ -6228,7 +6228,7 @@
 
 ### parekareka
  
- <i>n.</i> (See [spotted shag](../S#spotted-shag))
+ <i>n.</i> (See [spotted shag](spa-sys.md#spotted-shag))
 
 >  <i>Spotted Shag Stictocarbo punctatus </i>(SPARRMAN, 1786)<i> ... Spotted Shag S. p. punctatus</i> (SPARRMAN, 1786).<i> Blue Shag S.p. steadi</i> (OLIVER, 1930). ... OTHER NAMES: <i>Parekareka, ocean shag, crested shag, flip-flap, blue shag. </i> <i>(1985,Reader's Digest Book of NZ Birds,125</i>)
 
@@ -6396,11 +6396,11 @@
 
 ### paretau
  
- <i>n.</i> (See [paretao](../P#paretao))
+ <i>n.</i> (See [paretao](p-per.md#paretao))
 
 ### pari
  
- <i>n.</i> (See [parrie](../P#parrie))
+ <i>n.</i> (See [parrie](p-per.md#parrie))
 
 ### Parihaka
  
@@ -6520,7 +6520,7 @@
 
 ### parke
  
- <i>n.</i> (See [pakihi](../P#pakihi))
+ <i>n.</i> (See [pakihi](p-per.md#pakihi))
 
 ### Parker
  
@@ -6530,7 +6530,7 @@
 
 ### Parker's boy
  
- <i>n.</i> (See [Parkhurst boy](../P#parkhurst-boy))
+ <i>n.</i> (See [Parkhurst boy](p-per.md#parkhurst-boy))
 
 ### Parkhurst boy
  
@@ -6558,7 +6558,7 @@
 
 ### parkihi
  
- <i>n.</i> (See [pakihi](../P#pakihi))
+ <i>n.</i> (See [pakihi](p-per.md#pakihi))
 
 ### parking
  
@@ -6650,7 +6650,7 @@
 
 ### Parnell shout
  
- <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](../A#also-dutch-shout),[Yankee shout](../Y#yankee-shout))
+ <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](../A#also-dutch-shout),[Yankee shout](y-yc.md#yankee-shout))
 
 >  Finally, they resolved themselves into a committee of ways and means, and escaped from the dilemma by what is vulgarly known as a 'Parnell shout.' <i>(Oct 1, 1892,Observer (Auckland),4</i>)
 
@@ -6747,7 +6747,7 @@
 
 ### Parrie
  
- <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../P#parry))
+ <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](p-per.md#parry))
 
 ### parrie
  
@@ -6805,7 +6805,7 @@
 
 ### parroquet / paroquet
  
- <i>n.</i> (See [parakeet](../P#parakeet))
+ <i>n.</i> (See [parakeet](p-per.md#parakeet))
 
 >  A person sued another for GBP2 for the detention of a paroquet. The defendant's counsel asked that the plaintiff be non-suited, on the ground that the paroquet came under the head of <i>ferae naturae</i>, and that any such bird on escaping from its custodian became <i>res nullius</i>, and could not be the subject of larceny or a civil action. <i>(Nov 17, 1888,Evening Post,2</i>)
 
@@ -6938,7 +6938,7 @@
 
 ### parrot's beak
  
- <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](../K#kaka-beak),[parrot's bill](../P#parrot's-bill),[parroquet's beak](../P#parroquet's-beak),[red kowhai](../R#red-kowhai))
+ <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](k-kea.md#kaka-beak),[parrot's bill](p-per.md#parrot's-bill),[parroquet's beak](p-per.md#parroquet's-beak),[red kowhai](ra-red.md#red-kowhai))
 
 >  We stock a fine variety of healthy stock grown in the open. Titoki or N.Z.Oak, each 1s6d; .. parrot's Beak, red 1s, white,[sic] 2s ... <i>(Aug 9, 1906,Evening Post,6</i>)
 
@@ -6960,7 +6960,7 @@
 
 ### parrot's bill
  
- <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](../P#parrot's-beak),[kaka beak](../K#kaka-beak),[parrakeet's beak](../P#parrakeet's-beak),[red kowhai](../R#red-kowhai))
+ <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](p-per.md#parrot's-beak),[kaka beak](k-kea.md#kaka-beak),[parrakeet's beak](../P#parrakeet's-beak),[red kowhai](ra-red.md#red-kowhai))
 
 >  <b>DOMETT</b> <i>Clianthus puniceus</i> parrot-bill <i>(1872,Ranolf and Amohia</i>) [NOTES: (And)]
 
@@ -7083,7 +7083,7 @@
 
 ### Parry
  
- <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See [Paremoremo](../P#paremoremo))
+ <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See [Paremoremo](p-per.md#paremoremo))
 
 >  True, all new `Parry' residents were initially sent there for observation and assessment. <i>(May 12, 1985,NZ Times,4</i>)
 
@@ -7241,7 +7241,7 @@
 
 ### parson-bird
  
- <i>n.</i> <i>Prosthemadera novaeseelandiae</i>, tui (See [tui](../T#tui))
+ <i>n.</i> <i>Prosthemadera novaeseelandiae</i>, tui (See [tui](tot-tyr.md#tui))
 
 >  [from a letter to the <i>Spectator</i>] The coming of the long-tailed cuckoo to New Zealand every springtime, from the warmer Polynesian islands is a great source of trouble to the parson bird. <i>(Jun 30, 1909,Otago Witness,76</i>)
 
@@ -7855,7 +7855,7 @@
 
 
  
- <i>n.</i> (See [kohia](../K#kohia))
+ <i>n.</i> (See [kohia](kiw-kwi.md#kohia))
 
 >  <b>BURTON</b> The first mention of the passionfruit inNew Zealand was in the 1872 catalogue ofD. Hay and Sons, who also introduced thetamarillo. <i>(1985,Delectable Fruits Cookery,112</i>)
 
@@ -8444,7 +8444,7 @@
 
 ### patapatow
  
- <i>n.</i> (See [patu](../P#patu))
+ <i>n.</i> (See [patu](p-per.md#patu))
 
 ### patatai
  
@@ -8504,7 +8504,7 @@
 
 
  
-<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](../(#(-pocket),[sink](../S#sink),[digger)](../D#digger)))
+<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](../(#(-pocket),[sink](sho-spa.md#sink),[digger)](dig-dou.md#digger)))
 
 >  <b>THOMAS</b> The posssibility of finding a `pocket' or better still a good `patch' added interest to the [gumdigger's] day's work. <i>(1970,Way Up North,31</i>)
 
@@ -8516,7 +8516,7 @@
 
 ### patch member/patched member
  
- <i>n.</i> a full member of a gang, entitled to wear a patch (See [patch](../P#patch))
+ <i>n.</i> a full member of a gang, entitled to wear a patch (See [patch](p-per.md#patch))
 
 >  <b>David Geary</b> So it was an easy sidestep from bootboy to gang prospect. Though I should say he never graduated to full patch member. <i>(2008,Six Pack 3, The,106</i>)
 
@@ -8581,7 +8581,7 @@
 
 ### pate
  
- <i>n.</i> (Environment) <i>Schefflera digitata</i>, a native tree usually with seven fingers or leaves. [ORIGIN: Maori] (See [patete](../P#patete))
+ <i>n.</i> (Environment) <i>Schefflera digitata</i>, a native tree usually with seven fingers or leaves. [ORIGIN: Maori] (See [patete](p-per.md#patete))
 
 >  A few hours later, John Morrison found a pate tree with some wood rose, <i>Dactylanthus taylorii</i>, growing from its root system... To date Hauturu is the only offshore island where <i>Dactylanthus</i> has been found. <i>(Jan 2002,NZ Geographic,No. 55/28</i>)
 
@@ -8785,7 +8785,7 @@
 
 
  
-<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [flounder](../F#flounder))
+<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [flounder](fin-fly.md#flounder))
 
 >  <i>From the Auckland Times</i> .. The natives yesterday, in ten or twelve large canoes, brought in an abundant supply of fine fish; mullet, snappers, cawhy, patiki (the flounder of Europe) and other delicious species; which they disposed of to the inhabitants of the town at less than 1d. per lb. <i>(Mar 21, 1843,New Zealand Colonist & Port Nicholson Advertiser,3</i>)
 
@@ -8921,7 +8921,7 @@
 
 ### patiki-rori
  
- <i>n.</i> common sole [.] (See [sole](../S#sole))
+ <i>n.</i> common sole [.] (See [sole](sho-spa.md#sole))
 
 >  PELTORHAMPHUS NOVAE-ZEELANDIAE Gunther[u-dieresis]. <i>Common Sole; Patikirori</i>. ... Distribution: New Zealand coasts (not common, North Auckland Peninsula). <i>(Jun 1921,NZ Journal of Science & Technology,4/122</i>) [NOTES: Phillipps Notes on the Edible Fishes]
 
@@ -8974,7 +8974,7 @@
 
 ### patoo
  
- <i>n.</i> (See [patu](../P#patu))
+ <i>n.</i> (See [patu](p-per.md#patu))
 
 ### patotara
  
@@ -9059,11 +9059,11 @@
 
 ### pattie
  
- <i>n.</i> (See [patu](../P#patu))
+ <i>n.</i> (See [patu](p-per.md#patu))
 
 ### pattoo-pattoo
  
- <i>n.</i> (See [patu](../P#patu))
+ <i>n.</i> (See [patu](p-per.md#patu))
 
 ### patu
  
@@ -9083,7 +9083,7 @@
 
 
  
- <i>n.</i> a stone club used as a weapon (See [cf. mere](../M#mere))
+ <i>n.</i> a stone club used as a weapon (See [cf. mere](mar-moa.md#mere))
 
 >  In some of the dialects .. [t]here are two forms of the preposition "for," the <i>ma</i> and the <i>mo</i>. <i>He patu mau</i> would be a thing for you to beat with; <i>he patu mou</i>, a thing to beat you with. <i>(Apr 12, 1851,New Zealander, The,3</i>)
 
@@ -9678,7 +9678,7 @@
 
 ### paw
  
- <i>n.</i> variant of pa (=fish hook) (See [pa](../P#pa))
+ <i>n.</i> variant of pa (=fish hook) (See [pa](p-per.md#pa))
 
 ### paw the air
  
@@ -9817,7 +9817,7 @@
 
 ### payable
  
- <i>adj.</i> [goldmining] (See [cf. pay-dirt](../P#pay-dirt),[pay-rock](../P#pay-rock))
+ <i>adj.</i> [goldmining] (See [cf. pay-dirt](p-per.md#pay-dirt),[pay-rock](p-per.md#pay-rock))
 
 >  There are several tunnels at present in course of construction and the work of driving into the terrace is being vigorously proceeded with, but owing to the great distance which they have to drive, it will take a long time before they will be able to complete these, and to commence making anything payable out of the ground. <i>(Mar 11, 1870,West Coast Times,2</i>)
 
@@ -10001,7 +10001,7 @@
 
 ### PBRF
  
- <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See [Performance-Based Research Fund](../P#performance-based-research-fund))
+ <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See [Performance-Based Research Fund](per-pop.md#performance-based-research-fund))
 
 >  Performance-Based Research Fund (PBRF) is being implemented over the next four years, and will see research funding linked to research output rather than equivalent full-time students (EFTS). <i>(Mar 31, 2003,Salient,No. 5/18</i>)
 
@@ -10137,7 +10137,7 @@
 
 ### pea, pie and pud
  
- <i>phr.</i> the usual colloquial abbrev. form of the main fare at pie-carts: =pea, pie and spud (mashed potatoes) [ca1945 at least. Wellington.] (See [pie-cart](../P#pie-cart))
+ <i>phr.</i> the usual colloquial abbrev. form of the main fare at pie-carts: =pea, pie and spud (mashed potatoes) [ca1945 at least. Wellington.] (See [pie-cart](per-pop.md#pie-cart))
 
 >  <b>HENDERSON</b> Eager crowds no longer gathered round the piecart ordering great helpings of "pea, pie and spud" or "steaka da bif". <i>(1971,Our Open Country,244</i>)
 
@@ -10856,7 +10856,7 @@
 
 ### pekau
  
- <i>n.</i> (See [pikau](../P#pikau))
+ <i>n.</i> (See [pikau](per-pop.md#pikau))
 
 ### pekeha
  
@@ -10886,7 +10886,7 @@
 
 ### peko
  
- <i>n.</i> [pl pekoes] (See [pikau](../P#pikau))
+ <i>n.</i> [pl pekoes] (See [pikau](per-pop.md#pikau))
 
 >  <b>BROOKS</b> Most of us were now loaded with heavy pekoes or swags on our backs. <i>(1892,Frontier Life,148</i>)
 
@@ -11200,7 +11200,7 @@
 
 ### penguin
  
- <i>n.</i> a flightless seabird with webbed feet and flipper-like wings, living in the Southern Hemisphere. (See [hoiho](../H#hoiho),[korora](../K#korora))
+ <i>n.</i> a flightless seabird with webbed feet and flipper-like wings, living in the Southern Hemisphere. (See [hoiho](hea-hom.md#hoiho),[korora](kiw-kwi.md#korora))
 
 >  Of the fossil remains of birds, the present collection contains above 500 specimens, referable to the various species of Dinornis, and allied genera; and to species of albatross, penguin, water-hen, nestor, apteryx, etc. <i>(Oct 12, 1850,New Zealand Spectator & Cook's Strait Guardian,2</i>)
 
@@ -11978,7 +11978,7 @@
 
 ### pepi
  
- <i>n.</i> (See [pipi](../P#pipi))
+ <i>n.</i> (See [pipi](per-pop.md#pipi))
 
 ### pepino
  
@@ -12028,7 +12028,7 @@
 
 ### pepper
  
- <i>n.</i> (See [cress](../C#cress),[grass](../G#grass))
+ <i>n.</i> (See [cress](con-cyp.md#cress),[grass](go-gra.md#grass))
 
 
 

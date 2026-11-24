@@ -254,7 +254,7 @@
 
 ### Ossie
  
- <i>n.</i> variant of Aussie (See [Aussie](../A#aussie))
+ <i>n.</i> variant of Aussie (See [Aussie](ari-axe.md#aussie))
 
 ### ostrich foot
  
@@ -679,7 +679,7 @@
 
 ### Our Place
  
- <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See [Te Papa](../T#te-papa))
+ <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See [Te Papa](t-ten.md#te-papa))
 
 >  Our Place? Get off the grass... For the Soundings Theatre in Te Papa, he was quoted $3000 a night. <i>(Aug 8, 1998,Dominion,52</i>)
 
@@ -783,7 +783,7 @@
 
 
  
- <i>n.</i> an out-settler (See [out-settler](../O#out-settler))
+ <i>n.</i> an out-settler (See [out-settler](ore-ozz.md#out-settler))
 
 >  Red tape, we `outs' call it. <i>(1860,Richmond-Atkinson Papers,2/140</i>)
 
@@ -1764,7 +1764,7 @@
 
 ### oven
  
- <i>n.</i> as abbrev. of MAORI etc. OVEN =HANGI, =UMU (See [also earth](../A#also-earth),[Maori](../M#maori),[native oven](../N#native-oven))
+ <i>n.</i> as abbrev. of MAORI etc. OVEN =HANGI, =UMU (See [also earth](../A#also-earth),[Maori](m-mar.md#maori),[native oven](n-new.md#native-oven))
 
 >  They placed before me food of all sorts; the ovens having been filled immediately that I was perceived coming along the beach. <i>(May 16, 1840,New Zealand Gazette & Wellington Spectator,3</i>)
 
@@ -1914,7 +1914,7 @@
 
 ### over the shed
  
- <i>phr.</i> (See [shed](../S#shed))
+ <i>phr.</i> (See [shed](sa-sho.md#shed))
 
 ### over the way
  
@@ -2111,7 +2111,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See [rock camp](../R#rock-camp))
+<b>1</b> <i>n.</i> (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See [rock camp](roa-ruv.md#rock-camp))
 
 >  <b>CURTIS</b> Underneath the overhang there was enough room to bed down a dozen people. <i>(1996,Beneath the Mountain Mist,59</i>)
 
@@ -2697,7 +2697,7 @@
 
 
  
- <i>n.</i> =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See [oca](../O#oca),[yam](../Y#yam))
+ <i>n.</i> =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See [oca](o-on.md#oca),[yam](y-yc.md#yam))
 
 >  This episode dealt with the mistakes a newcomer can't seem to avoid, like admiring gorse-covered hills when talking to a farmer, or delighting in a flourishing patch of oxalis. <i>(Sep 27, 1986,Listener (New Zealand Listener),101</i>)
 
@@ -2912,7 +2912,7 @@
 
 ### oyster opener
  
- <i>n.</i> factory hand who opens oysters (See [oysterman](../O#oysterman))
+ <i>n.</i> factory hand who opens oysters (See [oysterman](ore-ozz.md#oysterman))
 
 >  <b>JOHNSON</b> He could do his bookwork upstairs, then move next door to sit at a raised desk with a view of oyster-openers at stainless-steel benches. Here the oysters slid down the throats of stainless-steel pipes into buckets, while shells travelling [sic] by conveyor belt to a bin. <i>(2004,Hooked,209</i>)
 
@@ -3014,7 +3014,7 @@
 
 
  
- <i>n.</i> crewman on oyster dredge boat (See [oyster opener](../O#oyster-opener))
+ <i>n.</i> crewman on oyster dredge boat (See [oyster opener](ore-ozz.md#oyster-opener))
 
 >  <b>JOHNSON</b> By the time the 1951 award was settled, oystermen received 1s 7d a sack, with a bonus of twopence halfpenny for skippers and a penny halfpenny for engineers.<i>Ibid.</i>210 The Marine Department biologist investigating Foveaux Strait oysters said the potential continuing yield was 170,000-180,000 sacks. Merchants, skippers and the oystermen united to claim that a catch of that size would ruin the beds. <i>(2004,Hooked,207</i>)
 

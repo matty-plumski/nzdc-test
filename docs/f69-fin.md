@@ -308,7 +308,7 @@
 
 ### face-moko
  
- <i>n.</i> traditional facial tattoo (See [cf. moko](../M#moko))
+ <i>n.</i> traditional facial tattoo (See [cf. moko](mob-mys.md#moko))
 
 >  <b>TREGEAR</b> Soot for use as colouring matter for tattooing the body was sometimes made from the burnt <i>awheto</i> or `vegetable caterpillar' (Cordiceps robertsii), but was not black enough for face-<i>moko. </i> <i>(1904,Maori Race, The,259</i>)
 
@@ -592,7 +592,7 @@
 
 
  
-<b>1</b> <i>adj.</i> absolute, complete, thoroughgoing; `real'. (See [fair cow](../F#fair-cow),[fair dinkum](../F#fair-dinkum))
+<b>1</b> <i>adj.</i> absolute, complete, thoroughgoing; `real'. (See [fair cow](f69-fin.md#fair-cow),[fair dinkum](f69-fin.md#fair-dinkum))
 
 >  <b>SATCHELL</b> While it [sc. rain: chk ?money] held out it would be a fair pour. <i>(1902,Land of the Lost,26</i>)
 
@@ -632,7 +632,7 @@
 
 ### fair cow
  
- <i>n.</i> [1960 17C M B6 St Bede's, Chch 3 COW (A FAIR COW)] (See [cow](../C#cow))
+ <i>n.</i> [1960 17C M B6 St Bede's, Chch 3 COW (A FAIR COW)] (See [cow](con-cyp.md#cow))
 
 >  [Hdg] A fair cow's handmaiden. <i>(Nov 1, 1943,NZEF Times,III/123 : 13</i>)
 
@@ -694,7 +694,7 @@
 
 
  
- <i>adj.</i> genuine, real [straight dinkum 1940 citation is of intensifying adverb (truly)] (See [straight dinkum](../S#straight-dinkum))
+ <i>adj.</i> genuine, real [straight dinkum 1940 citation is of intensifying adverb (truly)] (See [straight dinkum](spa-sys.md#straight-dinkum))
 
 >  Williams was an "Ak Emma" and Henrys was a "Dink", a fair dinkum "digger". <i>(Nov 27, 1926,NZ Observer,Xmas Annual : 28</i>)
 
@@ -1014,7 +1014,7 @@
 
 ### falcon
  
- <i>n.</i> <i>Falco novaeseelandiae</i> any of various birds of prey, such as the hawk or kestrel, often used to hunt other birds or game; (See [karearea](../K#karearea),[hawk](../H#hawk),[sparrowhawk](../S#sparrowhawk))
+ <i>n.</i> <i>Falco novaeseelandiae</i> any of various birds of prey, such as the hawk or kestrel, often used to hunt other birds or game; (See [karearea](k-kea.md#karearea),[hawk](h-hea.md#hawk),[sparrowhawk](spa-sys.md#sparrowhawk))
 
 >  <b>FORSTER</b> Capt Cook came very late ... & brought 3 Seals, 3 Ducks, 10 Waterhens, a new Charadrius [sc. New Zealand Dotterel] & a new Falcon ... [ed. fn] Falco harpe of Descr. Anim., p.68 ... Now the New Zealand Falcon ... <i>(Apr 3, 1773,Resolution Journal of J.R. Forster, The,2/246</i>)
 
@@ -1521,7 +1521,7 @@
 
 ### fangs
  
- <i>n.</i> (See [fans](../F#fans))
+ <i>n.</i> (See [fans](f69-fin.md#fans))
 
 ### fangtooth
  
@@ -1691,7 +1691,7 @@
 
 ### fantasy
  
- <i>n.</i> [(drug)] (See [GHB](../G#ghb))
+ <i>n.</i> [(drug)] (See [GHB](g-go.md#ghb))
 
 >  It is believed the 18-year-old took the gamma hydroxybutyric acid (GBH), commonly known as Fantasy or Liquid E, during the ball. <i>(Aug 4, 2000,Evening Post,4</i>)
 
@@ -1948,7 +1948,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) of farming economics, the site of production. (See [farmgate price](../F#farmgate-price),[farm-gate returns](../F#farm-gate-returns))
+<b>1</b> <i>n.</i> (Rural) of farming economics, the site of production. (See [farmgate price](f69-fin.md#farmgate-price),[farm-gate returns](../F#farm-gate-returns))
 
 >  The demand was still being driven by record returns to the farm gate. <i>(Oct 21, 2001,Sunday Star Times,E5</i>)
 
@@ -2057,7 +2057,7 @@
 
 ### farm walk
  
-<b>1</b> <i>n.</i> (Rural) a demonstration or inspection of a farming property to view stock or land [possibly for sale.] (See [open farm](../O#open-farm))
+<b>1</b> <i>n.</i> (Rural) a demonstration or inspection of a farming property to view stock or land [possibly for sale.] (See [open farm](on-ore.md#open-farm))
 
 >  .. new 4 stand woolshed with covered yards. Farm walks Sun 2 & Wed 5 Dec 1.30-2.30 pm. <i>(Dec 7, 2001,Manawatu Evening Standard & Property Guide,25</i>)
 
@@ -2481,7 +2481,7 @@
 
 ### fat draft
  
-<b>1</b> <i>n.</i> (Rural) a muster and selection of prime stock for slaughter. (See [fat-drafting](../F#fat-drafting))
+<b>1</b> <i>n.</i> (Rural) a muster and selection of prime stock for slaughter. (See [fat-drafting](f69-fin.md#fat-drafting))
 
 >  <b>MOWAT</b> Clearing up sheep left in yards after the fat draft. <i>(Mar 10, 1943,Alexander Mowat Diaries</i>)
 
@@ -2775,7 +2775,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a stock dealer/farmer who buys in stock, fattens then sells them. (See [lamb-fattener](../L#lamb-fattener))
+<b>1</b> <i>n.</i> (Rural) a stock dealer/farmer who buys in stock, fattens then sells them. (See [lamb-fattener](l-lay.md#lamb-fattener))
 
 >  <b>STEVENS</b> More young cattle are needed by fatteners. <i>(1958,Sheep.  Part 1, Sheep husbandry,194</i>)
 
@@ -3214,7 +3214,7 @@
 
 ### feed bank
  
-<b>1</b> <i>n.</i> (Rural) conserved pasture or other land cover [in case of drought or flood.] (See [banked](../B#banked))
+<b>1</b> <i>n.</i> (Rural) conserved pasture or other land cover [in case of drought or flood.] (See [banked](b-bla.md#banked))
 
 >  <b>WHITE ET AL</b> The carryover of standing feed into the winter as a feed-bank is an important practice. <i>(1999,NZ Pasture and Crop Science,149</i>)
 
@@ -3251,7 +3251,7 @@
 
 ### feed budgeter
  
-<b>1</b> <i>n.</i> (Rural) a farmer with a careful feed conservation plan. (See [feed budget](../F#feed-budget))
+<b>1</b> <i>n.</i> (Rural) a farmer with a careful feed conservation plan. (See [feed budget](f69-fin.md#feed-budget))
 
 >  Feed budgeters in the days before feed budgeting was a common practice, they made a success of the 280-cow operation ... <i>(Apr 12, 2001,NZ Farmer,34</i>)
 
@@ -3416,7 +3416,7 @@
 
 ### feed wedge
  
-<b>1</b> <i>n.</i> (Rural) conserved pasture stock feed. (See [feed bank](../F#feed-bank))
+<b>1</b> <i>n.</i> (Rural) conserved pasture stock feed. (See [feed bank](f69-fin.md#feed-bank))
 
 >  Though pasture growth was spectacular in May, the farm's feed wedge was more like an erratic staircase. <i>(Aug 1984,NZ Dairy Exporter,7</i>)
 
@@ -3555,7 +3555,7 @@
 
 ### feeding paddock
  
-<b>1</b> <i>n.</i> (Rural) a fenced portion of a farm where feed is brought to stock. (See [sacrifice paddock](../S#sacrifice-paddock))
+<b>1</b> <i>n.</i> (Rural) a fenced portion of a farm where feed is brought to stock. (See [sacrifice paddock](sa-sho.md#sacrifice-paddock))
 
 >  <b>AYSON</b> The custom was to drag each calf to a stake placed a little way off the track taken by the cows on their way to the feeding paddocks. <i>(1937,Thomas,43</i>)
 
@@ -3563,7 +3563,7 @@
 
 ### feeding value
  
-<b>1</b> <i>n.</i> (Rural) the extent to which particular strains of stock feed will support stock. (See [grazing-value](../G#grazing-value))
+<b>1</b> <i>n.</i> (Rural) the extent to which particular strains of stock feed will support stock. (See [grazing-value](gra-gyp.md#grazing-value))
 
 >  Lucerne is rapidly becoming recognized by farmers on the rich Marlborough flats, where much of the land is composed of accumulated river-silt deposits, as a fodder-crop of unexcelled feeding-value. <i>(Feb 15, 1912,NZ Journal of Agriculture,105</i>)
 
@@ -3712,7 +3712,7 @@
 
 ### Fell locomotive
  
- <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See [Fell engine](../F#fell-engine))
+ <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See [Fell engine](f69-fin.md#fell-engine))
 
 >  The Wairarapa now has a rail link with the West Coast, a tunnel through the Rimutakas, which replaced the old Fell locomotives that used to cog their way over the range. <i>(Nov 19, 1988,Listener (New Zealand Listener),42</i>)
 
@@ -4053,7 +4053,7 @@
 
 ### fencible family
  
- <i>n.</i> (See [fencible cottage](../F#fencible-cottage))
+ <i>n.</i> (See [fencible cottage](f69-fin.md#fencible-cottage))
 
 >  Some years ago, Housing New Zealand decided to pepper-pot a long-settled area of Otahuhu with new houses, thereby introducing people of a different culture into an area whose residents were in some cases descendants of the 1848 fencible families and tangata whenua. <i>(Jan 20, 2006,Sunday Star Times,A10</i>)
 
@@ -4565,7 +4565,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) an animal used to destroy secondary growth fern and bracken on new pasture. (See [hoof and tooth treatment](../H#hoof-and-tooth-treatment))
+<b>1</b> <i>n.</i> (Rural) an animal used to destroy secondary growth fern and bracken on new pasture. (See [hoof and tooth treatment](hom-hyp.md#hoof-and-tooth-treatment))
 
 >  Cattle are often looked upon as more efficient fern-crushers than are sheep on land suitable for cattle. <i>(Jun 20, 1916,NZ Journal of Agriculture,435</i>)
 
@@ -4627,7 +4627,7 @@
 
 ### fern-herald
  
- <i>n.</i> the catchfly (See [fern-pilot](../F#fern-pilot))
+ <i>n.</i> the catchfly (See [fern-pilot](f69-fin.md#fern-pilot))
 
 ### fern-palm
  
@@ -4675,7 +4675,7 @@
 
 ### fern-run
  
-<b>1</b> <i>n.</i> (Rural) a property that is difficult to develop, due to dense growth of fern and scrub. (See [starvation country](../S#starvation-country))
+<b>1</b> <i>n.</i> (Rural) a property that is difficult to develop, due to dense growth of fern and scrub. (See [starvation country](spa-sys.md#starvation-country))
 
 >  <b>GUTHRIE-SMITH</b> The energy .. of certain settlers in southern Hawke's Bay was proving that fern-runs could be made to pay, at any rate in good soils and in dry districts. <i>(1921,Tutira,123</i>)
 
@@ -5015,7 +5015,7 @@
 
 ### fescue
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### fescue tussock
  
@@ -5037,7 +5037,7 @@
 
 ### fetid bug
  
- <i>n.</i> (See [black beetle](../B#black-beetle))
+ <i>n.</i> (See [black beetle](b-bla.md#black-beetle))
 
 >  <b>BULLER</b> The large nocturnal beetle (<i>Prionoplus reticularis</i> (Huhu), ... the Kekereru or fetid bug, the large bush Cicada ... all contribute to the support of this bird; ... <i>(1873,Birds of New Zealand,75,{1888 2nd edn 1/130} ed.</i>)
 
@@ -5102,7 +5102,7 @@
 
 
  
- <i>n.</i> shortened form of fibrolite (See [fibrolite](../F#fibrolite))
+ <i>n.</i> shortened form of fibrolite (See [fibrolite](f69-fin.md#fibrolite))
 
 >  fibro n. NZ & Austral. fibro-cement (three bedroom fibroplank house); house constructed chiefly with fibro-cement. <i>(1986,NZ Pocket Oxford Dictionary,277</i>) [NOTES: [cf. 1982 Collins Concise Eng. Dict. 411; cf. 1985 Collins NZ Compact Dict. 182]]
 
@@ -5693,7 +5693,7 @@
 
 ### finback
  
- <i>n.</i> [includes fin whale. cf finner] (See [finner](../F#finner))
+ <i>n.</i> [includes fin whale. cf finner] (See [finner](fin-fly.md#finner))
 
 >  The agreement follows, on the whole, familiar lines, and under it it will not be lawful to take .. fin whales of less than 55ft <i>(Jun 10, 1937,Evening Post,9</i>)
 
@@ -5812,7 +5812,7 @@
 
 ### Findon haddock
  
- <i>n.</i> (See [haddock](../H#haddock))
+ <i>n.</i> (See [haddock](h-hea.md#haddock))
 
 >  <b>SENIOR</b> There is another fish somewhat resembling [the haddock] cured and sold in Dunedin as the Findon haddock. This is in reality a red cod, and is beautifully coloured. <i>(1880,Travel & Trout,298</i>)
 

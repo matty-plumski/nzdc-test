@@ -86,7 +86,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See [lead cow](../L#lead-cow),[leader](../L#leader),[Judas sheep](../J#judas-sheep),[pet](../P#pet))
+<b>1</b> <i>n.</i> (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See [lead cow](lay-liv.md#lead-cow),[leader](lay-liv.md#leader),[Judas sheep](../J#judas-sheep),[pet](per-pop.md#pet))
 
 >  <b>LOUGHNAN</b> lead: the head of a mob of sheep on the move. Not necessarily physically the strongest beast, but a strong-willed one, will take the lead. <i>(1981,Loughnan Glossary,48</i>)
 
@@ -119,13 +119,13 @@
 
 ### lead cow
  
-<b>1</b> <i>n.</i> (Rural) a boss cow that leads the order in to a cowshed, at a feeding trough etc. (See [boss cow](../B#boss-cow))
+<b>1</b> <i>n.</i> (Rural) a boss cow that leads the order in to a cowshed, at a feeding trough etc. (See [boss cow](bla-bri.md#boss-cow))
 
 >  Lead cows will usually be lined up ready to walk on. <i>(May 8, 1969,NZ Farmer,27</i>)
 
 ### lead dog
  
-<b>1</b> <i>n.</i> (Rural) [droving or mustering] a dog that leads or works at the head of a mob. (See [leading dog](../L#leading-dog))
+<b>1</b> <i>n.</i> (Rural) [droving or mustering] a dog that leads or works at the head of a mob. (See [leading dog](lay-liv.md#leading-dog))
 
 >  <b>PULLEN</b> We had a lead dog now called Steel. <i>(1996,On the Road Again,45</i>)
 
@@ -194,7 +194,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See [lead](../L#lead),[lead cow](../L#lead-cow),[Judas sheep](../J#judas-sheep),[pet](../P#pet),[yard sheep](../Y#yard-sheep))
+<b>1</b> <i>n.</i> (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See [lead](lay-liv.md#lead),[lead cow](lay-liv.md#lead-cow),[Judas sheep](../J#judas-sheep),[pet](per-pop.md#pet),[yard sheep](y-yc.md#yard-sheep))
 
 >  <b>KERR</b> When we had the last mob of the day we'd try to batter them into submission, tire them out in the heat, march them up to the top of the hill and march them down again like Old King Cole, dog them constantly. We aimed for a nucleus of docile leaders. <i>(2000,High Times in the High Country,82</i>)
 
@@ -502,7 +502,7 @@
 
 ### leary
  
- <i>adj.</i> (See [lairy](../L#lairy))
+ <i>adj.</i> (See [lairy](l-lay.md#lairy))
 
 ### lease
  
@@ -584,7 +584,7 @@
 
 ### leather-leaf
  
- <i>n.</i> i> Senecio rotundifolius , =muttonbird scrub, also leathern-leaf. [[a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And) Senecio rotundifolius leathern-leaf; also leatherleaf, also leather leaf] (See [muttonbird scrub](../M#muttonbird-scrub))
+ <i>n.</i> i> Senecio rotundifolius , =muttonbird scrub, also leathern-leaf. [[a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And) Senecio rotundifolius leathern-leaf; also leatherleaf, also leather leaf] (See [muttonbird scrub](mob-mys.md#muttonbird-scrub))
 
 >  <b>MATTHEWS</b> <i> Senecio rotundifolius </i> leather-leaf <i>(1905,Tree Culture in NZ</i>) [NOTES: AND]
 
@@ -1345,7 +1345,7 @@
 
 ### lemonwood
  
- <i>n.</i> [=tarata, =white mapau, =mapau, =mapou, =maple, =white matipo.] (See [tarata](../T#tarata))
+ <i>n.</i> [=tarata, =white mapau, =mapau, =mapou, =maple, =white matipo.] (See [tarata](t-ten.md#tarata))
 
 >  <b>ELDRED-GRIGG</b> A search of the house and yard failed to uncover anything more valuable than the dressmaking scissors, rusting under a lemonwood. <i>(1995,Mum,185</i>)
 
@@ -1403,7 +1403,7 @@
 
 
  
-<b>3</b> <i>n.</i> (See [raukawa](../R#raukawa))
+<b>3</b> <i>n.</i> (See [raukawa](ra-red.md#raukawa))
 
 >  <b>LAING & BLACKWELL</b> The leaves are aromatic, and were used by the Maoris in the making of perfumed oils [as were the (leaves and) gum of <i> P.eugenioides </i>, Tarata]] <i>(1940,Plants of NZ,322</i>)
 
@@ -1704,7 +1704,7 @@
 
 
  
-<b>1</b> <i>v.</i> (Rural) [dog trials] to set free three sheep for a competition run. (See [slip](../S#slip))
+<b>1</b> <i>v.</i> (Rural) [dog trials] to set free three sheep for a competition run. (See [slip](sho-spa.md#slip))
 
 >  I spent most of my time liberating on the long pull, a course we shorten for our local maiden day. <i>(Jun 1984,NZ Journal of Agriculture,13</i>)
 
@@ -1732,7 +1732,7 @@
 
 ### liberator
  
-<b>1</b> <i>n.</i> (Rural) a person who sets free sheep for use during dog trial contests [mainly N.I.] (See [slipper](../S#slipper))
+<b>1</b> <i>n.</i> (Rural) a person who sets free sheep for use during dog trial contests [mainly N.I.] (See [slipper](sho-spa.md#slipper))
 
 >  I remember hearing a liberator at Rotorua on the short head telling me about the run-outs of all the dogs while he was putting the sheep out on the mark. <i>(Sep 27, 1973,NZ Farmer,71</i>)
 
@@ -1798,7 +1798,7 @@
 
 ### licence
  
- <i>n.</i> [(hist.) [Check which is the official term.] depasturing licence. a. ?????] (See [depasturage licence](../D#depasturage-licence))
+ <i>n.</i> [(hist.) [Check which is the official term.] depasturing licence. a. ?????] (See [depasturage licence](d-dif.md#depasturage-licence))
 
 >  <b>FITTON</b> [Otago The land department (sales and depasturage licences) to be administered by a Board of not less than three commissioners. <i>(1856,New Zealand (various authors/titles),338</i>)
 
@@ -2292,7 +2292,7 @@
 
 ### lifting the bones
  
- <i>phr.</i> (See [hahunga](../H#hahunga))
+ <i>phr.</i> (See [hahunga](h-hea.md#hahunga))
 
 >  <b>ANGAS</b> The body is enclosed in a mausoleum of carved woodwork within the `pah' for several months, and at the expiration of this period, the ceremony of `lifting the bones' takes place, which is performed by the nearest relative of the diseased. The bones, after being well scraped and cleaned, are then deposited in a box, and buried. <i>(1866,Polynesia,150</i>)
 
@@ -2350,7 +2350,7 @@
 
 ### light-wood
  
- <i>n.</i> Aristotelia serrata (formerly A.racemosa), ?because it grows in the light, when heavy bush cleared =makomako (See [makomako](../M#makomako))
+ <i>n.</i> Aristotelia serrata (formerly A.racemosa), ?because it grows in the light, when heavy bush cleared =makomako (See [makomako](m-mar.md#makomako))
 
 >  The makomako [Aristotelia serrata], or settlers' `light-wood', springs up over the clearings on the Mount Egmont slope. <i>(1899,TrNZI,31/475</i>) [NOTES: Walsh]
 
@@ -2370,7 +2370,7 @@
 
 ### lightfish
  
- <i>n.</i> (See [lighthouse fish](../L#lighthouse-fish))
+ <i>n.</i> (See [lighthouse fish](lay-liv.md#lighthouse-fish))
 
 >  <b>PHILLIPPS</b> Phosichthys argenteus Hutton. LIGHT-FISH. <i>(1927,Bibliography of NZ Fishes,15,1971 ed.</i>)
 
@@ -2674,7 +2674,7 @@
 
 ### lily
  
- <i>n.</i> [see also renga lily, rockwood lily, bush lily.] (See [perching lily](../P#perching-lily))
+ <i>n.</i> [see also renga lily, rockwood lily, bush lily.] (See [perching lily](p-per.md#perching-lily))
 
 >  ... several veronicas of great beauty, wild thyme, dwarf yew, Alpine rose (<i>consanthenum </i>), white violet, a ribes, several heaths, gentianella, harebell, a lily, and several varieties of ranunculus. <i>(Feb 21, 1851,NZ Government Gazette,34</i>) [NOTES: 1851 Jan Weld Letter]
 
@@ -2758,7 +2758,7 @@
 
 ### limbing
  
- <i>n.</i> [-] (See [scarfing](../S#scarfing))
+ <i>n.</i> [-] (See [scarfing](sa-sho.md#scarfing))
 
 >  <b>CRUMP</b> <i>(1961,Hang on a Minute, Mate,42</i>)
 
@@ -3008,7 +3008,7 @@
 
 
  
- <i>n.</i> (Rural) a group or mob of stock, often for sale. (See [station line](../S#station-line),[hill country line](../H#hill-country-line))
+ <i>n.</i> (Rural) a group or mob of stock, often for sale. (See [station line](spa-sys.md#station-line),[hill country line](../H#hill-country-line))
 
 >  Line.- A mob of sheep when sold, or offered for sale. `Will you take the l., or a run off?' asks the auctioneer, meaning, `Will you take them all, or part of them?' (C.) <i>(Nov 4, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 

@@ -80,7 +80,7 @@
 
 ### Haast's eagle
  
- <i>n.</i> (See [eagle](../E#eagle))
+ <i>n.</i> (See [eagle](e-eft.md#eagle))
 
 >  DNA research has shed fascinating light on New Zealand's enormous Haast's eagle, which once stalked the giant moa through the forests. <i>(Jan 6, 2005,Dominion Post,A6</i>)
 
@@ -122,7 +122,7 @@
 
 ### habuka
  
- <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act] (See [hapuku](../H#hapuku))
+ <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act] (See [hapuku](h-hea.md#hapuku))
 
 >  <b>PAUL et al.</b> [index to common names 283-293] habuka 1281 <i>(1987,Fishes: A Bibliography</i>)
 
@@ -450,7 +450,7 @@
 
 ### hagfish
  
- <i>n.</i> blind eel, tuere (See [blind eel](../B#blind-eel))
+ <i>n.</i> blind eel, tuere (See [blind eel](bla-bri.md#blind-eel))
 
 >  <b>WiLLiAMS</b> <i>Pia ... 2. Blind eel. = napia. </i> <i>(1917,Dictionary of the Maori Language,324</i>)
 
@@ -1231,7 +1231,7 @@
 
 ### haku
  
- <i>n.</i> (See [kingfish](../K#kingfish))
+ <i>n.</i> (See [kingfish](kee-kiw.md#kingfish))
 
 >  English Name Native Name .. ... Herring Tawa Tawa Yellow tail Haku ... ... <i>(1849,NZ Journal,Vol. iX/125</i>) [NOTES: (quoting Anglo Maori Warder Oct 5]
 
@@ -1265,11 +1265,11 @@
 
 ### hakuai
  
- <i>n.</i> (See [hakuwai](../H#hakuwai))
+ <i>n.</i> (See [hakuwai](h-hea.md#hakuwai))
 
 ### hakuakua
  
- <i>n.</i> (See [hakoakoa](../H#hakoakoa))
+ <i>n.</i> (See [hakoakoa](h-hea.md#hakoakoa))
 
 ### hakuwai
  
@@ -1297,15 +1297,15 @@
 
 ### half a bull
  
- <i>n.</i> (See [bull](../B#bull))
+ <i>n.</i> (See [bull](bri-byo.md#bull))
 
 ### half a caser
  
- <i>n.</i> (See [half-caser](../H#half-caser))
+ <i>n.</i> (See [half-caser](h-hea.md#half-caser))
 
 ### half a dollar
  
- <i>n.</i> [(obs.)] (See [half-dollar](../H#half-dollar))
+ <i>n.</i> [(obs.)] (See [half-dollar](h-hea.md#half-dollar))
 
 >  Now, to become a member of the League the sum of 2s 6d has to be planked down, and as quite a number of ardent Chow-haters have `come to light' with their `half-dollars,' it would be interesting to know from Mr. Cameron himself where the money goes. <i>(Aug 15, 1908,NZ Truth,165/4/6</i>)
 
@@ -1749,7 +1749,7 @@
 
 ### half-day dog
  
-<b>1</b> <i>n.</i> (Rural) a sheepdog that does not last at work. (See [sooner](../S#sooner))
+<b>1</b> <i>n.</i> (Rural) a sheepdog that does not last at work. (See [sooner](sho-spa.md#sooner))
 
 >  Some of them [sheepdogs] are half-day dogs; few of them can see out a full day. <i>(1907,NZ Farmer,209</i>)
 
@@ -2062,7 +2062,7 @@
 
 ### half-tiz
  
- <i>n.</i> threepence (See [tizzie](../T#tizzie))
+ <i>n.</i> threepence (See [tizzie](ten-tot.md#tizzie))
 
 >  Following are other local money-names...3d. - thrum, half-tiz, tray or tray-piece... <i>(Jan 14, 1899,Sydney Bulletin,(Red Page)</i>) [NOTES: (Letter from Loafer, Tauranga) [Bill Pearson]]
 
@@ -2341,7 +2341,7 @@
 
 ### hammerhead shark
  
- <i>n.</i> a type of shark with a head that resembles a double-headed hammer; also called mangopare, see shark, hammerhead. [also as hammer-headed shark] (See [shark](../S#shark))
+ <i>n.</i> a type of shark with a head that resembles a double-headed hammer; also called mangopare, see shark, hammerhead. [also as hammer-headed shark] (See [shark](sa-sho.md#shark))
 
 >  NOW ON EXHiBiTiON <i>AT THE</i> OCCiDENTAL HOTEL ..The Hammer-headed Shark, the Porcupine Fish ... <i>(Jul 23, 1872,Daily Southern Cross,1</i>) [NOTES: Advert]
 
@@ -2441,7 +2441,7 @@
 
 
  
- <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](../A#also-top-hand-(sc.-a-sawyer).-1.-(mainly-pl)-also),[bush hand](../B#bush-hand),[old hand](../O#old-hand),[station hand](../S#station-hand))
+ <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](../A#also-top-hand-(sc.-a-sawyer).-1.-(mainly-pl)-also),[bush hand](bri-byo.md#bush-hand),[old hand](o-on.md#old-hand),[station hand](spa-sys.md#station-hand))
 
 >  TO CARPENTERS & JOiNERS WANTED, TWO GOOD HANDS in the above line. <i>(Feb 22, 1851,Lyttelton Times,1</i>)
 
@@ -2473,7 +2473,7 @@
 
 ### hand shearing
  
-<b>1</b> <i>n.</i> (Rural) the shearing of sheep with blades rather than machines. (See [hand-shearer](../H#hand-shearer),[handshears](../H#handshears))
+<b>1</b> <i>n.</i> (Rural) the shearing of sheep with blades rather than machines. (See [hand-shearer](h-hea.md#hand-shearer),[handshears](../H#handshears))
 
 >  <b>MACiNTOSH</b> All agreed it [the shearing machine] was much better than hand shearing. <i>(1975,History of Fortrose, A,87</i>)
 
@@ -2755,7 +2755,7 @@
 
 ### handy paddock
  
-<b>1</b> <i>n.</i> (Rural) a fenced area close to a woolshed, cowshed, stable or homestead where stock can receive ready attention. (See [safe paddock](../S#safe-paddock))
+<b>1</b> <i>n.</i> (Rural) a fenced area close to a woolshed, cowshed, stable or homestead where stock can receive ready attention. (See [safe paddock](sa-sho.md#safe-paddock))
 
 >  Cows about to calve should be brought into a handy paddock so that they can be kept under supervision. <i>(Jul 1959,NZ Journal of Agriculture,26</i>)
 
@@ -2765,7 +2765,7 @@
 
 ### handy/handy dog
  
-<b>1</b> <i>n.</i> (Rural) a cross between a hunting, heading and perhaps a backing dog in its functions. (See [shandygaff](../S#shandygaff))
+<b>1</b> <i>n.</i> (Rural) a cross between a hunting, heading and perhaps a backing dog in its functions. (See [shandygaff](sa-sho.md#shandygaff))
 
 >  <b>LOUGHNAN</b> Handy dog: one which will head and pull, or hunt away and slew, or can be run out to a strategic spot and bark up. <i>(1981,Loughnan Glossary,39</i>)
 
@@ -3392,7 +3392,7 @@
 
 ### hapu hui
  
- <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [hui-a-hapu](../H#hui-a-hapu))
+ <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [hui-a-hapu](hom-hyp.md#hui-a-hapu))
 
 >  Each hapu hui will be held separately at the same time at Puiwairua Marae on Sunday, May 6, 2007 at 10 am. <i>(Apr 20, 2007,Whakatane Beacon,25</i>)
 
@@ -4037,7 +4037,7 @@
 
 ### hard grafter
  
- <i>n.</i> (See [grafter](../G#grafter))
+ <i>n.</i> (See [grafter](go-gra.md#grafter))
 
 >  He was a hard grafter, was Murray .... <i>(Jun 24, 1905,NZ Truth</i>)
 
@@ -4045,7 +4045,7 @@
 
 ### hard grazing
  
-<b>1</b> <i>n.</i> (Rural) a heavy or complete grazing of pasture to stimulate sward growth. (See [hard-graze](../H#hard-graze),[hard-grazed](../H#hard-grazed))
+<b>1</b> <i>n.</i> (Rural) a heavy or complete grazing of pasture to stimulate sward growth. (See [hard-graze](h-hea.md#hard-graze),[hard-grazed](h-hea.md#hard-grazed))
 
 >  <b>CONNELL & HADFiELD</b> After hard grazing in the spring, a fresh supply of clover may be sod-seeded along with phosphatic fertiliser. <i>(1961,Agriculture,315</i>)
 
@@ -4203,7 +4203,7 @@
 
 ### hard yacker/hard yakker
  
- <i>n.</i> hard work; toil, graft (See [yacker/yakker](../Y#yacker/yakker))
+ <i>n.</i> hard work; toil, graft (See [yacker/yakker](y-yc.md#yacker/yakker))
 
 >  it would seem to be hard yacker standing for parliamentary seats if you're in there with a chance. <i>(Dec 3, 1992,Contact (Wgtn),6</i>)
 
@@ -4389,7 +4389,7 @@
 
 ### hard-stock
  
- <i>v.</i> (Rural) to mob stock an area of land, in order to make it bare of vegetation. (See [hard-graze](../H#hard-graze))
+ <i>v.</i> (Rural) to mob stock an area of land, in order to make it bare of vegetation. (See [hard-graze](h-hea.md#hard-graze))
 
 >  <b>SUTHERLAND & TAYLOR</b> This paddock had been hard-stocked to make it bare of grass. <i>(1981,Sunrise on Hikurangi,67</i>)
 
@@ -4557,11 +4557,11 @@
 
 ### harekeke
  
- <i>n.</i> (See [harakeke](../H#harakeke))
+ <i>n.</i> (See [harakeke](h-hea.md#harakeke))
 
 ### harestail
  
- <i>n.</i> (See [grass](../G#grass),[harestail](../H#harestail))
+ <i>n.</i> (See [grass](go-gra.md#grass),[harestail](h-hea.md#harestail))
 
 ### hariru
  
@@ -4620,7 +4620,7 @@
 
 ### Harpagornis
  
- <i>n.</i> the extinct giant NZ eagle (See [hokioi](../H#hokioi))
+ <i>n.</i> the extinct giant NZ eagle (See [hokioi](hea-hom.md#hokioi))
 
 >  [LABLE TO PHOTO]Guests on their way to view the ancient rock drawings of the now extinct New Zealand <i<Harpogonis moorei</i> eagle. <i>(Jul 2005,Open Space,No 64</i>)
 
@@ -4834,7 +4834,7 @@
 
 ### hash-me-gander
  
- <i>n.</i> (See [hash-me-gandy](../H#hash-me-gandy))
+ <i>n.</i> (See [hash-me-gandy](h-hea.md#hash-me-gandy))
 
 >  Monday's "Hash-me gander" was a mystery to us all. <i>(Sep 6, 1915,Stratford Evening Post,6</i>) [NOTES: From a poem about a station cook]
 
@@ -5473,7 +5473,7 @@
 
 ### have a cramp in one's kick
  
- <i>phr.</i> to be short of money (in the pocket) (See [kick](../K#kick))
+ <i>phr.</i> to be short of money (in the pocket) (See [kick](kee-kiw.md#kick))
 
 >  <b>WHiTWORTH</b> i was down there with Old Ashmore's lot, doing the trampoline, and so on; but things was very quizby. Everything went crooked somehow, and the gorger had a hawful cramp in his kick. Well, ramp was the word, and vamose we did, the lot on us; some here, some there. i was reg'lar beached, and i tell you when a cove 'as to spout his smish it's about time to look out. However, i got a job at a livery stable, but although that kep' me in grub, and i slep' in a spare stall, the billet was very multy, and i kep' on the kivvy for something better. [fn] 1. [trampoline] Vaulter. 2. [quizby] Bad. 3. [crooked] Wrong. 4. [cramp in his kick] Emptiness in his pockets. 5. [ramp] Clear out. 6. [vamose] Go. 7. [beached] Hard up. 8. [smish] Shirt. 9. [multy] No good. 10. [kivvy] Look out (qui vive.) <i>(1879,Spangles and Sawdust,5</i>)
 
@@ -5803,7 +5803,7 @@
 
 
  
-<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](../N#new-zealand-falcon))
+<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](new-no.md#new-zealand-falcon))
 
 >  <b>BULLER</b> HiERACiDEA BRUNNEA \{HARPA FEROX\}. (BUSH-HAWK.) ... <i>Native names</i>. Karearea, Kaiaia, Kaeaea, Kakarapiti, Karewarewa, and Tawaka; but sometimes distinguished as Karewarewa-tara. `Sparrow-Hawk' of the colonists. <i>ibid.</i> 1/222 The continuous screaming of the Bush-Hawk is understood by the natives to be a sure indication of change. <i>(1873,Birds of New Zealand,6,{1888 2nd edn 1/220} ed.</i>)
 
@@ -5830,7 +5830,7 @@
 
 
  
-<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](../N#new-zealand-falcon))
+<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](new-no.md#new-zealand-falcon))
 
 >  ... shot 3 wekas and 13 rabbits and one quail hawk - <i>(Jul 10, 1867,Journal,108</i>) [NOTES: 1867 July 10 Phillips Point Journal [TS] 108]
 

@@ -389,7 +389,7 @@
 
 ### oats track
  
- <i>n.</i> (See [oats meeting](../O#oats-meeting))
+ <i>n.</i> (See [oats meeting](o-on.md#oats-meeting))
 
 >  When the harvest is over.. then theMaoris hold their "oats" meeting.. aroundthe grey stubble of the harvestedfield... From the scum of an Englishracecourse they [sc. pakeha jockeys] haverisen to the proud authority of a Maori"oats" track... The entry - a bag of oats- is to be paid before starting. <i>(Jan 23, 1896,Otago Witness,42</i>)
 
@@ -435,7 +435,7 @@
 
 ### ocean trout
  
- <i>n.</i> kahawai (See [trout](../T#trout))
+ <i>n.</i> kahawai (See [trout](tot-tyr.md#trout))
 
 >  <b>SORENSON</b> <i>KAHAWAI </i>(a) Scientific name: <i>Arripis trutta.</i> (b) Suggested commercial name[s]: Ocean Trout (canned). (c) Other common names: Kahawai; Kopapa (juveniles). (d) Principal localities where taken: Bay of Plenty, Gisborne, Nelson. <i>(1970,Nomenclature of NZ Fish,30</i>)
 
@@ -648,7 +648,7 @@
 
 ### Oddity, the
  
- <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See [ODT](../O#odt))
+ <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See [ODT](o-on.md#odt))
 
 >  Which New Zealand newspaper has the nickname "the oddity"? <i>(Jan 11, 1999,Dominion,9</i>) [NOTES: -]
 
@@ -684,7 +684,7 @@
 
 ### OE
  
- <i>n.</i> overseas experience [ORIGIN: initialism] (See [big OE](../B#big-oe))
+ <i>n.</i> overseas experience [ORIGIN: initialism] (See [big OE](b-bla.md#big-oe))
 
 >  Like <i>The Book of Fame</i>, then, this novel depicts the compulsion of OE. <i>(Mar 16, 2002,Listener (New Zealand Listener),59</i>)
 
@@ -856,7 +856,7 @@
 
 ### off the shears
  
-<b>1</b> <i>phr.</i> (Rural) [sheep] newly shorn. (See [off the blades](../O#off-the-blades))
+<b>1</b> <i>phr.</i> (Rural) [sheep] newly shorn. (See [off the blades](o-on.md#off-the-blades))
 
 >  Now, any practical man holding such country would naturally like to have the option of dipping these dry sheep off the shears and be done with them until the following shearing. <i>(Jun 1898,NZ Farmer,201</i>)
 
@@ -1092,7 +1092,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [slushy](../S#slushy))
+<b>2</b> <i>n.</i> (See [slushy](sho-spa.md#slushy))
 
 >  <b>SMYTH</b> The Maori boy who acted as the cook's `offsider'. <i>(1929,Girl from Mason Creek, The,206</i>)
 
@@ -1320,7 +1320,7 @@
 
 ### oia
  
- <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
+ <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](bri-byo.md#butterfly-perch))
 
 >  <b>PHILLIPPS</b> <i>Caesioperca lepidoptera</i> (Forster). RED PERCH; OIA. <i>(1927,Bibliography of NZ Fishes,33,1971 ed.</i>)
 
@@ -1501,7 +1501,7 @@
 
 ### oilskin man
  
-<b>1</b> <i>n.</i> (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep. (See [coat-flapper](../C#coat-flapper))
+<b>1</b> <i>n.</i> (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep. (See [coat-flapper](chi-con.md#coat-flapper))
 
 >  <b>SINCLAIR</b> He was one of the greatest oilskin men I have ever seen. He would unfasten his faithful Leroy, then, waving it around his head, he would dash frantically into the middle of the mob like a whirling dervish. <i>(1973,Boot in the Stirrup,11</i>)
 
@@ -1546,7 +1546,7 @@
 
 ### oka
  
- <i>n.</i> (See [oca](../O#oca))
+ <i>n.</i> (See [oca](o-on.md#oca))
 
 ### okarari
  
@@ -1789,7 +1789,7 @@
 
 ### old dig
  
- <i>n.</i> old soldier (See [dig](../D#dig))
+ <i>n.</i> old soldier (See [dig](dig-dou.md#dig))
 
 >  There'd be too many old digs wanting it on the house. <i>(Jun 5, 1944,NZEF Times,III/154 : 4</i>)
 
@@ -2110,7 +2110,7 @@
 
 
  
- <i>adj.</i> (Rural) [of plants and other aspects of nature] large with an impact. (See [old man gorse](../O#old-man-gorse))
+ <i>adj.</i> (Rural) [of plants and other aspects of nature] large with an impact. (See [old man gorse](o-on.md#old-man-gorse))
 
 >  <b>MCGILL</b> old man: a rural object of striking or large appearance; eg old man paddock or old man rock. <i>(1988,Dictionary of Kiwi Slang, A,79</i>)
 
@@ -2141,7 +2141,7 @@
 
 ### old man couch
  
- <i>n.</i> [x reffed at GRASS cf also OLD MAN TWITCH] (See [couch](../C#couch))
+ <i>n.</i> [x reffed at GRASS cf also OLD MAN TWITCH] (See [couch](con-cyp.md#couch))
 
 >  <b>HILGENDROF</b> TWITCH (<i>Agropyron repens</i>) is sometimes called couch, and [also] blue, English, white, or old man, twitches or couch. It is one of the worst twitch of arable land and gardens. <i>(1926,Weeds of New Zealand,49,1967 ed.</i>)
 
@@ -2217,7 +2217,7 @@
 
 ### old man snapper
  
- <i>n.</i> [[used with fish freq.]] (See [snapper](../S#snapper))
+ <i>n.</i> [[used with fish freq.]] (See [snapper](sho-spa.md#snapper))
 
 >  Calculus is a fine upstanding son of Trenton and Rosemary, with the most pronounced Roman nose I have ever seen an animal display; in fact it forcibly put me in mind of an old man schnapper. <i>(Oct 27, 1892,Otago Witness,28</i>)
 
@@ -2229,7 +2229,7 @@
 
 ### old man twitch
  
- <i>n.</i> [x-reffed GRASS]] (See [old man couch](../O#old-man-couch))
+ <i>n.</i> [x-reffed GRASS]] (See [old man couch](o-on.md#old-man-couch))
 
 >  <b>HILGENDORF</b> TWITCH (<i>Agropyron repens</i>) is sometimes called couch, and [also] blue, English, white, or old man, twitches or couch. It is one of the worst twitch of arable land and gardens. <i>(1926,Weeds of New Zealand,49,1967 ed.</i>)
 
@@ -2298,11 +2298,11 @@
 
 ### old man's whiskers
  
- <i>n.</i> (See [old man's beard](../O#old-man's-beard))
+ <i>n.</i> (See [old man's beard](o-on.md#old-man's-beard))
 
 ### old Maori's beard
  
- <i>n.</i> (See [old man's beard](../O#old-man's-beard),[a lichen](../A#a-lichen))
+ <i>n.</i> (See [old man's beard](o-on.md#old-man's-beard),[a lichen](../A#a-lichen))
 
 >  <b>WILLIAMS</b> [when the rimu] tree becomes old these splendid leafs [sic] become smaller and grow in tufts... giving it the appearance of being dead, or `covered with old Mauries beards' rather than natural leafs. [Editor's Note 10,p. 117 says: usually [sic] known as Old Man's Beard, a lichen(Usnea). <i>(1844,Journal,104</i>)
 
@@ -2732,7 +2732,7 @@
 
 ### on aroha
  
- <i>phr.</i> (See [aroha job](../A#aroha-job))
+ <i>phr.</i> (See [aroha job](ari-axe.md#aroha-job))
 
 >  He said the school's principal and her daughter were still teaching at the school, currently "on aroha", though the trust was working on getting money to pay teachers... <i>(2005,NZ Education Review,/2,31 mar- 06 Apr ed.</i>)
 
@@ -2865,7 +2865,7 @@
 
 ### on one's lonely
  
- <i>n.</i> (See [cf. on one's pat](../O#on-one's-pat))
+ <i>n.</i> (See [cf. on one's pat](o-on.md#on-one's-pat))
 
 >  <b>MANSFIELD</b> `You bet we are [going to stop]', said Jo. `So you're on your lonely, missis?' <i>(1912,Stories,111,1984 Alpers ed.</i>)
 

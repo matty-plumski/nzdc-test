@@ -12,7 +12,7 @@
 
 ### popero
  
- <i>n.</i> (See [poporo](../P#poporo))
+ <i>n.</i> (See [poporo](pop-pyo.md#poporo))
 
 ### popgun
  
@@ -22,7 +22,7 @@
 
 ### popihui
  
- <i>n.</i> erron. for popohui? (See [popohui](../P#popohui))
+ <i>n.</i> erron. for popohui? (See [popohui](pop-pyo.md#popohui))
 
 >  <b>HOOKER</b> Popi-hui, <i>Hector. Libertia micrantha</i>. <i>(1867,Handbook NZ Flora (List of Names),767</i>)
 
@@ -131,7 +131,7 @@
 
 
  
-<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](../D#dunger))
+<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](dou-dyn.md#dunger))
 
 ### poppet-head
  
@@ -400,7 +400,7 @@
 
 ### porbeagle
  
- <i>n.</i> (See [also shark](../A#also-shark),[porbeagle](../P#porbeagle))
+ <i>n.</i> (See [also shark](../A#also-shark),[porbeagle](pop-pyo.md#porbeagle))
 
 >  <b>RUHEN</b> He was so old a tiger that his stripes had faded, and his colour was aS even as a porbeagle's. <i>(1964,Lively Ghosts,38</i>)
 
@@ -611,7 +611,7 @@
 
 ### porina moth
  
- <i>n.</i> (See [porina](../P#porina))
+ <i>n.</i> (See [porina](pop-pyo.md#porina))
 
 >  <b>GILLESPIE</b> The ones attracting most attention were the owlet moths, the caterpillars of which destroyed the first pastures and cereal and root crops. There were also porina moths (<i>Oxycanus spp.</i>) whose caterpillars also destroyed pastures; the bag moth (<i>Oeceticus omnivorus</i>) which left cigar-shaped cocoons hanging from shrubs and tree [sic]; and the ghost-like white moth ... of the flax grub (<i>Orthoclydon praefectata</i>) which eats longitudinal slits on the surface of [flax] leaves ... <i>(1958,South Canterbury,10,1970 ed.</i>)
 
@@ -692,7 +692,7 @@
 
 ### pork and puha
  
- <i>phr.</i> perceived as a favourite food of Maori and used almost as a catchphrase, with variants, occas. jocular such as <i>Pakeha and puha</i> (See [puha](../P#puha))
+ <i>phr.</i> perceived as a favourite food of Maori and used almost as a catchphrase, with variants, occas. jocular such as <i>Pakeha and puha</i> (See [puha](pop-pyo.md#puha))
 
 >  Our pork and puha boil-up is almost in this category. <i>(Jun 8, 1992,Listener (New Zealand Listener),23</i>)
 
@@ -726,7 +726,7 @@
 
 ### pork sword
  
- <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](../M#mutton-dagger))
+ <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](mob-mys.md#mutton-dagger))
 
 >  <b>McGILL</b> <i>pork sword</i> penis; eg `Exercise the old pork sword last night, did you, Batesy?' NZA and US. <i>(1988,Dictionary of Kiwi Slang, A,87</i>)
 
@@ -1119,7 +1119,7 @@
 
 
  
- <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](../P#port-sammy))
+ <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](pop-pyo.md#port-sammy))
 
 >  Pack your `ports' and hurry up. <i>(Oct 7, 1905,NZ Truth,16/7/2</i>)
 
@@ -1725,7 +1725,7 @@
 
 
  
- <i>n.</i> (Rural) a fence composed of posts and rails morticed together [often used in horse-grazing country.] [posts and rails Also elsewhere; aka post and rails; note also posts and rails usually in reference to components of fence rather than the fence; includes attributive use] (See [posts and rails](../P#posts-and-rails))
+ <i>n.</i> (Rural) a fence composed of posts and rails morticed together [often used in horse-grazing country.] [posts and rails Also elsewhere; aka post and rails; note also posts and rails usually in reference to components of fence rather than the fence; includes attributive use] (See [posts and rails](pop-pyo.md#posts-and-rails))
 
 >  The land run over was in grass, with post-and-rail fences, and banks with double ditches and walls, altogether a "stiffer" country than has hitherto been attempted. <i>(Nov 4, 1865,Daily Southern Cross,6</i>)
 
@@ -1840,7 +1840,7 @@
 
 ### post rammer
  
- <i>n.</i> tool for compacting earth around a post [-] (See [rammer](../R#rammer))
+ <i>n.</i> tool for compacting earth around a post [-] (See [rammer](ra-red.md#rammer))
 
 >  Post rammer, four way tilt, collapsible mast, rock spike, had little work, $10,500 + GST <i>(Nov 29, 2003,Hawke's Bay Today,C15</i>)
 
@@ -1956,7 +1956,7 @@
 
 ### post-weaning multi-systemic wasting syndrome
  
- <i>phr.</i> a fatal disease of young pigs (See [PMWS](../P#pmws))
+ <i>phr.</i> a fatal disease of young pigs (See [PMWS](per-pop.md#pmws))
 
 >  Post-weaning multisystemic wasting syndrome was found on a Waikato farm in September and has since spread to two other farms. It causes severe wasting in pigs of six to 12 weeks old and is almost always fatal. <i>(Nov 20, 2003,Dominion Post,A7</i>)
 
@@ -2398,7 +2398,7 @@
 
 
  
-<b>5</b> <i>n.</i> (See [rua](../R#rua))
+<b>5</b> <i>n.</i> (See [rua](roa-ruv.md#rua))
 
 
 
@@ -2417,7 +2417,7 @@
 
 ### potato axe
  
- <i>n.</i> (See [bittock](../B#bittock))
+ <i>n.</i> (See [bittock](b-bla.md#bittock))
 
 ### potato berry
  
@@ -2574,7 +2574,7 @@
 
 ### potikawa
  
- <i>n.</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 ### potiki
  
@@ -2685,7 +2685,7 @@
 
 ### pou te cowa
  
- <i>n.</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 ### poua
  
@@ -2754,7 +2754,7 @@
 
 ### poukatea
  
- <i>n.</i> (See [pukatea](../P#pukatea))
+ <i>n.</i> (See [pukatea](pop-pyo.md#pukatea))
 
 ### poultice
  
@@ -2963,7 +2963,7 @@
 
 ### poupou
  
- <i>n.</i> (See [pou](../P#pou))
+ <i>n.</i> (See [pou](pop-pyo.md#pou))
 
 >  <b>ALEXANDER</b> Seeing that poupou and tukutuku are thetraditional means of decorating, I havetaken it that both must be employed .. The poupou in the Maori whare actually supported the roof. <i>(1951,Story of Te Aute, The,205</i>)
 
@@ -3060,7 +3060,7 @@
 
 ### pouriedie
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### poutama
  
@@ -3070,7 +3070,7 @@
 
 ### poutu kaua
  
- <i>n.</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 ### pouwaka
  
@@ -3128,11 +3128,11 @@
 
 ### powa takawa
  
- <i>n.</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 ### powaitere
  
- <i>n.</i> (See [powhaitere](../P#powhaitere))
+ <i>n.</i> (See [powhaitere](pop-pyo.md#powhaitere))
 
 ### powder
  
@@ -3305,7 +3305,7 @@
 
 ### powhytarnee
  
- <i>n.</i> (See [powhaitere](../P#powhaitere))
+ <i>n.</i> (See [powhaitere](pop-pyo.md#powhaitere))
 
 ### poz
  
@@ -3420,7 +3420,7 @@
 
 ### prairie grass
  
- <i>n.</i> prairie grass introduced from eastern South America. ... (See [grass](../G#grass))
+ <i>n.</i> prairie grass introduced from eastern South America. ... (See [grass](go-gra.md#grass))
 
 ### prat
  
@@ -3851,11 +3851,11 @@
 
 ### prejaganate
  
- <i>v.</i> (See [projagenate](../P#projagenate))
+ <i>v.</i> (See [projagenate](pop-pyo.md#projagenate))
 
 ### prejaganint
  
- <i>n.</i> (See [projagenent](../P#projagenent))
+ <i>n.</i> (See [projagenent](pop-pyo.md#projagenent))
 
 ### preliminary
  
@@ -4877,7 +4877,7 @@
 
 ### prison camp
  
- <i>n.</i> (historical) a low security prison [Jim writes: a historical form of penal institution in NZ. The first prison camp was at Milford Sound in the 1890s; subsequently there were <i>tree-planting camps</i> in the North and South Island. See annual reports in AJHR series H-20. Prison camp may be an international term in this sense as well as in relation to war prisoners. NZOD defines it ambiguously as a camp for detaining prisoners of war <i>or of the State</i>.] (See [prison farm](../P#prison-farm))
+ <i>n.</i> (historical) a low security prison [Jim writes: a historical form of penal institution in NZ. The first prison camp was at Milford Sound in the 1890s; subsequently there were <i>tree-planting camps</i> in the North and South Island. See annual reports in AJHR series H-20. Prison camp may be an international term in this sense as well as in relation to war prisoners. NZOD defines it ambiguously as a camp for detaining prisoners of war <i>or of the State</i>.] (See [prison farm](pop-pyo.md#prison-farm))
 
 >  The prison camps at Hanmer, Waipa and Waiotapu are doing excellent work. <i>Ibid.</i> 16 Seven prisoners were transferred during the year,1 to the prison camp for first offenders at Waipa. <i>(1912,AJHR,IV/H-20: 7</i>)
 
@@ -5037,7 +5037,7 @@
 
 ### pro
  
- <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](../P#pro-order))
+ <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](pop-pyo.md#pro-order))
 
 >  <b>DAVIN</b> Nellie, you should have him pro'd. The magistrate'd give you the order all right and not a publican ... would dare serve him a drop. <i>(1949,Roads from Home,12</i>)
 
@@ -5299,7 +5299,7 @@
 
 ### proficiency certificate
  
- (see also proficiency examination, proficiency exam, proficiency) <i>n.</i> (See [proficiency examination](../P#proficiency-examination),[proficiency](../P#proficiency))
+ (see also proficiency examination, proficiency exam, proficiency) <i>n.</i> (See [proficiency examination](pop-pyo.md#proficiency-examination),[proficiency](pop-pyo.md#proficiency))
 
 >  It was resolved that every member endeavor to urge upon parents having children with the proficiency certificate to enrol them. <i>(Apr 20, 1910,Hawera & Normanby Star,8</i>)
 
@@ -5583,7 +5583,7 @@
 
 
  
- <i>n.</i> a nickname for the Australian supporters of a pastoralist or sheepfarming regime in early Canterbury settlement as against those (mainly newly-arrived English 'Pilgrim' settlers who looked rather towards agricultural small-farming (See [Pilgrim](../P#pilgrim),[shagroon](../S#shagroon))
+ <i>n.</i> a nickname for the Australian supporters of a pastoralist or sheepfarming regime in early Canterbury settlement as against those (mainly newly-arrived English 'Pilgrim' settlers who looked rather towards agricultural small-farming (See [Pilgrim](per-pop.md#pilgrim),[shagroon](sa-sho.md#shagroon))
 
 
 
@@ -6509,7 +6509,7 @@
 
 ### psychedelic yawn
  
- <i>n.</i> an act of vomiting (See [cf. technicolour yawn](../T#technicolour-yawn))
+ <i>n.</i> an act of vomiting (See [cf. technicolour yawn](t-ten.md#technicolour-yawn))
 
 >  And while this was going on, what was the lolly tosser doing? ... maybe she was just looking for somewhere to dematerialise as her company had done the minute they saw the beginnings of a very long and loud psychedelic yawn. <i>(Jun 1988,Metro,27</i>)
 
@@ -6670,7 +6670,7 @@
 
 ### pub-stiff
  
- <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](../D#dropper))
+ <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](dou-dyn.md#dropper))
 
 >  <b>SARGESON</b> The pub-stiff that was on the door told us to go upstairs. <i>(1946,That Summer,63</i>)
 
@@ -6720,7 +6720,7 @@
 
 ### public estate
  
- <i>n.</i> (See [cf. public domain](../P#public-domain))
+ <i>n.</i> (See [cf. public domain](pop-pyo.md#public-domain))
 
 >  ...private property rights should override the public's rights to enjoy freshwater fisheries and wildlife - "part of the public estate to which the general public should be able to expect fair and reasonable access". <i>(Nov 27, 2004,Dominion Post,A9</i>)
 
@@ -6978,7 +6978,7 @@
 
 ### puckaroo
  
- <i>adj.</i> (See [pakaru](../P#pakaru))
+ <i>adj.</i> (See [pakaru](p-per.md#pakaru))
 
 ### puckarooed
  
@@ -7019,7 +7019,7 @@
 
 ### puckerooed
  
- <i>adj.</i> broken, ruined; exhausted [also puckeroo'd] (See [puckeroo](../P#puckeroo))
+ <i>adj.</i> broken, ruined; exhausted [also puckeroo'd] (See [puckeroo](pop-pyo.md#puckeroo))
 
 >  `Before long he was fair-dinkum bushed. He had a compass ... but it was puckeroo'd. Well, he decided it was a dead loss ...' <i>(Apr 19, 1971,Listener (New Zealand Listener),56</i>)
 
@@ -7039,7 +7039,7 @@
 
 ### pudding-stone
  
- <i>n.</i> (See [cf. Moeraki Boulders](../M#moeraki-boulders))
+ <i>n.</i> (See [cf. Moeraki Boulders](mob-mys.md#moeraki-boulders))
 
 >  <b>WILLIAMS</b> We walked on to the top of the bank towards the sea about a mile [near Thames], but soon got off the good land, and passed over an entire bed of pudding-stones from 10 to 50 lb. weight. <i>Ibid.</i> 342 The low land did not exceed a quarter of a mile, when we came to rising ground, covered with Kaikatoa - very ordinary. <i>(Nov 7, 1833,Early Journals of Henry Williams, The,341,1961 ed.</i>)
 
@@ -7129,7 +7129,7 @@
 
 ### pudidi
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### pueto
  
@@ -7547,7 +7547,7 @@
 
 ### puhaiwhakarua
  
- <i>n.</i> (See [puwaiwhakarua](../P#puwaiwhakarua))
+ <i>n.</i> (See [puwaiwhakarua](pop-pyo.md#puwaiwhakarua))
 
 ### puhaologist
  
@@ -7575,7 +7575,7 @@
 
 ### puharitaiko
  
- <i>n.</i> (See [puwharetaiko](../P#puwharetaiko))
+ <i>n.</i> (See [puwharetaiko](pop-pyo.md#puwharetaiko))
 
 >  <b>COWAN</b> One of these [curious plants of Stewart Island] is the <i>puharitaiko</i> (senecio rotundifolius) with large glossy-green leathery leaves, on which messages can be written in ink. These leaves could be stamped and sent through the post-office a few years ago, but the practice is now interdicted. <i>(1926,Travel in NZ,Vol II South Island/ 169</i>)
 
@@ -7634,7 +7634,7 @@
 
 ### puhia
  
- <i>n.</i> (See [puia](../P#puia))
+ <i>n.</i> (See [puia](pop-pyo.md#puia))
 
 ### puhihi
  
@@ -7664,7 +7664,7 @@
 
 ### Puhoi
  
- <i>n.</i> (See [boohai](../B#boohai))
+ <i>n.</i> (See [boohai](bla-bri.md#boohai))
 
 ### puhou
  
@@ -7721,7 +7721,7 @@
 
 ### puikero
  
- <i>n.</i> (See [pakaru](../P#pakaru))
+ <i>n.</i> (See [pakaru](p-per.md#pakaru))
 
 ### puk
  
@@ -7941,7 +7941,7 @@
 
 ### pukako
  
- <i>n.</i> [no citations] (See [pukeko](../P#pukeko))
+ <i>n.</i> [no citations] (See [pukeko](pop-pyo.md#pukeko))
 
 ### pukana
  
@@ -7983,7 +7983,7 @@
 
 ### pukana-style
  
- <i>adv.</i> like a tongue poking out (See [pukana](../P#pukana))
+ <i>adv.</i> like a tongue poking out (See [pukana](pop-pyo.md#pukana))
 
 >  Mr Harawira said he had worn his tie pukana-style when he was at St Stephen's Maori boys school in Auckland in 1970. <i>(Dec 12, 2005,Dominion Post,A2</i>)
 
@@ -8197,7 +8197,7 @@
 
 ### pukau
  
- <i>n.</i> (See [pukahu](../P#pukahu))
+ <i>n.</i> (See [pukahu](pop-pyo.md#pukahu))
 
 >  The peat is called boo cow by the Europeans, probably being pukau in Maori. <i>(Oct 30, 1901,Taranaki Herald,1</i>)
 
@@ -8418,7 +8418,7 @@
 
 ### pukeroo
  
- <i>v.</i> (See [pakaru](../P#pakaru))
+ <i>v.</i> (See [pakaru](p-per.md#pakaru))
 
 >  "If you no bring him, I make-a te <i>pukeroo</i> you!" <i>(Apr 15, 1931,Aussie (NZ Section),XI</i>)
 
@@ -8426,11 +8426,11 @@
 
 ### pukeru
  
- <i>n.</i> (See [pakaru](../P#pakaru))
+ <i>n.</i> (See [pakaru](p-per.md#pakaru))
 
 ### puketea
  
- <i>n.</i> (See [pukatea](../P#pukatea))
+ <i>n.</i> (See [pukatea](pop-pyo.md#pukatea))
 
 ### Pukewilliam
  
@@ -8440,7 +8440,7 @@
 
 ### pukkaroo
  
- <i>n.</i> (See [pakaru](../P#pakaru))
+ <i>n.</i> (See [pakaru](p-per.md#pakaru))
 
 ### puku
  
@@ -8527,7 +8527,7 @@
 
 ### pukunui
  
- <i>n.</i> a fat stomach, pot belly; also used as a nickname. [ORIGIN: Maori] (See [puku](../P#puku))
+ <i>n.</i> a fat stomach, pot belly; also used as a nickname. [ORIGIN: Maori] (See [puku](pop-pyo.md#puku))
 
 >  <b>POWER</b> [Maoris' nicknames for the pakehas in Power's party] A stalwart officer of the grenadiers, for instance, is generally known as Puku-nui, or Big-belly; an artillery officer is Biggy-bung; one wearing spectacles is Four-eyes, or No-eyes. <i>(Jan 30, 1848,Sketches in NZ,159,1849 ed.</i>)
 
@@ -8712,7 +8712,7 @@
 
 ### pull out
  
- <i>v.</i> (Rural) to draft or to separate. (See [run off](../R#run-off))
+ <i>v.</i> (Rural) to draft or to separate. (See [run off](roa-ruv.md#run-off))
 
 >  <b>MOWAT</b> Pulled woollies out at Red Gate. <i>(Feb 19, 1908,Alexander Mowat Diaries</i>)
 
@@ -9097,7 +9097,7 @@
 
 ### puna-weta
  
- <i>n.</i> (See [putaputaweta](../P#putaputaweta))
+ <i>n.</i> (See [putaputaweta](pop-pyo.md#putaputaweta))
 
 >  <b>LAING & BLACKWELL</b> <i>Carpodetus serratus (The Serrate Carpodetus).</i>.. The native name <i>Puta-puta-weta</i> signifies full of weta holes. In the North Island trees of this species are rarely cut down unperforated by longitudinal insect galleries. Another name by which it is known is <i>Puna-weta</i>. In the Urewera country it is called <i>Kai-weta</i> (i.e., weta food). [That ugly innocent the weta (<i>Deinacrida</i>) has thus been accused of perforating the tree; but as a matter of fact though often used as convenient residences [195] by the weta, the holes are made by the caterpillar of the large moth <i>Hepialus virescens</i> ...] <i>(1907,Plants of NZ,188,1940 p. 194 ed.</i>)
 
@@ -9140,7 +9140,7 @@
 
 
  
- <i>v.</i> sc. briskets (See [cf. puncher](../P#puncher))
+ <i>v.</i> sc. briskets (See [cf. puncher](pop-pyo.md#puncher))
 
 >  <b>SLATTER</b> Lambs hooked on to the chain and progressing slowly along while the row of men standing alongside slash and tear and nick with knives while others punch briskets or pull the skins from the swinging carcases. <i>(1959,Gun in My Hand, A,67</i>)
 
@@ -9256,7 +9256,7 @@
 
 
  
- <i>n.</i> a common misspelling of ponga (See [ponga](../P#ponga))
+ <i>n.</i> a common misspelling of ponga (See [ponga](per-pop.md#ponga))
 
 >  .. by the felling and uprooting of a punga tree, they accidentally came across the leader referred to. <i>(Jul 29, 1868,Daily Southern Cross,2</i>)
 
@@ -9304,7 +9304,7 @@
 
 ### punga whare
  
- <i>n.</i> (See [punga](../P#punga))
+ <i>n.</i> (See [punga](pop-pyo.md#punga))
 
 >  Mr. F. A. Bremer said he had known Mr. Pearce in the days when the latter lived in a tent and a punga whare. <i>(Oct 31, 1908,Hawera & Normanby Star,5</i>)
 
@@ -9612,7 +9612,7 @@
 
 ### purapura
  
- <i>n.</i> (See [poroporo](../P#poroporo))
+ <i>n.</i> (See [poroporo](pop-pyo.md#poroporo))
 
 ### purapura whetu
  
@@ -9670,7 +9670,7 @@
 
 ### puredi
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### purei
  
@@ -9708,7 +9708,7 @@
 
 ### puridi
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### puriri
  
@@ -9971,7 +9971,7 @@
 
 ### purple heron
  
- <i>n.</i> (See [blue heron](../B#blue-heron))
+ <i>n.</i> (See [blue heron](bla-bri.md#blue-heron))
 
 >  <i>Ardea sacra</i>, Gml. Blue, Purple, or Reef heron, Matuku. - May be observed alighting on reefs immediately on the ebb of the tide so that the birds stand in the water. <i>(Nov 1885,NZ Journal of Science,557</i>) [NOTES: (T.H. Potts)]
 
@@ -10046,7 +10046,7 @@
 
 ### purter
  
- <i>adj.</i> anything excellent of its kind (See [cf. purler](../P#purler))
+ <i>adj.</i> anything excellent of its kind (See [cf. purler](pop-pyo.md#purler))
 
 >  <b>BAKER</b> In constant use by our youngsters ... rumptydooler, purter, [etc.] <i>(1941,NZ Slang,51</i>)
 
@@ -10750,7 +10750,7 @@
 
 ### put the set on
  
- <i>n.</i> to straighten a person up; to set a person to rights (See [set](../S#set))
+ <i>n.</i> to straighten a person up; to set a person to rights (See [set](sa-sho.md#set))
 
 >  <b>COTTLE</b> It took the parson to `put the set on him' <i>(1891,Frank Melton's Luck,147</i>) [NOTES: -]
 
@@ -10879,11 +10879,11 @@
 
 ### putakitaki
  
- <i>n.</i> (See [putangitangi](../P#putangitangi))
+ <i>n.</i> (See [putangitangi](pop-pyo.md#putangitangi))
 
 ### putangi
  
- <i>n.</i> (See [putangitangi](../P#putangitangi))
+ <i>n.</i> (See [putangitangi](pop-pyo.md#putangitangi))
 
 >  <b>HAY</b> The species we have identified in the Kaipara and Hokianga are - the Putangi, or `paradise-duck' (<i>Casarca variegata</i>); the grey duck, or Parera (<i>Anas superciliosa</i>); the brown duck, an allied species or variety of the last; the Papanga, or `teal,' or `widgeon' (<i>Fuligula N.Z.</i>), and some other varieties that may be imported birds, or crosses, or other native species. <i>(1882,Brighter Britain,2/225</i>)
 
@@ -10951,7 +10951,7 @@
 
 ### putaputa
  
- <i>n.</i> (See [putaputaweta](../P#putaputaweta),[marbleleaf](../M#marbleleaf))
+ <i>n.</i> (See [putaputaweta](pop-pyo.md#putaputaweta),[marbleleaf](../M#marbleleaf))
 
 >  <b>FEATON</b> Piripiriwhata [Maori name] .. Puta-puta [Settlers' name] .. Carpodetus serratus .. Shrub <i>(1889,Art Album NZ Flora,178</i>)
 
@@ -11019,7 +11019,7 @@
 
 ### puteketeke
  
- <i>n.</i> (See [pateketeke](../P#pateketeke))
+ <i>n.</i> (See [pateketeke](p-per.md#pateketeke))
 
 ### putiputi
  
@@ -11112,7 +11112,7 @@
 
 ### pututo
  
- <i>n.</i> (See [putoto](../P#putoto))
+ <i>n.</i> (See [putoto](pop-pyo.md#putoto))
 
 ### puukio
  
@@ -11160,7 +11160,7 @@
 
 ### puwha
  
- <i>n.</i> (See [puha](../P#puha))
+ <i>n.</i> (See [puha](pop-pyo.md#puha))
 
 >  Puwha. Sonchus oleraceus, Linn. <i>(1869,TrNZI,1/III/45</i>) [NOTES: (Buchanan Botany Otago)]
 
@@ -11172,7 +11172,7 @@
 
 ### puwhananga
  
- <i>n.</i> (See [puawananga](../P#puawananga))
+ <i>n.</i> (See [puawananga](pop-pyo.md#puawananga))
 
 >  They consist of a cluster of Erina Autumnalis and rata blossoms, shown in the art collection of the recent Industrial Exhibition; flowering manuka- a picture which gained the first prize at the Auckland Fine Arts Exhibition ; a bunch of Alpine daisies, and a group of Clematis indivita, the native name for which is Puawhananga. <i>(Feb 5, 1886,Evening Post,2</i>)
 
@@ -11190,7 +11190,7 @@
 
 ### puwharetaiko
  
- <i>n.</i> (See [puheretaiko](../P#puheretaiko))
+ <i>n.</i> (See [puheretaiko](pop-pyo.md#puheretaiko))
 
 ### PWD
  
@@ -11239,7 +11239,7 @@
 
 ### py corrie
  
- <i>exclam.</i> [.] (See [by korry/py korry](../B#by-korry/py-korry))
+ <i>exclam.</i> [.] (See [by korry/py korry](bri-byo.md#by-korry/py-korry))
 
 >  <b>JACKSON</b> `You fight Nazis, too, eh Hori?' `Py corrie, yes.' <i>(1943,Passage to Tobruk,23</i>) [NOTES: This needs checking to see if correctly under gorry or mis-copied.]
 
@@ -11255,7 +11255,7 @@
 
 ### pygmy
  
- <i>adj.</i> (See [mistletoe](../M#mistletoe),[pine](../P#pine))
+ <i>adj.</i> (See [mistletoe](mar-moa.md#mistletoe),[pine](per-pop.md#pine))
 
 ### pygmy pine
  
@@ -11319,7 +11319,7 @@
 
 ### PYO
  
- <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](../B#byo))
+ <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](bri-byo.md#byo))
 
 >  [Advt] Su's / Gardens / PYO / Tomato 50c kg / PYO. <i>(Feb 17, 2001,Hawke's Bay Today,29</i>)
 

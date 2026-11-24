@@ -8,11 +8,11 @@
 
 ### totowai
  
- <i>n.</i> (See [toutouwai](../T#toutouwai))
+ <i>n.</i> (See [toutouwai](tot-tyr.md#toutouwai))
 
 ### totoweka
  
- <i>n.</i> (See [totoeka](../T#totoeka))
+ <i>n.</i> (See [totoeka](ten-tot.md#totoeka))
 
 ### touch
  
@@ -120,7 +120,7 @@
 
 ### tough ask
  
- <i>phr.</i> (informal) [esp. sport, used globally, esp. Austral.] (See [big ask](../B#big-ask),[hard ask](../H#hard-ask))
+ <i>phr.</i> (informal) [esp. sport, used globally, esp. Austral.] (See [big ask](b-bla.md#big-ask),[hard ask](h-hea.md#hard-ask))
 
 >  She's a tough ask, selecting a national soccer team. <i>(Jan 29, 2006,Sunday (Sunday Star Times Magazine),B4</i>)
 
@@ -243,7 +243,7 @@
 
 ### toutouwai
  
- <i>n.</i> the NZ robin [ORIGIN: Maori, aka totowai] (See [bush robin](../B#bush-robin))
+ <i>n.</i> the NZ robin [ORIGIN: Maori, aka totowai] (See [bush robin](bri-byo.md#bush-robin))
 
 >  Above and to every side are riroriro (grey warbler), korimako (bellbird), tui, titipounamu (rifleman), miromiro (tomtit), kakariki (red-crowned parakeet), toutouwai (New Zealand robin) and even a pair of exquisite hihi, or stitchbird. <i>(Jan 2002,NZ Geographic,No. 55/16</i>)
 
@@ -334,7 +334,7 @@
 
 
  
- <i>n.</i> (See [toetoe](../T#toetoe))
+ <i>n.</i> (See [toetoe](ten-tot.md#toetoe))
 
 
 
@@ -431,7 +431,7 @@
 
 ### towha
  
- <i>n.</i> (See [towai](../T#towai))
+ <i>n.</i> (See [towai](tot-tyr.md#towai))
 
 ### towie
  
@@ -467,7 +467,7 @@
 
 ### towitowi
  
- <i>n.</i> toetoe [sometimes towai, towai grass] (See [toetoe](../T#toetoe))
+ <i>n.</i> toetoe [sometimes towai, towai grass] (See [toetoe](ten-tot.md#toetoe))
 
 
 
@@ -500,7 +500,7 @@
 
 ### town acre
  
- <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](../C#country-acre))
+ <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](con-cyp.md#country-acre))
 
 >  Each "land purchaser" was entitled to a "town" acre, a 50-acre section of "suburban" land, and a 150-acre "rural" section. <i>(1940,Tales of Pioneer Women,143</i>) [NOTES: Pagination from 1988 edition]
 
@@ -915,7 +915,7 @@
 
 ### town-supply
  
- <i>adj.</i> (of a farm) devoted to the production of milk for town drinking as opposed to butter and cheese production [town supply] (See [town milk](../T#town-milk))
+ <i>adj.</i> (of a farm) devoted to the production of milk for town drinking as opposed to butter and cheese production [town supply] (See [town milk](tot-tyr.md#town-milk))
 
 >  [caption] Tanker collecting milk from a town-supply farm at Te Awamutu... <i>(1974,NZ Journal of Agriculture,93</i>) [NOTES: A town-supply farmer undertakes to supply a fixed quota of milk all year round.]
 
@@ -1003,7 +1003,7 @@
 
 
  
-<b>1</b> <i>adj.</i> (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See [townie dog](../T#townie-dog))
+<b>1</b> <i>adj.</i> (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See [townie dog](tot-tyr.md#townie-dog))
 
 >  <b>STACEY</b> I could have shown my new townie friends how to skin a rabbit or an eel, clean a fish or work a dog ... <i>(1996,Tales of a Tussock Jumper,34</i>)
 
@@ -1050,7 +1050,7 @@
 
 
  
-<b>2</b> <i>n.</i> a small town,a village; occasionally in early NZ usage (or of British planners' usage) the paper or planned site for a town; but quckly developing the sense village, small town, and becoming the usual word in NZ for what in Britain (and in the usage of many early writers) would be called a village or hamlet (cp VILLAGE) [ca1960 the Main Highway signs in diminishing progression of size include: City, Borough, Township, Settlement, Settled or Populated Area, Beware Stock [check AAand/or MWD]] (See [native township](../N#native-township),[Maori township](../M#maori-township))
+<b>2</b> <i>n.</i> a small town,a village; occasionally in early NZ usage (or of British planners' usage) the paper or planned site for a town; but quckly developing the sense village, small town, and becoming the usual word in NZ for what in Britain (and in the usage of many early writers) would be called a village or hamlet (cp VILLAGE) [ca1960 the Main Highway signs in diminishing progression of size include: City, Borough, Township, Settlement, Settled or Populated Area, Beware Stock [check AAand/or MWD]] (See [native township](n-new.md#native-township),[Maori township](m-mar.md#maori-township))
 
 >  <b>COLLINS</b> <i>(1802,Account of the English Colony in NSW, An,2/7</i>)
 
@@ -1351,7 +1351,7 @@
 
 ### TrackCo
  
- <i>n.</i> (See [New Zealand Railways Corporation](../N#new-zealand-railways-corporation))
+ <i>n.</i> (See [New Zealand Railways Corporation](new-no.md#new-zealand-railways-corporation))
 
 ### tracked
  
@@ -1479,7 +1479,7 @@
 
 ### tractor tray
  
-<b>1</b> <i>n.</i> (Rural) a platform fitted to the back of a tractor on which to transport stock or implements. (See [back tray](../B#back-tray))
+<b>1</b> <i>n.</i> (Rural) a platform fitted to the back of a tractor on which to transport stock or implements. (See [back tray](b-bla.md#back-tray))
 
 >  For sale - .. 200 Corriedale cryptorchid lambs; tractor tray and crate. <i>(Nov 10, 2000,Press, The,39</i>)
 
@@ -1491,7 +1491,7 @@
 
 ### tractor-spinner
  
- <i>n.</i> (Rural) a revolving fertiliser distributor, used on a tractor. (See [spinner](../S#spinner))
+ <i>n.</i> (Rural) a revolving fertiliser distributor, used on a tractor. (See [spinner](spa-sys.md#spinner))
 
 >  <b>TAIT</b> Topdressing was done by hand until after World War II, when contractors' trucks were used until a tractor-spinner was introduced in 1955. <i>(1958,Farms & Stations of NZ Vol II,468</i>)
 
@@ -1697,7 +1697,7 @@
 
 ### training farm
  
- <i>n.</i> (Rural) a state-run farm where cadets attend a residential course on practical and theoretical aspects of farming. (See [repatriation farm](../R#repatriation-farm))
+ <i>n.</i> (Rural) a state-run farm where cadets attend a residential course on practical and theoretical aspects of farming. (See [repatriation farm](red-roa.md#repatriation-farm))
 
 >  Cadets or students on training-farms should have an occasional lesson in blacksmithing (including horse-shoeing), joinery, and harness-mending. <i>(Feb 15, 1912,NZ Journal of Agriculture,91</i>)
 
@@ -1802,7 +1802,7 @@
 
 ### tram-cart
  
- <i>n.</i> (See [cf. jinker](../J#jinker),[cat](../C#cat),[etc](../E#etc))
+ <i>n.</i> (See [cf. jinker](../J#jinker),[cat](c-chi.md#cat),[etc](../E#etc))
 
 >  These logs are then rolled on to a kind of sleigh or tram-cart by the help of screw-jacks, and conveyed by horses to the mill. <i>(1891,TrNZI,23/488</i>)
 
@@ -2977,7 +2977,7 @@
 
 ### tree fuchsia
  
- <i>n.</i> <i>Fuchsia excorticata</i>, kotukutuku (See [fuchsia](../F#fuchsia))
+ <i>n.</i> <i>Fuchsia excorticata</i>, kotukutuku (See [fuchsia](fly-fuz.md#fuchsia))
 
 >  <b>HEAPHY</b> The Tree Fuchsia (<i>Fuchsia excorticata</i>) is generally about thirty feet in height, and not unlike the weeping willow in general appearance. <i>(1842,Narrative of a Residence in  Various Parts of NZ,45</i>)
 
@@ -3035,7 +3035,7 @@
 
 ### tree lucerne
  
- <i>n.</i> <i>Chamaecytisus palmensis</i>. A small quick-growing tree, native to the Canary islands but naturalised in NZ. [Jim writes: Both <i>tree lucerne</i> and <i> tagasaste</i> are recorded in Macquarie 1981 (there classified as <i>Ch. prolifer</i>) but not in any other dictionary I have seen. It is interesting that there is no reference to this tree in Guthrie-Smith's <i>Tutira</i>. Its naturalisation at least in Hawke's Bay is thus likely to be later than 1939.] (See [tagasaste](../T#tagasaste))
+ <i>n.</i> <i>Chamaecytisus palmensis</i>. A small quick-growing tree, native to the Canary islands but naturalised in NZ. [Jim writes: Both <i>tree lucerne</i> and <i> tagasaste</i> are recorded in Macquarie 1981 (there classified as <i>Ch. prolifer</i>) but not in any other dictionary I have seen. It is interesting that there is no reference to this tree in Guthrie-Smith's <i>Tutira</i>. Its naturalisation at least in Hawke's Bay is thus likely to be later than 1939.] (See [tagasaste](t-ten.md#tagasaste))
 
 >  A search party was formed, gumboots scuffing the gravel of the driveway, past the ute and the well, past the Californian lilacs and the tree lucernes, until we came to a clearing, and there was the gum tree on its side. <i>(Oct 4, 2003,Listener (New Zealand Listener),94</i>)
 
@@ -3858,7 +3858,7 @@
 
 ### Triangle Dinks
  
- <i>n.</i> (See [Dink](../D#dink))
+ <i>n.</i> (See [Dink](dig-dou.md#dink))
 
 ### tribal
  
@@ -3924,7 +3924,7 @@
 
 ### tributer
  
- <i>n.</i> [mining] (See [tribute](../T#tribute))
+ <i>n.</i> [mining] (See [tribute](tot-tyr.md#tribute))
 
 >  A good deal of antimony-ore occurred in this mine, and gold film or `paint' on clay selvages was frequently met with, doubtless indicating secondary enrichment. Mining at Boatman's has declined very much, and work is now limited to intermittent tributers and occasional prospectors. <i>(1909,TrNZI,41/92</i>)
 
@@ -4316,7 +4316,7 @@
 
 ### triplefin
  
- <i>n.</i> a fish (See [threepenny](../T#threepenny))
+ <i>n.</i> a fish (See [threepenny](ten-tot.md#threepenny))
 
 >  Aropund the holes, numerous triplefins watch us, hoping for something edible to be destroyed. <i>(Jul 10, 2004,Dominion Post,E 17</i>)
 
@@ -4491,7 +4491,7 @@
 
 ### trolly-line
  
- <i>n.</i> [aka trolly line, trolley line, trolley-line] (See [tramline](../T#tramline))
+ <i>n.</i> [aka trolly line, trolley line, trolley-line] (See [tramline](tot-tyr.md#tramline))
 
 >  <b>WILSON</b> He led the way along the mill tramline - wooden rails laid on sleepers and ballasted with red sawdust. The bush had been hacked and smashed to build the trolly-line. <i>(1955,Land of My Children,23</i>)
 
@@ -4793,7 +4793,7 @@
 
 ### trou
  
- <i>n.</i> (informal) short for trousers (See [down-trou](../D#down-trou))
+ <i>n.</i> (informal) short for trousers (See [down-trou](dou-dyn.md#down-trou))
 
 >  <b>Geary</b> If you saw muck on his trou one week, bet your bottom dollar the next it'd still be there. <i>(2003,Man of the People, A,122</i>)
 
@@ -4839,7 +4839,7 @@
 
 ### trout
  
- <i>n.</i> (See [kokopu](../K#kokopu))
+ <i>n.</i> (See [kokopu](kiw-kwi.md#kokopu))
 
 >  <b>MORRIS</b> <i>Trout, n.</i> The English Trout has been naturalised in Australia. In Tasmania, the name of <i>Trout</i>, or <i>Mountain-Trout</i>, is also given to species of the genus Galaxias. See <i>Salmon</i>. <i>(1898,Austral English,480</i>)
 
@@ -4859,7 +4859,7 @@
 
 
  
- <i>n.</i> a fish; trout applied to native species before the introduction of exotic. [kokopu General and unspecified. -->1903 TrNZI 35/314 The upokororo appears to inhabit clear running streams ..., and I believe that the large fish locally called `trout', which were sometimes cast up on the beaches of the great inland lakes of Otago in the early days before trout were introduced, also belong to this species.] (See [kokopu](../K#kokopu))
+ <i>n.</i> a fish; trout applied to native species before the introduction of exotic. [kokopu General and unspecified. -->1903 TrNZI 35/314 The upokororo appears to inhabit clear running streams ..., and I believe that the large fish locally called `trout', which were sometimes cast up on the beaches of the great inland lakes of Otago in the early days before trout were introduced, also belong to this species.] (See [kokopu](kiw-kwi.md#kokopu))
 
 >  <b>FORSTER</b> ... he came to a fine lake of fresh water ... he observed no other inhabitant in it than a small species of fish (esox), without scales, resembling a little trout; its colour was brown, and mottled with yellowish spots ... <i>(1777,Voyage Round the World,1/159</i>)
 
@@ -5092,7 +5092,7 @@
 
 ### trull
  
- <i>n.</i> (See [troll](../T#troll))
+ <i>n.</i> (See [troll](tot-tyr.md#troll))
 
 ### Truly Rural Party
  
@@ -5555,7 +5555,7 @@
 
 ### trying-out
  
- <i>n.</i> (See [try out](../T#try-out))
+ <i>n.</i> (See [try out](tot-tyr.md#try-out))
 
 >  When the whaling parties [on Kapiti] were paid for their greasy work - so much a `lay' - there were lashings of rum ... and for a few days the trying-out fires and the whale-boats had a rest. ... Card play ran high ... The stakes were usually thrown into a three-legged iron pot - the `kohua' of the old-timers ... <i>(Apr 11, 1921,Quick March,29</i>)
 
@@ -6131,7 +6131,7 @@
 
 ### tucker boy
  
-<b>1</b> <i>n.</i> (Rural) a young male worker who takes food and drinks to rural workers. (See [billy boy](../B#billy-boy))
+<b>1</b> <i>n.</i> (Rural) a young male worker who takes food and drinks to rural workers. (See [billy boy](b-bla.md#billy-boy))
 
 >  <b>EVANS</b> Once when I was nine, and had just arrived in the shearing shed with the men's morning tea, Bobbie Rhodes of Bluecliffs Station called in and he said 'Are you the tucker boy?' A girl aged nine, I never forgot the insult. <i>(1975,Silver Tussock, The,87</i>)
 
@@ -6308,7 +6308,7 @@
 
 ### tuft-grass
  
- <i>n.</i> (See [grass](../G#grass),[tuft-grass](../T#tuft-grass))
+ <i>n.</i> (See [grass](go-gra.md#grass),[tuft-grass](tot-tyr.md#tuft-grass))
 
 >  <b>McGILL</b> <i>tug</i> to masturbate. NZA. <i>(1988,Dictionary of Kiwi Slang, A,115</i>)
 
@@ -6394,7 +6394,7 @@
 
 ### tui
  
- <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See [parson-bird](../P#parson-bird))
+ <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See [parson-bird](p-per.md#parson-bird))
 
 >  Tui work their way round the suburbs drawing nectar from seasonal flowers such as pohutukawa and flax (and, yes, introduced trees such as eucalypts and Indian coral). <i>(May 2002,Forest & Bird,26</i>)
 
@@ -6807,11 +6807,11 @@
 
 ### tumatagowry
  
- <i>n.</i> [empty headword, no cits] (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> [empty headword, no cits] (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tumataguru
  
- <i>n.</i> [empty headword, no cits] (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> [empty headword, no cits] (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tumatakahuki
  
@@ -6826,7 +6826,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] [tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry] (See [matagouri](../M#matagouri))
+<b>1</b> <i>n.</i> (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] [tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry] (See [matagouri](mar-moa.md#matagouri))
 
 >  <b>THOMSON</b> Much of the country bears fine grass but is overrun with a shrub called tomatagaru by the natives or Wild Irishman by the colonists. <i>(1857,BLANK ENTRY,9</i>) [NOTES: in Hamilton (1952) History of Northern Southland]
 
@@ -6910,7 +6910,7 @@
 
 ### tumatikuru
  
- <i>n.</i> (See [tumatakuru](../T#tumatakuru))
+ <i>n.</i> (See [tumatakuru](tot-tyr.md#tumatakuru))
 
 ### tumble-weed
  
@@ -7133,7 +7133,7 @@
 
 ### tuniwa
  
- <i>n.</i> (See [taniwha](../T#taniwha))
+ <i>n.</i> (See [taniwha](t-ten.md#taniwha))
 
 ### tunnel gully
  
@@ -7167,7 +7167,7 @@
 
 ### tunny
  
- <i>n.</i> (See [tuna](../T#tuna))
+ <i>n.</i> (See [tuna](tot-tyr.md#tuna))
 
 >  <b>SPEIGHT</b> The only true mackerels recorded from Canterbury are the Pacific Bonito (<i>Sarda chiliensis</i>) and the large-scaled Tunny (<i>Gasterochisma melampus</i>) which may reach a length of 6 feet; but a related family includes the well-known Barracouta (<i>Thyrsites atun</i>), the King Barracouta, <i>Jordanidia solandrii </i>(often known locally as Kingfish, but not to be confused with the North Island Kingfish which is a form or Yellowtail) and the elongated, silvery-hued frost fish (<i>Lepidopus caudatus</i>) whose curious stranding habits can hardly yet be said to be satisfactorily explained. <i>(1927,Natural History of Canterbury,199</i>) [NOTES: 1927 Archey `Native Fishes of Canterbury' in Speight et al. Natural History of Canterbury 199]
 
@@ -7296,13 +7296,13 @@
 
 ### tup crutch
  
- <i>v.</i> (Rural) carry out a pre-tupping shearing of ewes' rear ends. (See [bullseye](../B#bullseye),[buttonhole](../B#buttonhole),[ring-crutch](../R#ring-crutch))
+ <i>v.</i> (Rural) carry out a pre-tupping shearing of ewes' rear ends. (See [bullseye](bri-byo.md#bullseye),[buttonhole](bri-byo.md#buttonhole),[ring-crutch](red-roa.md#ring-crutch))
 
 >  March and April : ewes tup crutched, rams out, lambs drenched. <i>(Oct 2002,Wairarapa Times-Age,Supp. 11</i>)
 
 ### tupak grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  <b>HOOKER</b> Tupak Grass of Otago. <i>Carex apressa. </i> <i>(1867,Handbook NZ Flora (List of Names),768</i>)
 
@@ -7314,15 +7314,15 @@
 
 ### tupake
  
- <i>n.</i> (See [tupakihi](../T#tupakihi))
+ <i>n.</i> (See [tupakihi](tot-tyr.md#tupakihi))
 
 ### tupaki
  
- <i>n.</i> (See [tupakihi](../T#tupakihi))
+ <i>n.</i> (See [tupakihi](tot-tyr.md#tupakihi))
 
 ### tupakihi
  
- <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](../A#also-tupakihi-(juice):-see-tupakihi-wine),[tutu wine](../T#tutu-wine))
+ <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](../A#also-tupakihi-(juice):-see-tupakihi-wine),[tutu wine](tot-tyr.md#tutu-wine))
 
 >  Otene & his people came down to see us, bringing large stores of tupakihi which I quaffed with pleasure*, also mango ... Rogan fastidious about smell sent them to a distance to eat it. [fn.] The old women whose peculiar duty it is to squeeze the tupakihi berries never wash their hands by any chance. The only approach to it is in squeezing the tupakihi juice ... <i>(Dec 30, 1860,Richmond-Atkinson Papers,1/673,1960 ed.</i>) [NOTES: (A.S. Atkinson)]
 
@@ -7496,13 +7496,13 @@
 
 ### tupari
  
- <i>n.</i> (See [tupare](../T#tupare))
+ <i>n.</i> (See [tupare](tot-tyr.md#tupare))
 
 >  Tupari (<i>Blechnum procerum</i>) is usually quite as abundant as Paesia <i>(1943,NZ Journal of Science & Technology,23/119B</i>)
 
 ### tuparki
  
- <i>n.</i> (See [tupakihi](../T#tupakihi))
+ <i>n.</i> (See [tupakihi](tot-tyr.md#tupakihi))
 
 ### tupeia
  
@@ -7842,19 +7842,19 @@
 
 ### turi
  
- <i>n.</i> (See [tuere](../T#tuere))
+ <i>n.</i> (See [tuere](tot-tyr.md#tuere))
 
 ### turipa
  
- <i>n.</i> (See [turepo](../T#turepo))
+ <i>n.</i> (See [turepo](tot-tyr.md#turepo))
 
 ### turiwata
  
- <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
+ <i>n.</i> (See [tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 ### turiwati/turiwhati
  
- <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
+ <i>n.</i> (See [tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 >  <b>Vol. IX No. 5 p. 358</b> ... the most important [Chatham Island] edible sea-birds: AS WRITTEN AS PRONOUNCED ENGLISH hopo ho[macron]p' albatross hakoakoa ha[macron]ko[macron]k' mutton bird taiko tchai[macron]k' pied shear water tupoupou tchu[macron]poup' pied blue billie reoreo ro[macron]ro[macron] Mother Carys chicken turiwati tchu[macron]riwat' dottrel [sic] kuaka ku[macron]k' snipe <i>(1928,BP Bishop Memoirs</i>) [NOTES: >1928 Baucke Manuscript in Skinner and Baucke The Morioris (Bishop Museum Memoirs Vol. IX No. 5 pp. 343-382) 358]
 
@@ -8050,7 +8050,7 @@
 
 ### turn tail
  
- <i>phr.</i> (Rural) [sheepdogs] to 'spin' or back off and turn around when confronted by sheep. (See [spinning](../S#spinning))
+ <i>phr.</i> (Rural) [sheepdogs] to 'spin' or back off and turn around when confronted by sheep. (See [spinning](spa-sys.md#spinning))
 
 >  <b>HARTLEY</b> Any pup that is inclined to turn tail will be sure to give up the practice provided that the trainer does not choose turns that are too difficult at first. <i>(1949,Shepherd's Dogs, The,4</i>)
 
@@ -8170,7 +8170,7 @@
 
 
  
- <i>n.</i> of a sheepdog, turning away from the sheep in a complete circle; failing to `face up' to the sheep all the time (See [turn tail](../T#turn-tail))
+ <i>n.</i> of a sheepdog, turning away from the sheep in a complete circle; failing to `face up' to the sheep all the time (See [turn tail](tot-tyr.md#turn-tail))
 
 >  <i>Turning tail:</i> Fault in a dog whereby it turns away from the sheep in a complete circle. It fails to `face up' to the sheep all the time. <i>(1982,MAF Agricultural Glossary,25</i>)
 
@@ -8313,7 +8313,7 @@
 
 ### turpentine
  
- <i>n.</i> various shrubs or trees with aromatic leaves or resin (See [tarata](../T#tarata))
+ <i>n.</i> various shrubs or trees with aromatic leaves or resin (See [tarata](t-ten.md#tarata))
 
 >  Turpentine - Pittosporum eugenioides. This is the largest of the mapau family; it sometimes attains a height of 40 feet, with a diameter of 24 inches. The bark is thin, and of a light colour; the leaves are silvery green, and the flowers pale yellow... The bark exudes a thick gum, and the juice of the leaves, which is somewhat similar, was formerly used by the Maoris as a perfume, but I fear it is too resinous for European tastes. <i>(1877,TrNZI,9 : 143</i>)
 
@@ -8408,7 +8408,7 @@
 
 ### turps
  
- <i>n.</i> (informal) booze, alcohol [ca1945 Weir House University Hostel (Wellington)] (See [on the turps](../O#on-the-turps))
+ <i>n.</i> (informal) booze, alcohol [ca1945 Weir House University Hostel (Wellington)] (See [on the turps](on-ore.md#on-the-turps))
 
 >  Bolger observed grimly that his chief whip's political career was about to end. "You can't blame it on the turps," he added, "Neither of those two drink." <i>(Apr 22, 1995,Listener (New Zealand Listener),18</i>)
 
@@ -8525,7 +8525,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [used elsewhere but sp. in NZ pighunting] a wild boar. [bush pig, Irish merino, Captain Cooker DB also cross-refs to scoofler but no entry] (See [bush pig](../B#bush-pig),[Irish merino](../I#irish-merino),[Captain Cooker](../C#captain-cooker))
+<b>1</b> <i>n.</i> (Rural) [used elsewhere but sp. in NZ pighunting] a wild boar. [bush pig, Irish merino, Captain Cooker DB also cross-refs to scoofler but no entry] (See [bush pig](bri-byo.md#bush-pig),[Irish merino](../I#irish-merino),[Captain Cooker](c-chi.md#captain-cooker))
 
 >  .. from that point to the top of the mountain saddle was famous pig country, and many a good hunt for tuskers and their progeny was held there ... <i>(1910,Tapanui Station,43</i>)
 
@@ -8537,7 +8537,7 @@
 
 ### tussac
  
- <i>n.</i> (See [tussock](../T#tussock))
+ <i>n.</i> (See [tussock](tot-tyr.md#tussock))
 
 >  A new species of grass, called tussac, the blades of which grew seven feet high, had also been discovered, which it was intended to bring over to this country for cultivation. <i>(Dec 6, 1843,New Zealand Gazette & Wellington Spectator,3</i>)
 
@@ -8575,7 +8575,7 @@
 
 
  
- <i>n.</i> (collective) grassland of native tussock grasses. frequent early spg also <i>tussac</i>; also<i> tussuck</i> [also nassella tussock, snowgrass includes 'the tussock', off the tussock,and 'in the tussock'; G.J.Griffiths notes: originally it meant a `tuft', `bunch', `hillock' and only later came in NZ to be transferred to the kind of vegetation that grows in that fashion; here shown Tuckett did not have `tussock' to use] (See [also nassella tussock](../A#also-nassella-tussock),[snowgrass](../S#snowgrass))
+ <i>n.</i> (collective) grassland of native tussock grasses. frequent early spg also <i>tussac</i>; also<i> tussuck</i> [also nassella tussock, snowgrass includes 'the tussock', off the tussock,and 'in the tussock'; G.J.Griffiths notes: originally it meant a `tuft', `bunch', `hillock' and only later came in NZ to be transferred to the kind of vegetation that grows in that fashion; here shown Tuckett did not have `tussock' to use] (See [also nassella tussock](../A#also-nassella-tussock),[snowgrass](sho-spa.md#snowgrass))
 
 >  Les White was a champion leg-puller of us children running wild and free in the tussock. <i>(Dec 27, 1986,Listener (New Zealand Listener),6</i>)
 
@@ -8905,7 +8905,7 @@
 
 ### tussock line
  
- <i>n.</i> (See [cf. grassline](../G#grassline))
+ <i>n.</i> (See [cf. grassline](go-gra.md#grassline))
 
 >  ... after a few hundred steep feet of the Dorset Ridge had been covered, an indifferent blaze was picked up which led through bush and scrub to the tussock line at the end of Dorset Ridge, ... <i>(Sep 1958,Tararua,69</i>)
 
@@ -9227,7 +9227,7 @@
 
 ### tussuck
  
- <i>n.</i> (See [tussock](../T#tussock))
+ <i>n.</i> (See [tussock](tot-tyr.md#tussock))
 
 ### tutae
  
@@ -9272,7 +9272,7 @@
 
 ### tutaekuri
  
- <i>n.</i> a variety of Maori potato (See [urenika](../U#urenika))
+ <i>n.</i> a variety of Maori potato (See [urenika](up-uwh.md#urenika))
 
 >  These [Maori potatoes] differ from the common spud in colour and texture: some varieties, like 'Urenika' (also known as 'Tutaekuri'), have purple flesh that retains its colour when cooked, while others have black or pink skins and creamy flesh. <i>(Feb 1, 2004,Sunday (Sunday Star Times Magazine),15</i>)
 
@@ -9280,7 +9280,7 @@
 
 ### tute
  
- <i>n.</i> (See [tutu](../T#tutu))
+ <i>n.</i> (See [tutu](tot-tyr.md#tutu))
 
 
 
@@ -9301,7 +9301,7 @@
 
 ### tuted
  
- <i>adj.</i> poisoned by "tutu" (See [tutued](../T#tutued))
+ <i>adj.</i> poisoned by "tutu" (See [tutued](tot-tyr.md#tutued))
 
 >  Any variety of creature, from a maggot to an elephant, can be (and has been) "tuted," and Dr Malcom's experiments were made upon rabbits by the painless method, sometimes employed with recalcitrant suffragettes, of feeding the poison through a stomach tube. <i>(Oct 14, 1913,Otautau Standard & Wallace County Chronicle,7</i>)
 
@@ -9890,7 +9890,7 @@
 
 ### tutu-tree
  
- <i>n.</i> [contrast tree-tutu (no entry for this TD)] (See [tutu](../T#tutu))
+ <i>n.</i> [contrast tree-tutu (no entry for this TD)] (See [tutu](tot-tyr.md#tutu))
 
 >  <b>DOMETT</b> So men compared him to the <i>tutu</i>-tree,/ <i>(1883,Ranolf and Amohia,1/152</i>)
 
@@ -10030,11 +10030,11 @@
 
 ### tuturiwata
  
- <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
+ <i>n.</i> (See [tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 ### tuturiwatu
  
- <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
+ <i>n.</i> (See [tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 >  <b>DIEFFENBACH</b> Mr. Polack refers to the following names of Riroriro, Piripiri, Toutouwai, Tututuriwatu, as species of "swallows". <i>(1842,Travels in NZ,186</i>) [NOTES: Quote from Gray]
 
@@ -10133,7 +10133,7 @@
 
 ### tuturuwhatu
  
- <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
+ <i>n.</i> (See [tuturiwhatu](tot-tyr.md#tuturiwhatu))
 
 ### tuwhana
  
@@ -10306,7 +10306,7 @@
 
 ### twig-rush
  
- <i>n.</i> (See [rush](../R#rush),[twig-rush](../T#twig-rush))
+ <i>n.</i> (See [rush](roa-ruv.md#rush),[twig-rush](tot-tyr.md#twig-rush))
 
 ### twiggy whitewood
  
@@ -10629,7 +10629,7 @@
 
 ### two bastards on bikes
  
- <i>phr.</i> (See [cf. two ladies on bikes](../T#two-ladies-on-bikes))
+ <i>phr.</i> (See [cf. two ladies on bikes](tot-tyr.md#two-ladies-on-bikes))
 
 >  <b>McGILL</b> <i>two bastards on bikes</i> reaction of those betting two heads when two tails are tossed in gambling game `two-up'; <i>two ladies on bikes</i> if betting tails. <i>(1988,Dictionary of Kiwi Slang, A,116</i>)
 
@@ -10799,7 +10799,7 @@
 
 ### two-tier farming
  
- <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animals. (See [agri-forestry](../A#agri-forestry))
+ <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animals. (See [agri-forestry](a-all.md#agri-forestry))
 
 >  <b>RENNIE</b> Where trees are grown in conjunction with pasture for animals, this is called 'two-tier' farming or agri-forestry. <i>(1988,Agriculture in NZ,11</i>)
 

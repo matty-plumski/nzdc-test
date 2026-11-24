@@ -503,7 +503,7 @@
 
 ### cabin
  
- <i>adj.</i> (See [cf. cuddy](../C#cuddy))
+ <i>adj.</i> (See [cf. cuddy](con-cyp.md#cuddy))
 
 >  <b>CHAPMAN</b> Whilst we condemn ... this assumption of superiority on the part of cabin over intermediate passengers, the feeling which prompts the passenger in moderate circumstances to shrink from subjecting himself ... thereto, cannot be disapproved of. <i>(1843,NZ Portfolio,101</i>)
 
@@ -630,13 +630,13 @@
 
 ### cactus stove
  
- <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](../B#benghazi-burner))
+ <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](b-bla.md#benghazi-burner))
 
 >  [`Cactus Stoves'] have nothing to do with cactus, and they are as much like a stove as a mountain range is a heating appliance ... Just how they came to be called `cactus stoves' is more than I can say and I don't propose to hazard a guess. <i>(Dec 1944,Coral Dust</i>)
 
 ### caddie
  
- <i>n.</i> (See [cady](../C#cady))
+ <i>n.</i> (See [cady](c-chi.md#cady))
 
 ### caddle
  
@@ -853,7 +853,7 @@
 
 ### cadetship
  
- <i>n.</i> a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See [cadet](../C#cadet))
+ <i>n.</i> a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See [cadet](c-chi.md#cadet))
 
 >  <b>JAMESON</b> ... colonial cadetships. <i>(1841,New Zealand, S. Aust. and NSW,337</i>)
 
@@ -891,7 +891,7 @@
 
 ### cady
  
- <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](../C#cabbage-tree-hat))
+ <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](c-chi.md#cabbage-tree-hat))
 
 >  <b>MORRIS</b> <i>Cady, n.</i> a bush name for the slouch-hat or wide-awake. In the Australian bush the brim is generally turned down at the back and sometimes all round. <i>(1898,Austral English,76</i>)
 
@@ -1117,7 +1117,7 @@
 
 ### calawar
  
- <i>n.</i> a rendering of a Ma. var. <i>karewao</i> (See [kareao](../K#kareao))
+ <i>n.</i> a rendering of a Ma. var. <i>karewao</i> (See [kareao](k-kea.md#kareao))
 
 ### calc
  
@@ -1172,7 +1172,7 @@
 
 ### Cale/Calley
  
- <i>n.</i> (See [Cally](../C#cally))
+ <i>n.</i> (See [Cally](c-chi.md#cally))
 
 ### calf beating
  
@@ -1214,7 +1214,7 @@
 
 ### calf day
  
-<b>1</b> <i>n.</i> (Rural) (See [calf club day](../C#calf-club-day))
+<b>1</b> <i>n.</i> (Rural) (See [calf club day](c-chi.md#calf-club-day))
 
 >  New Zealand has a strong emphasis on agriculture. Already I've discovered calf days, which are unheard of in Ireland ... <i>(Oct 18, 2001,Taranaki Daily News,17</i>)
 
@@ -1496,7 +1496,7 @@
 
 ### Californian stinkweed
  
- <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](../D#digger's-weed))
+ <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](dig-dou.md#digger's-weed))
 
 >  <b>HILGENDORF</b> STINK WEED ([<i>Navarettia] squarrosa </i>), [formerly named <i> Gilla squarrosa </i>] and called Californian stink weed, digger's weed and yeast plant, occurs chiefly [in river beds] on dry pastures and cultivated fields in Marlborough and Otago, where it sometimes becomes dominant over all other herbage. <i>(1926,Weeds of New Zealand,139,1967 ed.</i>)
 
@@ -1672,7 +1672,7 @@
 
 ### call one's lug
  
- <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](../B#bite))
+ <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](b-bla.md#bite))
 
 >  If you'll only `listen in',/ You will hear him `call' some fellows lug:/ `Why don't you join up and dig in.'/ <i>(1926,Transport Workers' Song Book,70</i>)
 
@@ -2012,7 +2012,7 @@
 
 ### camp bed
  
- <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](../B#bush-stretcher),[camp stretcher](../C#camp-stretcher))
+ <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](bri-byo.md#bush-stretcher),[camp stretcher](c-chi.md#camp-stretcher))
 
 >  <b>NEAVE</b> We had [in 1858] an old tent pitched inside and had about half a bale of pieces as a field bed. ... after wading through the Ahuriri we had to take off our pants before making a camp bed of shingle and snowgrass. <i>(1980,Land of Munros, The,65</i>) [NOTES: 1917 James Strachan Experiences (Hocken L.) in 1980 Neave The Land of Munros 65]
 
@@ -2222,7 +2222,7 @@
 
 ### camp-oven bread
  
- <i>n.</i> bread made in a camp oven (See [camp oven](../C#camp-oven))
+ <i>n.</i> bread made in a camp oven (See [camp oven](c-chi.md#camp-oven))
 
 >  <b>MASTERS</b> She had just cooked a big camp-oven loaf of bread. As she lifted the lid off the camp-oven, something prompted her to look round. [1860's ?] <i>(1959,Tales of the Mails,116</i>)
 
@@ -2270,7 +2270,7 @@
 
 ### Campbell Island snipe
  
- <i>n.</i> . [tutukiwi] (See [tutukiwi](../T#tutukiwi))
+ <i>n.</i> . [tutukiwi] (See [tutukiwi](tot-tyr.md#tutukiwi))
 
 >  Campbell Island's snipe flew home from its precarious refuge on tiny Jacquemart Island recently and onto prime-time television news. <i>(May 2005,NZ Geographic,no 73 / page 8</i>)
 
@@ -2329,7 +2329,7 @@
 
 ### camping ground
  
- <i>n.</i> a camp (of sheep) (See [cf. break camp](../B#break-camp),[sheep camp](../S#sheep-camp))
+ <i>n.</i> a camp (of sheep) (See [cf. break camp](bla-bri.md#break-camp),[sheep camp](sa-sho.md#sheep-camp))
 
 >  <b>KENNAWAY</b> `Reached sheep about two o'clock, - rounded them up and began driving at once. Reached our proposed camping-ground about sundown. <i>(1874,Crusts: a settler's fare due south,111</i>) [NOTES: 1860 Apr 4 notebook in 1874 Kennaway Crusts 111]
 
@@ -2383,7 +2383,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a specific place where sheep gather, usually on a rise, in the evening. (See [sheep camp](../S#sheep-camp))
+<b>1</b> <i>n.</i> (Rural) a specific place where sheep gather, usually on a rise, in the evening. (See [sheep camp](sa-sho.md#sheep-camp))
 
 >  <b>BARKER</b> On the skyline of the hills could be preceived towards evening, mobs of sheep feeding with their heads up-wind and travelling to the high camping-grounds which they always select in preference to a valley. <i>(1873,Station Amusements in NZ,4</i>)
 
@@ -2437,7 +2437,7 @@
 
 ### can out
  
- <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](../C#can-off))
+ <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](c-chi.md#can-off))
 
 >  <b>LELAND</b> Can out: to OVERTURN one's yacht, canoe, or other WATERBORNE CRAFT under circumstances that imply that this was not your intention. <i>(1980,Personal Kiwi-Yankee Dictionary, A,20</i>)
 
@@ -2459,7 +2459,7 @@
 
 ### Canada bluegrass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### Canada goose/Canadian goose
  
@@ -2564,7 +2564,7 @@
 
 
  
- <i>n.</i> yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See [mohua](../M#mohua))
+ <i>n.</i> yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See [mohua](mob-mys.md#mohua))
 
 >  MOHOUA OCHROCEPHALA, Gml. Mohoua. Canary. ... as soon as one ascends the bushy gullies of the hills, the Canary is sure to pay a reconnoitering visit; ... <i>(1870,TrNZI,2/57</i>) [NOTES: (Potts Birds)]
 
@@ -2671,7 +2671,7 @@
 
 ### canary grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### canary stain
  
@@ -2691,7 +2691,7 @@
 
 ### candle lantern
  
- <i>n.</i> (See [cf. bush lantern](../B#bush-lantern))
+ <i>n.</i> (See [cf. bush lantern](bri-byo.md#bush-lantern))
 
 >  <b>BOSWELL</b> Meanwhile my father and the boys, in the light of a couple of candle lanterns - in the early days [c1890s] simply candles stuck into the necks of inverted bottles which had their bottoms cut off - would be scraping the day's swag. <i>(1956,Dim Horizons,55,1955 ed.</i>)
 
@@ -2909,7 +2909,7 @@
 
 ### Canterbury Block
  
- <i>n.</i> (See [block](../B#block))
+ <i>n.</i> (See [block](bla-bri.md#block))
 
 ### Canterbury broom
  
@@ -2937,13 +2937,13 @@
 
 ### Canterbury knobbed weevil
  
- <i>n.</i> <i>Hadramphus tuberculatus</i> (See [Canterbury knobbled weevil](../C#canterbury-knobbled-weevil))
+ <i>n.</i> <i>Hadramphus tuberculatus</i> (See [Canterbury knobbled weevil](c-chi.md#canterbury-knobbled-weevil))
 
 >  Canterbury Museum entomologist Peter Johns has found so many Canterbury knobbed [sic] weevils, Hadramphus tuberculatus, which previously had not been seen since 1922, that it has escaped a category one "critically endangered" Department of Conservation rating. <i>(2006,Internet - see Notes</i>) [NOTES: http://www.nzherald.co.nz/section/story.cfm?c_id=1&objectid=10127298accessed 09/02/06]
 
 ### Canterbury knobbled weevil
  
- <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See [Canterbury knobbed weevil](../C#canterbury-knobbed-weevil))
+ <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See [Canterbury knobbed weevil](c-chi.md#canterbury-knobbed-weevil))
 
 >  <i>Hadramphus tuberculatus</i> (the Canterbury knobbled weevil) has been largely forgotten - a category X (presumed extinct) species ... whether the knobbled weevil is one of the mysterious pollinators of <i>Aciphylla</i> has yet to be established. <i>(Mar 2005,NZ Geographic,72/23</i>)
 
@@ -3581,7 +3581,7 @@
 
 
  
- <i>n.</i> = Captain Cooker (See [cf. bush pig](../B#bush-pig))
+ <i>n.</i> = Captain Cooker (See [cf. bush pig](bri-byo.md#bush-pig))
 
 
 
@@ -3642,7 +3642,7 @@
 
 ### Captain Cook's cress
  
- <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](../C#cook's-scurvy-grass))
+ <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](con-cyp.md#cook's-scurvy-grass))
 
 >  (Nature session) Dr Cohen [says] ... Captain Cook's cress or as some people call it Captain Cook's Scurvy Grass. It is edible. <i>(Oct 31, 1951,2ZB</i>)
 
@@ -3821,7 +3821,7 @@
 
 ### caraceer
  
- <i>n.</i> (See [karaka](../K#karaka))
+ <i>n.</i> (See [karaka](k-kea.md#karaka))
 
 ### caracol
  
@@ -4396,7 +4396,7 @@
 
 ### carrot-top fern
  
- <i>n.</i> (See [fern](../F#fern))
+ <i>n.</i> (See [fern](f69-fin.md#fern))
 
 ### carry
  
@@ -4745,7 +4745,7 @@
 
 ### Cashel Street cocky
  
-<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See [Queen Street farmer](../Q#queen-street-farmer))
+<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See [Queen Street farmer](qua-que.md#queen-street-farmer))
 
 >  hobby farmer: a Cashel Street cocky. <i>(2001,Questionnaire Respondents (DB)</i>)
 
@@ -5093,7 +5093,7 @@
 
 ### cat
  
- <i>n.</i> a long sledge [ORIGIN: abbreviation] (See [catamaran](../C#catamaran))
+ <i>n.</i> a long sledge [ORIGIN: abbreviation] (See [catamaran](c-chi.md#catamaran))
 
 >  <b>ASPDEN</b> Trees were felled with cross cut saws and axes.. then.. placed on a long sledge called a "cat" which was made to convey them to the waterway. <i>(1981,New Life, A,41</i>) [NOTES: from 1865]
 
@@ -5322,7 +5322,7 @@
 
 ### catch-grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### catch-pen
  
@@ -5832,7 +5832,7 @@
 
 ### cattle-driver
  
- <i>n.</i> (See [cf. driver](../D#driver),[drover](../D#drover))
+ <i>n.</i> (See [cf. driver](dou-dyn.md#driver),[drover](dou-dyn.md#drover))
 
 >  A mob of cattle-beasts ... and `cattle-drivers' from Cambers. <i>(Apr 1862,Puketoi Station Diary</i>)
 
@@ -5870,7 +5870,7 @@
 
 ### cattle-proof
  
- <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](../D#deer-proof),[rabbit-proof](../R#rabbit-proof))
+ <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](../D#deer-proof),[rabbit-proof](ra-red.md#rabbit-proof))
 
 >  [OED2] Can you advise me as to the best hedge to grow ... to make a good cattle-proof fence? <i>(Feb 1915,NZ Journal of Agriculture,190</i>)
 
@@ -6004,7 +6004,7 @@
 
 ### caudie
  
- <i>n.</i> (See [kauri](../K#kauri))
+ <i>n.</i> (See [kauri](k-kea.md#kauri))
 
 ### cauf
  
@@ -6026,7 +6026,7 @@
 
 ### cavalha
  
- <i>n.</i> (See [cavalli](../C#cavalli))
+ <i>n.</i> (See [cavalli](c-chi.md#cavalli))
 
 ### Cavaliers
  
@@ -6042,7 +6042,7 @@
 
 ### cavalla/cavalle/cavallo
  
- <i>n.</i> (See [cavalli](../C#cavalli))
+ <i>n.</i> (See [cavalli](c-chi.md#cavalli))
 
 ### cavalli
  
@@ -6162,11 +6162,11 @@
 
 ### caving block
  
- <i>n.</i> (See [milking cow](../M#milking-cow))
+ <i>n.</i> (See [milking cow](mar-moa.md#milking-cow))
 
 ### caving method
  
- <i>n.</i> [(mining)] (See [milking cow](../M#milking-cow))
+ <i>n.</i> [(mining)] (See [milking cow](mar-moa.md#milking-cow))
 
 ### caw
  
@@ -6181,7 +6181,7 @@
 
 ### cawcaw
  
- <i>n.</i> (See [kaka](../K#kaka))
+ <i>n.</i> (See [kaka](k-kea.md#kaka))
 
 ### CAYAD
  
@@ -6767,7 +6767,7 @@
 
 ### central government
  
- <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](../C#centralism))
+ <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](c-chi.md#centralism))
 
 >  <b>CRESSWELL</b> These now had control of the central government, and when the Provinces hampered their aims they swept them away. ... For these Provincials had aims other than acquisition and the destruction of all that stood in the way of the most rapid settlement for the sake of what could be gained. <i>(1939,Present Without Leave,9</i>)
 
@@ -6870,7 +6870,7 @@
 
 ### centre
  
- <i>n.</i> population centre [C.C. Ransom heard `the 14 largest centres'.] (See [four main centres](../F#four-main-centres))
+ <i>n.</i> population centre [C.C. Ransom heard `the 14 largest centres'.] (See [four main centres](fly-fuz.md#four-main-centres))
 
 ### centre hoot
  
@@ -7048,7 +7048,7 @@
 
 ### chaffage
  
-<b>1</b> <i>n.</i> (Rural) plant roughage necessary for healthy growth of calves. (See [baleage](../B#baleage))
+<b>1</b> <i>n.</i> (Rural) plant roughage necessary for healthy growth of calves. (See [baleage](b-bla.md#baleage))
 
 >  <b>WESTWOOD</b> Chaffage or baleage is a good substitute if pasture is not available. <i>(2000,Rearing Healthy Calves,5</i>)
 
@@ -7056,7 +7056,7 @@
 
 ### chaffie
  
-<b>1</b> <i>n.</i> (Rural) a threshing mill team hand. (See [straw walloper](../S#straw-walloper))
+<b>1</b> <i>n.</i> (Rural) a threshing mill team hand. (See [straw walloper](spa-sys.md#straw-walloper))
 
 >  <b>ANGUS</b> Two others, the 'straw wallopers' or 'chaffees' built the straw from the elevator into a good stack. <i>(1981,Aspiring Settlers,49</i>)
 
@@ -7136,13 +7136,13 @@
 
 ### chain dropper
  
-<b>1</b> <i>n.</i> (Rural) a galvanised-iron batten used in chain fences. (See [Hunter Fence](../H#hunter-fence),[chain dropper fence](../C#chain-dropper-fence))
+<b>1</b> <i>n.</i> (Rural) a galvanised-iron batten used in chain fences. (See [Hunter Fence](hom-hyp.md#hunter-fence),[chain dropper fence](c-chi.md#chain-dropper-fence))
 
 >  <b>RIDDOLLS</b> One type of dropper coming into widespread use is the chain dropper. These consist of lengths of chain, made of 12 gauge galvanised-iron wire, spaced about 3 ft. apart along the fence and fastened to the fence wires by patent fasteners. Barbed wire is used for the top and bottom wires, the barbs keeping the chain droppers in place along the fence wires. The use of the new angle steel fence posts with the chain droppers gives a fence with all the advantages mentioned above, and at the same time one that is much cheaper than a conventional fence. <i>(1958,Farm Engineering,427</i>)
 
 ### chain dropper fence
  
-<b>1</b> <i>n.</i> (Rural) a fence made entirely of metal fenceposts, droppers and chains. (See [chain dropper](../C#chain-dropper))
+<b>1</b> <i>n.</i> (Rural) a fence made entirely of metal fenceposts, droppers and chains. (See [chain dropper](c-chi.md#chain-dropper))
 
 >  <b>RIDDOLL</b> The advantages of chain dropper fences compared with conventional fences are cheapness, lightness, tightness, resistance against shock, durability, and suitability for dropping from aircraft. <i>(1958,Farm Engineering,427</i>)
 
@@ -7619,7 +7619,7 @@
 
 ### Charlie across the water
  
- <i>n.</i> a children's game (See [bullrush](../B#bullrush))
+ <i>n.</i> a children's game (See [bullrush](bri-byo.md#bullrush))
 
 >  <b>McGILL</b> Bullrush involved as many of the school as possible, all at one end of the paddock, one person in the middle. At the cry of 'bullrush' we all ran and he had to catch one of us. It was also called Charlie across the water and kingaseeny <i>(1989,Kiwi Baby Boomers,41</i>)
 
@@ -7963,7 +7963,7 @@
 
 ### Chatham Island pigeon
  
- <i>n.</i> (Environment) [also Chatham Islands pigeon] (See [parea](../P#parea))
+ <i>n.</i> (Environment) [also Chatham Islands pigeon] (See [parea](p-per.md#parea))
 
 >  The collection brought by Mr Forbes from the Chatham Islands consists chiefly of fossil bones of birds, but there are also three skulls of whales and some plants and bird skins, including two specimens of the Chatham Island pigeon, described last year by Mr. Rothschild in the proceedings of the Zoological Society. <i>(Jul 12, 1892,Star, The,3</i>)
 
@@ -7981,7 +7981,7 @@
 
 ### Chatham Island rail
  
- <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](../A#also-little-chatham-islands-rail),[Dieffenbach's rail](../D#dieffenbach's-rail))
+ <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](../A#also-little-chatham-islands-rail),[Dieffenbach's rail](d-dif.md#dieffenbach's-rail))
 
 >  A skeleton of the extinct Chatham Island rail (Diaphorapertyx [sic] hawkinsi) has been placed in the New Zealand room at the Christchurch Museum, together with the skeletons of the extinct crow, coot, and swan from the same islands. <i>(Aug 16, 1905,Otago Witness,4</i>)
 
@@ -8059,7 +8059,7 @@
 
 ### Chatham Island taiko
  
- <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See [taiko](../T#taiko),[tchiak](../T#tchiak))
+ <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See [taiko](t-ten.md#taiko),[tchiak](../T#tchiak))
 
 >  Eight Chatham Island Taiko chicks fledged this season, five of them from artificial burrows installed to protect against flooding and pig damage. <i>(Jun 23, 2005,Footnotes,11</i>)
 
@@ -8598,7 +8598,7 @@
 
 ### cheese blister
  
- <i>n.</i> variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister] (See [cheese buster](../C#cheese-buster),[buster](../B#buster))
+ <i>n.</i> variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister] (See [cheese buster](c-chi.md#cheese-buster),[buster](bri-byo.md#buster))
 
 >  <b>BASHAM</b> <i>CHEESE BLISTERS </i>... Roll out thinly, and cut into oblong pieces ... Bake ... <i>(1939,Aunt Daisy's Cookery Book,109</i>)
 
@@ -8616,7 +8616,7 @@
 
 ### cheese factory
  
- <i>n.</i> (See [cf. butter factory](../B#butter-factory))
+ <i>n.</i> (See [cf. butter factory](bri-byo.md#butter-factory))
 
 >  It was in 1911 also that Pahia Co-op cheese factory got under way. <i>(Jan 1960,NZ Dairy Exporter,13</i>)
 
@@ -8722,7 +8722,7 @@
 
 ### chenille fern
  
- <i>n.</i> (See [fern](../F#fern))
+ <i>n.</i> (See [fern](f69-fin.md#fern))
 
 ### cheque
  
@@ -8738,7 +8738,7 @@
 
 ### cheque proud
  
- <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](../C#collar-proud))
+ <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](chi-con.md#collar-proud))
 
 >  <i>Cheque proud</i>.-A station hand becomes <i>c.p. </i>when he wants a bust. He will be no good to himself or anyone else until he has spent his wages. <i>(Jan 13, 1934,Press, The,13</i>) [NOTES: Acland Gloss]
 
@@ -8785,7 +8785,7 @@
 
 ### cherry birch
  
- <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](../R#red-birch))
+ <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](ra-red.md#red-birch))
 
 ### cherry boy
  
@@ -8947,7 +8947,7 @@
 
 ### chi-hike
  
- <i>v.</i> (See [chiack](../C#chiack))
+ <i>v.</i> (See [chiack](c-chi.md#chiack))
 
 ### chiack
  

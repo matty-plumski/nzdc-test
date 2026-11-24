@@ -2,7 +2,7 @@
 
 ### all on the board
  
- <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](../A#all-aboard))
+ <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](a-all.md#all-aboard))
 
 >  <i> all on the board:</i> Called when the last of the sheep are out of the pens and on the board. <i>(1989,NZ English Newsletter,3/21</i>) [NOTES: (Wallace Shearing Glossary)]
 
@@ -170,13 +170,13 @@
 
 ### all-grass wintering
  
- <i>n.</i> (Rural) the using of grass, silage and hay for winter feed. (See [all-grass farming](../A#all-grass-farming))
+ <i>n.</i> (Rural) the using of grass, silage and hay for winter feed. (See [all-grass farming](all-ari.md#all-grass-farming))
 
 >  <b>RENNIE</b> He stopped growing winter feeds crops and adopted all-grass wintering. <i>(1988,Agriculture in NZ,30</i>)
 
 ### alla
  
- <i>n.</i> error for aua. (See [aua](../A#aua))
+ <i>n.</i> error for aua. (See [aua](ari-axe.md#aua))
 
 >  alla ... n. New Zealand fish, a sea mullet. [Maori] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),2</i>)
 
@@ -291,7 +291,7 @@
 
 ### Allport's perch
  
- <i>n.</i> Brightly coloured fish found in southern Australian and northern and central NZ waters, also known as splendid perch [<i>Callanthias allporti</i> aka splendid perch] (See [splendid perch](../S#splendid-perch))
+ <i>n.</i> Brightly coloured fish found in southern Australian and northern and central NZ waters, also known as splendid perch [<i>Callanthias allporti</i> aka splendid perch] (See [splendid perch](spa-sys.md#splendid-perch))
 
 >  <b>PAUL</b> <i>Splendid perch Callanthias allporti </i>Southern Australia and New Zealand. Sometimes called Allport's perch, but the name splendid is more appropriate, as it is a very colourful and variable species. <i>(1986,NZ Fishes: An Identification Guide,85</i>)
 
@@ -780,7 +780,7 @@
 
 
  
- <i>n.</i> short for American axe. (See [American axe](../A#american-axe))
+ <i>n.</i> short for American axe. (See [American axe](all-ari.md#american-axe))
 
 ### American axe
  
@@ -871,7 +871,7 @@
 
 ### amoko
  
- <i>n.</i> (See [moko](../M#moko))
+ <i>n.</i> (See [moko](mob-mys.md#moko))
 
 ### amokura
  
@@ -1008,7 +1008,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [pilchard](../P#pilchard))
+<b>2</b> <i>n.</i> (See [pilchard](per-pop.md#pilchard))
 
 >  <b>SORENSON</b> PILCHARD (a) Scientific name: <i>Sardinops neopilchardus</i>.. (b) Suggested commercial name[s]:Pilchard; Sardine. (c) Other common names: Sardine; Sprat; Anchovy; Herring. (d) Principal localities where taken: Auckland, Gisborne, Tasman Bay, Marlborough Sounds. <i>(1970,Nomenclature of NZ Fish,40</i>)
 
@@ -1032,7 +1032,7 @@
 
 ### angeange
  
- <i>n.</i> (See [hangehange](../H#hangehange))
+ <i>n.</i> (See [hangehange](h-hea.md#hangehange))
 
 ### angel's food
  
@@ -1137,7 +1137,7 @@
 
 ### angler
  
- <i>n.</i> (See [anglerfish](../A#anglerfish))
+ <i>n.</i> (See [anglerfish](all-ari.md#anglerfish))
 
 ### anglerfish
  
@@ -1200,7 +1200,7 @@
 
 ### Anglo-Maori
  
- <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](../A#anglo-new-zealander))
+ <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](all-ari.md#anglo-new-zealander))
 
 >  <b>GREENWOOD</b> Half-castes ... presenting too often the painful picture of an Anglo-Maori, with all the tastes and habits and feelings of the savage. <i>(1850,Journey to Taupo,36</i>)
 
@@ -1321,7 +1321,7 @@
 
 ### anise
  
- <i>n.</i> <i>A. rosaefolia koheriki</i> W.125 <i>A. rosaefolia.] [Transf. use of </i>anise,<i> an aromatic plant.] Angelica </i>(??esp. <i>A. montana</i>) and/or <i>Anistome</i> spp. [aniseed. ??Mainly SI.] (See [aniseed](../A#aniseed))
+ <i>n.</i> <i>A. rosaefolia koheriki</i> W.125 <i>A. rosaefolia.] [Transf. use of </i>anise,<i> an aromatic plant.] Angelica </i>(??esp. <i>A. montana</i>) and/or <i>Anistome</i> spp. [aniseed. ??Mainly SI.] (See [aniseed](all-ari.md#aniseed))
 
 >  <b>HOCKEN</b> The anise plant, so valuable as pasture for sheep and cattle, abounds over all the land we traversed. <i>(Aug 31, 1844,Contributions to the Early History of New Zealand,267</i>) [NOTES: Colonel W. Wakefield Letter in 1898 Hocken]
 
@@ -1372,7 +1372,7 @@
 
 ### aniseed
  
- <i>n.</i> . [Mainly <i>Angelica</i> spp., esp. <i>Angelica montana</i> (formerly <i>A. gingidum</i>) but occas. poss.<i> Anistome</i>; in NZ, spp. ??Mainly SI. [Transf. and extended use of <i>aniseed</i>, the seed of anise.]formerly used as wild fodder plants (mainly wild angelica).] (See [anise](../A#anise))
+ <i>n.</i> . [Mainly <i>Angelica</i> spp., esp. <i>Angelica montana</i> (formerly <i>A. gingidum</i>) but occas. poss.<i> Anistome</i>; in NZ, spp. ??Mainly SI. [Transf. and extended use of <i>aniseed</i>, the seed of anise.]formerly used as wild fodder plants (mainly wild angelica).] (See [anise](all-ari.md#anise))
 
 >  <b>TUCKETT</b> Like the narrow plains of the Waikauroa, it grows only the wiry tree grass or something [225] similar, and <i>Phormium tenax</i>, no aniseed, perennial groundsel, or milk thistle, and very little couchgrass, ... [Otago] ... the prevailing species of trees are remo [rimu], totara, and tall manuka, all indicative of inferior soil.... The bush-like woods on the east side are of white birch, likewise no recommendation of the soil, but the chief objection to the district is, that the prairie soil affords scarcely any food for cattle ... it grows only the wiry tree grass [tussock] ... and <i>Phormium tenax</i> [flax], no aniseed, perennial groundsel, or milk thistle, and very little couch grass. <i>(May 24, 1844,Diary</i>) [NOTES: Tuckett Diary in 1898 Hocken Contributions 24 May 223-224]
 
@@ -1406,7 +1406,7 @@
 
 ### anisotome
  
- <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](../A#anise),[aniseed](../A#aniseed))
+ <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](all-ari.md#anise),[aniseed](all-ari.md#aniseed))
 
 >  ...there is much to enjoy up close as the sink holes are festooned with summer flowers - buttercups, daisies, euphrasias and anisotomes, and the promise of gentians, closed against the rain. <i>(Mar 13, 2004,Dominion Post,E17</i>)
 
@@ -2185,7 +2185,7 @@
 
 ### Anzac nutty
  
- <i>n.</i> [Bee Nilson's Cookery Book] (See [Anzac biscuit](../A#anzac-biscuit))
+ <i>n.</i> [Bee Nilson's Cookery Book] (See [Anzac biscuit](all-ari.md#anzac-biscuit))
 
 ### Anzac poppy
  
@@ -2239,7 +2239,7 @@
 
 ### Anzacian
  
- <i>n.</i> A NZ soldier [[nf W3] (See [Anzac](../A#anzac))
+ <i>n.</i> A NZ soldier [[nf W3] (See [Anzac](all-ari.md#anzac))
 
 >  <b>M.& N. ROSS</b> <i>(1916,Light and Shade,181</i>)
 
@@ -2853,7 +2853,7 @@
 
 ### arbor vitae
  
- <i>n.</i> (obsolete) <i>Libocedrus plumosa</i> (formerly <i>L. Doniana</i>), kawaka (See [kawaka](../K#kawaka))
+ <i>n.</i> (obsolete) <i>Libocedrus plumosa</i> (formerly <i>L. Doniana</i>), kawaka (See [kawaka](k-kea.md#kawaka))
 
 >  <b>HOOKER</b> Arbor vitae. <i>Libocedrus Doniana</i>. <i>(1867,Handbook for New Zealand, The,764</i>) [NOTES: List of Names]
 
@@ -2875,7 +2875,7 @@
 
 ### ARC
  
- <i>n.</i> Auckland Regional Council [ORIGIN: acronym] (See [ARA](../A#ara))
+ <i>n.</i> Auckland Regional Council [ORIGIN: acronym] (See [ARA](all-ari.md#ara))
 
 >  The ARC is hosting a range of holiday activities, including Hunua High Ropes at Hunua Regional Park today. <i>(Jul 5, 2007,Time Out,23</i>)
 
@@ -3007,7 +3007,7 @@
 
 ### argentine
  
- <i>n.</i> <i>Argentina elongata<\i>, a seafish. [silverside Spec. use of <i>argentine</i> OED2 B. 2. for small fishes with silvery scales: also f. generic name.] (See [silverside](../S#silverside))
+ <i>n.</i> <i>Argentina elongata<\i>, a seafish. [silverside Spec. use of <i>argentine</i> OED2 B. 2. for small fishes with silvery scales: also f. generic name.] (See [silverside](sho-spa.md#silverside))
 
 >  [species name] silverside .. [scientific name] <i>Argentina elongata</i> .. [other name(s)] argentine, snodgall <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>) [NOTES: Fisheries Research Div.TS printout]
 

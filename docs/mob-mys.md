@@ -252,7 +252,7 @@
 
 ### mob striking
  
- <i>n.</i> (Rural) the using of stock to eat fern and weed in pasture. (See [hoof and tooth treatment](../H#hoof-and-tooth-treatment))
+ <i>n.</i> (Rural) the using of stock to eat fern and weed in pasture. (See [hoof and tooth treatment](hom-hyp.md#hoof-and-tooth-treatment))
 
 >  Experiments in Akitio included the use of mob-striking to clean up rough growth. <i>(Nov 22, 1951,NZ Farmer,6</i>)
 
@@ -444,7 +444,7 @@
 
 
  
- <i>n.</i> <i>nthornis melanura</i>, makomako (See [bellbird](../B#bellbird))
+ <i>n.</i> <i>nthornis melanura</i>, makomako (See [bellbird](b-bla.md#bellbird))
 
 >  <b>HUTTON</b> 13. ANTHORNIS MELANURA. Sparm. Bell-bird. Mocker. Korimoko. Moko-moko. <i>A. ruliceps</i>. PELZ. <i>(1871,Birds of New Zealand,6</i>)
 
@@ -665,7 +665,7 @@
 
 ### mohiki
  
- <i>n.</i> (See [moki](../M#moki))
+ <i>n.</i> (See [moki](mob-mys.md#moki))
 
 
 
@@ -741,7 +741,7 @@
 
 ### mohoua
  
- <i>n.</i> (See [mohua](../M#mohua))
+ <i>n.</i> (See [mohua](mob-mys.md#mohua))
 
 >  MOHOUA OCHROCEPHALA, Gml. Mohoua. Canary. ... as soon as one ascends the bushy gullies of the hills, the Canary is sure to pay a reconnoitering visit; ... <i>(1870,TrNZI,2/57</i>) [NOTES: (Potts Birds)]
 
@@ -749,7 +749,7 @@
 
 ### mohua
  
- <i>n.</i> a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head [Compare upokotea, white-head. [Maori]] (See [yellowhead](../Y#yellowhead))
+ <i>n.</i> a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head [Compare upokotea, white-head. [Maori]] (See [yellowhead](ydu-yen.md#yellowhead))
 
 >  Operation Ark has swung into action to protect mohua/yellowheads from surging rat numbers in the Catlins. <i>(Jul 2005,Conservation Action,24</i>)
 
@@ -823,7 +823,7 @@
 
 ### mok-e-mok
  
- <i>n.</i> probably =tui rather than makomako (See [mocker](../M#mocker),[mockie](../M#mockie))
+ <i>n.</i> probably =tui rather than makomako (See [mocker](mob-mys.md#mocker),[mockie](mob-mys.md#mockie))
 
 ### moka
  
@@ -889,7 +889,7 @@
 
 ### moki
  
- <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See [also painted moki](../A#also-painted-moki),[moki shark](../M#moki-shark),[moki trumpeter](../M#moki-trumpeter))
+ <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See [also painted moki](../A#also-painted-moki),[moki shark](../M#moki-shark),[moki trumpeter](mob-mys.md#moki-trumpeter))
 
 >  <b>KOHERE</b> The opening of the moki season always roused great interest and was attended with some ritual. <i>(1951,Autobiography of a Maori,29</i>)
 
@@ -1079,7 +1079,7 @@
 
 ### mokihi
  
- <i>n.</i> a flax raft (See [moki](../M#moki))
+ <i>n.</i> a flax raft (See [moki](mob-mys.md#moki))
 
 >  <b>MAY</b> Instructed by their Maori companions, Heaphy and Brunner had begun to learn how to live off the country; they knew about fording rivers, building <i>mokihis</i>, snaring wekas and scavenging for sea-foods along the beach. <i>(1962,West Coast Gold Rushes,37</i>)
 
@@ -1185,7 +1185,7 @@
 
 ### mokimok
  
- <i>n.</i> (See [makomako](../M#makomako))
+ <i>n.</i> (See [makomako](m-mar.md#makomako))
 
 ### mokimoki
  
@@ -1397,7 +1397,7 @@
 
 ### moko/moki
  
- <i>n.</i> short for makomako (bellbird) (See [cf. mockie](../M#mockie))
+ <i>n.</i> short for makomako (bellbird) (See [cf. mockie](mob-mys.md#mockie))
 
 >  I can hear the mokis and other birds singing outside on the trees. <i>(Nov 18, 1903,Otago Witness,68</i>)
 
@@ -1630,7 +1630,7 @@
 
 ### moleskin
  
- <i>n.</i> a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen. (See [moleskins](../M#moleskins))
+ <i>n.</i> a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen. (See [moleskins](mob-mys.md#moleskins))
 
 >  <b>LEE</b> Who knows but that I may have seen my progenitor shuffle by clad in branded moleskin. <i>(1934,Children of the Poor,1949,21 ed.</i>)
 
@@ -1913,7 +1913,7 @@
 
 ### monga-monga
  
- <i>n.</i> (See [mangemange](../M#mangemange))
+ <i>n.</i> (See [mangemange](m-mar.md#mangemange))
 
 ### mongie
  
@@ -1931,7 +1931,7 @@
 
 ### Mongrel
  
- <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../M#mongrel-mob))
+ <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](mob-mys.md#mongrel-mob))
 
 >  The link to the Mongrels is that we expected this when the Mob moved in. <i>(Feb 15, 2001,Evening Post,1</i>)
 
@@ -2549,7 +2549,7 @@
 
 
  
- <i>n.</i> (See [moa](../M#moa))
+ <i>n.</i> (See [moa](mar-moa.md#moa))
 
 ### Moore filter
  
@@ -2745,7 +2745,7 @@
 
 
  
- <i>n.</i> the owl <i>Ninox novaeseelandiae</i> (See [ruru](../R#ruru))
+ <i>n.</i> the owl <i>Ninox novaeseelandiae</i> (See [ruru](roa-ruv.md#ruru))
 
 >  [Fantails] take a leading role when a mixed group of birds mobs a morepork, moving in closer than any other species and sometimes striking the morepork on the head in dive-bombing attacks from the rear. <i>(Jan 2002,NZ Geographic,No. 55/84</i>)
 
@@ -3189,7 +3189,7 @@
 
 ### motel kennel
  
- <i>n.</i> (Rural) a steel or wooden row of individual dog kennels raised above the ground. (See [dog motel](../D#dog-motel))
+ <i>n.</i> (Rural) a steel or wooden row of individual dog kennels raised above the ground. (See [dog motel](dig-dou.md#dog-motel))
 
 >  <b>KERR</b> He poured 20 gallons down his rat holes and blew up his motel kennels. <i>(2000,High Times in the High Country,188</i>)
 
@@ -3438,7 +3438,7 @@
 
 ### mothering paddock
  
-<b>1</b> <i>n.</i> (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.] (See [maternity paddock](../M#maternity-paddock))
+<b>1</b> <i>n.</i> (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.] (See [maternity paddock](mar-moa.md#maternity-paddock))
 
 >  <b>BLAKISTON</b> As every ewe block had a set of yards and a mothering paddock, ewes and lambs were mustered in sections, with very early starts to avoid the summer heat. <i>(1952,My Yesteryears,21</i>) [NOTES: [f. c1869]]
 
@@ -3510,7 +3510,7 @@
 
 ### motingitingi
  
- <i>n.</i> (See [motengitengi](../M#motengitengi))
+ <i>n.</i> (See [motengitengi](mob-mys.md#motengitengi))
 
 ### motor assembly plant
  
@@ -3588,7 +3588,7 @@
 
 ### mottled petrel
  
- <i>n.</i> (See [rainbird](../R#rainbird))
+ <i>n.</i> (See [rainbird](ra-red.md#rainbird))
 
 >  <i>Mottled Petrel Pterodroma inexpectata </i>(FORSTER, 1844) ... OTHER NAMES: <i>Scaled petrel, Peale's petrel, rainbird, korure, titi. </i> <i>(1985,Reader's Digest Book of NZ Birds,76</i>)
 
@@ -3646,7 +3646,7 @@
 
 ### mou
  
- <i>n.</i> moustache (See [mo](../M#mo))
+ <i>n.</i> moustache (See [mo](mar-moa.md#mo))
 
 ### moukaro
  
@@ -3668,7 +3668,7 @@
 
 ### mouku
  
- <i>n.</i> (See [mauku](../M#mauku))
+ <i>n.</i> (See [mauku](mar-moa.md#mauku))
 
 ### mould up
  
@@ -3684,7 +3684,7 @@
 
 ### mounga-mounga
  
- <i>n.</i> (See [mangemange](../M#mangemange))
+ <i>n.</i> (See [mangemange](m-mar.md#mangemange))
 
 ### Mount Cook buttercup
  
@@ -3712,7 +3712,7 @@
 
 ### Mount Cook lily
  
- <i>n.</i> Ranunculus lyalli (See [great mountain buttercup](../G#great-mountain-buttercup),[shepherd's lily](../S#shepherd's-lily))
+ <i>n.</i> Ranunculus lyalli (See [great mountain buttercup](../G#great-mountain-buttercup),[shepherd's lily](sa-sho.md#shepherd's-lily))
 
 >  <b>PINNEY</b> In 1879 he sent down to Campbell at Otekaieke `a few roots and seeds of the Mount Cook Lily'. <i>(1981,Early Northern Otago Runs,33</i>)
 
@@ -3764,7 +3764,7 @@
 
 ### mountain aniseed
  
- <i>n.</i> <i>Anistome aromatica</i> (See [aniseed](../A#aniseed))
+ <i>n.</i> <i>Anistome aromatica</i> (See [aniseed](all-ari.md#aniseed))
 
 >  <b>LAING & BLACKWELL</b> [various spp.] <i>Anistome aromatica (The Aromatic Anistome)</i>. Very aromatic, 4 in.-12 in. high. ... Abundant in mountainous districts, <i>and usually known as mountain aniseed. ([Formerly] Ligusticum aromaticum</i>). ... This is a remarkable shingle-slip plant ... <i>(1940,Plants of NZ,334-336</i>)
 
@@ -4021,7 +4021,7 @@
 
 ### mountain gang
  
-<b>1</b> <i>n.</i> (Rural) a mustering gang. (See [flying gang](../F#flying-gang),[hill gang](../H#hill-gang),[hill team](../H#hill-team))
+<b>1</b> <i>n.</i> (Rural) a mustering gang. (See [flying gang](fin-fly.md#flying-gang),[hill gang](hea-hom.md#hill-gang),[hill team](hea-hom.md#hill-team))
 
 >  <b>MCMILLAN</b> Young Bill McNutt from Wanaka was my mate in the mountain gang. <i>(1981,Tales of the High Country,20</i>)
 
@@ -4199,7 +4199,7 @@
 
 ### mountain neinei
  
- <i>n.</i> (Commerce) <i>Dracophyllum traversii</i> [ORIGIN: Maori] (See [neinei](../N#neinei))
+ <i>n.</i> (Commerce) <i>Dracophyllum traversii</i> [ORIGIN: Maori] (See [neinei](n-new.md#neinei))
 
 >  Dracophyllum Traversii or mountain nei-nei is fairly uniformly distributed throughout the scrub, the ground in many places being littered with the dead leaf sheaths. <i>(1933,Canterbury Mountaineer, The,II/44</i>)
 
@@ -4354,7 +4354,7 @@
 
 ### mountain ribbonwood
  
- <i>n.</i> [aka mountain lacebark; found in SI mountain forests <i>Hoheria glabrata</i> mostly in the west, and <i>H. lyallii</i> mostly in the east, with overlap in Central Otago.] (See [houhere](../H#houhere))
+ <i>n.</i> [aka mountain lacebark; found in SI mountain forests <i>Hoheria glabrata</i> mostly in the west, and <i>H. lyallii</i> mostly in the east, with overlap in Central Otago.] (See [houhere](hom-hyp.md#houhere))
 
 >  (And) <i>Plagianthus Lyallii</i> ribbon wood <i>(1896,Dunedin Field Club Plant Catalogues</i>)
 
@@ -4471,7 +4471,7 @@
 
 
  
- <i>n.</i> <i>Podocarpus hallii</i> (See [totara](../T#totara))
+ <i>n.</i> <i>Podocarpus hallii</i> (See [totara](ten-tot.md#totara))
 
 ### mountain tree fern
  
@@ -4485,7 +4485,7 @@
 
 ### mountain trout
  
- <i>n.</i> <i>Galaxias </i>spp., kokopu, rock-trout [kokopu (cf cockabully) (see Morris for distribution of species: not confined to N.Z.)] (See [kokopu](../K#kokopu))
+ <i>n.</i> <i>Galaxias </i>spp., kokopu, rock-trout [kokopu (cf cockabully) (see Morris for distribution of species: not confined to N.Z.)] (See [kokopu](kiw-kwi.md#kokopu))
 
 >  The correct name of the Mountain Trout or Black Kokopu is <i>Galaxias argenteus</i> Gmelin and the Barred Trout or Kokopu is apparently the young, with conspicuous markings. <i>(1939,TrRSNZ,69/230</i>) [NOTES: (Whitley and Phillipps)]
 
@@ -4596,15 +4596,15 @@
 
 ### Mouray
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### Mouree
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### Mourie
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 >  <b>MACKIE</b> A customhouse boat came off to us manned by N. Zealanders or as they are called here Maoris (pronounced Mouries). <i>(1973,Traveller under Concern,72</i>) [NOTES: Quote of 30/1/1853]
 
@@ -4825,7 +4825,7 @@
 
 ### Mowerie
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### Mowree
  
@@ -5417,7 +5417,7 @@
 
 ### mugie
  
- <i>n.</i> (See [mokihi](../M#mokihi))
+ <i>n.</i> (See [mokihi](mob-mys.md#mokihi))
 
 ### mugil
  
@@ -5511,7 +5511,7 @@
 
 ### muka flax
  
- <i>n.</i> (Environment) [-] (See [muka](../M#muka))
+ <i>n.</i> (Environment) [-] (See [muka](mob-mys.md#muka))
 
 >  Other [flax] plants stand more erect; often they'll bear a black ridge down the mid-vein. They're tougher. Called muka flax, they're used to make ropes and mats. <i>(Dec 29, 2005,Dominion Post,C2</i>)
 
@@ -5709,7 +5709,7 @@
 
 ### mullet
  
- <i>n.</i> a fish (See [also muddy fish](../A#also-muddy-fish),[settler](../S#settler))
+ <i>n.</i> a fish (See [also muddy fish](../A#also-muddy-fish),[settler](sa-sho.md#settler))
 
 >  This variety of mullet [which feeds in the ocean and shoals along the coast] is known to the fishermen and the [Northland] settlers as the `clean-gut', `clean-run', or `sea-mullet'. ... The other variety [which stays in the harbour] is known to the fishermen as the `settler' or muddy fish'. When opened they are not clean and bright ... but full of slimy mud ... <i>(1897,AJHR,H-17/2</i>) [NOTES: (Hector Protection of Mullet)]
 
@@ -5932,7 +5932,7 @@
 
 ### multiple unit
  
- <i>n.</i> [aka multiple-unit] (See [unit](../U#unit))
+ <i>n.</i> [aka multiple-unit] (See [unit](und-up.md#unit))
 
 >  <b>FOX</b> Meanwhile train sets meet suburban demands on the electrified sections between Wellington and Paekakariki and between Wellington and Johnsonville. [166] On electrified sections near Wellington multiple units, not steam trains, handle suburban passenger traffic. <i>(Oct 1951,NZ Geographic,160</i>)
 
@@ -5997,11 +5997,11 @@
 
 ### mummock
  
- <i>n.</i> (See [mamaku](../M#mamaku))
+ <i>n.</i> (See [mamaku](m-mar.md#mamaku))
 
 ### mumoki
  
- <i>n.</i> (See [mamaku](../M#mamaku))
+ <i>n.</i> (See [mamaku](m-mar.md#mamaku))
 
 ### Mumsie
  
@@ -6076,7 +6076,7 @@
 
 ### munga party
  
- <i>n.</i> (WWII) rations detachment (See [munga](../M#munga))
+ <i>n.</i> (WWII) rations detachment (See [munga](mob-mys.md#munga))
 
 >  <b>SLATTER</b> Mick holding the air-letter with Maureen's rounded hand firmly written and a look on his face you seldom saw. Only when the mail came up in the jeep from company or with the <i>munga</i> party at night. <i>(1959,Gun in My Hand, A,153</i>)
 
@@ -6100,7 +6100,7 @@
 
 ### mungimungi
  
- <i>n.</i> (See [mangemange](../M#mangemange))
+ <i>n.</i> (See [mangemange](m-mar.md#mangemange))
 
 ### mungimungi tarpot
  
@@ -6108,11 +6108,11 @@
 
 ### mungu
  
- <i>n.</i> (See [mango](../M#mango))
+ <i>n.</i> (See [mango](m-mar.md#mango))
 
 ### mungu nui
  
- <i>n.</i> black physeter shark [ORIGIN: Maori] (See [mango](../M#mango))
+ <i>n.</i> black physeter shark [ORIGIN: Maori] (See [mango](m-mar.md#mango))
 
 >  <b>POLACK</b> Among the leviathans, who sport in shoals around these shores, the para paraua [a's-acute], or sperm-whale (Physeter macrocephalus); the tohora, or right-whale (Balaena bysticoetus); the mungu nui, or black physeter; the sun-fish (Diodonmola); fin-back (Balaena physalis); the musculus, or large-lipped whale; ... <i>(1838,New Zealand  (Polack),1/323</i>)
 
@@ -6618,7 +6618,7 @@
 
 ### mussel picker
  
- <i>n.</i> (See [torea](../T#torea))
+ <i>n.</i> (See [torea](ten-tot.md#torea))
 
 >  <b>LOCKLEY</b> There is also the plain, all-black torea (known as the `variable oystercatcher') locally [Hauraki Gulf] called `mussel-picker,' a solitary bird which haunts the rocky shore where mussels grow. <i>(1980,House Above the Sea,180</i>)
 
@@ -7202,7 +7202,7 @@
 
 ### mustering pole
  
-<b>1</b> <i>n.</i> (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops. (See [hillpole](../H#hillpole))
+<b>1</b> <i>n.</i> (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops. (See [hillpole](hea-hom.md#hillpole))
 
 >  <b>PASCOE</b> In the afternoon they camped, lashed blankets to their mustering poles by the side of a large rock ... <i>(1959,Great Days in NZ Exploration,89</i>)
 
@@ -7228,7 +7228,7 @@
 
 ### mustering stick
  
- <i>n.</i> (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.] (See [hillpole](../H#hillpole),[hillstick](../H#hillstick),[mustering pole](../M#mustering-pole),[nibbie](../N#nibbie),[rakau](../R#rakau))
+ <i>n.</i> (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.] (See [hillpole](hea-hom.md#hillpole),[hillstick](hea-hom.md#hillstick),[mustering pole](mob-mys.md#mustering-pole),[nibbie](../N#nibbie),[rakau](ra-red.md#rakau))
 
 >  <b>LOUGHNAN</b> micky-mick: corruption of the Maori name mingiming (Coprosma propinqua) a native shrub which will yield excellent mustering sticks, which in some quarters are preferred even to manuka. <i>(1981,Loughnan Glossary,53</i>)
 
@@ -7332,7 +7332,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep home-killed or to be home-killed for consumption on a farm property. (See [killer](../K#killer))
+<b>1</b> <i>n.</i> (Rural) a sheep home-killed or to be home-killed for consumption on a farm property. (See [killer](kee-kiw.md#killer))
 
 >  <b>NEWTON</b> We wanted a mutton one night, and against my better judgment, I took Sam out to run in the killers. <i>(1964,Straggle Muster,74</i>)
 
@@ -7354,7 +7354,7 @@
 
 ### mutton chain
  
- <i>n.</i> a freezing works processing chain devoted to sheepmeat. (See [chain](../C#chain))
+ <i>n.</i> a freezing works processing chain devoted to sheepmeat. (See [chain](c-chi.md#chain))
 
 >  <b>LIND</b> Viscera conveyors were being installed on all mutton chains. <i>(1985,Cut Above, A,151</i>)
 
@@ -7396,7 +7396,7 @@
 
 ### mutton gun
  
- <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See [cf. mutton dagger](../M#mutton-dagger))
+ <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See [cf. mutton dagger](mob-mys.md#mutton-dagger))
 
 >  <b>GORDON</b> <i>Mutton gun</i>: `tool'. <i>(May 17, 1951,Personal Communication</i>) [NOTES: Feilding Freezing Works terms]
 
@@ -7752,7 +7752,7 @@
 
 ### muttonbird woods
  
- <i>n.</i> here perhaps a confusion of `woods', `muttonwood' (See [muttonwood](../M#muttonwood))
+ <i>n.</i> here perhaps a confusion of `woods', `muttonwood' (See [muttonwood](mob-mys.md#muttonwood))
 
 >  In hunting [Stewart Island Kiwi] his plan was to ...intercept them on their way from their open feeding-grounds to the shelter of the `mutton-bird woods,' ... <i>(1897,TrNZI,29/205</i>) [NOTES: (Buller)]
 
@@ -8055,7 +8055,7 @@
 
 ### MyBank
  
- <i>n.</i> (See [People's Bank](../P#people's-bank),[Jim's Bank](../J#jim's-bank),[Kiwibank](../K#kiwibank))
+ <i>n.</i> (See [People's Bank](p-per.md#people's-bank),[Jim's Bank](../J#jim's-bank),[Kiwibank](kee-kiw.md#kiwibank))
 
 >  It's not the people's bank, it's not the Kiwi Bank - it's MyBank... She slammed the proposed "MyBank" branding as a "fitting name for a bank set up solely to feed [Deputy Prime Minister] Jim Anderton's ego." <i>(Feb 17, 2001,Dominion,1</i>)
 

@@ -2,7 +2,7 @@
 
 ### no-go area
  
- <i>n.</i> area dubbed "low employment location" (See [dead zone](../D#dead-zone))
+ <i>n.</i> area dubbed "low employment location" (See [dead zone](d-dif.md#dead-zone))
 
 >  A year ago Sunday Star Times visited the tiny Wairarapa settlement not long after it was designated as one of 160 "low employment locations" (better known as dead zones or no-go areas) by Work and Income, meaning that people could not move there and receive a benefit. <i>(Mar 6, 2005,Sunday Times (NZ),A15</i>)
 
@@ -301,7 +301,7 @@
 
 ### nodding thistle
  
- <i>n.</i> (See [thistle](../T#thistle))
+ <i>n.</i> (See [thistle](ten-tot.md#thistle))
 
 >  <b>HILGENDORF</b> NODDING THISTLE (<i>Carduus nutans</i>), also called bastard Scotch thistle, is found in Auckland, South [established in] Canterbury and Otago. [and is increasing in other parts of both islands.] ... It is biennial with deeply-cut prickly edged leaves, ... <i>(1926,Weeds of New Zealand,192,1967 ed.</i>)
 
@@ -963,7 +963,7 @@
 
 ### North Island Hector's dolphin
  
- <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](../M#maui's-dolphin))
+ <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](mar-moa.md#maui's-dolphin))
 
 >  Since 1985, at least 20 of the North Island Hector's dolphins have died. <i>(Mar 30, 2002,Listener (New Zealand Listener),26</i>)
 
@@ -1207,7 +1207,7 @@
 
 ### North Sea rabbit
  
- <i>n.</i> (humorous) a herring [WWI] (See [SHANGHAI BALLAST](../S#shanghai-ballast),[UNDERGROUND MUTTON](../U#underground-mutton))
+ <i>n.</i> (humorous) a herring [WWI] (See [SHANGHAI BALLAST](sa-sho.md#shanghai-ballast),[UNDERGROUND MUTTON](u-und.md#underground-mutton))
 
 >  6 ...the ever popular `North Sea Rabbits' <i>(Nov 22, 1918,NZEF Chronicles,20</i>)
 
@@ -1349,7 +1349,7 @@
 
 ### Northern Island
  
- <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](../S#southern-island))
+ <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](sho-spa.md#southern-island))
 
 >  Have they [missionaries] any station in the southern island? - Not in the southern island. When I said to the south, I meant to the south of the northern island. <i>(Jul 20, 1840,Minutes of Evidence,815</i>) [NOTES: 1840 July 20 Minutes of Evidence taken before the Select Committee on NZ (from Report from the Select Committee (of the House of Commons) on New Zealand 11 August 1840) 91 [Rev John Beecham] 815.]
 
@@ -1444,7 +1444,7 @@
 
 ### northern oystercatcher
  
- <i>n.</i> (Environment) (See [mud pigeon](../M#mud-pigeon))
+ <i>n.</i> (Environment) (See [mud pigeon](mob-mys.md#mud-pigeon))
 
 >  <b>FALLA et al.</b> NORTHERN (VARIABLE) OYSTERCATCHER <i>Haemotopus reischeki Local name</i>: Mud Pigeon. <i>(1966,Birds of New Zealand,119</i>)
 
@@ -1518,7 +1518,7 @@
 
 ### northern spiny dogfish
  
- <i>n.</i> (See [dogfish](../D#dogfish))
+ <i>n.</i> (See [dogfish](dig-dou.md#dogfish))
 
 >  Conservation Department marine ecologist Clinton Duffy said it was believed that at least five species of dogfish were being described as northern spiny dogfish. <i>(Jul 14, 2005,Dominion Post,A9</i>)
 
@@ -1649,7 +1649,7 @@
 
 ### nos bar
  
- <i>n.</i> (See [nos](../N#nos))
+ <i>n.</i> (See [nos](no-nzx.md#nos))
 
 >  Anderton has declared war on the people he calls "parasites" who run the nos bars. <i>(2006,NZ Herald</i>) [NOTES: http://tvnz.co.nz/view/news_health_story_skin/537940?format+html*Accessed 26/03/06]
 
@@ -1657,7 +1657,7 @@
 
 ### nos-head
  
- <i>n.</i> (informal) [-] (See [nos](../N#nos))
+ <i>n.</i> (informal) [-] (See [nos](no-nzx.md#nos))
 
 >  A nos-head like Tim will shell out around fifty bucks for a cracker, insert a canister of nitrous oxide, release that gas into party balloon, and inhale it from there. <i>(May 2005,Lucid,14</i>)
 
@@ -1789,7 +1789,7 @@
 
 ### not give a cooee
  
- <i>phr.</i> not to give a hoot, a damn (See [cooee](../C#cooee))
+ <i>phr.</i> not to give a hoot, a damn (See [cooee](con-cyp.md#cooee))
 
 >  Personally, I do not give a cooey if the Wellington Club stays up or is knocked down. What worries me is that the narrow Terrace neck by Woodward Street is once again to become a quagmire for several years. <i>(Mar 14, 1986,Contact (Wgtn),2</i>)
 
@@ -1982,7 +1982,7 @@
 
 ### not worth a cracker
  
- <i>phr.</i> worth nothing, worthless (See [cracker](../C#cracker))
+ <i>phr.</i> worth nothing, worthless (See [cracker](con-cyp.md#cracker))
 
 >  <b>CASEY</b> `She's a dead-end show round about four o'clock of a week-day, isn't she? ... Nothing doing worth a cracker, eh.' <i>(1963,As Short a Spring,89</i>)
 
@@ -2154,7 +2154,7 @@
 
 ### notornis
  
- <i>n.</i> (See [takahe](../T#takahe))
+ <i>n.</i> (See [takahe](t-ten.md#takahe))
 
 >  <b>THOMSON</b> The apteryx, notornis, kakapo, and weka, are only found in New Zealand's solitudes. <i>(1859,Story of New Zealand, The,1/35,1974 ed.</i>)
 
@@ -2345,7 +2345,7 @@
 
 ### Nua, the
  
- <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See [Nua pride](../N#nua-pride))
+ <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See [Nua pride](no-nzx.md#nua-pride))
 
 >  While Wairarapa Bush now have an extra trophy to dust each week the mighty 'Nua's coach Peter Kemp has plans not even to allow dust to settle here. <i>(Nov 12, 2005,Horowhenua-Kapiti Chronicle,62</i>)
 
@@ -3352,7 +3352,7 @@
 
 ### NZNA
  
- <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](../N#new-zealand-natives'-association))
+ <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](new-no.md#new-zealand-natives'-association))
 
 ### NZNO
  
@@ -3380,7 +3380,7 @@
 
 ### NZPARS
  
- <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See [PARS](../P#pars))
+ <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See [PARS](p-per.md#pars))
 
 >  The Guest Speaker, John Whitty, from NZ PARS, spoke on a number of issues, one of them being the elections and what we stood to lose or gain from the two main parties. <i>(Nov 4, 2005,Whakatane Beacon,8</i>)
 
@@ -3436,7 +3436,7 @@
 
 ### NZRSA
  
- <i>abbr.</i> (See [RSA](../R#rsa))
+ <i>abbr.</i> (See [RSA](roa-ruv.md#rsa))
 
 >  The annual report of the N.Z.R.S.A. Conference in the July issue of `Quick March' indicated that the Government would give satisfaction in a new mufti allowance. <i>(Aug 1, 1918,Quick March,21</i>)
 

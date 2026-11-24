@@ -29,7 +29,7 @@
 
 ### on the bones of one's arse
  
- <i>phr.</i> (See [on the bone](../O#on-the-bone))
+ <i>phr.</i> (See [on the bone](on-ore.md#on-the-bone))
 
 >  <b>SCOTT</b> Lived on the bones of their arse for years before they got a break. <i>(1988,Glory Days,8</i>)
 
@@ -431,7 +431,7 @@
 
 ### on the turps
  
- <i>phr.</i> (informal) drinking alcohol (See [turps](../T#turps))
+ <i>phr.</i> (informal) drinking alcohol (See [turps](tot-tyr.md#turps))
 
 >  "Don's not frightened of people . . . But he lives a lot of the time in his head. He hasn't been on the turps much." <i>(Jul 10, 2005,Sunday Star Times,C1</i>)
 
@@ -903,7 +903,7 @@
 
 ### one-sheep ringer
  
- <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](../R#ringer))
+ <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](red-roa.md#ringer))
 
 ### one-spot puller
  
@@ -913,11 +913,11 @@
 
 ### one-stander
  
- <i>n.</i> (See [stander](../S#stander))
+ <i>n.</i> (See [stander](spa-sys.md#stander))
 
 ### one-star artist
  
- <i>n.</i> (See [artist](../A#artist))
+ <i>n.</i> (See [artist](ari-axe.md#artist))
 
 ### one-striper
  
@@ -1083,11 +1083,11 @@
 
 ### ongkus
  
- <i>adj.</i> (See [onkus](../O#onkus))
+ <i>adj.</i> (See [onkus](on-ore.md#onkus))
 
 ### onion
  
- <i>n.</i> 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc. (See [Maori onion](../M#maori-onion))
+ <i>n.</i> 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc. (See [Maori onion](m-mar.md#maori-onion))
 
 >  Captain Wellby, a young cavalry officer, recently spent a furlough in trudging 2000 miles through Tibet, from Leb to Pekin. For 14 weeks he and his party did not meet a single human being, and rarely saw any vegetation higher than a wild onion. <i>(Dec 15, 1898,Otago Witness,58</i>)
 
@@ -1110,7 +1110,7 @@
 
 ### onion flower
  
- <i>n.</i> (See [onion plant](../O#onion-plant),[onion weed](../O#onion-weed))
+ <i>n.</i> (See [onion plant](on-ore.md#onion-plant),[onion weed](on-ore.md#onion-weed))
 
 >  <b>FRAME</b> The tap leaked, the earth was bogged with moss and onion flower. <i>(1963,Reservoir, The,71</i>) [NOTES: (`Bull Calf')]
 
@@ -1124,11 +1124,11 @@
 
 ### onion plant
  
- <i>n.</i> a wild variety of onion with masses of attractive white flowers. [there should be many cits for this; but none in 1st main draft] (See [Maori onion](../M#maori-onion))
+ <i>n.</i> a wild variety of onion with masses of attractive white flowers. [there should be many cits for this; but none in 1st main draft] (See [Maori onion](m-mar.md#maori-onion))
 
 ### onion twitch
  
- <i>n.</i> (See [twitch](../T#twitch))
+ <i>n.</i> (See [twitch](tot-tyr.md#twitch))
 
 >  <b>HILGENDORF</b> ONION TWITCH (<i>Arrhenatherum [elatius</i> var. <i>bulbosum] avenaceum</i>) occurs in permanent pastures and on roadsides as among crops, but is commonest in the districts where the land is cultivated. <i>(1926,Weeds of New Zealand,38,1967, p. 40 ed.</i>)
 
@@ -1217,7 +1217,7 @@
 
 ### onside (with)
  
- <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](../O#offside-with))
+ <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](o-on.md#offside-with))
 
 >  <b>ASHTON-WARNER</b> Mr Flake has the whole of the department behind him and it's best for a young teacher to keep on side. ...[Fn] on side a Rugby football term meaning in favour. <i>(1979,I Passed This Way,312,1980 ed.</i>)
 
@@ -1905,7 +1905,7 @@
 
 ### open-faced
  
- <i>adj.</i> (of sheep) with heads relatively free of wool (See [clear-faced](../C#clear-faced),[clean-faced](../C#clean-faced))
+ <i>adj.</i> (of sheep) with heads relatively free of wool (See [clear-faced](../C#clear-faced),[clean-faced](chi-con.md#clean-faced))
 
 >  <b>STUDHOLME</b> Runholders later reduced this trouble [woolblindness] by using open faced rams. <i>(1940,Te Waimate,119</i>)
 
@@ -1945,7 +1945,7 @@
 
 ### opening of the books
  
- <i>phr.</i> (See [open the books](../O#open-the-books))
+ <i>phr.</i> (See [open the books](on-ore.md#open-the-books))
 
 >  The Government seems to have forgone thechance of a pre-election drop in interestrates following its opening-of-the-booksexercise yesterday... Domestic interestrates could have come down if the books-opening exercise had been accompanied bysignificantly reduced borrowing plans. <i>(Oct 6, 1993,Evening Post,1</i>)
 
@@ -2169,7 +2169,7 @@
 
 ### opportunity shop
  
- <i>n.</i> a shop selling second-hand goods for charity, etc. short form is op shop [ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel] (See [op shop](../O#op-shop))
+ <i>n.</i> a shop selling second-hand goods for charity, etc. short form is op shop [ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel] (See [op shop](on-ore.md#op-shop))
 
 >  The opportunity shop is still operatingsatisfactorily, and considering the timeof stress, we may say the results aregood. <i>(Jan 11, 1933,NZ Tablet,23</i>)
 
@@ -2284,7 +2284,7 @@
 
 ### orange blossom
  
- <i>n.</i> <i>Hoheria populnea</i> (See [lacebark](../L#lacebark))
+ <i>n.</i> <i>Hoheria populnea</i> (See [lacebark](l-lay.md#lacebark))
 
 >  <b>FEATON</b> HOHERIA POPULNEA (<i>A.Cunn.</i>) ... The `HOUI' or `WHAU-WHI'.- ... grows abundantly in both Islands. ... Owing to the chaste [snow-white] appearance of its flowers, it has not inaptly been termed by some the `New Zealand orange Blossom'. The inner bark is peculiar, and consists of layer upon layer of laced fibre, ...From this peculiarity it is called by the settlers the `Thousand Jacket', `lace-bark', or `Ribbon-wood'. <i>(1889,Art Album NZ Flora,55</i>)
 
@@ -2448,7 +2448,7 @@
 
 
  
- <i>n.</i> (Environment) (See [kokako](../K#kokako))
+ <i>n.</i> (Environment) (See [kokako](kiw-kwi.md#kokako))
 
 >  <b>HUTTON</b> 41. GLAUCOPIS CINEREA. Gml. Orange-wattled Crow. <i>Callaeas Wilsoni.</i> BULLER. <i>(1871,Birds of New Zealand,16</i>)
 
@@ -2484,7 +2484,7 @@
 
 ### orangewood
  
- <i>n.</i> (See [cf. orange-leaf](../O#orange-leaf))
+ <i>n.</i> (See [cf. orange-leaf](on-ore.md#orange-leaf))
 
 >  The specimens of Nelson timber include lilac, orange wood, golden pine, yellow and silver pine, milkwood, and lancewood. <i>(Aug 11, 1885,Nelson Evening Mail,3</i>)
 
@@ -2517,7 +2517,7 @@
 
 ### orchard grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  When "orchard grass" was first sown in 1853, little was it dreamt that it would bring wealth in its trail. It was this grass, cocksfoot, that has made Banks Peninsula known. <i>(1988,Tales of Pioneer Women,213</i>) [NOTES: Writing of 1940]
 
@@ -2942,7 +2942,7 @@
 
 ### oreo dory
  
- <i>n.</i> (See [dory](../D#dory))
+ <i>n.</i> (See [dory](dig-dou.md#dory))
 
 >  Black cardinalfish, frostfish, ghost shark, ribaldo, rubyfish, sea perch, trumpeter, white warehou and yellow-eyed mullet have now been included... Other reductions to catch limits are to specific stocks of grey mullet, barracouta and oreo dory. <i>(Sep 12, 1998,Dominion,2</i>)
 
@@ -2983,7 +2983,7 @@
 
 ### Orewa
  
- <i>n.</i> (See [Orewa I](../O#orewa-i),[Orewa II](../O#orewa-ii),[Orewa III](../O#orewa-iii),[Orewa speech](../O#orewa-speech),[Orewan](../O#orewan))
+ <i>n.</i> (See [Orewa I](on-ore.md#orewa-i),[Orewa II](on-ore.md#orewa-ii),[Orewa III](on-ore.md#orewa-iii),[Orewa speech](ore-ozz.md#orewa-speech),[Orewan](ore-ozz.md#orewan))
 
 >  But the marquee and shifting the raffle draw to after the speech were about the limit of what they were prepared to give to the media circus that is now Orewa. <i>(Feb 1, 2006,Dominion Post,A3</i>)
 
@@ -2999,13 +2999,13 @@
 
 ### Orewa I
  
- <i>n.</i> Don Brash's first speech at Orewa (See [Orewa speech](../O#orewa-speech))
+ <i>n.</i> Don Brash's first speech at Orewa (See [Orewa speech](ore-ozz.md#orewa-speech))
 
 >  But his much more carefully shaded analysis will resonate with those MPs, including some senior (white) MPs, who have bitten their tongues since Orewa I, and two new (white) MPs deeply at odds with Brash's line. <i>(Oct 4, 2005,NZ Herald,A13</i>)
 
 ### Orewa II
  
- <i>n.</i> (See [Orewa](../O#orewa),[Orewa III](../O#orewa-iii),[Orewan](../O#orewan))
+ <i>n.</i> (See [Orewa](on-ore.md#orewa),[Orewa III](on-ore.md#orewa-iii),[Orewan](ore-ozz.md#orewan))
 
 >  Orewa II showed that the Brash souffle can rise twice, even if Brash's own colleagues let the air out of it immediately. <i>(Apr 9, 2005,Listener (New Zealand Listener),22</i>)
 
@@ -3013,7 +3013,7 @@
 
 ### Orewa III
  
- <i>n.</i> (See [Orewa](../O#orewa),[Orewa II](../O#orewa-ii),[Orewan](../O#orewan))
+ <i>n.</i> (See [Orewa](on-ore.md#orewa),[Orewa II](on-ore.md#orewa-ii),[Orewan](ore-ozz.md#orewan))
 
 >  Orewa III is a bog-standard political speech of the sort that National MPs will deliver hundreds, if not thousands, of times [sic] this year. <i>(Feb 1, 2006,Dominion Post,B4</i>)
 

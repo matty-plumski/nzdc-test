@@ -168,7 +168,7 @@
 
 ### quartz-leader
  
- <i>n.</i> [goldmining] (See [cf. leader](../L#leader))
+ <i>n.</i> [goldmining] (See [cf. leader](lay-liv.md#leader))
 
 >  <b>REID</b> A slate face in which there are numerous quartz-leaders <i>(1884,Rambles on the Golden Coast,105</i>)
 
@@ -386,7 +386,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See [Cashel Street cocky](../C#cashel-street-cocky))
+<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See [Cashel Street cocky](c-chi.md#cashel-street-cocky))
 
 >  <b>TURNER</b> It is permissible to call a member [of Parliament] a 'Queen Street farmer' (from the main street in Auckland) and ask him to 'stick to the truth occasionally.' <i>(1966,English Language in Aust. & NZ, The,49</i>)
 

@@ -2,7 +2,7 @@
 
 ### L&P
  
- <i>abbr.</i> Lemon and Paeroa (See [Lemon and Paeroa](../L#lemon-and-paeroa))
+ <i>abbr.</i> Lemon and Paeroa (See [Lemon and Paeroa](lay-liv.md#lemon-and-paeroa))
 
 >  The land's owner soon began bottling the water and a version with lemon added called Paeroa and Lemon. Now branded as L&P and made in Auckland. <i>(Dec 30, 2004,Dominion Post,C2</i>)
 
@@ -240,7 +240,7 @@
 
 ### lace-wood
  
- <i>n.</i> [rare] (See [lacebark](../L#lacebark))
+ <i>n.</i> [rare] (See [lacebark](l-lay.md#lacebark))
 
 >  <b>FEATON</b> <i> Hoheria populnea </i> lace wood <i>(1889,Art Album NZ Flora</i>) [NOTES: And.]
 
@@ -769,7 +769,7 @@
 
 ### lahtah
  
- <i>n.</i> (See [rata](../R#rata))
+ <i>n.</i> (See [rata](ra-red.md#rata))
 
 ### lair up
  
@@ -850,7 +850,7 @@
 
 ### lamb break
  
-<b>1</b> <i>n.</i> (Rural) an escape by a lamb from a mob of ewes and lambs [often causing a mass escape.] (See [break](../B#break))
+<b>1</b> <i>n.</i> (Rural) an escape by a lamb from a mob of ewes and lambs [often causing a mass escape.] (See [break](bla-bri.md#break))
 
 >  <b>HALL</b> When a lamb peels off from a mob, it's called a lamb break. This is most likely to occur when they've become mismothered - that is separated from their mothers in the mob which, as you can imagine, makes them pretty upset. Lamb breaks are dreaded by shepherds because they can start a chain reaction, with the entire mob rapidly getting out of control. <i>(1987,Shepherd's Year,  A,42</i>)
 
@@ -892,7 +892,7 @@
 
 ### lamb drafter
  
-<b>1</b> <i>n.</i> (Rural) fat lamb buyer [also farmer or person employed to sort fat lambs for sale to freezing works.] (See [drafter](../D#drafter))
+<b>1</b> <i>n.</i> (Rural) fat lamb buyer [also farmer or person employed to sort fat lambs for sale to freezing works.] (See [drafter](dou-dyn.md#drafter))
 
 >  <b>MALLOCH</b> Jack Dixon the lamb drafter for R & F Wallis was often part of those busy days. For 65 years he raddled lambs for that firm and even in his 80s he could be seen clutching the drafting gate at Waikaia Plains. <i>(1992,From the Tops,112</i>)
 
@@ -920,7 +920,7 @@
 
 ### lamb picker
  
-<b>1</b> <i>n.</i> (Rural) a fat lamb buyer or drafter. (See [picker](../P#picker))
+<b>1</b> <i>n.</i> (Rural) a fat lamb buyer or drafter. (See [picker](per-pop.md#picker))
 
 >  <b>GIBSON</b> The owner of the property had a figure, the lamb picker had the same figure, and on the rail consignment notes it had the same figure. <i>(1990,Among the High Hills of Canterbury,31</i>)
 
@@ -932,7 +932,7 @@
 
 ### lamb's fry
  
- <i>n.</i> sheep's liver eaten as a (fried) food (See [fry](../F#fry))
+ <i>n.</i> sheep's liver eaten as a (fried) food (See [fry](fly-fuz.md#fry))
 
 >  A counter lunch was put on consisting ofbaked potatoes, rissoles, sausage rollsor lambs' fry. <i>(Jun 13, 1924,Grey River Argus,4</i>)
 
@@ -1065,7 +1065,7 @@
 
 ### lambie
  
- <i>n.</i> (See [lammie](../L#lammie))
+ <i>n.</i> (See [lammie](l-lay.md#lammie))
 
 >  The protesters were a broad mix of people - "pensioners, women with their families, two and three kiddies, blokes in suits standing alongside blokes in hard hats and lambies [thigh-length woollen shirts] that were soaking wet." <i>(Sep 21, 1999,Dominion,9</i>)
 
@@ -1730,7 +1730,7 @@
 
 ### Land Court
  
- <i>n.</i> (See [Native Land Court](../N#native-land-court))
+ <i>n.</i> (See [Native Land Court](n-new.md#native-land-court))
 
 >  Riki Tatahunga, better known as ~King Dick', died recently at Tauranga. ... his illness was ascribed to witchcraft, brought on because he appeared as advocate against his own tribe in a Land Court case. <i>(1905,TrNZI,37/35</i>)
 
@@ -1934,7 +1934,7 @@
 
 ### land of ferns
  
- <i>n.</i> New Zealand (See [Fernland](../F#fernland))
+ <i>n.</i> New Zealand (See [Fernland](f69-fin.md#fernland))
 
 >  <b>YATE</b> One of the most peculiar features in the character of this country is the fern, which everywhere flourishes most luxuriantly ...[note] 57 species ... have been discovered <i>(1835,New Zealand (various authors/titles),15</i>) [NOTES: Griffiths Collection]
 
@@ -1950,7 +1950,7 @@
 
 ### Land of the Great White Cloud
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  The home of the Maori in the `Land of the Great White Cloud' may, perhaps, be longcontinued ... <i>(1903,TrNZI,35/180</i>)
 
@@ -1984,7 +1984,7 @@
 
 ### land of the long white chord
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  An imaginary location, a time as much as a place, the land of the long white chord - this idea of Dunedin is deeply entrenched. <i>(Aug 7, 1999,Listener (New Zealand Listener),39</i>)
 
@@ -2026,13 +2026,13 @@
 
 ### Land of the Long White Football
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  What a boring and lonely business it must be for this brightest of foreign sparks living in the land of the long white football, or should that read the long brown football? <i>(Apr 12, 2005,Dominion Post,B7</i>)
 
 ### Land of the Long White Shroud
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  New Zealand was beginning to look like the Land of the Long White Shroud for the Australian cricket team, ... <i>(1982,Dominion,12</i>)
 
@@ -2046,7 +2046,7 @@
 
 ### Land of the Long White Western Tradition
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  ...the presence of Solander on Cook's first voyage.. suggests that Swedish was the second language spoken in the Land of the Long White Western Tradition. <i>(Jun 28, 1986,Listener (New Zealand Listener),8</i>)
 
@@ -2058,7 +2058,7 @@
 
 ### Land of the Wrong White Crowd
  
- <i>n.</i> (See [Land of the Long White Cloud](../L#land-of-the-long-white-cloud))
+ <i>n.</i> (See [Land of the Long White Cloud](l-lay.md#land-of-the-long-white-cloud))
 
 >  <b>McGILL</b> land of the wrong white crowd New Zealand perceived as dominated by Pakehas, backlash c/p variant of translation of Maori name for New Zealand, `Aotearoa', land of the long white cloud. <i>(1988,Dictionary of Kiwi Slang, A,68</i>)
 
@@ -2581,7 +2581,7 @@
 
 ### landrail
  
- <i>n.</i> flight of stairs or steps without a change of direction. [no citations] (See [rail](../R#rail))
+ <i>n.</i> flight of stairs or steps without a change of direction. [no citations] (See [rail](ra-red.md#rail))
 
 ### LandSAR
  
@@ -2852,7 +2852,7 @@
 
 ### large/big/great kiwi
  
- <i>n.</i> (Environment) (See [also BROWN](../A#also-brown),[GREY](../G#grey),[SPOTTED](../S#spotted))
+ <i>n.</i> (Environment) (See [also BROWN](../A#also-brown),[GREY](gra-gyp.md#grey),[SPOTTED](spa-sys.md#spotted))
 
 >  <b>HUTTON</b> 61. ? APTERYX MAXIMA. Verr. Great Kiwi. Roa-roa. <i>(1871,Birds of New Zealand,23</i>)
 
@@ -3347,7 +3347,7 @@
 
 ### latrine intelligence
  
- <i>n.</i> rumour (See [latrinogram](../L#latrinogram))
+ <i>n.</i> rumour (See [latrinogram](l-lay.md#latrinogram))
 
 >  <b>BRUNO</b> Beautiful spies .... make such a fuss of Field Officers to gain the latest latrine intelligence cf P: Latrine Rumours (1915) - and remarks; Latrine Wireless (Aust. Soldiers' coll 1937); WF (WW2) (cf Sir Thomas Overbury Characters (B 14-16) quoted by J. Dover Wilson Life in Shakespeare's England 30 (Peng) `[The Franklin] is not so inquisitive after neus derived fromthe privy closet, when finding an aerie of hawks in his own ground, or the fealing of a colt come of a good strain are tidings more pleasant, more profitable.') <i>(1944,Desert Daze,12</i>) [NOTES: WWII]
 
@@ -3379,7 +3379,7 @@
 
 ### latte socialist
  
- <i>n.</i> (See [chardonnay socialist](../C#chardonnay-socialist))
+ <i>n.</i> (See [chardonnay socialist](c-chi.md#chardonnay-socialist))
 
 >  Williams has been painted lately as a latte socialist, or union bogeyman (cue ominous orchestra)... <i>Ibid.</i> 27 But a latte socialist? "I suppose you could make that accusation in that I live in central Auckland. <i>(Nov 18, 2000,Listener (New Zealand Listener),26</i>)
 
@@ -3737,7 +3737,7 @@
 
 ### lawyer bramble
  
- <i>n.</i> (See [bramble](../B#bramble))
+ <i>n.</i> (See [bramble](bla-bri.md#bramble))
 
 >  <b>DEWAR</b> Fern and moki and fuchsia, laced through with lawyer bramble, grew dense and hopeless at their feet. But beyond was the native bush [in Southland]. <i>(1953,Chaslands,12</i>)
 

@@ -621,7 +621,7 @@
 
 ### dink
  
- <i>v.</i> (See [double-bank](../D#double-bank))
+ <i>v.</i> (See [double-bank](dou-dyn.md#double-bank))
 
 
 
@@ -970,7 +970,7 @@
 
 ### dipping crutch
  
-<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip. (See [crutch](../C#crutch),[dipping pole](../D#dipping-pole))
+<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip. (See [crutch](con-cyp.md#crutch),[dipping pole](dig-dou.md#dipping-pole))
 
 >  <b>GASCOIGNE</b> My task was on the edge of the dip, armed with a dipping crutch to plunge each sheep under, for lice swarm up on to the heads of affected sheep as they swim. <i>(1965,From the Top of a Hill,35</i>)
 
@@ -986,7 +986,7 @@
 
 ### dipping pen
  
-<b>1</b> <i>n.</i> (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath. (See [dipping yard](../D#dipping-yard))
+<b>1</b> <i>n.</i> (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath. (See [dipping yard](dig-dou.md#dipping-yard))
 
 >  .. sheep entering the dipping pen will run much easier if they see the decoys before they see the dip itself. The dipping pen will hold 30 sheep. <i>(Jan 1965,NZ Journal of Agriculture,11</i>)
 
@@ -1016,7 +1016,7 @@
 
 ### dipping-pole
  
-<b>1</b> <i>n.</i> (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath. (See [crutch](../C#crutch),[dipping crutch](../D#dipping-crutch))
+<b>1</b> <i>n.</i> (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath. (See [crutch](con-cyp.md#crutch),[dipping crutch](dig-dou.md#dipping-crutch))
 
 >  <b>PORTER</b> .. the yell of a musterer whose dipping pole slipped off a sheep's head and he fell into the dip. <i>(1970,Under the Nor'West Arch,33</i>)
 
@@ -1930,7 +1930,7 @@
 
 ### doab
  
- <i>n.</i> (See [grass](../G#grass),[doab](../D#doab))
+ <i>n.</i> (See [grass](go-gra.md#grass),[doab](dig-dou.md#doab))
 
 ### dob
  
@@ -1956,7 +1956,7 @@
 
 ### dobber
  
- <i>n.</i> (Sport) [cricket. Abbrev. of dibbly-dobbler?] (See [dibbly-dobbler](../D#dibbly-dobbler))
+ <i>n.</i> (Sport) [cricket. Abbrev. of dibbly-dobbler?] (See [dibbly-dobbler](d-dif.md#dibbly-dobbler))
 
 >  The two dobbers took wickets as well as drying up the runs. <i>(Oct 23, 2005,Sunday Star Times,B8</i>)
 
@@ -2024,7 +2024,7 @@
 
 ### DOC Estate
  
- <i>n.</i> (See [conservation estate](../C#conservation-estate))
+ <i>n.</i> (See [conservation estate](chi-con.md#conservation-estate))
 
 >  They are in fact symptomatic of problems occurring throughout New Zealand at present as the DOC estate continues expanding with reckless abandon. <i>(Jun 1999,North & South,14</i>)
 
@@ -2300,7 +2300,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See [tailing](../T#tailing))
+<b>1</b> <i>n.</i> (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See [tailing](t-ten.md#tailing))
 
 >  <b>BARDSLEY</b> Docking we used to do out on the paddocks. <i>(2000,Land Girls, The,100</i>)
 
@@ -2537,7 +2537,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit; double-fleecer](../H#hermit;-double-fleecer),[bushranger](../B#bushranger))
+<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit; double-fleecer](../H#hermit;-double-fleecer),[bushranger](bri-byo.md#bushranger))
 
 >  <b>HINDMARSH</b> .. we snared quite an assortment of dodgers - even half a dozen wild cattle caught napping well out from the bush edge. <i>(1997,Come Be a Pioneer,97</i>)
 
@@ -2672,7 +2672,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a gudgeon that has a pointed thread and does not go right through. (See [gudgeon](../G#gudgeon))
+<b>1</b> <i>n.</i> (Rural) a gudgeon that has a pointed thread and does not go right through. (See [gudgeon](gra-gyp.md#gudgeon))
 
 >  To this hook is attached a second two-foot length with the pair of short pieces or 'dogs' mounted upon it at a point eight inches from the end. In operation the hook is placed about the [fence] post in the position indicated, and the wire drawn across the handle so that it is engaged by the 'dogs.' <i>(Sep 1, 1925,NZ Farmer,1326</i>)
 
@@ -3108,7 +3108,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See [killer](../K#killer))
+<b>1</b> <i>n.</i> (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See [killer](kee-kiw.md#killer))
 
 >  <b>STUDHOLME</b> In the old mustering camps the dog tucker was usually wild pig. <i>(1940,Te Waimate,120</i>)
 
@@ -3505,7 +3505,7 @@
 
 
  
- <i>n.</i> . (See [northern spiny dogfish](../N#northern-spiny-dogfish))
+ <i>n.</i> . (See [northern spiny dogfish](no-nzx.md#northern-spiny-dogfish))
 
 >  Conservation Department marine ecologist Clinton Duffy said it was believed that at least five species of dogfish were being described as northern spiny dogfish. <i>(Jul 14, 2005,Dominion Post,A9</i>)
 
@@ -3716,7 +3716,7 @@
 
 ### dogmeat
  
- <i>n.</i> (See [dog tucker](../D#dog-tucker))
+ <i>n.</i> (See [dog tucker](dig-dou.md#dog-tucker))
 
 >  Every office has a wretch... They are almost always at the bottom of the heap, mad and unloved, and their job status may as well be called dogmeat... It's a dog-eat-dogmeat world. <i>(Apr 22, 2000,Listener (New Zealand Listener),94</i>)
 
@@ -3734,7 +3734,7 @@
 
 ### dogstail
  
- <i>n.</i> (See [grass](../G#grass),[dogstail](../D#dogstail))
+ <i>n.</i> (See [grass](go-gra.md#grass),[dogstail](dig-dou.md#dogstail))
 
 ### dogwood
  
@@ -3756,7 +3756,7 @@
 
 ### doing a Tuku
  
- <i>phr.</i> (See [Tukugate](../T#tukugate))
+ <i>phr.</i> (See [Tukugate](tot-tyr.md#tukugate))
 
 >  Everyone know what "doing a tuku" is, but the event that inspired it is already fading into the footnotes of scandal, and I doubt its linguistic life has long to go. <i>(Apr 10, 1999,Listener (New Zealand Listener),47</i>)
 
@@ -3981,7 +3981,7 @@
 
 ### Dolly down the reel
  
- <i>phr.</i> French knitting (See [French knitting](../F#french-knitting))
+ <i>phr.</i> French knitting (See [French knitting](fly-fuz.md#french-knitting))
 
 >  An odd [cotton] reel can be turned to useful account for making French knitting, rat-tail knitting or "Dolly down the reel", as it is frequently called. <i>(Feb 2005,NZ Memories,No. 52, p. 19</i>)
 
@@ -4338,7 +4338,7 @@
 
 ### done like a dinner
  
- <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](../D#done-like-a-dog's-dinner))
+ <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](dig-dou.md#done-like-a-dog's-dinner))
 
 >  On the ball, warts and all, getta life, fishwife On the box seat, sitting pretty, what a winner Dinkie Di. She'll be right, a box o' birds, tonights the night Stone the crows, and done like a dinner. <i>(Dec 2004,NZ Memories,No 51, p19</i>)
 
@@ -4495,7 +4495,7 @@
 
 ### donger-knocker
  
- <i>n.</i> (See [dommyknocker](../D#dommyknocker))
+ <i>n.</i> (See [dommyknocker](dig-dou.md#dommyknocker))
 
 ### donie
  
@@ -4662,7 +4662,7 @@
 
 ### doob
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### doobie
  
@@ -4672,7 +4672,7 @@
 
 ### dood
  
- <i>n.</i> a pipe (See [dudeen](../D#dudeen))
+ <i>n.</i> a pipe (See [dudeen](dou-dyn.md#dudeen))
 
 ### doodackie
  
@@ -4694,7 +4694,7 @@
 
 ### doodee
  
- <i>n.</i> (See [dudeen](../D#dudeen))
+ <i>n.</i> (See [dudeen](dou-dyn.md#dudeen))
 
 ### doodia
  
@@ -4979,7 +4979,7 @@
 
 ### dosing strip
  
- <i>n.</i> (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc. [(farming)] (See [dog-dosing strip](../D#dog-dosing-strip),[dog dosing](../D#dog-dosing))
+ <i>n.</i> (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc. [(farming)] (See [dog-dosing strip](dig-dou.md#dog-dosing-strip),[dog dosing](dig-dou.md#dog-dosing))
 
 ### dosing strip/dog dosing strip
  
@@ -5178,7 +5178,7 @@
 
 
  
- <i>v.</i> short form of double-bank, also occas. as n.; see also dub. (See [double-bank](../D#double-bank))
+ <i>v.</i> short form of double-bank, also occas. as n.; see also dub. (See [double-bank](dou-dyn.md#double-bank))
 
 >  <b>SLATTER</b> San Severino and coming down the track on the company bike with Mick doubling me on the bar. <i>(1959,Gun in My Hand, A,187</i>)
 
@@ -5238,7 +5238,7 @@
 
 ### double crush
  
- <i>n.</i> (See [crush](../C#crush),[crush pen](../C#crush-pen))
+ <i>n.</i> (See [crush](con-cyp.md#crush),[crush pen](con-cyp.md#crush-pen))
 
 >  <b>BOWEN</b> In a double crush (i.e. two pens) a good long gate, of approximately four feet width, should [121] be used at the end of the dividing fence to lead the sheep from either pen into the race. <i>(1955,Wool Away!,120</i>)
 

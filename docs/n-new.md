@@ -64,7 +64,7 @@
 
 ### nabu
  
- <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](../S#sabu),[tabu](../T#tabu))
+ <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](sa-sho.md#sabu),[tabu](t-ten.md#tabu))
 
 >  <b>FULLARTON</b> There are three words in the Middle East soldier's vocabulary describing the normal maladministration of an army. A Tabu, an acrostic word, is `typical army ball-up', a Sabu is self-adjusting ball-up, while a Nabu is a non-adjustable ball-up: eg be on the receiving end of a Tabu. <i>(1994,Troop Target,38</i>)
 
@@ -110,7 +110,7 @@
 
 ### nafu
  
- <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](../N#nabu),[safu](../S#safu))
+ <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](n-new.md#nabu),[safu](sa-sho.md#safu))
 
 >  [`Infanteer' writes] Never was the phrase `She's right' used [in 1940-1944] ... to refer to a job badly done or done with a `couldn't-care-less' attitude. This was never necessary because in the Army we had other phrases to cover such contingencies when things did not go according to plan, such as NAFU and SAFU, the first being a non-adjusting fiasco, the second being a self-adjusting fiasco. <i>(Jan 30, 1963,Dominion,8</i>)
 
@@ -299,7 +299,7 @@
 
 ### namua
  
- <i>n.</i> [Also called red moki] (See [moki](../M#moki))
+ <i>n.</i> [Also called red moki] (See [moki](mob-mys.md#moki))
 
 ### nana
  
@@ -679,7 +679,7 @@
 
 ### nassella
  
- <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See [tussock](../T#tussock),[nassella](../N#nassella),[Nasella Tussock Board](../N#nasella-tussock-board))
+ <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See [tussock](tot-tyr.md#tussock),[nassella](n-new.md#nassella),[Nasella Tussock Board](../N#nasella-tussock-board))
 
 >  This is not to be confused with Nasella Tussock which is a coarser plant with much rougher leaves. <i>(Jul 11, 1944,Ellesmere Guardian,2</i>)
 
@@ -782,7 +782,7 @@
 
 ### National Airways Corporation
  
- <i>n.</i> NAC, NZ's first national domestic airline (See [NAC](../N#nac))
+ <i>n.</i> NAC, NZ's first national domestic airline (See [NAC](n-new.md#nac))
 
 >  On his return to Wellington, he.. worked for the National Airways Corporation, married, went into business and later owned Timber Treatments Ltd, seller of borer bombs and other timber-proofing products. <i>(Sep 23, 1999,Evening Post,7</i>)
 
@@ -798,7 +798,7 @@
 
 ### National Continuance
  
- <i>n.</i> (See [Continuance](../C#continuance))
+ <i>n.</i> (See [Continuance](chi-con.md#continuance))
 
 ### national death
  
@@ -1591,7 +1591,7 @@
 
 ### native crow,
  
-<b>2</b> <i>n.</i> (Environment) (See [kokako](../K#kokako))
+<b>2</b> <i>n.</i> (Environment) (See [kokako](kiw-kwi.md#kokako))
 
 >  <b>TAYLOR</b> The natives have a saying that the huia stole the plumage of the kokako, the native crow, and gave its own tail instead. <i>(Mar 6, 1849,Journal,6/37</i>)
 
@@ -1601,7 +1601,7 @@
 
 ### native daphne
  
- <i>n.</i> (See [taranga](../T#taranga))
+ <i>n.</i> (See [taranga](t-ten.md#taranga))
 
 ### Native Department
  
@@ -1965,7 +1965,7 @@
 
 ### native lark
  
- <i>n.</i> (See [pihoihoi](../P#pihoihoi))
+ <i>n.</i> (See [pihoihoi](per-pop.md#pihoihoi))
 
 >  <b>STUDHOLME</b> Native Lark, dipping and rising. <i>(1940,Te Waimate,235,1954 ed.</i>)
 
@@ -2035,7 +2035,7 @@
 
 ### Native mat
  
- <i>n.</i> (See [also Maori mat](../A#also-maori-mat),[mat](../M#mat))
+ <i>n.</i> (See [also Maori mat](../A#also-maori-mat),[mat](mar-moa.md#mat))
 
 >  <b>W.H.WILLIAMS</b> On their landing, many of them were stripped and furnished with native mats. <i>Ibid.</i>1832 Jan 13 H. Williams Early Journals 217 Some few of the leading men had a mantle of scarlet cloth trimmed with dogs' hair, other had splendid native mats: ... <i>(Jan 7, 1827,Early Journals of Henry Williams, The,36,1961 ed.</i>)
 
@@ -2149,11 +2149,11 @@
 
 ### native olive
  
- <i>n.</i> A name for one of the plants of the olearia group. (See [olive](../O#olive))
+ <i>n.</i> A name for one of the plants of the olearia group. (See [olive](o-on.md#olive))
 
 ### native oven
  
- <i>n.</i> (See [Maori oven](../M#maori-oven),[umu](../U#umu))
+ <i>n.</i> (See [Maori oven](m-mar.md#maori-oven),[umu](u-und.md#umu))
 
 >  <b>LEE & KENDALL</b> A'ngi; Name of a certain tree; a native oven; ... <i>(1820,Grammar & Vocabulary of the Language of NZ,134</i>) [NOTES: [|prec.= acute, '= stress]]
 
@@ -2217,11 +2217,11 @@
 
 ### native passionfruit
  
- <i>n.</i> (See [kohia](../K#kohia))
+ <i>n.</i> (See [kohia](kiw-kwi.md#kohia))
 
 ### Native path
  
- <i>n.</i> (See [cf. Maori track](../M#maori-track))
+ <i>n.</i> (See [cf. Maori track](m-mar.md#maori-track))
 
 >  Until within a late period we had been unable to penetrate the interior of the country to any distance from the coast, but we now by means of a native path or two, recently discovered by the sawyers, can get to the forest. <i>(1841,Establishment of New Plymouth Settlement</i>) [NOTES: 1841 Establishment of New Plymouth Colony in 1940 Establishment of New Plymouth 78]
 
@@ -2281,7 +2281,7 @@
 
 ### Native problem
  
- <i>n.</i> (See [Maori problem](../M#maori-problem))
+ <i>n.</i> (See [Maori problem](m-mar.md#maori-problem))
 
 >  As lately as January 14th, a Christchurch paper printed a leader congratulating you and me once more on there being no native problem in New Zealand. <i>(Mar 1937,Tomorrow,3(9) : 275</i>)
 
@@ -2301,7 +2301,7 @@
 
 ### Native question
  
- <i>n.</i> = Maori problem (See [Native difficulty](../N#native-difficulty),[Native problem](../N#native-problem))
+ <i>n.</i> = Maori problem (See [Native difficulty](n-new.md#native-difficulty),[Native problem](n-new.md#native-problem))
 
 >  We are all happy in a prospect of a speedy settlement of the native question. <i>(Nov 23, 1842,Letters from New Plymouth,70</i>) [NOTES: (1842 Nov 23) 1843 (1968) Letters from New Plymouth 70]
 
@@ -2329,7 +2329,7 @@
 
 ### native rat
  
- <i>n.</i> (See [kiore](../K#kiore))
+ <i>n.</i> (See [kiore](kee-kiw.md#kiore))
 
 >  The whole lot were, in all probability native rats, though they are supposed to have become extinct in the Wairarapa upwards of twenty years ago. <i>(Jul 17, 1885,Wairarapa Daily,2</i>)
 
@@ -2536,7 +2536,7 @@
 
 ### native spinach
  
- <i>n.</i> Tetragonia tetragonioides (See [New Zealand spinach](../N#new-zealand-spinach))
+ <i>n.</i> Tetragonia tetragonioides (See [New Zealand spinach](new-no.md#new-zealand-spinach))
 
 >  Our native spinach, <i>Tetragonia tetragonoides</i>, has fleshy, pointed leaves that grow up gangly stems rather than in a tight clumps [sic] like traditional spinach. <i>(May 23, 2004,Sunday (Sunday Star Times Magazine),15</i>)
 
@@ -3164,7 +3164,7 @@
 
 ### necko
  
- <i>n.</i> (See [nikau](../N#nikau))
+ <i>n.</i> (See [nikau](new-no.md#nikau))
 
 ### ned
  
@@ -3408,11 +3408,11 @@
 
 ### nekau
  
- <i>n.</i> (See [nikau](../N#nikau))
+ <i>n.</i> (See [nikau](new-no.md#nikau))
 
 ### neko
  
- <i>n.</i> (See [nikau](../N#nikau))
+ <i>n.</i> (See [nikau](new-no.md#nikau))
 
 ### nellie
  
@@ -3428,7 +3428,7 @@
 
 ### nelly
  
- <i>n.</i> <i>Macronectes giganteus</i>, giant petrel,=stinker, =stinkpot (See [giant petrel](../G#giant-petrel))
+ <i>n.</i> <i>Macronectes giganteus</i>, giant petrel,=stinker, =stinkpot (See [giant petrel](g-go.md#giant-petrel))
 
 >  Saw a number of Nellys [petrels] and had a fine chase after several. Killed 5. <i>(1999,Enderby Settlement Diaries,50</i>) [NOTES: Entry for 25 October, 1850]
 
@@ -3578,7 +3578,7 @@
 
 ### Nelson/Nelson huntaway
  
-<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See [Taranaki huntaway](../T#taranaki-huntaway),[Maori huntaway](../M#maori-huntaway))
+<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See [Taranaki huntaway](t-ten.md#taranaki-huntaway),[Maori huntaway](m-mar.md#maori-huntaway))
 
 >  <b>MCCASKILL</b> These rocks, started on purpose, were known as 'Nelson huntaways' because young men from that district used to come mustering with young, untrained dogs. <i>(1969,Molesworth,100</i>)
 
@@ -3645,7 +3645,7 @@
 
 ### nene
  
- <i>n.</i> (See [neinei](../N#neinei))
+ <i>n.</i> (See [neinei](n-new.md#neinei))
 
 ### neo-nutterism
  
@@ -3725,7 +3725,7 @@
 
 ### neri
  
- <i>n.</i> (See [ngeri](../N#ngeri))
+ <i>n.</i> (See [ngeri](new-no.md#ngeri))
 
 ### nerkey
  
@@ -3803,7 +3803,7 @@
 
 ### net-fungus
  
- <i>n.</i> a fungus whose mature form is of a ball-shaped net or lattice, also called basket-fungus, fairy's closet (See [fungus](../F#fungus))
+ <i>n.</i> a fungus whose mature form is of a ball-shaped net or lattice, also called basket-fungus, fairy's closet (See [fungus](fly-fuz.md#fungus))
 
 ### net-gun
  
@@ -3836,7 +3836,7 @@
 
 ### nettle
  
- <i>n.</i> native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See [ongaonga](../O#ongaonga))
+ <i>n.</i> native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See [ongaonga](on-ore.md#ongaonga))
 
 >  Amongst the known kinds of plants are common and rough Bindweed, [ed. fn 4 Probably <i>Calystegia sepium</i> and the smaller <i>C. turguriorum</i>.] Nightshade [author's fnd <i>Solanum Linnaei</i>. [ed. note [Probably <i>Solanum aviculare</i>, described by Forster from Queen Charlotte Sound: ...]]] and Nettles, [fne Urtica [ed. [<i>Urtica ferox</i>]]] both which grow to the size of small trees; a shruby [sic] Speedwell ... <i>(1777,Cook's Journals,3/804-805</i>) [NOTES: Queen Charlotte Sound1777 Feb Anderson's Journal in Cook Journals (1967)]
 
@@ -4014,7 +4014,7 @@
 
 ### nettle-leaved
  
- <i>adj.</i> (See [fat hen](../F#fat-hen),[goosefoot](../G#goosefoot))
+ <i>adj.</i> (See [fat hen](f69-fin.md#fat-hen),[goosefoot](go-gra.md#goosefoot))
 
 ### nettle-tree
  

@@ -71,7 +71,7 @@
 
 ### yearly man
  
-<b>1</b> <i>n.</i> (Rural) a worker employed on an annual basis on a station or farm. (See [six-monthly man](../S#six-monthly-man))
+<b>1</b> <i>n.</i> (Rural) a worker employed on an annual basis on a station or farm. (See [six-monthly man](sho-spa.md#six-monthly-man))
 
 >  <b>CHANDLER</b> Changed hill-farming practices have also reduced labour requirements, so that the 'yearly man' is now to be found on any of the stations. <i>(1996,Land of the Mountain and the Flood,11</i>)
 
@@ -405,7 +405,7 @@
 
 ### yellow-breasted tit
  
- <i>n.</i> [yellow breasted tit] (See [tomtit](../T#tomtit))
+ <i>n.</i> [yellow breasted tit] (See [tomtit](ten-tot.md#tomtit))
 
 >  <b>WILLIAMS</b> <i>Komiromiro = miromiro</i>, n.<i> Petroeca toitoi, white-breasted tit. </i> <i>(1917,Dictionary of the Maori Language,155</i>)
 
@@ -575,7 +575,7 @@
 
 ### yellow-headed tit
  
- <i>n.</i> (See [tit](../T#tit))
+ <i>n.</i> (See [tit](ten-tot.md#tit))
 
 >  <b>REISCHEK</b> The birds I noticed were the bell-bird, the blight-bird, the yellow-headed tit, the ground lark, the little parakeet, the banded dotterel, and the native snipe. <i>(1930,Yesterdays in Maoriland,275,1933 ed.</i>)
 
@@ -756,7 +756,7 @@
 
 ### yellowhead
  
- <i>n.</i> mohua, an endangered small South Island bird. [yellow-head, yellow head; see also mohua] (See [mohua](../M#mohua))
+ <i>n.</i> mohua, an endangered small South Island bird. [yellow-head, yellow head; see also mohua] (See [mohua](mob-mys.md#mohua))
 
 >  Operation Ark has swung into action to protect mohua/yellowheads from surging rat numbers in the Catlins. <i>(Jul 2005,Conservation Action,24</i>)
 

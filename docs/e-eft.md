@@ -2,7 +2,7 @@
 
 ### e hoa ma
  
- <i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See [ehoa](../E#ehoa))
+ <i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See [ehoa](egg-ens.md#ehoa))
 
 >  We have concerns e hoa ma. <i>(May 19, 2006,Whakatane Beacon,10</i>)
 
@@ -10,11 +10,11 @@
 
 ### e-to-ki
  
- <i>n.</i> (See [toki](../T#toki))
+ <i>n.</i> (See [toki](ten-tot.md#toki))
 
 ### e-tootoo
  
- <i>n.</i> (See [tutu](../T#tutu))
+ <i>n.</i> (See [tutu](tot-tyr.md#tutu))
 
 ### EA
  
@@ -43,7 +43,7 @@
 
 ### eagle ray
  
- <i>n.</i> (See [ray](../R#ray))
+ <i>n.</i> (See [ray](ra-red.md#ray))
 
 >  Authorities state its nomenclature as the eagle ray, or sea devil, and it is sometimes called the "devil fish." <i>(Jan 1, 1908,Otago Witness,76</i>)
 
@@ -55,7 +55,7 @@
 
 ### ear shell
  
- <i>n.</i> (obsolete) = paua (shell) [-] (See [sea-ear](../S#sea-ear))
+ <i>n.</i> (obsolete) = paua (shell) [-] (See [sea-ear](sa-sho.md#sea-ear))
 
 >  Its whole length does not exceed two feet, ending in the representation of a face, which is a piece of carving exhibiting a most preposterous group of features - two large Saucer-eyes formed of broad rings of Ear-shell ... [Footnote: the shell of a `sea ear', the paua.] <i>(Oct 11, 1769,Cook's Journals,1/574</i>) [NOTES: W.B. MonkhouseCheck whether date ll or 6.]
 
@@ -143,7 +143,7 @@
 
 ### Early Childhood Council
  
- <i>n.</i> (See [ECC](../E#ecc))
+ <i>n.</i> (See [ECC](e-eft.md#ecc))
 
 >  The Early Childhood Council (ECC) published a report, "Putting Children First", where it made clear that this decision threatened the very existence of private, for-profit settings. <i>(Oct 29, 2005,Listener (New Zealand Listener),7</i>)
 
@@ -209,7 +209,7 @@
 
 ### early shearing
  
-<b>1</b> <i>n.</i> (Rural) the shearing of sheep in which fleecewool yolk has not risen. (See [sticky shearing](../S#sticky-shearing))
+<b>1</b> <i>n.</i> (Rural) the shearing of sheep in which fleecewool yolk has not risen. (See [sticky shearing](spa-sys.md#sticky-shearing))
 
 >  <b>BOWEN</b> An experienced shearer always breaks in new combs on the better shearing and when they are half worn down or ground out to the tips, they are put away for the early or sticky shearing. <i>(1955,Wool Away!,75</i>)
 
@@ -389,11 +389,11 @@
 
 ### East Cape groundsel
  
- <i>n.</i> (See [groundsel](../G#groundsel))
+ <i>n.</i> (See [groundsel](gra-gyp.md#groundsel))
 
 ### East Coast
  
- <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See [Coast](../C#coast))
+ <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See [Coast](chi-con.md#coast))
 
 >  Aucklanders commonly call [the area between Poverty Bay and the Bay of Plenty] "The East Coast," but there is an East Coast all the way from Parengarenga to the Bluff. <i>(Jan 12, 1922,Auckland Weekly News,17</i>)
 
@@ -460,7 +460,7 @@
 
 ### East Coast strum
  
- <i>n.</i> (See [Maori strum](../M#maori-strum))
+ <i>n.</i> (See [Maori strum](m-mar.md#maori-strum))
 
 >  <b>ARMSTRONG</b> Maybe if she leaves early, Hone will bring out his guitar and entertain us with his East Coast strum. <i>(1997,True Colours,95</i>)
 
@@ -594,7 +594,7 @@
 
 ### eat (one's) tutu/toot
  
- <i>phr.</i> (See [tutu](../T#tutu))
+ <i>phr.</i> (See [tutu](tot-tyr.md#tutu))
 
 >  <b>WILLIAMS & REEVES</b> You will gather from this I am not `broken in',/ And the troublesome process has yet to begin, / Which old settlers are wont to call `eating your tutu';/(This they always pronounce as if rhyming with boot)/ 'Tis that `experencia docet' they mean.[check L. spg] <i>(1889,Colonial Couplets,20</i>)
 
@@ -1037,7 +1037,7 @@
 
 ### eel
  
- <i>n.</i> Spec. use of <i>eel</i> for native salt- and fresh-water spp [goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...] (See [ngoiro](../N#ngoiro),[tuna](../T#tuna))
+ <i>n.</i> Spec. use of <i>eel</i> for native salt- and fresh-water spp [goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...] (See [ngoiro](new-no.md#ngoiro),[tuna](tot-tyr.md#tuna))
 
 >  <b>McNAB</b> Q. What sort of fish did you obtain at New Zealand? ... A.There are snappers (schnapper), mullet, bream, soles, eels, and a great quantity of cockles, and some rock oysters. <i>(1908,Historical Records,1/550</i>) [NOTES: 1821 May Ensign McCrae's Evidence before Commissioner Bigge in 1908 McNab Historical Records]
 

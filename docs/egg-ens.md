@@ -74,7 +74,7 @@
 
 ### egg-laying skink
  
- <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](../S#suter's-skink),[Diving skink](../D#diving-skink))
+ <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](spa-sys.md#suter's-skink),[Diving skink](../D#diving-skink))
 
 >  One New Zealand skink (called the egg-laying skink) lays eggs, but all other species give birth to fully-formed young. <i>(2006,Internet - see Notes</i>) [NOTES: http://www.conservation.govt.nz/upload/documents/about-doc/concessions-and-permits/conservation-revealed/skinks-geckos-lowres.pdf]
 
@@ -106,7 +106,7 @@
 
 ### eggroll
  
- <i>n.</i> (See [egg](../E#egg))
+ <i>n.</i> (See [egg](egg-ens.md#egg))
 
 ### Egmont cake
  
@@ -221,13 +221,13 @@
 
 ### Ehoa
  
- <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../H#hori))
+ <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](hom-hyp.md#hori))
 
 >  It is not at all unusual to see an Ehoa and a Yank, arm-in-arm. <i>(Aug 30, 1918,Chronicles NZEF,V/51 : 56</i>)
 
 ### ehoa
  
- <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](../E#e-hoa-ma))
+ <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](e-eft.md#e-hoa-ma))
 
 >  <b>IHIMAERA & LONG</b> Come back and take J.B.'s place, e hoa. <i>(1982,Into the World of Light,215</i>)
 
@@ -349,7 +349,7 @@
 
 ### eight-tooth
  
- <i>adj.</i> full-mouthed (See [age](../A#age))
+ <i>adj.</i> full-mouthed (See [age](a-all.md#age))
 
 ### eketera
  
@@ -525,7 +525,7 @@
 
 ### electric ray
  
- <i>n.</i> (See [ray](../R#ray))
+ <i>n.</i> (See [ray](ra-red.md#ray))
 
 >  Professor Parker then exhibited a collection of wax models which had recently been added to the museum. There were a number of sets of these; one set being used to illustrate the development of the common fowl, another that of the electric ray ... <i>(Sep 21, 1893,Otago Witness,13</i>)
 
@@ -563,7 +563,7 @@
 
 ### electroluxing
  
- <i>n.</i> vacuum cleaning (See [also lux](../A#also-lux),[luxing](../L#luxing))
+ <i>n.</i> vacuum cleaning (See [also lux](../A#also-lux),[luxing](liv-lyn.md#luxing))
 
 >  <b>NEAVE</b> Spring Cleaning: Before the days of electroluxing, once a year in the springtime, the household was galvanised into feverish activity ... <i>(1980,Land of Munros, The,45</i>)
 
@@ -1055,7 +1055,7 @@
 
 ### Employment Contracts Act
  
- <i>n.</i> (See [ECA](../E#eca))
+ <i>n.</i> (See [ECA](e-eft.md#eca))
 
 >  [Business Lobby groups] are still adamant that the bill is a more radical make-over of employment law than was the change from the Employment Contracts Act to the Employment Relations Act (ERA). <i>(Sep 19, 2004,Sunday Star Times,D2</i>)
 
@@ -1250,7 +1250,7 @@
 
 ### end of the penny section
  
- <i>phr.</i> the end of something (good) (a variant of end of the golden weather) [from tramways reference] (See [penny section](../P#penny-section))
+ <i>phr.</i> the end of something (good) (a variant of end of the golden weather) [from tramways reference] (See [penny section](p-per.md#penny-section))
 
 >  It costs a bit to say the wedding piece before the registrar and the purse of the apprentice failed to stay the distance. That was the end of the penny section, but the two were not dismayed. Not they. Then began a little game of make-believe. They decided that they were supposed to be married and they pulled the wool over the eyes of Mrs. Grundy - not to mention Mrs. Mardon herself. <i>(May 12, 1927,NZ Truth,3</i>)
 

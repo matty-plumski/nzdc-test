@@ -83,7 +83,7 @@
 
 ### Marlborough
  
- <i>adj.</i> (See [harebell](../H#harebell),[lilac](../L#lilac))
+ <i>adj.</i> (See [harebell](h-hea.md#harebell),[lilac](../L#lilac))
 
 ### Marlborough daisy
  
@@ -355,7 +355,7 @@
 
 ### marsh rail
  
- <i>n.</i> (See [cf. spotless crake](../S#spotless-crake))
+ <i>n.</i> (See [cf. spotless crake](spa-sys.md#spotless-crake))
 
 >  He forwarded it through Mr Lane, chemist, to Dr de Lautour, who pronounced it to be a specimen of the marsh rail, "ortygometra affinis" (Buller); native name, Koitarike. <i>(Jun 16, 1896,North Otago Times,2</i>)
 
@@ -447,7 +447,7 @@
 
 ### Mary
  
- <i>n.</i> (See [mere](../M#mere))
+ <i>n.</i> (See [mere](mar-moa.md#mere))
 
 ### Mary Ann
  
@@ -475,14 +475,14 @@
 
 ### mash
  
- <i>v.</i> (See [masher](../M#masher),[mash n](../M#mash-n))
+ <i>v.</i> (See [masher](mar-moa.md#masher),[mash n](../M#mash-n))
 
 >  "The gods" love her, but she still lives to mash the boys. <i>(May 28, 1887,Auckland Weekly News,20</i>)
 
 
 
  
- <i>n.</i> (See [masher](../M#masher))
+ <i>n.</i> (See [masher](mar-moa.md#masher))
 
 >  Amongst the ladies and gentlemen that go there are C.M. who is doing a big mash with L.S. again. <i>(Jul 1, 1893,NZ Observer,22</i>)
 
@@ -542,7 +542,7 @@
 
 ### mashing
  
- <i>n.</i> = pashing (See [masher](../M#masher),[mash v](../M#mash-v))
+ <i>n.</i> = pashing (See [masher](mar-moa.md#masher),[mash v](../M#mash-v))
 
 >  W.P. and E.M. were doing more mashing than dancing on Friday night. <i>(Aug 19, 1893,NZ Observer,21</i>)
 
@@ -574,7 +574,7 @@
 
 ### mason bee
  
- <i>n.</i> (See [cf mason fly](../C#cf-mason-fly),[mason wasp](../M#mason-wasp))
+ <i>n.</i> (See [cf mason fly](../C#cf-mason-fly),[mason wasp](mar-moa.md#mason-wasp))
 
 >  <b>FINLAYSON</b> Jake stares hard at a mason-bee that's building its clay nest in the sleeve of Mr Crummer's coat ... <i>(1948,Tidal Creek,56,1979 ed.</i>)
 
@@ -965,11 +965,11 @@
 
 ### matagauri
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matagory
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matagouri
  
@@ -1121,11 +1121,11 @@
 
 ### matagowri
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matagowry
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matai
  
@@ -1290,7 +1290,7 @@
 
 ### matakauri
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matakiore
  
@@ -1316,11 +1316,11 @@
 
 ### matakoura
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matakouri
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### mataku
  
@@ -1330,11 +1330,11 @@
 
 ### matakura
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matakuru
  
- <i>n.</i> (See [matagouri](../M#matagouri))
+ <i>n.</i> (See [matagouri](mar-moa.md#matagouri))
 
 ### matamoe
  
@@ -1577,7 +1577,7 @@
 
 ### matchsticks
  
- <i>n.</i> (See [matches](../M#matches))
+ <i>n.</i> (See [matches](mar-moa.md#matches))
 
 ### mate
  
@@ -1927,7 +1927,7 @@
 
 ### matook
  
- <i>n.</i> (See [matuku](../M#matuku))
+ <i>n.</i> (See [matuku](mar-moa.md#matuku))
 
 ### matric
  
@@ -2418,7 +2418,7 @@
 
 ### maumau
  
- <i>n.</i> (See [maomao](../M#maomao))
+ <i>n.</i> (See [maomao](m-mar.md#maomao))
 
 >  <b>IRELAND in GIFKIN</b> If you ain't eaten mau-mau, you ain't tasted fish. <i>(1988,Through the Looking Glass,21</i>)
 
@@ -2448,7 +2448,7 @@
 
 ### maunga-maunga
  
- <i>n.</i> (See [mangemange](../M#mangemange))
+ <i>n.</i> (See [mangemange](m-mar.md#mangemange))
 
 ### Maungaroa cake
  
@@ -2464,7 +2464,7 @@
 
 ### maupariki
  
- <i>n.</i> (See [mapouriki](../M#mapouriki))
+ <i>n.</i> (See [mapouriki](m-mar.md#mapouriki))
 
 ### mauri
  
@@ -2556,7 +2556,7 @@
 
 ### Mawree
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### maxina
  
@@ -2711,7 +2711,7 @@
 
 ### ME
  
- <i>abbr.</i> myalgic encephalitis (See [tapanui flu](../T#tapanui-flu))
+ <i>abbr.</i> myalgic encephalitis (See [tapanui flu](t-ten.md#tapanui-flu))
 
 >  Frail in body ME people may be, but in strength of will we are not. <i>(Jan 10, 1987,Listener (New Zealand Listener),8</i>)
 
@@ -2780,7 +2780,7 @@
 
 ### mearee
  
- <i>n.</i> (See [mere](../M#mere))
+ <i>n.</i> (See [mere](mar-moa.md#mere))
 
 ### measuring day
  
@@ -2860,7 +2860,7 @@
 
 ### meat house
  
- <i>n.</i> (Rural) a coolhouse on a farm property where slaughtered meat is stored. (See [killing house](../K#killing-house))
+ <i>n.</i> (Rural) a coolhouse on a farm property where slaughtered meat is stored. (See [killing house](kee-kiw.md#killing-house))
 
 >  <b>STAPLES</b> I learnt that the shepherd killed the meat and it hung in the meat-house. <i>(1964,Cooks and Shepherds Come Away,12</i>)
 
@@ -3128,7 +3128,7 @@
 
 ### meero
  
- <i>n.</i> (See [miro](../M#miro))
+ <i>n.</i> (See [miro](mar-moa.md#miro))
 
 ### meet market
  
@@ -3270,7 +3270,7 @@
 
 ### megrim
  
- <i>n.</i> cadgers'-fish; mahue, witch (See [mahue](../M#mahue))
+ <i>n.</i> cadgers'-fish; mahue, witch (See [mahue](m-mar.md#mahue))
 
 >  Megrim ...Brill, Mahoa, Witch <i>Caulopsetta scapha</i> <i>(1911,Records of the Canterbury Museum,13/197</i>)
 
@@ -3503,7 +3503,7 @@
 
 ### menuka
  
- <i>n.</i> (See [manuka](../M#manuka))
+ <i>n.</i> (See [manuka](m-mar.md#manuka))
 
 ### Menzies' beech
  
@@ -3697,7 +3697,7 @@
 
 ### meri
  
- <i>n.</i> (See [mere](../M#mere))
+ <i>n.</i> (See [mere](mar-moa.md#mere))
 
 ### merikana
  
@@ -3719,7 +3719,7 @@
 
 ### meringue sponge
  
- <i>n.</i> (See [pavlova cake](../P#pavlova-cake))
+ <i>n.</i> (See [pavlova cake](p-per.md#pavlova-cake))
 
 ### merino
  
@@ -4074,7 +4074,7 @@
 
 ### mia-mia
  
- <i>n.</i> (See [maimai](../M#maimai))
+ <i>n.</i> (See [maimai](m-mar.md#maimai))
 
 ### MIC
  
@@ -4084,7 +4084,7 @@
 
 ### mic-a-mic
  
- <i>n.</i> (See [also miki-mik(i)](../A#also-miki-mik(i)),[mingi-mingi](../M#mingi-mingi))
+ <i>n.</i> (See [also miki-mik(i)](../A#also-miki-mik(i)),[mingi-mingi](mar-moa.md#mingi-mingi))
 
 >  <b>LANCASTER</b> I was thinking t' build on the mic-a-mic spur. <i>(1904,Sons o' Men,292</i>)
 
@@ -4151,7 +4151,7 @@
 
 ### mick-a-mick
  
- <i>n.</i> any of several small-leaved shrubs. [Maori] (See [miki-miki](../M#miki-miki))
+ <i>n.</i> any of several small-leaved shrubs. [Maori] (See [miki-miki](mar-moa.md#miki-miki))
 
 >  <b>STUDHOLME</b> The under-scrub was very dense, Matipo, Ini-Ini, Konini, Pokaka, Mick-a-Mick, Ohau, Ribbonwood, Ngaio, Lemonwood and others, ... <i>(1940,Te Waimate,242,1954 ed.</i>)
 
@@ -4285,7 +4285,7 @@
 
 ### middle beat
  
-<b>1</b> <i>n.</i> (Rural) a mustering beat that does not include tops or bottoms. (See [outside beat](../O#outside-beat),[top beat](../T#top-beat),[bottom beat](../B#bottom-beat))
+<b>1</b> <i>n.</i> (Rural) a mustering beat that does not include tops or bottoms. (See [outside beat](ore-ozz.md#outside-beat),[top beat](ten-tot.md#top-beat),[bottom beat](bla-bri.md#bottom-beat))
 
 >  <b>PASCOE</b> The man half way down the slopes has what is called the 'middle beat.' <i>(1958,NZ Sheep Station,22</i>)
 
@@ -4325,7 +4325,7 @@
 
 ### Middle Isle
  
- <i>n.</i> (See [Middle Island](../M#middle-island))
+ <i>n.</i> (See [Middle Island](mar-moa.md#middle-island))
 
 >  <b>TAYLOR</b> The native name for the North Island is, Te Ika a maui - the fish of Maui ...; they have another ancient name for it in their legends, Aotearoa, but it is now never used. That of the Middle Isle is, Te Wai Pounamu - the water of the green stone. <i>(1868,Past and Present of NZ,193</i>)
 
@@ -4488,7 +4488,7 @@
 
 ### mihimihi
  
- <i>n.</i> Maori greeting procedure [ORIGIN: Maori] (See [mihi](../M#mihi))
+ <i>n.</i> Maori greeting procedure [ORIGIN: Maori] (See [mihi](mar-moa.md#mihi))
 
 >  <b>HE TOHUNGA ORA MO RANGITAIKI CHARITABLE TRUST <u>Annual general Meetting</u> </b> .. <u>AGENDA</u> karakia/Mihimihi... <i>(Nov 22, 2005,Whakatane Beacon,9</i>)
 
@@ -4855,7 +4855,7 @@
 
 ### milk cheque
  
- <i>n.</i> (Rural) a payment made to a farmer-supplier to a dairy factory. (See [payout](../P#payout))
+ <i>n.</i> (Rural) a payment made to a farmer-supplier to a dairy factory. (See [payout](p-per.md#payout))
 
 >  .. dairy farmers are doing very well, and have no cause to complain of their milk cheques, which constitute a record for the Auckland District. <i>(Jan 15, 1912,NZ Journal of Agriculture,71</i>)
 
@@ -5019,7 +5019,7 @@
 
 ### milk run
  
- <i>n.</i> (See [milk round](../M#milk-round))
+ <i>n.</i> (See [milk round](mar-moa.md#milk-round))
 
 >  <b>FULLARTON</b> Isobel married that joker with a milk-run out Henderson way. <i>(1944,Troop Target,24</i>)
 
@@ -5046,7 +5046,7 @@
 
 
  
- <i>n.</i> (Rural) a loading shelf for milk cans awaiting collection and delivery. (See [cream stand](../C#cream-stand))
+ <i>n.</i> (Rural) a loading shelf for milk cans awaiting collection and delivery. (See [cream stand](con-cyp.md#cream-stand))
 
 >  milk stand (a) where the milk cans stand to collect the flow from the machine. (b) where they wait to be collected by milk lorry. <i>(Oct 1950,NZ Journal of Agriculture,369</i>)
 
@@ -5337,7 +5337,7 @@
 
 ### milkfat
  
- <i>n.</i> (See [butterfat](../B#butterfat))
+ <i>n.</i> (See [butterfat](bri-byo.md#butterfat))
 
 >  If.. we can lift production to 300 lb far per cow, we increase gross returns from milkfat by just on $2,000. <i>(Sep 1971,NZ Dairy Exporter,121</i>)
 
@@ -6422,7 +6422,7 @@
 
 ### minuka
  
- <i>n.</i> (See [manuka](../M#manuka))
+ <i>n.</i> (See [manuka](m-mar.md#manuka))
 
 ### mioweka
  
@@ -6432,7 +6432,7 @@
 
 ### mire
  
- <i>n.</i> (See [mere](../M#mere))
+ <i>n.</i> (See [mere](mar-moa.md#mere))
 
 >  [commentary on sketches] green stone maree/ Long CLUB or Mire/ Baracoota hook <i>(1835,Boultbee Journal,44,1986 ed.</i>)
 
@@ -6668,7 +6668,7 @@
 
 ### miserable as a wet hen
  
- <i>phr.</i> [ca1940 H.S. Gajadhar, Wellington] (See [miserable](../M#miserable))
+ <i>phr.</i> [ca1940 H.S. Gajadhar, Wellington] (See [miserable](mar-moa.md#miserable))
 
 >  I found that even when the clubhouse and links were well peopled I was as lonely and miserable as a wet hen. <i>(Oct 7, 1922,NZ Truth,8</i>)
 
@@ -6738,7 +6738,7 @@
 
 ### mission station
  
- <i>n.</i> [2 cits below belong with missionary station] (See [station](../S#station))
+ <i>n.</i> [2 cits below belong with missionary station] (See [station](spa-sys.md#station))
 
 >  <b>DIEFFENBACH</b> Formerly the mission-station was on this island [Mokoia], and many of the shrubs which were planted in the garden of the station are still remaining. <i>Ibid.</i> Near this tree, they [Rotorua Maori] said, their forefathers killed the last moa. <i>(1843,Travels in NZ,1/393</i>)
 
@@ -6870,7 +6870,7 @@
 
 ### missionary station
  
- <i>n.</i> (See [cf. mission station](../M#mission-station))
+ <i>n.</i> (See [cf. mission station](mar-moa.md#mission-station))
 
 >  <b>MACKIE</b> On shore we discern the smoke from a fire of the natives off Otaki, a missionary station. <i>(Jan 28, 1853,Traveller under Concern,71,1973 ed.</i>)
 
@@ -7410,7 +7410,7 @@
 
 ### Moari(e)
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### moata
  

@@ -46,7 +46,7 @@
 
 ### Armed Constabulary
  
- <i>n.</i> Hist. Also lower case initials. [nf W3.] The armed police, reconstituted as a civilian force after 1886, formed in 1867 under the Armed Constabulary Ordinance as the first national police force (?called earlier the armed police force) orig. to combat hostile Maoris, and to keep civil order, until the civil (unarmed) police was established in 1886 under the Police Force Act. (See [A.C](../A#a.c))
+ <i>n.</i> Hist. Also lower case initials. [nf W3.] The armed police, reconstituted as a civilian force after 1886, formed in 1867 under the Armed Constabulary Ordinance as the first national police force (?called earlier the armed police force) orig. to combat hostile Maoris, and to keep civil order, until the civil (unarmed) police was established in 1886 under the Police Force Act. (See [A.C](a-all.md#a.c))
 
 >  According to the booklet published by the Taupo District Museum "<i>the armed Constabulary carried out three main functions in the short time of its existence. It was a military force largely concerned with frontier protection; it was a police force concerned with peace-keeping and crime control and it was a public works force concerned with building roads, bridges and telegraph lines.</i>" <i>(Jun 2002,NZ Memories,No. 36: 58</i>)
 
@@ -133,7 +133,7 @@
 
 ### armoured cow
  
- <i>n.</i> tinned (condensed) milk (See [tinned cow](../T#tinned-cow))
+ <i>n.</i> tinned (condensed) milk (See [tinned cow](ten-tot.md#tinned-cow))
 
 >  <b>SARGE</b> Armoured Cow: (Kiwi-ism) `tinned milk' <i>(1950,Excuse my Feet!</i>) [NOTES: Glossary]
 
@@ -309,7 +309,7 @@
 
 ### Arse-ups
  
- <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](../S#square-dinks),[Triangle Dinks](../T#triangle-dinks))
+ <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](spa-sys.md#square-dinks),[Triangle Dinks](tot-tyr.md#triangle-dinks))
 
 >  <b>PARTRIDGE</b> Arse-ups, the. The 4th Battalion of the N.Z. Rifle Brigade: New Zealand military in GW Ex the shape of the battalion shoulder-patch. <i>(1937,Dictionary of Slang,18 ed.</i>)
 
@@ -494,7 +494,7 @@
 
 ### articulated
  
- <i>n.</i> an articulated truck. (See [articulator](../A#articulator))
+ <i>n.</i> an articulated truck. (See [articulator](ari-axe.md#articulator))
 
 >  <b>SLATTER</b> The lorries crowding in ... to be loaded ..., sometimes over ten tons on the articulateds. <i>(1959,Gun in My Hand, A,22</i>)
 
@@ -679,7 +679,7 @@
 
 
  
- <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](../F#five-finger))
+ <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](fin-fly.md#five-finger))
 
 ### ASH
  
@@ -822,7 +822,7 @@
 
 ### asphodel
  
- <i>n.</i> (See [cabbage tree](../C#cabbage-tree),[palm-lily](../P#palm-lily))
+ <i>n.</i> (See [cabbage tree](c-chi.md#cabbage-tree),[palm-lily](p-per.md#palm-lily))
 
 >  <b>DOMETT</b> .. and that strange <i>asphodel</i>/ On tufts of stiff green bayonet-blades,/ Great bunches of white bloom upbore,/ <i>Ibid.</i> 2/336 Asphodel (Ti) ..... O. Liliaceae; G. Neodaphne; S. C. Australis. <i>(1883,Ranolf and Amohia,2/37</i>) [NOTES: see also 1872]
 
@@ -850,7 +850,7 @@
 
 ### Assessor
  
- <i>n.</i> A ??Maori paid as a government agent to assist with expert advice in settling claims between Maori and Pakeha. [Hist.] (See [Native Assessor](../N#native-assessor))
+ <i>n.</i> A ??Maori paid as a government agent to assist with expert advice in settling claims between Maori and Pakeha. [Hist.] (See [Native Assessor](n-new.md#native-assessor))
 
 >  <b>T.S.GRACE</b> On reaching the village of Parawai, the Native Assessor, who lives here, stopped me to say that he could not get on with the trial of Mr. ---'s case to-morrow unless my son Tom stayed to interpret for him. <i>(Nov 28, 1866,Journal,150</i>) [NOTES: 1928 ed. T.S. Grace Journal in Grace Pioneer Missionary (1928) 28 Nov 150]
 
@@ -1202,11 +1202,11 @@
 
 ### atwai
  
- <i>n.</i> (See [hutiwai](../H#hutiwai))
+ <i>n.</i> (See [hutiwai](hom-hyp.md#hutiwai))
 
 ### aua
  
- <i>n.</i> yellow-eyed mullet, so-called <i>herring</i> (See [herring](../H#herring),[yellow-eyed mullet](../Y#yellow-eyed-mullet))
+ <i>n.</i> yellow-eyed mullet, so-called <i>herring</i> (See [herring](hea-hom.md#herring),[yellow-eyed mullet](ydu-yen.md#yellow-eyed-mullet))
 
 >  <b>WILLIAMS</b> The whole of the long range of the New Zealand Coast is abundantly supplied with beautiful fish. Of this variety of 78 species I will name a part, viz. ... Arwa [Awa] species of whiting; ... [<i>Glossary</i> 118 awa yellow-eyed mullet <i>Agonostomus fosteri</i>)] <i>(1843,NZ Journal,40</i>)
 
@@ -1302,7 +1302,7 @@
 
 ### Auckland green gecko
  
- <i>n.</i> the common green gecko ocurring widely in central and northern North Island. [<i>Naultinus elegans elegans</i> aka common green gecko, aka elegant gecko] (See [common green gecko](../C#common-green-gecko))
+ <i>n.</i> the common green gecko ocurring widely in central and northern North Island. [<i>Naultinus elegans elegans</i> aka common green gecko, aka elegant gecko] (See [common green gecko](chi-con.md#common-green-gecko))
 
 >  The Auckland Green Gecko is found in the northern half of the North Island, north of Taranaki. The tail is very versatile, being used as a "fifth limb" to climb and for balance. It hunts by night for insects but also likes to sunbathe. The Auckland Green Gecko lives in scrub and forest areas, especially Kanuka and Manuka, also known as tea tree. <i>(2009,Internet - see Notes</i>) [NOTES: http://www.nhc.net.nz/index/lizards-new-zealand/auckland-green-gecko/auckland-green-gecko.htm No date given, 2009 is estimate]
 
@@ -2132,7 +2132,7 @@
 
 ### Austrian
  
- <i>n.</i> (See [Dalmatian](../D#dalmatian))
+ <i>n.</i> (See [Dalmatian](d-dif.md#dalmatian))
 
 >  We had a lengthy meeting in the halltonight and a good many Austriansattended. <i>(1979,They Called Me Te Maari,122</i>) [NOTES: Quoted from 1914]
 
@@ -2155,7 +2155,7 @@
 
 
  
- <i>adj.</i> (See [Dalmatian](../D#dalmatian))
+ <i>adj.</i> (See [Dalmatian](d-dif.md#dalmatian))
 
 >  Austrian wine had caused loss of life and it should be put down with very drastic measures. I do not know whether the name is a misnomer or not; but it is a liquor that is sold in the district north of Auckland. I have never seen the stuff but I believe it to be one of the vilest concoctionswhich can possibly be imagined. I do not know what its ingredients are, but I have come across people who have seen the effect of the use of Austrian wine as a beverage, and from what I learned it is a degrading, demoralising and sometimes maddening drink to many people who useit. <i>(1983,Station Life in NZ</i>) [NOTES: 1914 W.F. Massey in Parliament in 1983 Thorpy Wine]
 
@@ -2200,7 +2200,7 @@
 
 ### autetaranga
  
- <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](../A#aute))
+ <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](ari-axe.md#aute))
 
 >  <b>HOOKER</b> Aute-taranga. Col[enso]. <i>Pimelea arenaria</i>. <i>(1867,Handbook NZ Flora (List of Names),764</i>)
 
@@ -2246,7 +2246,7 @@
 
 ### autumn muster
  
-<b>1</b> <i>n.</i> (Rural) a gathering of sheep from summer grazing on the tops to lower altitude winter grazing. (See [fall muster](../F#fall-muster))
+<b>1</b> <i>n.</i> (Rural) a gathering of sheep from summer grazing on the tops to lower altitude winter grazing. (See [fall muster](f69-fin.md#fall-muster))
 
 >  <b>NEWTON</b> After weaning, they [the hoggets] were taken out to Lochinvar until the autumn muster in May when they were put back on their blocks until the crutching muster in early July. <i>(1952,High Country Journey,137</i>)
 
@@ -2276,7 +2276,7 @@
 
 ### avalanche grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### avens
  
@@ -2298,7 +2298,7 @@
 
 ### avo
  
- <i>n.</i> (See [arvo](../A#arvo))
+ <i>n.</i> (See [arvo](ari-axe.md#arvo))
 
 ### avocet
  
@@ -2312,7 +2312,7 @@
 
 ### Avondale
  
- <i>n.</i> (See [Avondale spider](../A#avondale-spider))
+ <i>n.</i> (See [Avondale spider](ari-axe.md#avondale-spider))
 
 >  Any Avondales that do roam, sometimes turning up on the bedroom ceilings and frightening the life out of the occupants, tend to be males searching for mates. <i>(1991,NZ Geographic,70</i>)
 
@@ -2464,7 +2464,7 @@
 
 ### awato
  
- <i>n.</i> (See [awhato](../A#awhato))
+ <i>n.</i> (See [awhato](ari-axe.md#awhato))
 
 ### away back
  
@@ -2510,7 +2510,7 @@
 
 ### aweto
  
- <i>n.</i> [??Also erron. awhato] (See [awhato](../A#awhato))
+ <i>n.</i> [??Also erron. awhato] (See [awhato](ari-axe.md#awhato))
 
 >  In an article ... the statement is reiterated ... that the Aweto, or vegetable caterpillar, is only found under the rata tree ... <i>(1886,TrNZI,18/211</i>)
 
@@ -2596,7 +2596,7 @@
 
 
  
- <i>n.</i> (See [patu](../P#patu))
+ <i>n.</i> (See [patu](p-per.md#patu))
 
 >  <b>EARLE</b> Let the reader picture to himself this savage group, ... each [71] are armed with a musket, ... a cartouch-box buckled round his waist, and a stone patoo-patoo, or hatchet, in his hand, while human bones ... [probably disjunctive rather than coordinated [fn 1 ed: McCarrick[?] says `more like a club than a hatchet'] <i>(1832,New Zealand (various authors/titles),70</i>) [NOTES: 1966 ed.]
 

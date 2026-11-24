@@ -128,7 +128,7 @@
 
 ### fobby
  
- <i>adj.</i> [also fob-y] (See [fob](../F#fob))
+ <i>adj.</i> [also fob-y] (See [fob](fly-fuz.md#fob))
 
 >  <b>Maepu</b> She had a fobby accent because she was born and raised in Tonga and English was her second language. <i>(2008,Six Pack 3, The,19</i>)
 
@@ -730,7 +730,7 @@
 
 ### footpost
  
- <i>n.</i> [(fencing)] (See [foot](../F#foot))
+ <i>n.</i> [(fencing)] (See [foot](fly-fuz.md#foot))
 
 ### Footrot Flats
  
@@ -908,7 +908,7 @@
 
 ### Forbes' parakeet
  
- <i>n.</i> (See [Chatham Island yellow-crowned parakeet](../C#chatham-island-yellow-crowned-parakeet))
+ <i>n.</i> (See [Chatham Island yellow-crowned parakeet](c-chi.md#chatham-island-yellow-crowned-parakeet))
 
 >  <b>HOLMES</b> FORBES PARAKEET, <i>Cyanoramphus auriceps forbesi</i> - was formerly widespread throughout Chathams but is now mainly found on Little Mangere ... <i>(1984,Chatham Islands,99</i>)
 
@@ -950,7 +950,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a forcing sheep-dog. (See [forcing dog](../F#forcing-dog))
+<b>1</b> <i>n.</i> (Rural) a forcing sheep-dog. (See [forcing dog](fly-fuz.md#forcing-dog))
 
 >  <b>LILICO</b> A bitch pup I sold went straight to the freezing works to pen up and developed into a first class forcer and backer. <i>(1926,BLANK ENTRY,76</i>) [NOTES: in Gordon (1998) Three Sheep and a Dog]
 
@@ -995,7 +995,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a pen through which stock are forced into a drafting race. (See [crush](../C#crush))
+<b>1</b> <i>n.</i> (Rural) a pen through which stock are forced into a drafting race. (See [crush](con-cyp.md#crush))
 
 >  <b>PERRY</b> They [sheep yards] should consist of receiving yards at each end, forcing pen and drafting race. <i>(1922,Sheep Farming in NZ,16</i>)
 
@@ -1079,7 +1079,7 @@
 
 ### foreshore and seabed
  
- <i>phr.</i> popular name of legislation relating to ownership of and access to New Zealand beaches and ocean. (See [seabed and foreshore](../S#seabed-and-foreshore))
+ <i>phr.</i> popular name of legislation relating to ownership of and access to New Zealand beaches and ocean. (See [seabed and foreshore](sa-sho.md#seabed-and-foreshore))
 
 >  If you say oysters? And I say yes, / and give back the foreshore and seabed, / Then we'd better call the whole thing off / Let's call the whole thing off. <i>(Oct 15, 2005,Listener (New Zealand Listener),42</i>)
 
@@ -2895,7 +2895,7 @@
 
 ### French clover
  
- <i>n.</i> pink wood sorrel (See [clover](../C#clover))
+ <i>n.</i> pink wood sorrel (See [clover](chi-con.md#clover))
 
 >  <b>HILGENDORF</b> PINK WOOD SORREL (<i>Oxalis rosea</i>), called also shamrock and French clover, is found usually as a garden escape in scattered districts. <i>(1926,Weeds of New Zealand,117,1967 ed.</i>)
 
@@ -3036,7 +3036,7 @@
 
 ### fresh off the boat
  
- <i>phr.</i> (See [fob](../F#fob))
+ <i>phr.</i> (See [fob](fly-fuz.md#fob))
 
 >  I (sic) can only assume that maybe the journo responsible for the "creative writing" was either high (heheh) or is a bit "fresh off the boat"... <i>(Oct 8, 2003,Capital Times,3</i>)
 
@@ -3048,7 +3048,7 @@
 
 ### fresh-off-the-boat
  
- <i>adj.</i> (See [fob](../F#fob),[fobby](../F#fobby))
+ <i>adj.</i> (See [fob](fly-fuz.md#fob),[fobby](fly-fuz.md#fobby))
 
 >  A series starring a fresh-off-the-boat half-wit Dad, a loving but demented mother, their would-be Palagi offspring and a would-be Pacific Islander-in-law. <i>(Dec 12, 1998,Listener (New Zealand Listener),68</i>)
 
@@ -3339,7 +3339,7 @@
 
 ### friendly Native
  
- <i>n.</i> (See [friendly](../F#friendly))
+ <i>n.</i> (See [friendly](fly-fuz.md#friendly))
 
 >  <b>ELDER</b> After Captain Graham returned to his vessel, my friendly natives being up the country insearch of potatoes, a strange party came over from the other side of the Bay and got upon the sawyer's house-top, and I went to desire them to come down. <i>(1934,Marsden's Lieutenants,124</i>) [NOTES: 1816 Jan 26 William Hall in Elder Marsden's Lieutenants (1934) 124]
 
@@ -3605,7 +3605,7 @@
 
 ### froggy
  
- <i>n.</i> a condom; frenchy [slang] (See [frog](../F#frog))
+ <i>n.</i> a condom; frenchy [slang] (See [frog](fly-fuz.md#frog))
 
 >  <b>MORRIESON</b> `I love you, Ernie, but you will be careful, wontcha?' `Sure I will baby ...' `You got a froggy?' Maybelle said. <i>(1974,Predicament,95</i>)
 
@@ -3631,7 +3631,7 @@
 
 ### frogs' eggs
  
- <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](../F#frogs'-eyes))
+ <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](fly-fuz.md#frogs'-eyes))
 
 >  <b>DUDER</b> [I spent] a short time at Dio as a boarder, discovering the joys of ... `frogs-eggs-and-snot'. <i>(1988,Through the Looking Glass,32</i>)
 
@@ -3759,7 +3759,7 @@
 
 ### from the three Kings to the Snares
  
- <i>phr.</i> (See [cf. from North Cape to the Bluff](../F#from-north-cape-to-the-bluff))
+ <i>phr.</i> (See [cf. from North Cape to the Bluff](fly-fuz.md#from-north-cape-to-the-bluff))
 
 >  But he would venture to say that if they looked from the Three Kings to the Snares they would see a number of diverse interests which had sprung up under the provincial system - diverse but yet bearing close analogy - which could not have done so under any other system. <i>(Jul 16, 1870,Wellington Independent,5</i>)
 
@@ -3880,7 +3880,7 @@
 
 ### front hills
  
-<b>1</b> <i>n.</i> (Rural) the eastern foothills adjacent to South Island high country. (See [front country](../F#front-country))
+<b>1</b> <i>n.</i> (Rural) the eastern foothills adjacent to South Island high country. (See [front country](fly-fuz.md#front-country))
 
 >  <b>MARTIN</b> In 1854 a further ten large runs were established on the remainder of the plains between the Ashburton and Rakaia Rivers; this meant that the entire plains and 'front hills' were taken up. <i>(1990,Forgotten Worker, The,7</i>)
 
@@ -4178,7 +4178,7 @@
 
 ### froudacity
  
- <i>n.</i> inaccuracy (See [froudacious](../F#froudacious))
+ <i>n.</i> inaccuracy (See [froudacious](fly-fuz.md#froudacious))
 
 ### frow
  
@@ -4308,7 +4308,7 @@
 
 ### fuchsia
  
- <i>n.</i> <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhutu (incorrectly konini) [tree fuchsia 1882 POO, 1917 DDD. (A) New Zealand Fuchsia - 3 entries (mainly scientific) -->1905 MNZ, 1915 CKB -->M 1892] (See [tree fuchsia](../T#tree-fuchsia))
+ <i>n.</i> <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhutu (incorrectly konini) [tree fuchsia 1882 POO, 1917 DDD. (A) New Zealand Fuchsia - 3 entries (mainly scientific) -->1905 MNZ, 1915 CKB -->M 1892] (See [tree fuchsia](tot-tyr.md#tree-fuchsia))
 
 >  <b>MAHY</b> They left the track and scrambled down into a shadowy gully under native fuschia (sic) and beech trees. <i>(1985,Catalogue of the Universe,42</i>)
 
@@ -4570,7 +4570,7 @@
 
 ### ful
  
- <i>n.</i> short form of fulla [1984 16 M E75 Pakuranga Coll. 11 FUL [sic =?FULlow] -->1984 16 M E75 Pakuranga Coll. 29 FUL [sic] -->1984 16 M E75 Pakuranga Coll. 24E FUL'S] (See [fulla](../F#fulla))
+ <i>n.</i> short form of fulla [1984 16 M E75 Pakuranga Coll. 11 FUL [sic =?FULlow] -->1984 16 M E75 Pakuranga Coll. 29 FUL [sic] -->1984 16 M E75 Pakuranga Coll. 24E FUL'S] (See [fulla](fly-fuz.md#fulla))
 
 ### Fulbright
  
@@ -5286,7 +5286,7 @@
 
 ### fur seal
  
- <i>n.</i> (See [seal](../S#seal))
+ <i>n.</i> (See [seal](sa-sho.md#seal))
 
 >  Fur seals have been protected since 1894, but many perish each year after becoming entangled in fishing nets. <i>(Nov 2001,NZ Geographic,No. 54/46</i>)
 
@@ -5366,7 +5366,7 @@
 
 ### fuschia
  
- <i>n.</i> [common misspelling] (See [fuchsia](../F#fuchsia))
+ <i>n.</i> [common misspelling] (See [fuchsia](fly-fuz.md#fuchsia))
 
 >  Well, I said, this mud was wetting. - Fuschia. <i>(Dec 23, 1944,NZEF Times,IV/183 : 14</i>) [NOTES: Used as a nom-de-plume]
 

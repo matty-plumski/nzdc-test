@@ -798,7 +798,7 @@
 
 ### Cook's scurvy grass
  
- <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See [scurvy grass](../S#scurvy-grass))
+ <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See [scurvy grass](sa-sho.md#scurvy-grass))
 
 >  <b>CROWE</b> Cook's Scurvy Grass <i>Lepidium oleraceum</i> nau... It was once common, but is now fairly rare partly due to grazing by stock, and perhaps partly to the appetite of the cabbage white butterfly. <i>Ibid.</i> As its common name suggests, the plant was however used by Captain Cook as a remedy for scurvy, a disease caused by lack of vitamin C in the diet. <i>(1997,Field Guide to Native Edible Plants of NZ,75</i>)
 
@@ -1024,7 +1024,7 @@
 
 ### cookie/cooky
  
- <i>n.</i> (See [cookee](../C#cookee))
+ <i>n.</i> (See [cookee](con-cyp.md#cookee))
 
 ### cooking fly
  
@@ -1159,7 +1159,7 @@
 
 ### cooma-cooma
  
- <i>n.</i> (See [kamokamo](../K#kamokamo))
+ <i>n.</i> (See [kamokamo](k-kea.md#kamokamo))
 
 ### coon
  
@@ -1256,15 +1256,15 @@
 
 ### coota
  
- <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](../C#couta))
+ <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](con-cyp.md#couta))
 
 ### cooter
  
- <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](../C#couta))
+ <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](con-cyp.md#couta))
 
 ### cootie
  
- <i>n.</i> (See [kutu](../K#kutu))
+ <i>n.</i> (See [kutu](kiw-kwi.md#kutu))
 
 >  <b>PERHAM</b> As soon as the new outfit was received the old one got a quick passage ... into the sea, ... Tough luck for the `cooties' [body lice] to be marooned like that, ... <i>(1958,Kimberley Flying Column,81</i>)
 
@@ -1344,7 +1344,7 @@
 
 ### copper Maori
  
- <i>n.</i> Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i> (See [hangi](../H#hangi),[umu](../U#umu))
+ <i>n.</i> Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i> (See [hangi](h-hea.md#hangi),[umu](u-und.md#umu))
 
 >  We cooked some meat in a copper mauri or hangi, being the native term which is an excellent method of cooking. <i>(1843,NZ Journal,4(95) : 216</i>)
 
@@ -1914,7 +1914,7 @@
 
 ### coralfish
  
- <i>n.</i> (See [Lord Howe Island coralfish](../L#lord-howe-island-coralfish))
+ <i>n.</i> (See [Lord Howe Island coralfish](liv-lyn.md#lord-howe-island-coralfish))
 
 >  Coral Fish <i>Chelmonops howensis</i> (Waite) <i>(1956,NZ Fishes: An Identification Guide,407</i>) [NOTES: 1955 Whitley Namelist in 1956 Graham NZ Fishes 407]
 
@@ -2057,7 +2057,7 @@
 
 ### cork elm
  
- <i>n.</i> (See [corkwood](../C#corkwood))
+ <i>n.</i> (See [corkwood](con-cyp.md#corkwood))
 
 ### Cork Lou
  
@@ -2199,7 +2199,7 @@
 
 ### cormorant
  
- <i>n.</i> [According to Dr Brian Bell, Aust. ornithologists prefer cormorant, New Zealand, shag.] (See [shag](../S#shag))
+ <i>n.</i> [According to Dr Brian Bell, Aust. ornithologists prefer cormorant, New Zealand, shag.] (See [shag](sa-sho.md#shag))
 
 >  <b>FORSTER</b> He brought in all 41 Ducks ... and Shags on board, one of them was the common Cormorant (<i>Pelecanus Carbo</i>), [[ed. fn] Black Shag.] the other the small shag ... <i>(May 9, 1773,Resolution Journal of J.R. Forster, The,2/273</i>)
 
@@ -2378,7 +2378,7 @@
 
 ### corner peg
  
- <i>n.</i> (See [section peg](../S#section-peg))
+ <i>n.</i> (See [section peg](sa-sho.md#section-peg))
 
 >  New find 145 feet from N.E corner peg, 155 feet from S.E corner peg, and 60 feet from centre peg adjoining Manukau boundary, clipping right into centre of claim under old main run of gold in No.1 reef, depth 135 feet from top of shaft. <i>(Nov 29, 1872,Daily Southern Cross,3</i>)
 
@@ -2463,7 +2463,7 @@
 
 
  
- <i>n.</i> (See [korokio](../K#korokio))
+ <i>n.</i> (See [korokio](kiw-kwi.md#korokio))
 
 >  The corokia berries are very popular in autumn. <i>(Nov 5, 1999,Dominion,12</i>)
 
@@ -2915,7 +2915,7 @@
 
 ### cotton shrub
  
- <i>n.</i> = niniao (See [cf. cotton ball](../C#cotton-ball))
+ <i>n.</i> = niniao (See [cf. cotton ball](con-cyp.md#cotton-ball))
 
 >  <i>cotton shrub [=] niniao </i>[s] <i>(1969,Standard Common Names for Weeds,16</i>)
 
@@ -2957,7 +2957,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [tauhinu](../T#tauhinu))
+<b>2</b> <i>n.</i> (See [tauhinu](t-ten.md#tauhinu))
 
 >  <i>cotton-wood, New Zealand [=] golden tauhinu: mountain tauhinu: niniao: tauhinu</i> [s] <i>Ibid.</i> 52 New Zealand cotton-wood [=] golden tauhinu: mountain tauhinu: niniao: tauhinu [s] <i>(1969,Standard Common Names for Weeds,16</i>) [NOTES: [???check -weed]]
 
@@ -3127,17 +3127,17 @@
 
 ### couchy
  
- <i>adj.</i> (See [couch](../C#couch))
+ <i>adj.</i> (See [couch](con-cyp.md#couch))
 
 >  <b>MACDONALD</b> Owing to its [sc. poa pratensis] `couchy' root habits, it should not be quartered in land intended for cultivation. <i>(1920,Australian & NZ Sheep Farming,112</i>)
 
 ### coudie
  
- <i>n.</i> (See [kauri](../K#kauri))
+ <i>n.</i> (See [kauri](k-kea.md#kauri))
 
 ### coudy
  
- <i>n.</i> (See [kauri](../K#kauri))
+ <i>n.</i> (See [kauri](k-kea.md#kauri))
 
 ### cough one's cud
  
@@ -3153,7 +3153,7 @@
 
 ### coumala
  
- <i>n.</i> (See [kumara](../K#kumara))
+ <i>n.</i> (See [kumara](kiw-kwi.md#kumara))
 
 ### Council
  
@@ -3431,7 +3431,7 @@
 
 ### country acre
  
- <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](../T#town-acre))
+ <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](tot-tyr.md#town-acre))
 
 >  These doubly-selected lands will be divided into 1100 sections, each section comprising one town-acre, and 100 country-acres. 110 sections will be reserved by the Company, ... <i>(1971,Speeches & Documents,19</i>) [NOTES: 1839 June 1 Terms of Sale of the New Zealand Land Company; Great Britian, <i>Parliamentary Papers</i>, 1852, xxxv. 570, p.18 in 1971 Speeches and Documents 19]
 
@@ -3676,7 +3676,7 @@
 
 ### cous
  
- <i>n.</i> (See [cuz](../C#cuz))
+ <i>n.</i> (See [cuz](con-cyp.md#cuz))
 
 >  <b>MITCALFE</b> `Howdy, cous',' said he [21] extending a hand. `What you mean, cous'?' said Sefulu ... `I mean cousin, what else? Vaine, she my Auntie, small world, eh, man.' <i>(1985,Hey Hey Hey,20</i>)
 
@@ -4007,7 +4007,7 @@
 
 ### cow grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  <b>DUFF</b> ... it takes a harder pull to move her [a cow] on from a locust tree, with its thorny stems, than from a fresh patch of cow grass. <i>(Apr 17, 1951,Shepherd's Calendar,27,1961 ed.</i>)
 
@@ -4051,7 +4051,7 @@
 
 ### cow of a
  
- <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](../H#hang-of-a))
+ <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](h-hea.md#hang-of-a))
 
 >  ... of all the cows of places. <i>(Jul 5, 1918,NZEF Chronicles,252</i>)
 
@@ -4187,7 +4187,7 @@
 
 ### cow-banger
  
- <i>n.</i> a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station; (See [cowspanker](../C#cowspanker),[cattle-banger](../C#cattle-banger))
+ <i>n.</i> a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station; (See [cowspanker](con-cyp.md#cowspanker),[cattle-banger](c-chi.md#cattle-banger))
 
 >  . a certain money-grubbing Mangaroa cow-banger ... <i>(Jul 3, 1915,Hutt Valley Independent,3</i>)
 
@@ -4608,7 +4608,7 @@
 
 ### cowdie/cowdy
  
- <i>n.</i> (See [kauri](../K#kauri))
+ <i>n.</i> (See [kauri](k-kea.md#kauri))
 
 ### cowfish
  
@@ -4664,7 +4664,7 @@
 
 ### cowleaf
  
- <i>n.</i> (obsolete) mahoe (See [cf. cowtree](../C#cowtree))
+ <i>n.</i> (obsolete) mahoe (See [cf. cowtree](con-cyp.md#cowtree))
 
 >  In many parts of Banks Peninsula, ... [Melicytus ramiflorus] is known as `Cowleaf', from the avidity with which its leaves are devoured by cattle. <i>(1870,TrNZI,3/184</i>) [NOTES: (Potts and Gray)]
 
@@ -4755,7 +4755,7 @@
 
 ### cowry
  
- <i>n.</i> (See [kauri](../K#kauri))
+ <i>n.</i> (See [kauri](k-kea.md#kauri))
 
 ### cowsh
  
@@ -4767,7 +4767,7 @@
 
 ### cowshed
  
- <i>n.</i> a farm building in which cows are milked (See [also byre](../A#also-byre),[milking shed](../M#milking-shed))
+ <i>n.</i> a farm building in which cows are milked (See [also byre](../A#also-byre),[milking shed](mar-moa.md#milking-shed))
 
 >  Cowsheds have been described as "New Zealand's own white-slave trade". Woimen and children were in virtual bondage to the land and the demands of the farm. <i>(Dec 17, 1990,Listener (New Zealand Listener),38</i>)
 
@@ -4844,7 +4844,7 @@
 
 
  
- <i>n.</i> (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ] (See [byre](../B#byre),[milking shed](../M#milking-shed))
+ <i>n.</i> (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ] (See [byre](../B#byre),[milking shed](mar-moa.md#milking-shed))
 
 >  <b>MARSDEN</b> What they have at present is as bad as cowsheds. <i>(1830,Letters & Journals,490</i>) [NOTES: (1932)]
 
@@ -5043,11 +5043,11 @@
 
 ### coz
  
- <i>n.</i> (See [cuz](../C#cuz))
+ <i>n.</i> (See [cuz](con-cyp.md#cuz))
 
 ### CPAC
  
- <i>abbr.</i> (See [see-packed seeker](../S#see-packed-seeker))
+ <i>abbr.</i> (See [see-packed seeker](sa-sho.md#see-packed-seeker))
 
 ### CPAG
  
@@ -5251,7 +5251,7 @@
 
 ### crabgrass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  [The inhabitants] also make use of the crab-grass (Agrostis virginica), a grass which has been found equally useful for stopping encroachments as for pasture. <i>(Oct 4, 1879,Auckland Weekly News,19</i>)
 
@@ -5351,12 +5351,12 @@
 
 ### cracker
  
- <i>n.</i> (See [karaka](../K#karaka))
+ <i>n.</i> (See [karaka](k-kea.md#karaka))
 
 
 
  
- <i>n.</i> a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper) (See [stockwhip](../S#stockwhip))
+ <i>n.</i> a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper) (See [stockwhip](spa-sys.md#stockwhip))
 
 >  <b>HENDERSON</b> The boss had cut a blade of flax, and, having stripped it into whiitau, was making a cracker for his stockwhip. <i>(1974,Open Country Muster,178</i>)
 
@@ -5700,7 +5700,7 @@
 
 ### cranesbill
  
- <i>n.</i> [also crane's bill] (See [dove's foot](../D#dove's-foot))
+ <i>n.</i> [also crane's bill] (See [dove's foot](dou-dyn.md#dove's-foot))
 
 >  (Queen Charlotte Sound) Amongst the known kinds of plants are common and rough Bindweed, Nightshade and Nettles, ... and Cranes bill: [fnc Geranium. [ed. [Probably <i>Geranium sessiflorum</i>.]]] also Cudweed, [ed. fn 3 Possibly<i> Gnaphalium </i>sp. or <i>Helichrysum</i> sp.], rushes, ... <i>(Feb 1777,Cook's Journals,3/804</i>) [NOTES: 1777 Feb Anderson's Journal in Cook Journals (1967) 3/804-805]
 
@@ -5931,7 +5931,7 @@
 
 
  
- <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](../S#swappa-crate))
+ <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](spa-sys.md#swappa-crate))
 
 >  <b>CHARLES</b> And the driver comes in and breasts up to the bar./ He says, `Give me a jar and a couple of crates,/ For I am running the cutter tonight for me mates!'/... `We are fresh out of beer,/So that's why I'm here,/ Running the cutter tonight./ <i>(1981,Black Billy Tea</i>)
 
@@ -6092,7 +6092,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See [straggler](../S#straggler))
+<b>1</b> <i>n.</i> (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See [straggler](spa-sys.md#straggler))
 
 >  <b>BALFOUR</b> And the sheep. The less said about them, the better, for I never did see such a lot of crawlers. <i>(Dec 1872,Balfour Diaries,31</i>)
 
@@ -6115,7 +6115,7 @@
 
 ### crawlie/crawley/crawly
  
- <i>n.</i> crawler, freshwater crayfish [-] (See [crawler](../C#crawler))
+ <i>n.</i> crawler, freshwater crayfish [-] (See [crawler](con-cyp.md#crawler))
 
 >  <b>IHIMAERA & LONG</b> We'd go for walks. Watch crawlies in the stream behind the cow bail. <i>(1982,Into the World of Light,155</i>)
 
@@ -6631,7 +6631,7 @@
 
 ### creamery
  
- <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](../F#factory))
+ <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](f69-fin.md#factory))
 
 >  <i>Classification of Dairies</i>. - Dairies are registered as - `Factories' or `creameries,' i.e., milking at least fifty cows; ... <i>(1902,Settler's Handbook of NZ, The,149</i>) [NOTES: 1898 Dairy Industry Act in 1902 Settler's Handbook of NZ 149]
 
@@ -7497,7 +7497,7 @@
 
 ### Cresta Dore
  
- <i>n.</i> a popular 1960s NZ wine, now frequently derided (See [Bakano](../B#bakano))
+ <i>n.</i> a popular 1960s NZ wine, now frequently derided (See [Bakano](b-bla.md#bakano))
 
 ### crested
  
@@ -7519,7 +7519,7 @@
 
 ### crested grebe
  
- <i>n.</i> (See [grebe](../G#grebe))
+ <i>n.</i> (See [grebe](gra-gyp.md#grebe))
 
 >  Crested grebes.. are fairly plentiful on Lake Ianthe, South Westland. <i>(May 18, 1922,Auckland Weekly News,15</i>)
 
@@ -7691,7 +7691,7 @@
 
 
  
- <i>n.</i> a small holiday home, a bach (See [bach](../B#bach))
+ <i>n.</i> a small holiday home, a bach (See [bach](b-bla.md#bach))
 
 >  [Advt] A Crib at Puketerahi:-Beautifully-built week-end Crib...Everything that four fellows couldpossibly require... A party of four ataGBP11 5s a head and everything complete <i>(Dec 30, 1909,Otago Daily Times,10</i>)
 
@@ -7818,7 +7818,7 @@
 
 ### crib cuddy
  
- <i>n.</i> (See [cuddy](../C#cuddy))
+ <i>n.</i> (See [cuddy](con-cyp.md#cuddy))
 
 >  <b>McARA</b> <i>Crib cuddy</i>: A warm dry disused underground working used as a place where miners could have their meals. <i>(1978,Gold Mining at Waihi (Glossary),317</i>)
 
@@ -7980,7 +7980,7 @@
 
 ### Crimean shirt
  
- <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](../G#garibaldi-shirt),[bluey](../B#bluey))
+ <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](g-go.md#garibaldi-shirt),[bluey](bla-bri.md#bluey))
 
 >  A Crimean shirt, very much discoloured,reaching nearly to his knees,supplemented by a rough flax mat abouthis shoulders, is all the old patricianwill deign to wear. <i>(Jan 23, 1896,Otago Witness,42</i>)
 
@@ -8203,7 +8203,7 @@
 
 ### Cronje
  
- <i>n.</i> (See [Cunning Joe](../C#cunning-joe))
+ <i>n.</i> (See [Cunning Joe](con-cyp.md#cunning-joe))
 
 ### cronk
  
@@ -8674,7 +8674,7 @@
 
 ### cross the river
  
- <i>phr.</i> to die (See [cf. New Zealand death](../N#new-zealand-death))
+ <i>phr.</i> to die (See [cf. New Zealand death](new-no.md#new-zealand-death))
 
 >  <b>STUDHOLME</b> ... many pioneers have crossed the river many years ago. <i>(1940,Te Waimate,xi</i>)
 
@@ -8736,7 +8736,7 @@
 
 ### crossbred
  
- <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](../A#also-criss-cross),[rotational cross](../R#rotational-cross))
+ <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](../A#also-criss-cross),[rotational cross](roa-ruv.md#rotational-cross))
 
 >  <b>WELD</b> ... the Merino has the more valuable wool, being finer, and particularly superior in the `skirts', which are remarkably deficient in crossed sheep.] <i>(1851,Hints to Intending Sheep-Farmers in New Zealand,8</i>) [NOTES: [cf crossed sheep]]
 
@@ -9018,7 +9018,7 @@
 
 
  
- <i>n.</i> kokako (cf. river crow = shag) (See [kokako](../K#kokako))
+ <i>n.</i> kokako (cf. river crow = shag) (See [kokako](kiw-kwi.md#kokako))
 
 >  ... the flute-like tones of the Crow or Wattle bird, the wailing call of the Weka ... <i>(1870,TrNZI,2/45</i>) [NOTES: (Potts Birds)]
 
@@ -9256,7 +9256,7 @@
 
 ### crown pen
  
-<b>1</b> <i>n.</i> (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it. (See [diamond](../D#diamond))
+<b>1</b> <i>n.</i> (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it. (See [diamond](d-dif.md#diamond))
 
 >  <b>GASCOIGNE</b> The pattern of present-day construction has come down to us directly from these emergencies of our early settlement - the great receiving yards, the 'diamond' or 'crown' pen leading into the crush pens with the drafting race and gates opening into yards for the finally separated sheep. <i>(1965,From the Top of a Hill,12</i>)
 
@@ -9286,7 +9286,7 @@
 
 ### Crown-owned company
  
- <i>n.</i> (See [CROC](../C#croc))
+ <i>n.</i> (See [CROC](con-cyp.md#croc))
 
 >  New Zealanders will see far more about themselves on television in the wake of yesterday's decision to change Television New Zealand from a State-owned company to a Crown-owned company, Prime Minister Helen Clark said today. <i>(Mar 26, 2001,Evening Post,3</i>)
 
@@ -9679,7 +9679,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See [dipping crutch](../D#dipping-crutch))
+<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See [dipping crutch](dig-dou.md#dipping-crutch))
 
 >  <b>MCLEOD</b> Alongside the dip stood George, holding the crutch, a long stick with a curved iron on the end, shaped with one side bent down and the other up. Sometimes a weak sheep could not swim all the way and had to have its head lifted with the crutch to help it through. <i>(1954,On the Hill,24</i>)
 
@@ -9709,7 +9709,7 @@
 
 ### crutcher
  
- <i>n.</i> (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See [crutch](../C#crutch))
+ <i>n.</i> (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See [crutch](con-cyp.md#crutch))
 
 >  <b>STAPLES</b> Morning and afternoon teas must be prepared for the crutchers and haycarters and permanent men. ibid 48 Four crutchers were back, and drafting off and shedding up were going on every day. <i>(1964,Cooks and Shepherds Come Away,25</i>)
 
@@ -9741,7 +9741,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a worker who operates the crutch during the process of sheep dipping. (See [crutch man](../C#crutch-man))
+<b>1</b> <i>n.</i> (Rural) a worker who operates the crutch during the process of sheep dipping. (See [crutch man](con-cyp.md#crutch-man))
 
 >  .. the dry chuckers-in will vie with another in feats of strength, selecting heavy sheep and pitching them over instead of through the door. There is an additional charm in this, because thereby the first crutcher below is made very angry. <i>(1888,Textile Educator I,279</i>)
 
@@ -9780,7 +9780,7 @@
 
 
  
- <i>n.</i> (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See [crutch](../C#crutch))
+ <i>n.</i> (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See [crutch](con-cyp.md#crutch))
 
 >  <b>MACDONALD</b> If crutching is followed, any wool that might hinder the lambs from sucking may be clipped. <i>(1915,NZ Sheepfarming,68</i>)
 
@@ -10520,7 +10520,7 @@
 
 ### culling stick
  
-<b>1</b> <i>n.</i> (Rural) a stick used in the drafting yards to indicate an animal to be separated from others. (See [drafting stick](../D#drafting-stick))
+<b>1</b> <i>n.</i> (Rural) a stick used in the drafting yards to indicate an animal to be separated from others. (See [drafting stick](dou-dyn.md#drafting-stick))
 
 >  If she had been like it from birth, she would probably have had the culling stick as a four-tooth. <i>(Feb 2, 1942,NZ Dairy Exporter,24</i>)
 
@@ -10692,7 +10692,7 @@
 
 ### Cunny
  
- <i>n.</i> (See [Cunning Joe](../C#cunning-joe))
+ <i>n.</i> (See [Cunning Joe](con-cyp.md#cunning-joe))
 
 ### cup
  
@@ -10764,7 +10764,7 @@
 
 ### cup of tea
  
- <i>phr.</i> [also as cuppa tea below] (See [also cuppa](../A#also-cuppa),[tea break](../T#tea-break))
+ <i>phr.</i> [also as cuppa tea below] (See [also cuppa](../A#also-cuppa),[tea break](t-ten.md#tea-break))
 
 >  Quipped Sir Roger: "Since 1991 they'vehad a gigantic cup of tea that DavidLange would be proud of." <i>(Sep 17, 1993,Dominion,17</i>)
 
@@ -10822,7 +10822,7 @@
 
 ### cuppa
  
- <i>n.</i> (political allusion) (See [also cup of tea](../A#also-cup-of-tea),[tea break](../T#tea-break))
+ <i>n.</i> (political allusion) (See [also cup of tea](../A#also-cup-of-tea),[tea break](t-ten.md#tea-break))
 
 >  But what say we have a little breatherhere and then we set off on the roadagain after we have picked up thecasualties and had a cuppa. <i>(Aug 20, 1988,Dominion,1</i>) [NOTES: metaphor.]
 
@@ -10941,7 +10941,7 @@
 
 
  
- <i>adj.</i> difficult, tricky (See [curly one](../C#curly-one),[extra curly](../E#extra-curly))
+ <i>adj.</i> difficult, tricky (See [curly one](con-cyp.md#curly-one),[extra curly](ens-eye.md#extra-curly))
 
 >  The meeting was very rewarding and the questions curlier than anywhere else. <i>(Nov 1996,Geological Society of NZ Newsletter,111/2</i>)
 
@@ -10970,7 +10970,7 @@
 
 ### curly grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### curly mo
  
@@ -11431,7 +11431,7 @@
 
 
  
- <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](../A#aukati))
+ <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](ari-axe.md#aukati))
 
 >  The Hau Haus have<i> put a cut</i> [fn kati] on this port, and have laid down a law that no vessels are to be allowed to come here under pain of being taken, and all on board put to death. <i>(1865,AJHR,E-4</i>) [NOTES: J. White Spread of Hau Hau Superstition (Letter of Miss Wallace, Whakatane)]
 
@@ -11565,7 +11565,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) completion time, particularly in shearing, sheep yard and bush work. (See [cut-out](../C#cut-out))
+<b>1</b> <i>n.</i> (Rural) completion time, particularly in shearing, sheep yard and bush work. (See [cut-out](con-cyp.md#cut-out))
 
 >  <b>RICHARDS</b> Unfortunately in the afternoon we got ahead of the musterers, so the manager had to run in a mob of undagged cotty sheep that were being held until the cut out. <i>(1986,Off the Sheep's Back,130</i>)
 
@@ -11992,7 +11992,7 @@
 
 ### cutting toetoe
  
- <i>n.</i> <i>Mariscus ustulatus </i> (See [cutting grass](../C#cutting-grass))
+ <i>n.</i> <i>Mariscus ustulatus </i> (See [cutting grass](con-cyp.md#cutting-grass))
 
 >  <i>Mariscus ustulatus</i> cutting toetoe <i>(1872,TrNZI,4/</i>) [NOTES: (And)]
 
@@ -12120,13 +12120,13 @@
 
 ### cutty-cut
  
- <i>n.</i> (See [cutter](../C#cutter))
+ <i>n.</i> (See [cutter](con-cyp.md#cutter))
 
 >  <b>SCRYMGEOUR</b> Any complaints Joe attended to, and the `cutty-cut' as the shearing machines were designated [by the Maori shearers], did a beautiful job, smooth, even, with no second cuts, with an eversmiling keen sense of rivalry prevailing. <i>(1960,Memories of Maoriland,110</i>)
 
 ### cuz
  
- <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](../B#bro),[cous](../C#cous),[cuzzie](../C#cuzzie))
+ <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](bri-byo.md#bro),[cous](con-cyp.md#cous),[cuzzie](con-cyp.md#cuzzie))
 
 >  "She was screaming because she noticed she was bleeding and she was saying, 'Cuz, get her cuz'." <i>(Sep 26, 2006,NZ Herald,A6</i>)
 

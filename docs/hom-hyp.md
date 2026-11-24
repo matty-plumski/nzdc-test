@@ -83,7 +83,7 @@
 
 ### home kill
  
- <i>v.</i> (Rural) to slaughter animals for homestead consumption. (See [home-kill](../H#home-kill))
+ <i>v.</i> (Rural) to slaughter animals for homestead consumption. (See [home-kill](hom-hyp.md#home-kill))
 
 >  Homekill, beat the Xmas rush, call Country Meats now. <i>(Nov 17, 2001,Manawatu Evening Standard,26</i>)
 
@@ -92,7 +92,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) an animal to be slaughtered for on-farm consumption. (See [home-kill](../H#home-kill))
+<b>1</b> <i>n.</i> (Rural) an animal to be slaughtered for on-farm consumption. (See [home-kill](hom-hyp.md#home-kill))
 
 >  sheep to be killed for household consumption - a home kill. <i>(2001,Questionnaire Respondents (DB)</i>)
 
@@ -332,7 +332,7 @@
 
 ### home-kill
  
-<b>1</b> <i>n.</i> (Rural) meat that is slaughtered, dressed and processed on the farm for human or dog consumption. (See [farmkill](../F#farmkill))
+<b>1</b> <i>n.</i> (Rural) meat that is slaughtered, dressed and processed on the farm for human or dog consumption. (See [farmkill](f69-fin.md#farmkill))
 
 >  Homekill includes the slaughter, dressing and processing of animals .. Homekill meat can only be used by the animal's owner, their family or household and those actively engaged in running the farm. <i>(Nov 11, 1999,NZ Farmer,20</i>)
 
@@ -507,7 +507,7 @@
 
 
  
- <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](../A#also-station),[station homestead](../S#station-homestead))
+ <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](../A#also-station),[station homestead](spa-sys.md#station-homestead))
 
 >  [South Mauku] is fast becoming open country, with comfortable homesteads and paddocks of good grass. <i>(Mar 22, 1879,Auckland Weekly News,18</i>)
 
@@ -1321,7 +1321,7 @@
 
 ### hoodickey
  
- <i>n.</i> (See [hoodacky](../H#hoodacky))
+ <i>n.</i> (See [hoodacky](hom-hyp.md#hoodacky))
 
 ### hoodledum
  
@@ -1499,7 +1499,7 @@
 
 ### hook grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  The New Zealand hook grass (Uncinia unciniata, actually a sedge) has seeds with little hooks that hitch a ride on anything passing close enough by. <i>(Jun 23, 2007,Dominion Post indulgence,17</i>)
 
@@ -2702,7 +2702,7 @@
 
 ### horopita
  
- <i>n.</i> (See [horopito](../H#horopito))
+ <i>n.</i> (See [horopito](hom-hyp.md#horopito))
 
 >  <i>Drymis axillaris</i> Horopita <i>(1870,TrNZi,2/122</i>) [NOTES: (Armstrong Botany Canterbury)]
 
@@ -2787,7 +2787,7 @@
 
 ### horoweeka
  
- <i>n.</i> (See [horoeka](../H#horoeka))
+ <i>n.</i> (See [horoeka](hom-hyp.md#horoeka))
 
 ### horror house
  
@@ -3807,7 +3807,7 @@
 
 ### houheria
  
- <i>n.</i> (See [houhere](../H#houhere))
+ <i>n.</i> (See [houhere](hom-hyp.md#houhere))
 
 ### houi
  
@@ -3862,7 +3862,7 @@
 
 ### hound's tongue (fern)
  
- <i>n.</i> a fern <i>Polypodium</i> spp. (See [kowaowao](../K#kowaowao))
+ <i>n.</i> a fern <i>Polypodium</i> spp. (See [kowaowao](kiw-kwi.md#kowaowao))
 
 >  Some [ferns], such as hound's tongue fern (<i>Microsorum pustulatum</i>> and the shield ferns (<i>Polystichum richardii, P. vestitum</i>) prefer the forest margins where light levels are higher... <i>(2001,NZ Geographic,No. 49/76</i>)
 
@@ -4241,11 +4241,11 @@
 
 ### howhere
  
- <i>n.</i> (See [houhere](../H#houhere))
+ <i>n.</i> (See [houhere](hom-hyp.md#houhere))
 
 ### howhow
  
- <i>n.</i> (See [kakahu](../K#kakahu))
+ <i>n.</i> (See [kakahu](k-kea.md#kakahu))
 
 ### Howicker
  
@@ -4289,7 +4289,7 @@
 
 ### HSC
  
- <i>abbr.</i> Higher Salaries Commission (See [Higher Salaries Commission](../H#higher-salaries-commission))
+ <i>abbr.</i> Higher Salaries Commission (See [Higher Salaries Commission](hea-hom.md#higher-salaries-commission))
 
 >  The Auditor-General says MPs should not have the power to set their own entitlements and privileges. That role should be handed over to the Higher Salaries Commission... Currently HSC determines pay levels, but Speaker Jonathan Hunt and Minister Responsible for Ministerial Services, Prime Minister Helen Clark, determine entitlements and privileges. <i>(Jul 24, 2001,Evening Post,1</i>)
 
@@ -4301,7 +4301,7 @@
 
 ### hua
  
- <i>n.</i> (informal) variant of hooer (quasi-Maori) (See [hooer](../H#hooer))
+ <i>n.</i> (informal) variant of hooer (quasi-Maori) (See [hooer](hom-hyp.md#hooer))
 
 >  <b>Grace</b> They were alkies and no-hopers, useless hua who sent their kids to school barefoot and let them run wild. <i>(2001,Dogside Story,13</i>)
 
@@ -4311,7 +4311,7 @@
 
 ### huahou
  
- <i>n.</i> a bird, lesser/eastern knot (See [knot](../K#knot))
+ <i>n.</i> a bird, lesser/eastern knot (See [knot](kiw-kwi.md#knot))
 
 >  <b>FALLA et al.</b> EASTERN KNOT <i>Calidris canutus Maori name</i>: Huahou. <i>(1966,Birds of New Zealand,140</i>)
 
@@ -4431,11 +4431,11 @@
 
 ### huer
  
- <i>n.</i> (See [hooer](../H#hooer))
+ <i>n.</i> (See [hooer](hom-hyp.md#hooer))
 
 ### Huey
  
- <i>n.</i> [(trampers')] (See [Hughie](../H#hughie))
+ <i>n.</i> [(trampers')] (See [Hughie](hom-hyp.md#hughie))
 
 >  <b>PiCKERiNG</b> So to cope with the rituals of tramping, its pains and camaraderie, a slang language has developed to suit. Lots of quick short words to fit in the breathless pauses as you pant uphill. `Crud' (cloud), `bush-bash', a `gunn' tramper (which must have originated from Davy Gunn's famous trek up the Hollyford Valley to help victims of a plane crash in1936; he travelled 40 km by rowing boat, horse and foot in 21 hours), `windfall' (a collapsed pile of trees), `pit' (the tramper's true friend, a sleeping bag), `pog' (porridge), `bastard grass' and `lawyer' (two unpleasant plants), `piker' (one who stayed home), `Huey' (all-powerful god of weather), and many, many more. <i>ibid.</i> 46 New Zealand weather, sometimes called `Huey', is fast and fickle, with abrupt and noisy changes of mood. <i>(1988,Hills, The,8</i>) [NOTES: [Not so: HWO]), `windfall' (a collapsed pile of trees), `pit' (the tramper's true friend, a sleeping bag), `pog' (porridge), `bastard grass' and `lawyer' (two unpleasant plants), `piker' (one who stayed home), `Huey' (all-powerful god of weather) ...]
 
@@ -5546,7 +5546,7 @@
 
 ### hunt back
  
- <i>v.</i> (Rural) to drive stock from former grazing areas [especially from high summer country.] (See [hunt down](../H#hunt-down))
+ <i>v.</i> (Rural) to drive stock from former grazing areas [especially from high summer country.] (See [hunt down](hom-hyp.md#hunt-down))
 
 >  <b>CRESSWELL</b> Every day i walked the ridges and hunted back sheep trying to make their way up to the high country. <i>(1942,Early NZ Families,158</i>)
 
@@ -5914,7 +5914,7 @@
 
 ### hurray
  
- <i>exclam.</i> (See [hooray](../H#hooray))
+ <i>exclam.</i> (See [hooray](hom-hyp.md#hooray))
 
 ### Hurricanes
  
@@ -6135,7 +6135,7 @@
 
 ### hutiwai
  
- <i>n.</i> piripiri (See [biddy-bid](../B#biddy-bid),[piripiri](../P#piripiri),[hutuwai](../H#hutuwai))
+ <i>n.</i> piripiri (See [biddy-bid](b-bla.md#biddy-bid),[piripiri](per-pop.md#piripiri),[hutuwai](hom-hyp.md#hutuwai))
 
 >  <b>WAKEFiELD</b> Another advantage is to be found in the absence of <i>burrs</i> in the New Zealand runs; [fn] in New South Wales these are found to tear the wool, ... [1848 fn] in some parts of New Zealand there does exist a small <i>burr</i>, called <i>otiwai</i>; ... <i>(1848,Handbook for New Zealand, The,123</i>)
 

@@ -86,7 +86,7 @@
 
 ### machine
  
- <i>n.</i> the mechanical or electric totalisator (See [totalisator](../T#totalisator))
+ <i>n.</i> the mechanical or electric totalisator (See [totalisator](ten-tot.md#totalisator))
 
 >  It was a win for racing clubs in general to know there was a "scaler" amongst the bookmakers at Pahiatua, as it will have the effect of driving money into the machine where the punters know they will get paid. <i>(Mar 8, 1908,NZ Truth,2</i>) [NOTES: Check whether February or March]
 
@@ -643,7 +643,7 @@
 
 ### Madeira vine
  
- <i>n.</i> (See [mignonette vine](../M#mignonette-vine))
+ <i>n.</i> (See [mignonette vine](mar-moa.md#mignonette-vine))
 
 >  <i>madeira vine [=] mignonette vine</i> [s] <i>(1969,Standard Common Names for Weeds,45</i>)
 
@@ -825,7 +825,7 @@
 
 ### maggie
  
- <i>n.</i> a (young) woman, esp. one in black stockings (See [cf. crow](../C#crow))
+ <i>n.</i> a (young) woman, esp. one in black stockings (See [cf. crow](con-cyp.md#crow))
 
 
 
@@ -903,7 +903,7 @@
 
 ### maggy
  
- <i>n.</i> (See [maggie](../M#maggie))
+ <i>n.</i> (See [maggie](m-mar.md#maggie))
 
 ### Magic
  
@@ -1076,7 +1076,7 @@
 
 ### maha maka
  
- <i>n.</i> (See [makamaka](../M#makamaka))
+ <i>n.</i> (See [makamaka](m-mar.md#makamaka))
 
 ### mahau
  
@@ -1110,7 +1110,7 @@
 
 ### mahika kai
  
- <i>n.</i> (Environment) a food gathering place. [ORIGIN: Maori] (See [mahinga kai](../M#mahinga-kai))
+ <i>n.</i> (Environment) a food gathering place. [ORIGIN: Maori] (See [mahinga kai](m-mar.md#mahinga-kai))
 
 >  That 1868 judgement [of the Native Land Court] also did not make redress regarding mahika kai or kainga nohoanga. <i>(May 28, 2012,Otago Daily Times,A11</i>)
 
@@ -1150,7 +1150,7 @@
 
 ### mahoa
  
- <i>n.</i> (See [mahue](../M#mahue))
+ <i>n.</i> (See [mahue](m-mar.md#mahue))
 
 ### mahoe
  
@@ -1283,7 +1283,7 @@
 
 ### Mahrie
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### mahue
  
@@ -1632,7 +1632,7 @@
 
 ### mailman
  
-<b>1</b> <i>n.</i> (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.] (See [rural delivery](../R#rural-delivery))
+<b>1</b> <i>n.</i> (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.] (See [rural delivery](roa-ruv.md#rural-delivery))
 
 >  <b>STAPLES</b> The bread, papers and the mail were delivered at the gate by the rural mailman. <i>(1964,Cooks and Shepherds Come Away,12</i>)
 
@@ -2191,7 +2191,7 @@
 
 ### mairari
  
- <i>n.</i> (See [marari](../M#marari))
+ <i>n.</i> (See [marari](m-mar.md#marari))
 
 ### maire
  
@@ -2378,11 +2378,11 @@
 
 ### mairi
  
- <i>n.</i> (See [maire](../M#maire))
+ <i>n.</i> (See [maire](m-mar.md#maire))
 
 ### Mairoa dopiness
  
-<b>1</b> <i>n.</i> (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.] (See [bush sickness](../B#bush-sickness))
+<b>1</b> <i>n.</i> (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.] (See [bush sickness](bri-byo.md#bush-sickness))
 
 >  Mairoa 'dopiness' or sheep sickness: ... <i>(Aug 20, 1931,NZ Journal of Agriculture,119</i>)
 
@@ -2416,11 +2416,11 @@
 
 ### maka
  
- <i>n.</i> (See [manga](../M#manga))
+ <i>n.</i> (See [manga](m-mar.md#manga))
 
 ### makaika
  
- <i>n.</i> (See [maikaika](../M#maikaika))
+ <i>n.</i> (See [maikaika](m-mar.md#maikaika))
 
 ### makaka
  
@@ -2631,7 +2631,7 @@
 
 ### make a sale
  
- <i>phr.</i> to vomit (See [sale](../S#sale))
+ <i>phr.</i> to vomit (See [sale](sa-sho.md#sale))
 
 >  <b>PARTRIDGE</b> <i>Make a sale</i> . To vomit: New Zealand low: C. 20. B., 1941. <i>(1949,Dictionary of Slang Addenda,1105</i>)
 
@@ -2933,7 +2933,7 @@
 
 ### makora
  
- <i>n.</i> (See [tarapunga](../T#tarapunga))
+ <i>n.</i> (See [tarapunga](t-ten.md#tarapunga))
 
 >  LARUS SCOPULINUS. (MACKEREL- \{RED-BILLED\} GULL.) ... <i>Native names</i>. Tarapunga, Makora, and Akiaki. <i>(1888,Birds of New Zealand,2/55</i>)
 
@@ -3124,7 +3124,7 @@
 
 ### male fern
  
- <i>n.</i> (See [fern](../F#fern))
+ <i>n.</i> (See [fern](f69-fin.md#fern))
 
 >  <i>male fern [s] Dryopteris filix-mas</i> (L.) Schott <i>(1969,Standard Common Names for Weeds,46</i>)
 
@@ -3269,7 +3269,7 @@
 
 ### malu
  
- <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See [cf. pe'a](../P#pe'a))
+ <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See [cf. pe'a](p-per.md#pe'a))
 
 >  Film-maker Lisa Raouma presents <i>Measina: Stories of the Malu</i>, a short film detailing the mythological origins of the traditional Samoan tattoo for women... The film also includes conversations with contemporary Samoan women and their experiences of the malu in their lives. <i>(Aug 26, 2003,Independent Herald (Wellington),11</i>)
 
@@ -3373,7 +3373,7 @@
 
 ### mamuku
  
- <i>n.</i> (See [mamaku](../M#mamaku))
+ <i>n.</i> (See [mamaku](m-mar.md#mamaku))
 
 ### man
  
@@ -3830,7 +3830,7 @@
 
 ### manawa
  
- <i>n.</i> a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island. [ORIGIN: Maori] (See [mangrove](../M#mangrove))
+ <i>n.</i> a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island. [ORIGIN: Maori] (See [mangrove](m-mar.md#mangrove))
 
 >  <b>LEE & KENDALL</b> Man|awa, <i>s</i>. ... Also name of a certain tree. <i>(1820,Grammar & Vocabulary of the Language of NZ,174</i>)
 
@@ -4037,7 +4037,7 @@
 
 ### manga-manga
  
- <i>n.</i> (See [mangemange](../M#mangemange))
+ <i>n.</i> (See [mangemange](m-mar.md#mangemange))
 
 ### mangai
  
@@ -4217,7 +4217,7 @@
 
 ### mangeo
  
- <i>n.</i> (See [mangeao](../M#mangeao))
+ <i>n.</i> (See [mangeao](m-mar.md#mangeao))
 
 >  <i>Tetranthera calicaris Mangeo, Mangeao</i>.) Used in the vapour bath by lying-in women to promote the lochial discharge. <i>(1905,TrNZI,37/118</i>)
 
@@ -4259,7 +4259,7 @@
 
 ### mangi
  
- <i>n.</i> (See [mangeao](../M#mangeao))
+ <i>n.</i> (See [mangeao](m-mar.md#mangeao))
 
 ### mangi mangi taipo
  
@@ -4281,11 +4281,11 @@
 
 ### mangiao
  
- <i>n.</i> (See [mangeao](../M#mangeao))
+ <i>n.</i> (See [mangeao](m-mar.md#mangeao))
 
 ### mangio
  
- <i>n.</i> (See [mangeao](../M#mangeao))
+ <i>n.</i> (See [mangeao](m-mar.md#mangeao))
 
 ### mangle
  
@@ -4654,7 +4654,7 @@
 
 ### manooka
  
- <i>n.</i> (See [manuka](../M#manuka))
+ <i>n.</i> (See [manuka](m-mar.md#manuka))
 
 ### manool
  
@@ -4666,11 +4666,11 @@
 
 ### manouea
  
- <i>n.</i> (See [manuea](../M#manuea))
+ <i>n.</i> (See [manuea](m-mar.md#manuea))
 
 ### manouka
  
- <i>n.</i> (See [manuka](../M#manuka))
+ <i>n.</i> (See [manuka](m-mar.md#manuka))
 
 ### manpower
  
@@ -4740,7 +4740,7 @@
 
 ### manuca
  
- <i>n.</i> (See [manuka](../M#manuka))
+ <i>n.</i> (See [manuka](m-mar.md#manuka))
 
 ### manuea
  
@@ -4794,7 +4794,7 @@
 
 ### manuka
  
- <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See [also kanuka](../A#also-kanuka),[manuea](../M#manuea))
+ <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See [also kanuka](../A#also-kanuka),[manuea](m-mar.md#manuea))
 
 >  tea tree bush - man|nook [manuka] <i>(1826,Boultbee Journal,110</i>) [NOTES: also in 1826-28 Boultbee Vocabulary in 1979 Begg 283-]
 
@@ -5270,7 +5270,7 @@
 
 ### manuko
  
- <i>n.</i> [see cit gadoa] (See [manuka](../M#manuka))
+ <i>n.</i> [see cit gadoa] (See [manuka](m-mar.md#manuka))
 
 ### manukura
  
@@ -5308,11 +5308,11 @@
 
 ### maodi
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### maoia
  
- <i>n.</i> (See [moa](../M#moa))
+ <i>n.</i> (See [moa](mar-moa.md#moa))
 
 ### maomao
  
@@ -6145,7 +6145,7 @@
 
 ### Maori bug
  
- <i>n.</i> <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle (See [kekerengu](../K#kekerengu))
+ <i>n.</i> <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle (See [kekerengu](kee-kiw.md#kekerengu))
 
 >  <b>HYDE</b> The ordinary Maori bug is infamous for his odour, but the Spirits Bay bugs are of a size, a speed, a feminine curiosity, quite unparalleled in my poor experience. <i>(1934,Journalese,173</i>)
 
@@ -6460,7 +6460,7 @@
 
 ### Maori Contingent
  
- <i>n.</i> (See [Maori Battalion](../M#maori-battalion),[Pioneer Battalion](../P#pioneer-battalion))
+ <i>n.</i> (See [Maori Battalion](m-mar.md#maori-battalion),[Pioneer Battalion](../P#pioneer-battalion))
 
 >  <b>AITKEN</b> Here [at Moaskar Camp, Egypt 1915-1916] the Maori Contingent gave a lead in resourceful ingenuity, and we were content to copy them. <i>(1963,Gallipoli to the Somme,45</i>)
 
@@ -6514,7 +6514,7 @@
 
 ### Maori crow
  
- <i>n.</i> (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako) [ca 1900 Nelson district (Miss McKenzie) I didn't know him from a Maori crow.] (See [kokako](../K#kokako),[crow](../C#crow))
+ <i>n.</i> (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako) [ca 1900 Nelson district (Miss McKenzie) I didn't know him from a Maori crow.] (See [kokako](kiw-kwi.md#kokako),[crow](con-cyp.md#crow))
 
 ### Maori daphne
  
@@ -6542,7 +6542,7 @@
 
 ### Maori difficulty
  
- <i>n.</i> (See [cf. native difficulty](../N#native-difficulty),[native problem](../N#native-problem))
+ <i>n.</i> (See [cf. native difficulty](n-new.md#native-difficulty),[native problem](n-new.md#native-problem))
 
 >  <b>MANING</b> Right down to the present time talking of "Young New Zealand," and within a hair'sbreadth of settling "the Maori difficulty" without having been paid for it, which would have been a great oversight, and contrary to the customs of New Zealand. <i>(1863,Old New Zealand,105</i>) [NOTES: Auckland edition)]
 
@@ -6812,7 +6812,7 @@
 
 ### Maori hay
  
-<b>1</b> <i>n.</i> (Rural) pasture that has been left to revert to seed and weed. (See [ethnic hay](../E#ethnic-hay))
+<b>1</b> <i>n.</i> (Rural) pasture that has been left to revert to seed and weed. (See [ethnic hay](ens-eye.md#ethnic-hay))
 
 >  <b>NELSON</b> Maori hay: tag or rank feed. <i>(1999,Eugene Nelson Glossary,5</i>)
 
@@ -6940,7 +6940,7 @@
 
 ### Maori herring
  
- <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See [cf. herring](../H#herring),[Picton herring](../P#picton-herring))
+ <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See [cf. herring](hea-hom.md#herring),[Picton herring](per-pop.md#picton-herring))
 
 >  [There were washed up at Picton] all full sized herrings of two kinds, one known as the Maori and the other as the English. <i>(1865,Evening Post,1/117/3</i>)
 
@@ -7162,7 +7162,7 @@
 
 ### Maori kit
  
- <i>n.</i> (See [kete](../K#kete),[kit](../K#kit),[Maori basket](../M#maori-basket))
+ <i>n.</i> (See [kete](kee-kiw.md#kete),[kit](kee-kiw.md#kit),[Maori basket](m-mar.md#maori-basket))
 
 >  The pockets of the [billiard] table were small Maori kits, fastened on with nails. <i>(Jul 2, 1910,NZ Free Lance,12</i>)
 
@@ -7320,7 +7320,7 @@
 
 ### Maori mat
  
-<b>1</b> <i>n.</i> in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT) (See [mat](../M#mat))
+<b>1</b> <i>n.</i> in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT) (See [mat](mar-moa.md#mat))
 
 >  <b>JOHNSON</b> [This] ... with two good blankets wrapped up in a Maori mat, is the personal baggage <i>(1847,Notes from Journal</i>) [NOTES: 1847 Johnson Notes from Jrnl in 1959 Taylor Early Travs. 119]
 
@@ -7507,7 +7507,7 @@
 
 ### Maori oven
  
- <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](../C#cf-also-native-oven),[earth oven](../E#earth-oven),[see Williams)](../S#see-williams)))
+ <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](../C#cf-also-native-oven),[earth oven](e-eft.md#earth-oven),[see Williams)](../S#see-williams)))
 
 >  [photo caption] The potatoes being taken out of the Maori oven. <i>(Jan 14, 1903,Otago Witness,41</i>)
 
@@ -7570,7 +7570,7 @@
 
 
  
- <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See [cf. Maori hole](../M#maori-hole))
+ <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See [cf. Maori hole](m-mar.md#maori-hole))
 
 >  <b>ELWELL</b> The plain was. ... frequently broken by what are known as `Maori Ovens', that is large holes, almost round, with sloping sides about four feet deep. <i>(1878,Boy Colonists,28</i>)
 
@@ -8145,7 +8145,7 @@
 
 ### Maori shout
  
- <i>n.</i> a treat in which one pays for one's own drink [1953 Feb 19 (Wgton Hotel) `to have a Maori', or `a Maori shout] (See [Parnell shout](../P#parnell-shout),[Yankee shout](../Y#yankee-shout))
+ <i>n.</i> a treat in which one pays for one's own drink [1953 Feb 19 (Wgton Hotel) `to have a Maori', or `a Maori shout] (See [Parnell shout](p-per.md#parnell-shout),[Yankee shout](y-yc.md#yankee-shout))
 
 ### Maori showband
  
@@ -8157,7 +8157,7 @@
 
 ### Maori sickness
  
- <i>n.</i> (See [mate Maori](../M#mate-maori))
+ <i>n.</i> (See [mate Maori](mar-moa.md#mate-maori))
 
 >  <b>BEAGLEHOLE</b> .. he thinks of sickness, particularly that kind of sickness which he calls Maori sickness, as very often caused by spirits as a punishment for the violation of tapu or custom. <i>Ibid.</i> 219 The sign most often taken to indicate this sort of sickness is that the sickness does not appear to be yielding readily to ordinary Maori or to pakeha methods of treatment. It is then considered to be a Maori sickness - a `mate Maori' as the phrase is commonly used - and for sure, safe, and quick results, treatment should be referred to a Maori expert, a tohunga, either male or female, who will use a combination of religious prayer, seance-possession, and magic to restore the sick person to health. The inner bark [of <i>M. fulgens</i>] was also boiled and the liquid was drunk for `Maori sickness'. <i>(1946,Some Modern Maoris,205</i>)
 
@@ -8347,7 +8347,7 @@
 
 
  
- <i>n.</i> [kokopu] (See [native trout](../N#native-trout),[New Zealand trout](../N#new-zealand-trout),[et al](../E#et-al))
+ <i>n.</i> [kokopu] (See [native trout](n-new.md#native-trout),[New Zealand trout](new-no.md#new-zealand-trout),[et al](../E#et-al))
 
 >  In the back waters of the lake they were also able to catch a number of eels and kaka bulls, or Maori trout, and subsequently they caught alive several kiwis, which they brought with them on their return. <i>(Nov 29, 1866,Grey River Argus,2</i>)
 
@@ -8369,7 +8369,7 @@
 
 ### Maori village
  
- <i>n.</i> (See [cf. kaik](../K#kaik))
+ <i>n.</i> (See [cf. kaik](k-kea.md#kaik))
 
 >  <b>HAAST</b> I use the habitual expression Maori pah, but a description of this settlement would give a very poor idea of such a Maori village, consisting as it did of three miserable low huts, in which a very old couple ... were living. <i>(1879,Geology of the Provinces of Canterbury & Westland,98</i>)
 
@@ -8411,7 +8411,7 @@
 
 ### Maori War(s)
  
- <i>n.</i> a now disfavoured Pakeha-oriented term for the New Zealand Wars. [-] (See [New Zealand War(s)](../N#new-zealand-war(s)),[Land Wars](../L#land-wars),[Anglo-Maori Wars](../A#anglo-maori-wars))
+ <i>n.</i> a now disfavoured Pakeha-oriented term for the New Zealand Wars. [-] (See [New Zealand War(s)](new-no.md#new-zealand-war(s)),[Land Wars](l-lay.md#land-wars),[Anglo-Maori Wars](../A#anglo-maori-wars))
 
 >  <b>No. 34/9</b> Most people have heard of the great battles of what used to be called the "Maori Wars", such as Rangiriri and Orakau, which were both fought in the Waikato campaign... But in the end, the British army was just too strong for Maori in what is now generally known as the "New Zealand Wars." <i>(Feb 2002,NZ Memories</i>)
 
@@ -8633,7 +8633,7 @@
 
 ### Maori-ise
  
- <i>v.</i> make Maori (See [Maorify](../M#maorify),[Maoricise](../M#maoricise))
+ <i>v.</i> make Maori (See [Maorify](m-mar.md#maorify),[Maoricise](m-mar.md#maoricise))
 
 >  He shifts into galvanising-leader mode, exhorting membership drives, slamming recent government publicity "about-turns" on Maori policy, dismissing the planned 2005 hui tamata (Maori economic summit) as little more than a government publicity stunt, stressing the need to validate Maori knowledge and "take New Zealand with us. We have to do as we preach; we have to help them get over the whakama [embarassment] of saying 'Papatoetoe' [correctly] in front of their friends ... We will Maori-ise New Zealand. ..." <i>(Dec 2004,North & South,66</i>)
 
@@ -8766,7 +8766,7 @@
 
 ### Maoricise
  
- <i>v.</i> give a Maori form to (esp. a word) (See [Maorify](../M#maorify))
+ <i>v.</i> give a Maori form to (esp. a word) (See [Maorify](m-mar.md#maorify))
 
 >  <b>ROBERTS</b> It is only the English word Maoricised. <i>(1913,Place Names...of Otago and Southland,5</i>)
 
@@ -8846,7 +8846,7 @@
 
 ### Maories
  
- <i>n.</i> Maories (See [Maori](../M#maori))
+ <i>n.</i> Maories (See [Maori](m-mar.md#maori))
 
 ### Maorification
  
@@ -8915,7 +8915,7 @@
 
 
  
- <i>n.</i> usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>) (See [niggerhead](../N#niggerhead))
+ <i>n.</i> usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>) (See [niggerhead](new-no.md#niggerhead))
 
 >  <b>W H S ROBERTS</b> Writing of the Waimea Plain in 1856: - `The ground was well grassed, but the speargrass was too plentiful. The pasturage was very good. There was a good deal of scrub in the bends of the Mataura known as `wire plant' (Olearia virgata). There were also manuka and koromiko. Maori-heads, a kind of grass tree about three feet high, abounded in the swamps, and in some we saw toitoi grass and raupo. We did not pass any cabbage trees to-day ... we proceeded slowly through tomatakuru scrub, speargrass, Spaniard, snowgrass, and other native grasses ... we camped in a bend with good feed at the Elbow and a swamp on one side. Maori cabbage abounded ...' <i>(1856,Diary</i>) [NOTES: 1856 W.H.S. Roberts Diary in 1947 Beattie Early Runholding 18]
 
@@ -9265,7 +9265,7 @@
 
 ### Maouri
  
- <i>n.</i> (See [Maori](../M#maori))
+ <i>n.</i> (See [Maori](m-mar.md#maori))
 
 ### mapara
  
@@ -9300,7 +9300,7 @@
 
 
  
- <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See [also mapauriki](../A#also-mapauriki),[maple](../M#maple))
+ <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See [also mapauriki](../A#also-mapauriki),[maple](m-mar.md#maple))
 
 >  <b>HOOKER</b> Mapau, <i>Col[enso]. Myrsine australis. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
 
@@ -9350,7 +9350,7 @@
 
 ### mapauriki
  
- <i>n.</i> (See [mapouriki](../M#mapouriki))
+ <i>n.</i> (See [mapouriki](m-mar.md#mapouriki))
 
 >  Mapauriki. Pittosporum Colensoi, Hook. f. <i>(1869,TrNZI,1/iii/39</i>) [NOTES: (Buchanan Botany Otago)]
 
@@ -9406,15 +9406,15 @@
 
 ### mappo
  
- <i>n.</i> (See [mapou](../M#mapou))
+ <i>n.</i> (See [mapou](m-mar.md#mapou))
 
 ### mappu
  
- <i>n.</i> (See [mapau](../M#mapau))
+ <i>n.</i> (See [mapau](m-mar.md#mapau))
 
 ### mapua
  
- <i>n.</i> (See [mapau](../M#mapau))
+ <i>n.</i> (See [mapau](m-mar.md#mapau))
 
 ### marae
  
@@ -9641,7 +9641,7 @@
 
 ### marare
  
- <i>n.</i> (See [marari](../M#marari))
+ <i>n.</i> (See [marari](m-mar.md#marari))
 
 ### marari
  
@@ -9738,7 +9738,7 @@
 
 ### marble trout
  
- <i>n.</i> (See [trout](../T#trout),[marble-trout](../M#marble-trout),[marbletrout](../M#marbletrout))
+ <i>n.</i> (See [trout](tot-tyr.md#trout),[marble-trout](m-mar.md#marble-trout),[marbletrout](../M#marbletrout))
 
 >  <b>MORELAND</b> MARBLEFISH [<i>Aplodactylus meandratus</i>] ... Another name is marbletrout, while the Maori keke is still in use in some northern areas. <i>(1967,Marine Fishes,28</i>)
 
@@ -9761,7 +9761,7 @@
 
 ### marble-leaf
  
- <i>n.</i> putaputaweta [also marbleleaf] (See [putaputaweta](../P#putaputaweta),[weta](../W#weta))
+ <i>n.</i> putaputaweta [also marbleleaf] (See [putaputaweta](pop-pyo.md#putaputaweta),[weta](../W#weta))
 
 >  Sub-canopy species include coprosma..mountain totara and putaputaweta (marbleleaf). <i>(1990,Tramping in South Island Forest Parks,177</i>)
 
@@ -9783,7 +9783,7 @@
 
 ### marblefish
  
- <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See [also granite trout](../A#also-granite-trout),[Maori chief](../M#maori-chief))
+ <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See [also granite trout](../A#also-granite-trout),[Maori chief](m-mar.md#maori-chief))
 
 >  APLODACTYLUS MEANDRATUS (Richardson). <i>Marble-fish; Keke</i>. Secured in deep water in the vicinity of kelp, and is sometimes taken in mullet-nets. <i>(Jun 1921,NZ Journal of Science & Technology,4/115</i>) [NOTES: Phillipps Notes on the Edible Fishes]
 
@@ -9943,11 +9943,11 @@
 
 ### mare(e)
  
- <i>n.</i> (See [maire](../M#maire),[marae](../M#marae),[mere](../M#mere))
+ <i>n.</i> (See [maire](m-mar.md#maire),[marae](m-mar.md#marae),[mere](mar-moa.md#mere))
 
 ### maree
  
- <i>n.</i> (See [mere](../M#mere))
+ <i>n.</i> (See [mere](mar-moa.md#mere))
 
 ### mares' nest
  
@@ -9957,7 +9957,7 @@
 
 ### marginal country
  
-<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal land](../M#marginal-land))
+<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal land](m-mar.md#marginal-land))
 
 >  <b>HINDMARSH</b> Fertiliser application, accepted elsewhere as so beneficial on marginal country, was still cried down as uneconomic on the big hills of the East Coast. <i>(1997,Come Be a Pioneer,44</i>)
 
@@ -9977,7 +9977,7 @@
 
 ### marginal land
  
-<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal country](../M#marginal-country))
+<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal country](m-mar.md#marginal-country))
 
 >  Huge areas of New Zealand's hill country and marginal lands have been seriously depleted. <i>(Oct 11, 1951,NZ Farmer,41</i>)
 

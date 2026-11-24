@@ -437,7 +437,7 @@
 
 ### redshank
  
- <i>n.</i> (Occasionally) =willow weed (See [redroot](../R#redroot))
+ <i>n.</i> (Occasionally) =willow weed (See [redroot](red-roa.md#redroot))
 
 >  <b>HILGENDORF</b> WILLOW WEED (Epilobium sp[p].). - This is also called herb willow, swamp willow, and by confusion redshank and fireweed. It is a native that occasionally grows as a weed in or near ditches. The name is sometimes given to redshank [p.59], and it is true that both polygonum and epilobium grow in damp places, have willow-like leaves and are about 2 feet high. <i>(1926,Weeds of New Zealand,126,1967 ed.</i>)
 
@@ -461,7 +461,7 @@
 
 ### redtop
  
- <i>n.</i> (See [grass](../G#grass),[redtop](../R#redtop))
+ <i>n.</i> (See [grass](go-gra.md#grass),[redtop](red-roa.md#redtop))
 
 ### reduction-works
  
@@ -506,7 +506,7 @@
 
 ### reed sparrow
  
- <i>n.</i> (See [fernbird](../F#fernbird))
+ <i>n.</i> (See [fernbird](f69-fin.md#fernbird))
 
 >  <b>GUTHRIE-SMITH</b> <i>Sphenaeacus punctatus</i> - Fern Bird - Reed Sparrow. <i>(1914,Mutton Birds & Other Birds,202</i>)
 
@@ -701,7 +701,7 @@
 
 ### reef snapper
  
- <i>n.</i> (See [snapper](../S#snapper),[reef](../R#reef))
+ <i>n.</i> (See [snapper](sho-spa.md#snapper),[reef](red-roa.md#reef))
 
 >  <b>WILSON</b> Red snapper or sometimes reef snapper, is a name given to those fish which have spent a good part of their time in rough-bottom areas; they are a deeper, golden red than the normal open-water snapper. <i>(1981,Fisherman's Bible,227</i>)
 
@@ -1240,13 +1240,13 @@
 
 ### rehabilitation
  
- <i>n.</i> (See [Rehab](../R#rehab))
+ <i>n.</i> (See [Rehab](red-roa.md#rehab))
 
 >  <b>BOYD</b> The way in which the executive committee of `diggers' immediately opened its ranks to `kiwis' and gradually made way for them ensured the RSA strong, continuing support. A postwar rise in membership of `diggers' indicated their willingness to help with rehabilitation. <i>(1984,City of the Plains,312</i>)
 
 ### Rehabilitation Department
  
- <i>n.</i> [also Rehab Department below] (See [Rehab](../R#rehab))
+ <i>n.</i> [also Rehab Department below] (See [Rehab](red-roa.md#rehab))
 
 >  Rehabilitation Department n. N.Z. a government department set up after World War II to assist ex-servicemen. Often shortened to rehab. <i>(1982,Collins Concise English Dictionary,968</i>) [NOTES: [cf. 1986 NZPOD 641; 1985 Collins NZ Compact Dict. 411]]
 
@@ -1632,7 +1632,7 @@
 
 ### religo
  
- <i>n.</i> a religious objector to war service (See [cf. hoon](../H#hoon))
+ <i>n.</i> a religious objector to war service (See [cf. hoon](hom-hyp.md#hoon))
 
 >  <b>HAMILTON</b> They reckoned he'd stuck to his religion all through and the Hoons [fn Non religious groups.] gave me the impression that he took his religion seriously and to them he was a bit of a joke. You couldn't take much notice of the Hoons of course, not about a thing like that. Most of them just lumped the religoes together ... <i> Ibid.</i> 164 There was a sort of line drawn in the [detention] camps betwen the Hoons and the religoes. ... The religoes were divided again into God knows how many sects and amongst the hoons were absolute pacifists, pacifists, Communists, Anarchists, humanists, and plain dodgers. <i>Ibid.</i> 215 The third group [in conscientious objectors' detention camps], the religoes, could hardly be called a group at all. It was a mixed bag of Methodists, Presbyterians, Brethren, Church of England and some Catholics. <i>(1953,Till Human Voices Wake Us,154</i>)
 
@@ -1705,7 +1705,7 @@
 
 ### remark
  
- <i>v.</i> to mark again (See [cf. track](../T#track))
+ <i>v.</i> to mark again (See [cf. track](tot-tyr.md#track))
 
 >  DOC contractors cleared vegetation and remarked sections of track along 16 km of track in the western Tararuas. <i>(May 2004,Footnotes,No. 21/2</i>)
 
@@ -1882,7 +1882,7 @@
 
 ### remu
  
- <i>n.</i> (See [rimu](../R#rimu))
+ <i>n.</i> (See [rimu](red-roa.md#rimu))
 
 ### Remuera taxi
  
@@ -1932,7 +1932,7 @@
 
 ### renga lily
  
- <i>n.</i> variant of rengarenga (See [rengarenga](../R#rengarenga))
+ <i>n.</i> variant of rengarenga (See [rengarenga](red-roa.md#rengarenga))
 
 >  <i> Liliaceae Arthropodium cirratum </i> renga lily <i>(1975,Tane,21/8</i>) [NOTES: Wright Vegetation Mt Maungatawhiri]
 
@@ -2281,7 +2281,7 @@
 
 ### rerepe
  
- <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See [reperepe](../R#reperepe))
+ <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See [reperepe](red-roa.md#reperepe))
 
 >  <b>MOORE & IRWIN</b> Northern Wairoa [sc ?those of north Auckland] Maoris made a sort of porridge, called `rerepe', by boiling the [raupo] pollen in water (Boswell 1956) ... <i>(1978,Oxford Book of NZ Plants,190</i>)
 
@@ -2683,7 +2683,7 @@
 
 ### Returned Soldiers' Association
  
- <i>n.</i> (See [RSA](../R#rsa))
+ <i>n.</i> (See [RSA](roa-ruv.md#rsa))
 
 >  I see that a branch of the Returned Soldiers' Association has protested against conchies being taught massage! <i>(Feb 2, 1919,Great Adventure,250,1988 ed.</i>) [NOTES: (Hutton)]
 
@@ -3140,7 +3140,7 @@
 
 
  
- <i>n.</i> names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See [houhere](../H#houhere),[mountain ribbonwood](../M#mountain-ribbonwood),[lowland ribbonwood](../L#lowland-ribbonwood),[marsh ribbonwood](../M#marsh-ribbonwood),[saltmarsh  ribbonwood et al](../S#saltmarsh--ribbonwood-et-al))
+ <i>n.</i> names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See [houhere](hom-hyp.md#houhere),[mountain ribbonwood](mob-mys.md#mountain-ribbonwood),[lowland ribbonwood](liv-lyn.md#lowland-ribbonwood),[marsh ribbonwood](mar-moa.md#marsh-ribbonwood),[saltmarsh  ribbonwood et al](../S#saltmarsh--ribbonwood-et-al))
 
 >  No imported tree surpasses in lavishness of white blossom the New Zealand hoheria, variously called ribbonwood and lacebark, nor equals in beauty of shape or colour its intricately dentate and translucent green leaf. <i>(Oct 12, 1935,Christchurch Star-Sun,14</i>)
 
@@ -3419,11 +3419,11 @@
 
 ### ride boundary
  
- <i>phr.</i> (See [boundary](../B#boundary))
+ <i>phr.</i> (See [boundary](bla-bri.md#boundary))
 
 ### ride one's hobnails
  
- <i>phr.</i> (Rural) to walk (See [by hobnail express](../B#by-hobnail-express))
+ <i>phr.</i> (Rural) to walk (See [by hobnail express](bri-byo.md#by-hobnail-express))
 
 >  <b>STAPLES</b> Peterson rode his horse and Shiny rode his hobnails. <i>(1964,Cooks and Shepherds Come Away,42</i>)
 
@@ -3615,7 +3615,7 @@
 
 ### riffleboard
  
- <i>n.</i> (See [riffle](../R#riffle))
+ <i>n.</i> (See [riffle](red-roa.md#riffle))
 
 ### rifflebox
  
@@ -3703,7 +3703,7 @@
 
 ### rig
  
- <i>n.</i> a small commercially fished shark; also called gummy shark, spotted dogfish (See [dogfish](../D#dogfish))
+ <i>n.</i> a small commercially fished shark; also called gummy shark, spotted dogfish (See [dogfish](dig-dou.md#dogfish))
 
 >  One commercial fisherman was setting rig nets up to 800 metres long in the inner Sounds - a "wall of death" for fish - yet there were no rules in place to stop it, he said. <i>(Jan 16, 2002,Dominion,9</i>)
 
@@ -3745,7 +3745,7 @@
 
 ### rig shark
  
- <i>n.</i> (See [rig](../R#rig))
+ <i>n.</i> (See [rig](red-roa.md#rig))
 
 >  <b>BROWN</b> Not too many flat fish ... a good proportion of cod and elephants with a few rig sharks ... thrown in for good measure. <i>(1986,Weaver's Apprentice, The,91</i>)
 
@@ -4361,7 +4361,7 @@
 
 
  
- <i>v.</i> (Rural) to take a small circle of wool from around a sheep's rear end. (See [buttonhole](../B#buttonhole),[bullseye](../B#bullseye),[tup crutch](../T#tup-crutch))
+ <i>v.</i> (Rural) to take a small circle of wool from around a sheep's rear end. (See [buttonhole](bri-byo.md#buttonhole),[bullseye](bri-byo.md#bullseye),[tup crutch](tot-tyr.md#tup-crutch))
 
 >  <b>COOP</b> With August shearing it is customary and generally advisable to 'ring-crutch' or 'bullseye' the ewes before putting the rams out at tupping .. in those cases where the ewes were normally ring-crutched at tupping and fully crutched in June, the latter operation is eliminated. <i>(1950,Shearing Ewes before Lambing,28</i>)
 
@@ -4675,7 +4675,7 @@
 
 ### ringaringa
  
- <i>n.</i> (See [rengarenga](../R#rengarenga))
+ <i>n.</i> (See [rengarenga](red-roa.md#rengarenga))
 
 ### Ringatu
  
@@ -4936,7 +4936,7 @@
 
 ### ringeye
  
- <i>n.</i> (See [silvereye](../S#silvereye))
+ <i>n.</i> (See [silvereye](sho-spa.md#silvereye))
 
 >  Mr Buller gives a curious account of the first appearance in the Province of Wellington of the little bird which we call here the Wax-eye, or Ring-eye. <i>(Jul 17, 1869,Otago Witness,9</i>)
 
@@ -5089,7 +5089,7 @@
 
 ### rinse
  
- <i>n.</i> the drug gamma-hydroxybutyric acid (GHB) (See [GHB](../G#ghb))
+ <i>n.</i> the drug gamma-hydroxybutyric acid (GHB) (See [GHB](g-go.md#ghb))
 
 >  Instead, clubbers reached for drugs like GHB, chemical name gammahydroxybutyric acid, which was affordable and easy to obtain, but when mixed with alcohol acted like an anaesthetic and put users in vulnerable situations, "especially where safe sex was concerned". Last year, four clubbers aged under 21 had to be put on ventilators in Wellington hospital's intensive care unit after taking GBH [sic], a class B drug also known as Rinse. <i>(Sep 26, 2005,Dominion Post,A4</i>) [NOTES: electronic record: http://www.stuff.co.nz/stuff/0,2106,3423102a11,00.html#top Accessed 09/02/06]
 
@@ -5437,7 +5437,7 @@
 
 ### rise
  
- <i>n.</i> (See [top the rise](../T#top-the-rise))
+ <i>n.</i> (See [top the rise](ten-tot.md#top-the-rise))
 
 
 
@@ -5782,11 +5782,11 @@
 
 ### river river
  
- <i>n.</i> (See [rewarewa](../R#rewarewa))
+ <i>n.</i> (See [rewarewa](red-roa.md#rewarewa))
 
 ### river snot
  
- <i>n.</i> (See [rock snot](../R#rock-snot))
+ <i>n.</i> (See [rock snot](roa-ruv.md#rock-snot))
 
 >  [heading] <b>'River snot' noses its way northward</b> AN INVASIVE water weed, commonly known as "rock snot", has been found in the Buller River. <i>(Sep 29, 2005,Dominion Post,A14</i>)
 
@@ -5918,7 +5918,7 @@
 
 ### riwena
  
- <i>n.</i> (See [rewena](../R#rewena))
+ <i>n.</i> (See [rewena](red-roa.md#rewena))
 
 ### riwi
  
@@ -5928,7 +5928,7 @@
 
 ### riwiri
  
- <i>n.</i> (See [rauwiri](../R#rauwiri))
+ <i>n.</i> (See [rauwiri](ra-red.md#rauwiri))
 
 ### RMA
  

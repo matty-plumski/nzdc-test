@@ -40,7 +40,7 @@
 
 ### keep (the) boundary
  
- <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](../B#boundary-keeper),[boundary-keeping](../B#boundary-keeping))
+ <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](bla-bri.md#boundary-keeper),[boundary-keeping](bla-bri.md#boundary-keeping))
 
 >  Left Ch.Ch. i had next door to an offer of 300[pounds] p.a. from Government to keep the boundary of Canterbury and Otago but i could not accept ... <i>(Jan 29, 1864,Chudleigh Diary,120,1950 ed.</i>)
 
@@ -440,11 +440,11 @@
 
 ### kekino
  
- <i>n.</i> (See [kekeno](../K#kekeno))
+ <i>n.</i> (See [kekeno](kee-kiw.md#kekeno))
 
 ### kekune
  
- <i>n.</i> (See [kekeno](../K#kekeno))
+ <i>n.</i> (See [kekeno](kee-kiw.md#kekeno))
 
 ### kelly
  
@@ -874,7 +874,7 @@
 
 ### keo
  
- <i>n.</i> (See [kea](../K#kea))
+ <i>n.</i> (See [kea](k-kea.md#kea))
 
 ### kep
  
@@ -1209,7 +1209,7 @@
 
 ### kete
  
- <i>n.</i> a woven flax basket, a kit [ORIGIN: Maori, -] (See [kit](../K#kit))
+ <i>n.</i> a woven flax basket, a kit [ORIGIN: Maori, -] (See [kit](kee-kiw.md#kit))
 
 >  Last year all the senior girls made ketes and tatuas. <i>(Sep 21, 1927,NZ Tablet,39</i>)
 
@@ -1297,7 +1297,7 @@
 
 ### kettler
  
- <i>n.</i> (See [tin-kettler](../T#tin-kettler))
+ <i>n.</i> (See [tin-kettler](ten-tot.md#tin-kettler))
 
 ### kewa
  
@@ -1398,7 +1398,7 @@
 
 ### kia
  
- <i>n.</i> (See [kea](../K#kea))
+ <i>n.</i> (See [kea](k-kea.md#kea))
 
 ### kia hiwa ra
  
@@ -2149,7 +2149,7 @@
 
 ### kikararu
  
- <i>n.</i> insect which lives in toi toi [kekerengu, Maori bug http://www.jps.auckland.ac.nz/document/Volume_61_<i>Platyzosteria novae-seelandiae</i> 1952/Volume_61,_No._1_%2B_2/The_insect_people_of_the_Maori,_by_David_Miller,_p_1-61/p1] (See [kekerengu](../K#kekerengu),[Maori bug](../M#maori-bug))
+ <i>n.</i> insect which lives in toi toi [kekerengu, Maori bug http://www.jps.auckland.ac.nz/document/Volume_61_<i>Platyzosteria novae-seelandiae</i> 1952/Volume_61,_No._1_%2B_2/The_insect_people_of_the_Maori,_by_David_Miller,_p_1-61/p1] (See [kekerengu](kee-kiw.md#kekerengu),[Maori bug](m-mar.md#maori-bug))
 
 >  This Blatta is doubtless the same as the insect named by the natives Kikararu, which was erroneously taken for a bug. it is a new species, described by Mr. Brunner of Vienna, as <i>Polyzosteria Novae Zelandiae</i>. <i>(1867,New Zealand (Hochstetter),171</i>)
 
@@ -2159,7 +2159,7 @@
 
 ### kike
  
- <i>n.</i> kahikatea (See [kahikatea](../K#kahikatea))
+ <i>n.</i> kahikatea (See [kahikatea](k-kea.md#kahikatea))
 
 >  <b>MOORE</b> This meant that on a fairly large log of kahikatea - always referred to as `kike' - ... <i>(1969,From Forest to Farm,43</i>)
 
@@ -2209,7 +2209,7 @@
 
 ### kikuyu grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 >  Norris led me to a shallow crater lined with kikuyu grass. <i>(Jun 17, 2000,Listener (New Zealand Listener),59</i>)
 
@@ -2318,7 +2318,7 @@
 
 
  
- <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](../F#freezer))
+ <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](fly-fuz.md#freezer))
 
 >  <b>SCOTT</b> You know the killers, don't you? ... i.e., the sheep that the boss used for his own mutton at the house. <i>(1897,How i Stole 10,000 Sheep,9</i>) [NOTES: [also AND: check punct.]]
 
@@ -2591,7 +2591,7 @@
 
 ### killmong
  
- <i>n.</i> (See [kirimoko](../K#kirimoko))
+ <i>n.</i> (See [kirimoko](kee-kiw.md#kirimoko))
 
 ### kills
  
@@ -3242,7 +3242,7 @@
 
 ### King Seenie
  
- <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](../A#also-kingy-seeny),[King Caesar](../K#king-caesar))
+ <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](../A#also-kingy-seeny),[King Caesar](kee-kiw.md#king-caesar))
 
 >  <b>SUTTON-SMiTH</b> The most widely known and most popular tagging game in all historical periods - in fact, the most popular game in New Zealand - was undoubtedly the game known variously as <i>Bar the Door</i> (E-8); All Over; Barbadoor; Barley; Barley Goats; Bar the Gate; Black Bull Bee; Blackthorn; Broken Barley; By the Door; Caesar; Father Door; Free Pass; Goosey; Goosey Up and Down; Holding; Horney;Julius Caesar; King Caesar; King's Den; King Dick; King O'Seenie; King O'Weenie; King Seenie; King Seize-Her; King-a-Sene; Last man Over; Last Over Call; Pass Over; Punch King; Punch King Seenio; Red Rover; and Running Through the Middle. <i>(1972,Folkgames of Children,81</i>)
 
@@ -3325,7 +3325,7 @@
 
 ### King's territory
  
- <i>n.</i> (See [King Country](../K#king-country))
+ <i>n.</i> (See [King Country](kee-kiw.md#king-country))
 
 >  The natives of the `King Party' have intimated to Mr Cheltham their intention of preventing him from bringing spirits into the "King's Territory'. <i>(1859,McLean Papers,V/201</i>)
 
@@ -3444,7 +3444,7 @@
 
 
  
-<b>2</b> <i>n.</i> Rexea (formerly Jordanidia) solandri, aka gemfish (See [southern kingfish](../S#southern-kingfish))
+<b>2</b> <i>n.</i> Rexea (formerly Jordanidia) solandri, aka gemfish (See [southern kingfish](sho-spa.md#southern-kingfish))
 
 >  <i>Rexea Furcifera</i> ... King fish. <i>(1911,Records of the Canterbury Museum,1/236</i>) [NOTES: Waite]
 
@@ -3622,7 +3622,7 @@
 
 ### Kingite
  
- <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](../Q#queenite))
+ <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](que-quo.md#queenite))
 
 >  Every Kingite, and just about every neutral, and, on the quiet, many Queenites were on his [sc. Te Kooti's] side. <i>(1976,Tall & Short Stories,32</i>) [NOTES: 2nd ed.]
 
@@ -3767,7 +3767,7 @@
 
 ### kingship
  
- <i>n.</i> (See [Maori kingship](../M#maori-kingship))
+ <i>n.</i> (See [Maori kingship](m-mar.md#maori-kingship))
 
 >  <b>McLiNTOCK</b> [Mahuta] was succeeded in the `Kingship' by his eldest son, Te Rata ... <i>(1966,Encyclopaedia of New Zealand, An,3/648</i>)
 
@@ -3931,7 +3931,7 @@
 
 ### kip
  
- <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](../B#bat))
+ <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](b-bla.md#bat))
 
 >  Much to `Truth's' deep regret, for it detests having to give the show away, lately, at Miramar, when some road-making or mountain-razing work has been going on, some of them have engaged in the simple yet sinful process of tossing two bright copper pennies, with a bit of wood, popularly known as `the bat' or `the kip' and, therefore, in the eye of the law are hardened criminals. <i>(Jan 20, 1912,NZ Truth,343/7/3</i>)
 
@@ -4017,7 +4017,7 @@
 
 ### kirikiri
  
- <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](../K#kiriri))
+ <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](kee-kiw.md#kiriri))
 
 >  <b>TAYLOR</b> <i>Kirikiri</i>, and <i>pakirikiri</i>, a rough-skinned fish, having two spines on the back, which it can elevate at pleasure; it is a short but broad fish (<i>labrus poecilopleura</i>). <i>(1855,Te ika a Maui,411</i>)
 
@@ -4033,7 +4033,7 @@
 
 ### kiriri
  
- <i>n.</i> (See [cf. kirikiri](../K#kirikiri))
+ <i>n.</i> (See [cf. kirikiri](kee-kiw.md#kirikiri))
 
 >  <b>HECTOR</b> 114. LEATHER JACKET. ... This remarkably shaped fish (<i>Monocanthus convexirostris</i>) is very common in Wellington Harbour ... The Maori name for this fish is Kiriri. in other countries members of this genus are called Trigger Fishes, from the power ... of suddenly erecting the stiff spine on the back ... <i>(1872,Edible Fishes,121</i>)
 
@@ -4368,7 +4368,7 @@
 
 ### kitful
  
- <i>n.</i> basketful (See [kit](../K#kit))
+ <i>n.</i> basketful (See [kit](kee-kiw.md#kit))
 
 >  <b>J. WHiTE</b> Went to fish, caught a kit full. <i>(1856,Journal,62</i>)
 
@@ -4488,7 +4488,7 @@
 
 
  
- <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](../D#digger),[Anzac](../A#anzac))
+ <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](dig-dou.md#digger),[Anzac](all-ari.md#anzac))
 
 >  We christened the Adjutant `Kiwi' - the symbol of En-Zed. <i>(Jun 21, 1918,NZEF Chronicles,225</i>)
 
@@ -4706,7 +4706,7 @@
 
 ### kiwi
  
- <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../E#emu),[roa](../R#roa))
+ <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](egg-ens.md#emu),[roa](red-roa.md#roa))
 
 >  <b>REES</b> Of grallae are found.. an apteryx (the grotesque kiwi). <i>(1851,GB Parliamentary Papers (irish Univ. series),1779/28</i>)
 
@@ -4965,7 +4965,7 @@
 
 ### Kiwi cut
  
- <i>n.</i> a short back & sides haircut (See [Kiwi haircut](../K#kiwi-haircut))
+ <i>n.</i> a short back & sides haircut (See [Kiwi haircut](kee-kiw.md#kiwi-haircut))
 
 >  [Caption] "i'll stick to a Kiwi cut myself - short back and sides!" <i>(Apr 18, 1958,NZ Ferns,27</i>)
 
@@ -5397,7 +5397,7 @@
 
 ### kiwiberry
  
- <i>n.</i> (See [arguta](../A#arguta))
+ <i>n.</i> (See [arguta](all-ari.md#arguta))
 
 >  [Caption] MiNi-VERSiON: kiwifruit happens to have a smaller cousin - the kiwiberry. <i>(Mar 9, 2006,Hawke's Bay Today,16</i>)
 
@@ -5591,7 +5591,7 @@
 
 ### Kiwiland
  
- <i>n.</i> New Zealand (See [cf. Kiwi-Country](../K#kiwi-country),[Maoriland](../M#maoriland))
+ <i>n.</i> New Zealand (See [cf. Kiwi-Country](kee-kiw.md#kiwi-country),[Maoriland](m-mar.md#maoriland))
 
 >  it's in the regions of heartland Kiwiland that 'real lunch' food reigns. <i>(Jul 17, 1999,Listener (New Zealand Listener),94</i>)
 

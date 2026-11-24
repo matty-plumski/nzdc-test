@@ -44,7 +44,7 @@
 
 ### lizard
  
- <i>n.</i> (See [kakariki](../K#kakariki))
+ <i>n.</i> (See [kakariki](k-kea.md#kakariki))
 
 >  <b>WILLIAMS</b> <i> Kakariki, n </i>. ... 2 <i> green lizard </i>. <i>(1892,Dictionary of the Maori Language,49</i>)
 
@@ -117,7 +117,7 @@
 
 ### llamy
  
- <i>n.</i> (See [lammie](../L#lammie))
+ <i>n.</i> (See [lammie](l-lay.md#lammie))
 
 ### LMC
  
@@ -133,13 +133,13 @@
 
 ### lo ryding
  
- <i>n.</i> (See [lo ryder](../L#lo-ryder))
+ <i>n.</i> (See [lo ryder](liv-lyn.md#lo-ryder))
 
 >  ...although lo ryders are undoubtedly "in", they're not a new trend... "Lo ryding has become the norm." <i>(Feb 20, 2003,Listener (New Zealand Listener)</i>)
 
 ### lo-ryder
  
- <i>n.</i> [? trade name for low-rider jeans] (See [low-rider](../L#low-rider))
+ <i>n.</i> [? trade name for low-rider jeans] (See [low-rider](liv-lyn.md#low-rider))
 
 >  In response to Felicity Monk's story ("Does my bum look naked in this?"),.. on "lo ryders", as she calls them, I was disgusted at the way she portrayed people who have enough confidence to wear clothes in a way that <i>they</i> want and not to worry about what others think. <i>(Mar 8, 2003,Listener (New Zealand Listener),9</i>)
 
@@ -259,7 +259,7 @@
 
 ### loafer cow
  
-<b>1</b> <i>n.</i> (Rural) a high-consuming, low-producing dairy cow. (See [boarder](../B#boarder))
+<b>1</b> <i>n.</i> (Rural) a high-consuming, low-producing dairy cow. (See [boarder](bla-bri.md#boarder))
 
 >  The cow is on her trial. Her milk production and the butter-fat it contains are all carefully recorded. The 'loafer' cow finds her way sooner to the butcher than she would do if no particulars were kept of what she is yielding. <i>(Mar 21, 1919,Hawera Star,2</i>)
 
@@ -342,7 +342,7 @@
 
 ### lobster
  
- <i>n.</i> crayfish (See [cf. crawfish](../C#crawfish))
+ <i>n.</i> crayfish (See [cf. crawfish](con-cyp.md#crawfish))
 
 >  [Natives] sold us some Lobster Mussels and two Conger ells. [sic] [fn2] The common N.Z. salt water crayfish is <i> Jasus lalandi..</i>. <i>(Nov 1, 1769,Cook's Journals,I-189,1955 ed.</i>)
 
@@ -443,7 +443,7 @@
 
 ### local turnips
  
- <i>n.</i> (See [Te Horo spuds](../T#te-horo-spuds))
+ <i>n.</i> (See [Te Horo spuds](t-ten.md#te-horo-spuds))
 
 >  The question of what to do with all these stones, known affectionately as Te Horo spuds or local turnips, has been around a long time. <i>(Feb 4, 2006,Dominion Post,E9</i>)
 
@@ -901,7 +901,7 @@
 
 ### logging
  
- <i>n.</i> (See [logging up](../L#logging-up))
+ <i>n.</i> (See [logging up](liv-lyn.md#logging-up))
 
 >  <b>WAKEFIELD</b> .. the expense of clearing was as follows: felling and lopping, logging and burning, at 5l. an acre; ... <i>(1844,Handbook for New Zealand, The,177</i>) [NOTES: F.A.Molesworth to the House of Commons Committee on NZ Matters in 1848 Wakefield Handbook for NZ]
 
@@ -997,7 +997,7 @@
 
 ### lokey
  
- <i>n.</i> (See [loci](../L#loci))
+ <i>n.</i> (See [loci](liv-lyn.md#loci))
 
 >  <b>BEARDSLEY</b> On to the wharf, stilling the fussing ofa lokey with a rake of coal trucks. <i>(1984,Blackball 08,12</i>)
 
@@ -1554,7 +1554,7 @@
 
 ### long head
  
- <i>n.</i> (Rural) the course over which the long head trial for heading dogs is conducted. (See [long pull](../L#long-pull))
+ <i>n.</i> (Rural) the course over which the long head trial for heading dogs is conducted. (See [long pull](liv-lyn.md#long-pull))
 
 >  <b>THOMSON</b> The long head is unusual in the sense that the dogs can either run up the creeek, or up the guts but have a difficult piece of ground to cover to clear the sheep cleanly, and not flatten their head. <i>(1993,Taranaki Dog Trialing,8</i>)
 
@@ -1565,7 +1565,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a dog trial competition for heading dogs. (See [long pull](../L#long-pull))
+<b>1</b> <i>n.</i> (Rural) a dog trial competition for heading dogs. (See [long pull](liv-lyn.md#long-pull))
 
 >  <b>McLEOD</b> Long Head: Long run for heading dog. <i>(1959,Tall Tussock,124</i>)
 
@@ -1640,7 +1640,7 @@
 
 ### long pepper
  
- <i>n.</i> [? (cf. Parkinson's Journal `long pepper')] (See [pepper tree](../P#pepper-tree))
+ <i>n.</i> [? (cf. Parkinson's Journal `long pepper')] (See [pepper tree](p-per.md#pepper-tree))
 
 >  A species of long pepper is found in great plenty but it has little of the aromatic flavour which makes spices valuable, ... [ed. fn 7 Kawakawa, <i>Macropiper excelsum</i>.] <i>(Feb 1777,Cook's Journals,3/805</i>) [NOTES: 1777 Feb Anderson's Journal in Cook Journals 3/805 (Queen Charlotte Sound)]
 
@@ -1814,7 +1814,7 @@
 
 ### long-finned sand diver
  
- <i>n.</i> <i>Limnichthys polyactis </i> (See [sand diver](../S#sand-diver))
+ <i>n.</i> <i>Limnichthys polyactis </i> (See [sand diver](sa-sho.md#sand-diver))
 
 >  <b>AYLING</b> <i>LONG-FINNED SAND DIVER Limnichthys polyactis </i> <i>(1982,Collins Guide,1984,271 ed.</i>)
 
@@ -2015,7 +2015,7 @@
 
 
  
-<b>2</b> <i>n.</i> Caprodon longimanus , =pink maomao, =mata (maataa) [check longfin right]. (See [pink maomao](../P#pink-maomao))
+<b>2</b> <i>n.</i> Caprodon longimanus , =pink maomao, =mata (maataa) [check longfin right]. (See [pink maomao](per-pop.md#pink-maomao))
 
 >  <b>INGLIS</b> The whare with its idle group of Crimean-shirted stockmen ... bullock-punchers, horse-breakers, fencers and general rouseabouts ... came back to us. <i>(1887,Our NZ Cousins,163</i>)
 
@@ -2111,7 +2111,7 @@
 
 ### longtailed bat
  
- <i>n.</i> longtailed bat .. pekapeka .. <i>Chalinolobus morio </i> (See [pekapeka](../P#pekapeka))
+ <i>n.</i> longtailed bat .. pekapeka .. <i>Chalinolobus morio </i> (See [pekapeka](p-per.md#pekapeka))
 
 >  <b>POWELL</b> BAT, LONG-TAILED (<i>Chalinolobus morio</i>), Pekapeka of the Maoris, shelters in caves and hollow trees. <i>(1947,Native Animals of NZ,92</i>)
 
@@ -2127,7 +2127,7 @@
 
 ### longwood
  
- <i>adj.</i> (See [tussock](../T#tussock))
+ <i>adj.</i> (See [tussock](tot-tyr.md#tussock))
 
 ### look
  
@@ -2651,7 +2651,7 @@
 
 ### low country
  
- <i>n.</i> (See [cf. high country](../H#high-country),[hill country](../H#hill-country))
+ <i>n.</i> (See [cf. high country](hea-hom.md#high-country),[hill country](hea-hom.md#hill-country))
 
 >  <b>BLAKISTON</b> By 8a.m., we had our 14,000 wethers across the Waihi on to what was then called the `low country'.[sic] now Ben Hope. <i>(1952,My Yesteryears,19</i>) [NOTES: f. c1869]
 
@@ -2797,11 +2797,11 @@
 
 ### lox
  
- <i>n.</i> (See [locks](../L#locks))
+ <i>n.</i> (See [locks](liv-lyn.md#locks))
 
 ### loyalist
  
- <i>n.</i> (See [kupapa](../K#kupapa))
+ <i>n.</i> (See [kupapa](kiw-kwi.md#kupapa))
 
 >  <b>BELICH</b> The kupapa, Maoris fighting on the British side, were variously known as `loyalists', `Queenites', and `the friendly natives'. ... [212] The motives of kupapa groups varied enormously ... <i>(1986,NZ Wars, The,211</i>)
 

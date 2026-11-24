@@ -152,4 +152,4 @@
 
 ### zwei
  
- <i>n.</i> (See [swi/swy](../S#swi/swy))
+ <i>n.</i> (See [swi/swy](spa-sys.md#swi/swy))

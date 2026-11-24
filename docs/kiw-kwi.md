@@ -1029,7 +1029,7 @@
 
 ### koarea
  
- <i>n.</i> <i>Trachichthodes</i>, golden snapper, red snapper (See [golden snapper](../G#golden-snapper))
+ <i>n.</i> <i>Trachichthodes</i>, golden snapper, red snapper (See [golden snapper](go-gra.md#golden-snapper))
 
 >  <b>WiLLiAMS</b> The whole of the long range of the New Zealand Coast is abundantly supplied with beautiful fish. Of this variety of 78 species i will name a part, viz. ... Rauwarea [koarea], a snapper; ... <i>[Glossary </i>118] koarea golden snapper (<i>trachichthodes affinis</i>)]. <i>(1843,NZ Journal,40</i>)
 
@@ -1165,7 +1165,7 @@
 
 ### koehoperoa
  
- <i>n.</i> (See [koekoea](../K#koekoea))
+ <i>n.</i> (See [koekoea](kiw-kwi.md#koekoea))
 
 ### koeke
  
@@ -1219,7 +1219,7 @@
 
 ### koekohe
  
- <i>n.</i> (See [kohikohi](../K#kohikohi))
+ <i>n.</i> (See [kohikohi](kiw-kwi.md#kohikohi))
 
 ### koha
  
@@ -1296,7 +1296,7 @@
 
 ### kohai
  
- <i>n.</i> (See [kowhai](../K#kowhai))
+ <i>n.</i> (See [kowhai](kiw-kwi.md#kowhai))
 
 
 
@@ -1369,7 +1369,7 @@
 
 ### kohaperoa
  
- <i>n.</i> (See [kohoperoa](../K#kohoperoa))
+ <i>n.</i> (See [kohoperoa](kiw-kwi.md#kohoperoa))
 
 ### kohatu
  
@@ -1486,7 +1486,7 @@
 
 ### koheperoa
  
- <i>n.</i> (See [kohoperoa](../K#kohoperoa))
+ <i>n.</i> (See [kohoperoa](kiw-kwi.md#kohoperoa))
 
 >  During the quiet summer nights the deep rich notes of the Koheperoa, or Long-tailed Cuckoo, may be heard at intervals till break of day. ... The Pipiwarauroa, or Shining Cuckoo, is of milder disposition ... <i>(1869,TrNZi,i/iii/13</i>) [NOTES: (Buller Ornithology)]
 
@@ -1504,7 +1504,7 @@
 
 ### koherika
  
- <i>n.</i> (See [koheriki](../K#koheriki))
+ <i>n.</i> (See [koheriki](kiw-kwi.md#koheriki))
 
 >  <b>CHEESEMAN</b> <i>(1906,Manual NZ Flora,225</i>)
 
@@ -1575,7 +1575,7 @@
 
 
  
- <i>n.</i> (See [kowhai](../K#kowhai))
+ <i>n.</i> (See [kowhai](kiw-kwi.md#kowhai))
 
 
 
@@ -1687,7 +1687,7 @@
 
 ### kohoperoa
  
- <i>n.</i> longtailed cuckoo, koehoperoa (See [koekoea](../K#koekoea))
+ <i>n.</i> longtailed cuckoo, koehoperoa (See [koekoea](kiw-kwi.md#koekoea))
 
 >  <b>YATE</b> <i>Kohaperoa </i>- This bird is remarkable for its long body, and short cock's beak. <i>(1835,New Zealand (various authors/titles),65</i>)
 
@@ -1719,7 +1719,7 @@
 
 ### kohoukohou
  
- <i>n.</i> (See [kohukohu](../K#kohukohu))
+ <i>n.</i> (See [kohukohu](kiw-kwi.md#kohukohu))
 
 ### kohu card
  
@@ -1768,7 +1768,7 @@
 
 ### kohuhu
  
- <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](../A#also-kohukohu),[karo](../K#karo))
+ <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](../A#also-kohukohu),[karo](k-kea.md#karo))
 
 >  <b>LEE & KENDALL</b> Koh|uhu, s. A shrub so called. <i>(1820,Grammar & Vocabulary of the Language of NZ,165</i>)
 
@@ -1878,7 +1878,7 @@
 
 ### kohutuhutu
  
- <i>n.</i> fuchsia (See [kotukutuku](../K#kotukutuku))
+ <i>n.</i> fuchsia (See [kotukutuku](kiw-kwi.md#kotukutuku))
 
 >  The woods used are totara burr, wairangi, kauri, lancewood, puriri and kohutuhutu. <i>(Apr 23, 1887,Auckland Weekly News,18</i>)
 
@@ -2035,7 +2035,7 @@
 
 ### kokako
  
- <i>n.</i> (Environment) New Zealand crow [=blue-wattled/orange-wattled crow; =blue gills; wattle bird;] (See [crow](../C#crow))
+ <i>n.</i> (Environment) New Zealand crow [=blue-wattled/orange-wattled crow; =blue gills; wattle bird;] (See [crow](con-cyp.md#crow))
 
 >  The kokako sounds incredible. it's not like a sparrow going tweet. it has overtones and many timbres in its call. <i>(Sep 26, 2001,Capital Times,5</i>)
 
@@ -2119,15 +2119,15 @@
 
 ### koke
  
- <i>n.</i> [?A mistranscription or misprint in Hooker 186, see kohe] (See [kohe](../K#kohe))
+ <i>n.</i> [?A mistranscription or misprint in Hooker 186, see kohe] (See [kohe](kiw-kwi.md#kohe))
 
 ### koke-koke
  
- <i>n.</i> (See [kohekohe](../K#kohekohe))
+ <i>n.</i> (See [kohekohe](kiw-kwi.md#kohekohe))
 
 ### kokihi
  
- <i>n.</i> (See [New Zealand spinach](../N#new-zealand-spinach))
+ <i>n.</i> (See [New Zealand spinach](new-no.md#new-zealand-spinach))
 
 >  <b>HOOKER</b> Kokihi, <i>Col[enso]. Tetragonia trigyna. </i> <i>(1867,Handbook NZ Flora (List of Names),765</i>)
 
@@ -2249,13 +2249,13 @@
 
 
  
- <i>n.</i> a digging stick, ko (See [ko](../K#ko))
+ <i>n.</i> a digging stick, ko (See [ko](kiw-kwi.md#ko))
 
 >  <b>ELDER</b> They call the tool koko. <i>(1819,Marsden's Lieutenants,165</i>) [NOTES: (Griffiths Collection)]
 
 ### kokomako
  
- <i>n.</i> (See [korimako](../K#korimako))
+ <i>n.</i> (See [korimako](kiw-kwi.md#korimako))
 
 >  <b>BULLER</b> ANTHORNiS MELANURA. (BELL-BiRD.) ... <i>Native names</i>. Mako, Makomako, Komako, Kokomako, Korimako, Kohimako, Kokorimako, Titimako, and Kopara. Of the above names, Korimako is most generally used by northern and Makomako by southern tribes. The Ngatiawas call this bird Rearea; and the natives of the Bay of Plenty distinguish the male and female as Kokorohimako and Titapu. <i>(1873,Birds of New Zealand,91,{1888 2nd edn 1/85} ed.</i>)
 
@@ -2315,7 +2315,7 @@
 
 
  
- <i>n.</i> cockabully (See [also  bully](../A#also--bully),[trout (mountain](../T#trout-(mountain),[native); para](../N#native);-para))
+ <i>n.</i> cockabully (See [also  bully](../A#also--bully),[trout (mountain](../T#trout-(mountain),[native); para](n-new.md#native);-para))
 
 >  A biologist.. identified the fish as juvenile banded kokopu, well known for the ability to crawl up steep slopes... Banded kokopu (Galaxias fasciatus) are found only in New Zealand and are related to the inanga or whitebait. <i>(Jan 29, 2001,Evening Post,16</i>)
 
@@ -2436,7 +2436,7 @@
 
 ### kokopuru
  
- <i>n.</i> native trout (See [kokopara](../K#kokopara))
+ <i>n.</i> native trout (See [kokopara](kiw-kwi.md#kokopara))
 
 >  <b>STUDHOLME</b> Fifty years ago the Waimate Creek was full of native trout, or Kokopuru; ... <i>(1940,Te Waimate,249,1954 ed.</i>)
 
@@ -2580,7 +2580,7 @@
 
 ### kolladdy
  
- <i>n.</i> (See [korari](../K#korari))
+ <i>n.</i> (See [korari](kiw-kwi.md#korari))
 
 ### kolly
  
@@ -2661,7 +2661,7 @@
 
 ### konaki
  
- <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](../C#catamaran))
+ <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](c-chi.md#catamaran))
 
 >  An old car chassis with a couple of wheels at one end, something like a konaki, will do a more elaborate turn. <i>(Dec 1, 1945,NZ Dairy Exporter,10</i>)
 
@@ -2871,7 +2871,7 @@
 
 ### koomara, koomera
  
- <i>n.</i> (See [kumara](../K#kumara))
+ <i>n.</i> (See [kumara](kiw-kwi.md#kumara))
 
 ### koota/kooti/kuti
  
@@ -3224,7 +3224,7 @@
 
 ### korai
  
- <i>n.</i> (See [koroi](../K#koroi))
+ <i>n.</i> (See [koroi](kiw-kwi.md#koroi))
 
 ### korama
  
@@ -3393,7 +3393,7 @@
 
 ### korari honey
  
- <i>n.</i> flax honey (See [cf. manuka honey](../M#manuka-honey))
+ <i>n.</i> flax honey (See [cf. manuka honey](m-mar.md#manuka-honey))
 
 >  <b>BRUNNER</b> The honey of the flax blossom is also in season, called <i>korari</i>, and, when mixed with fern root, also makes a species of confectionery. <i>(1848,Journal of an Expedition,293</i>)
 
@@ -3484,7 +3484,7 @@
 
 
  
- <i>n.</i> (See [korire](../K#korire))
+ <i>n.</i> (See [korire](kiw-kwi.md#korire))
 
 >  [Names used for Air NZ fleet aircraft include:] ZK-NFB `KORERE' (Grey Warbler) <i>(Jun 1988,Pacific Way,98</i>)
 
@@ -3820,11 +3820,11 @@
 
 ### korimuka
  
- <i>n.</i> (See [koromiko](../K#koromiko))
+ <i>n.</i> (See [koromiko](kiw-kwi.md#koromiko))
 
 ### korire
  
- <i>n.</i> (See [korere](../K#korere))
+ <i>n.</i> (See [korere](kiw-kwi.md#korere))
 
 ### koriroriro
  
@@ -3858,7 +3858,7 @@
 
 ### koroai
  
- <i>n.</i> (See [korowai](../K#korowai))
+ <i>n.</i> (See [korowai](kiw-kwi.md#korowai))
 
 ### koroatito
  
@@ -3907,7 +3907,7 @@
 
 ### korokia
  
- <i>n.</i> (See [korokio](../K#korokio))
+ <i>n.</i> (See [korokio](kiw-kwi.md#korokio))
 
 
 
@@ -3961,7 +3961,7 @@
 
 ### korokio-taranga
  
- <i>n.</i> (See [korokio](../K#korokio))
+ <i>n.</i> (See [korokio](kiw-kwi.md#korokio))
 
 >  <b>HOOKER</b> Corokia <i>buddleioides,</i> A.Cunn. ... Nat. name, `Korokia-taranga', <i>Colenso. </i> <i>(1853,Flora NZ,i Flowering Plants 98</i>)
 
@@ -4151,7 +4151,7 @@
 
 ### koromuka
  
- <i>n.</i> (See [koromiko](../K#koromiko))
+ <i>n.</i> (See [koromiko](kiw-kwi.md#koromiko))
 
 ### koromuti
  
@@ -4183,7 +4183,7 @@
 
 ### korora
  
- <i>n.</i> little blue penguin (See [blue penguin](../B#blue-penguin))
+ <i>n.</i> little blue penguin (See [blue penguin](bla-bri.md#blue-penguin))
 
 >  For us, Hauturu meant many things... rude nocturnal awakenings by rowdy korora (little blue penguin). kiwi and pateke (brown teal)... <i>(Jan 2002,NZ Geographic,No. 55/16</i>)
 
@@ -4256,7 +4256,7 @@
 
 
  
- <i>n.</i> (See [korau](../K#korau))
+ <i>n.</i> (See [korau](kiw-kwi.md#korau))
 
 ### koroua
  
@@ -4466,7 +4466,7 @@
 
 ### korumeek
  
- <i>n.</i> (See [koromiko](../K#koromiko))
+ <i>n.</i> (See [koromiko](kiw-kwi.md#koromiko))
 
 ### korupe
  
@@ -4502,13 +4502,13 @@
 
 ### kosher apple
  
- <i>n.</i> (See [Maori apple](../M#maori-apple))
+ <i>n.</i> (See [Maori apple](m-mar.md#maori-apple))
 
 >  Reed said it isn't possible to grow kosher apples and there is no niche market for them anyhow... He produced as evidence photos of Freilich's kosher apples being sold from the same bins as Enza apples in European supermarkets. <i>(Dec 20, 2000,independent Business Weekly,5</i>)
 
 ### kota
  
- <i>n.</i> (See [kokota](../K#kokota))
+ <i>n.</i> (See [kokota](kiw-kwi.md#kokota))
 
 ### kotaha
  
@@ -4699,7 +4699,7 @@
 
 ### kotihi
  
- <i>n.</i> (See [kotihe](../K#kotihe))
+ <i>n.</i> (See [kotihe](kiw-kwi.md#kotihe))
 
 ### kotimana
  
@@ -4769,11 +4769,11 @@
 
 ### kotukutuk
  
- <i>n.</i> (See [kotukutuku](../K#kotukutuku))
+ <i>n.</i> (See [kotukutuku](kiw-kwi.md#kotukutuku))
 
 ### kotukutuku
  
- <i>n.</i> tree fuchsia (See [kohutuhutu](../K#kohutuhutu))
+ <i>n.</i> tree fuchsia (See [kohutuhutu](kiw-kwi.md#kohutuhutu))
 
 >  Kotukutuku produces a sweet juicy fruit in the summer, but don't eat too much because it can give you a violent case of the runs. <i>(Jul 24, 2002,Capital Times,25</i>)
 
@@ -4824,7 +4824,7 @@
 
 ### kouka
  
- <i>n.</i> cabbage tree (See [ti-kouka](../T#ti-kouka))
+ <i>n.</i> cabbage tree (See [ti-kouka](ten-tot.md#ti-kouka))
 
 >  To force young kouka to sprout, he ties the top leaves together in a ponytail. <i>(May 2000,NZ Gardener,81</i>)
 
@@ -4867,7 +4867,7 @@
 
 ### koukoupara
  
- <i>n.</i> a fish (See [kokopara](../K#kokopara),[also kokopu](../A#also-kokopu))
+ <i>n.</i> a fish (See [kokopara](kiw-kwi.md#kokopara),[also kokopu](../A#also-kokopu))
 
 >  <b>BEATTiE</b> Koukoupara - is a fish like the kokopu, but differently marked, and following the example of one of his informants, the translator [sc Beattie] has translated this as `mountain trout'. Koukoupara is the spelling adopted in the lists, but the [Maori] compilers have varied this with kopara, koupara, and kokaupara. Never once do they use the southern form of kokopara, which the southerners pronounced kokobala, which the early settlers soon turned into `cockabully'. <i>(1945,Maori Place-Names of Canterbury,63</i>) [NOTES: c1880 South island Maori Lists `Wahi Mahika Kai' in 1945 Beattie Maori Place-names of Canterbury 63]
 
@@ -4880,7 +4880,7 @@
 
 
  
- <i>n.</i> crayfish [ORIGIN: Maori] (See [crawler](../C#crawler))
+ <i>n.</i> crayfish [ORIGIN: Maori] (See [crawler](con-cyp.md#crawler))
 
 >  A favourite on the menu is 'koura', freshwater crayfish. <i>(Aug 20, 2002,independent Herald (Wellington),6</i>)
 
@@ -4991,7 +4991,7 @@
 
 ### kouraraki
  
- <i>n.</i> (See [cf. whalefeed](../W#whalefeed),[spawn](../S#spawn))
+ <i>n.</i> (See [cf. whalefeed](../W#whalefeed),[spawn](spa-sys.md#spawn))
 
 >  <b>SHORTLAND</b> The tide was ebbing, and had left the beach red with `kouraraki,' a small crustaceous animal not unlike the shrimp, but more diminutive. They were still alive, and so numerous that they formed a stratum three or four inches thick, to walk over which was as if one trod on new-fallen snow. The `kouraraki' are fed on by the whale; and their appearance early, and in abundance, was hailed as the prognostic of a good season. <i>(1851,Southern Districts of NZ,185</i>) [NOTES: 1844 Jan 4 in 1851 Shortland Southern Districts of NZ 185]
 
@@ -5015,7 +5015,7 @@
 
 ### koutu utu
  
- <i>n.</i> (See [kohutuhutu](../K#kohutuhutu))
+ <i>n.</i> (See [kohutuhutu](kiw-kwi.md#kohutuhutu))
 
 ### kow-rowdy-dowdy
  
@@ -5103,7 +5103,7 @@
 
 ### kowaowao
  
- <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](../H#hound's-tongue-fern))
+ <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](hom-hyp.md#hound's-tongue-fern))
 
 >  <b>WiLSON</b> <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN ... Koowaowao ... Fronds glossy green, strap-shaped to variously lobed ... <i>(1982,Stewart island Plants,465</i>)
 
@@ -5115,11 +5115,11 @@
 
 ### koware
  
- <i>n.</i> ediBle raupo root (See [koareare](../K#koareare))
+ <i>n.</i> ediBle raupo root (See [koareare](kiw-kwi.md#koareare))
 
 ### kowhai
  
- <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](../A#also-kowhai-ngutukaka),[red kowhai](../R#red-kowhai))
+ <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](../A#also-kowhai-ngutukaka),[red kowhai](ra-red.md#red-kowhai))
 
 >  <b>Crowe</b> ...in 1783 kowhai became one of the first New Zealand plants to appear in London plant catalogues. <i>(2009,Which Native Tree?,36</i>)
 
@@ -5346,7 +5346,7 @@
 
 ### kraka
  
- <i>n.</i> (See [karaka](../K#karaka))
+ <i>n.</i> (See [karaka](k-kea.md#karaka))
 
 ### kraut lid
  
@@ -5443,7 +5443,7 @@
 
 ### kudi
  
- <i>n.</i> (See [kuri](../K#kuri))
+ <i>n.</i> (See [kuri](kiw-kwi.md#kuri))
 
 ### kuhihi
  
@@ -5528,7 +5528,7 @@
 
 ### kuki
  
- <i>n.</i> (See [cookee](../C#cookee))
+ <i>n.</i> (See [cookee](con-cyp.md#cookee))
 
 ### kuku
  
@@ -5561,7 +5561,7 @@
 
 
  
- <i>n.</i> (wood) pigeon, kereru, kukupa [[Ma. <b>kuku</b> pigeon] cf. P.M. Ryan Dict. Modern Maori (1995) 117.] (See [kereru](../K#kereru))
+ <i>n.</i> (wood) pigeon, kereru, kukupa [[Ma. <b>kuku</b> pigeon] cf. P.M. Ryan Dict. Modern Maori (1995) 117.] (See [kereru](kee-kiw.md#kereru))
 
 >  The hunters caught poaka (wild pigs), parera (grey duck), putakitaki (paradise duck), kereru or kuku (pigeon), and hurepo (bittern). <i>(1988,Tales of Pioneer Women,249</i>) [NOTES: Writing of 1940]
 
@@ -5691,11 +5691,11 @@
 
 ### kumakuma
  
- <i>n.</i> (See [kamokamo](../K#kamokamo),[kumukumu](../K#kumukumu))
+ <i>n.</i> (See [kamokamo](k-kea.md#kamokamo),[kumukumu](kiw-kwi.md#kumukumu))
 
 ### kumala
  
- <i>n.</i> (See [kumara](../K#kumara))
+ <i>n.</i> (See [kumara](kiw-kwi.md#kumara))
 
 ### kumara
  
@@ -5990,7 +5990,7 @@
 
 ### kumarahau
  
- <i>n.</i> [<i>Pomaderris elliptica</i>] (See [kumarahou](../K#kumarahou))
+ <i>n.</i> [<i>Pomaderris elliptica</i>] (See [kumarahou](kiw-kwi.md#kumarahou))
 
 >  <b>J.B. WiLLiAMS</b> The Kumarahou is a common tree and bears a small berry and a white flower which is very fragrant and handsome and not unpleasant to the taste. [<i>Glossary</i> 119 name given to several shrubs and trees seems here to refer to <i>ixerba brexiodes</i>]. <i>(1844,NZ Journal,106,1956 ed.</i>)
 
@@ -6237,11 +6237,11 @@
 
 ### kupa
  
- <i>n.</i> (See [horse mussel](../H#horse-mussel))
+ <i>n.</i> (See [horse mussel](hom-hyp.md#horse-mussel))
 
 ### kupadu
  
- <i>n.</i> (See [kuparu](../K#kuparu))
+ <i>n.</i> (See [kuparu](kiw-kwi.md#kuparu))
 
 ### kupae
  
@@ -6281,7 +6281,7 @@
 
 
  
- <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](../F#friendly))
+ <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](fly-fuz.md#friendly))
 
 >  May kupapa be fairly compared with a handful of deserters like Kimble Bent? <i>(Sep 3, 1990,Listener (New Zealand Listener),109</i>)
 
@@ -6461,7 +6461,7 @@
 
 
  
-<b>1</b> <i>n.</i> the dog introduced by the pre-European Polynesian settlers [ORIGIN: Maori, variant spellings including goorie/goory q.v.] (See [Maori dog](../M#maori-dog))
+<b>1</b> <i>n.</i> the dog introduced by the pre-European Polynesian settlers [ORIGIN: Maori, variant spellings including goorie/goory q.v.] (See [Maori dog](m-mar.md#maori-dog))
 
 >  The "trial" was a crew prank in Queen Charlotte Sound, when crewmen "tried", executed and then served up a kuri to another crewman who had intended taking it back to England as a gift to his patron. <i>(Jun 28, 2003,Dominion Post,F13</i>)
 
@@ -6538,7 +6538,7 @@
 
 
  
-<b>3</b> <i>n.</i> a dog owned, often communally, by Maori. <i>Canis familiaris</i>, the dog introduced by Europeans, and early associated with Maori ownership, and ill thrift, esp. such dogs running wild in packs. (in the mid to late 19th c. such wild dogs were often thought erron. to be descendants of the Polynesian dog, prob. largely because of the often derog. epithet Maori being attached to the wild dog.) (See [Maori dog](../M#maori-dog))
+<b>3</b> <i>n.</i> a dog owned, often communally, by Maori. <i>Canis familiaris</i>, the dog introduced by Europeans, and early associated with Maori ownership, and ill thrift, esp. such dogs running wild in packs. (in the mid to late 19th c. such wild dogs were often thought erron. to be descendants of the Polynesian dog, prob. largely because of the often derog. epithet Maori being attached to the wild dog.) (See [Maori dog](m-mar.md#maori-dog))
 
 >  <b>COWAN</b> We had a couple of pig dogs with us, Maori kuris, which Hursthouse had borrowed from an old wahine at Te Kuiti ... <i>(1916,Bush Explorers,19</i>)
 
@@ -6639,11 +6639,11 @@
 
 ### kuriwhengi
  
- <i>n.</i> (See [kuruwhengi](../K#kuruwhengi))
+ <i>n.</i> (See [kuruwhengi](kiw-kwi.md#kuruwhengi))
 
 ### kuriwhengu
  
- <i>n.</i> (See [kuruwhengi](../K#kuruwhengi))
+ <i>n.</i> (See [kuruwhengi](kiw-kwi.md#kuruwhengi))
 
 ### kuruwhengi
  
@@ -6657,7 +6657,7 @@
 
 ### kuta
  
- <i>n.</i> (See [kutu](../K#kutu))
+ <i>n.</i> (See [kutu](kiw-kwi.md#kutu))
 
 ### kutai
  
@@ -6718,7 +6718,7 @@
 
 ### kuwaka
  
- <i>n.</i> (See [godwit](../G#godwit))
+ <i>n.</i> (See [godwit](go-gra.md#godwit))
 
 >  The special bird of those shores is a large sea snipe, kuwaka (limosa Baueri), a godwit. <i>(Nov 12, 1887,Auckland Weekly News,8</i>)
 

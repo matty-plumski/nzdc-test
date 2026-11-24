@@ -281,7 +281,7 @@
 
 ### double-fleecer
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one shearing. (See [double-decker](../D#double-decker))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one shearing. (See [double-decker](dou-dyn.md#double-decker))
 
 >  <b>GUTHRIE-SMITH</b> We lived on wild pig, wild beef shot on Kaiwaka, and the fat wild sheep and double-fleecers that could be raked in from river cliffs ... <i>(1921,Tutira,221</i>) [NOTES: Tutira III (1999)]
 
@@ -368,7 +368,7 @@
 
 ### double-shear
  
-<b>1</b> <i>v.</i> (Rural) to shear twice in twelve months. (See [second-shear](../S#second-shear))
+<b>1</b> <i>v.</i> (Rural) to shear twice in twelve months. (See [second-shear](sa-sho.md#second-shear))
 
 >  <b>NEWTON</b> Otui double-shore that year and Bob was there for practically the whole season. <i>(1972,In the Wake of the Axe,85</i>)
 
@@ -797,7 +797,7 @@
 
 ### down cow
  
- <i>n.</i> [Used also USA] (See [downer](../D#downer),[downer cow](../D#downer-cow))
+ <i>n.</i> [Used also USA] (See [downer](dou-dyn.md#downer),[downer cow](dou-dyn.md#downer-cow))
 
 >  When is a down cow not a down cow? <i>(Aug 22, 2005,NZ Farmers' Weekly,3</i>)
 
@@ -1202,7 +1202,7 @@
 
 ### downer cow
  
- <i>n.</i> [Also used in USA.] (See [downer](../D#downer),[down cow](../D#down-cow))
+ <i>n.</i> [Also used in USA.] (See [downer](dou-dyn.md#downer),[down cow](dou-dyn.md#down-cow))
 
 >  .. one Waikato farmer who last week found the rules have changed when it comes to getting downer cows picked up for pet food. <i>(Aug 22, 2005,NZ Farmers' Weekly,3</i>)
 
@@ -1239,7 +1239,7 @@
 
 ### downy
  
- <i>adj.</i> as a distinguishing epithet in plant names (See [brome](../B#brome),[hakea](../H#hakea),[ironheart](../I#ironheart),[rata](../R#rata))
+ <i>adj.</i> as a distinguishing epithet in plant names (See [brome](../B#brome),[hakea](h-hea.md#hakea),[ironheart](../I#ironheart),[rata](ra-red.md#rata))
 
 ### downy country
  
@@ -1811,7 +1811,7 @@
 
 
  
- <i>n.</i> (See [dragstone](../D#dragstone))
+ <i>n.</i> (See [dragstone](dou-dyn.md#dragstone))
 
 
 
@@ -1966,7 +1966,7 @@
 
 ### dragonfish
  
- <i>n.</i> (See [starry dragon](../S#starry-dragon))
+ <i>n.</i> (See [starry dragon](spa-sys.md#starry-dragon))
 
 ### dragonfly
  
@@ -2057,7 +2057,7 @@
 
 ### draught(ing)
  
- <i>n.</i> (See [draft(ing)](../D#draft(ing)))
+ <i>n.</i> (See [draft(ing)](dou-dyn.md#draft(ing)))
 
 ### draw
  
@@ -2068,7 +2068,7 @@
 
 
  
- <i>n.</i> [(Northland bushmen's)] (See [also sliver](../A#also-sliver),[stringer](../S#stringer))
+ <i>n.</i> [(Northland bushmen's)] (See [also sliver](../A#also-sliver),[stringer](spa-sys.md#stringer))
 
 >  <b>ROY GILBERD</b> [The fibres of wood in a tree just about to fall] do not part all in one plane and `stringers' or `drawers' are drawn out of the barrel, sometimes several feet long. Sometimes men on contract, trying to save timber, place their saw-cut too low and some of the wood-fibres break off up in the barrel. These are `stringers' while they are breaking, and `slivers' or `drawers' when they are left upright in the sloven. <i>(1950,Letter</i>) [NOTES: (Northland)]
 
@@ -2556,7 +2556,7 @@
 
 ### dripping pen
  
-<b>1</b> <i>n.</i> (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip. (See [draining pen](../D#draining-pen))
+<b>1</b> <i>n.</i> (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip. (See [draining pen](dou-dyn.md#draining-pen))
 
 >  <b>SCOTT</b> .. instead of sliding comfortably down a shoot [sic] into their sixty seconds' bathe and walking leisurely upstairs to the 'dripping pen' the sheep were jammed into a small yard. <i>(1922,Reminiscences of a New Chum in Otago,18</i>)
 
@@ -3835,7 +3835,7 @@
 
 ### drunk's express
  
- <i>n.</i> a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm. [ca1920 p.c. Prof. P.S. Ardern Auckland: a 6 o'clock tram, then bus. ca1950 Wellington, the trains leaving soon after 6 p.m. for the Hutt or Paekakariki.] (See [shicker express](../S#shicker-express))
+ <i>n.</i> a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm. [ca1920 p.c. Prof. P.S. Ardern Auckland: a 6 o'clock tram, then bus. ca1950 Wellington, the trains leaving soon after 6 p.m. for the Hutt or Paekakariki.] (See [shicker express](sa-sho.md#shicker-express))
 
 ### drunkie
  
@@ -3945,7 +3945,7 @@
 
 ### dry cow
  
-<b>1</b> <i>v.</i> (Rural) to use dry-cow therapy for mastitis. (See [dry-cow therapy](../D#dry-cow-therapy))
+<b>1</b> <i>v.</i> (Rural) to use dry-cow therapy for mastitis. (See [dry-cow therapy](dou-dyn.md#dry-cow-therapy))
 
 >  We do not dry cow and have not had to use antibiotics to treat a cow since we started using homeopathics. <i>(Mar 13, 2001,Fencepost.com,Homeopathic.</i>)
 
@@ -4146,7 +4146,7 @@
 
 ### dry-goat therapy
  
-<b>1</b> <i>n.</i> (Rural) administration of antibiotics when a dairy goat is dried off. (See [dry-cow therapy](../D#dry-cow-therapy))
+<b>1</b> <i>n.</i> (Rural) administration of antibiotics when a dairy goat is dried off. (See [dry-cow therapy](dou-dyn.md#dry-cow-therapy))
 
 >  Whole-herd dry-goat therapy is likely to reduce BTSCC more than part-herd ... <i>(2002,Lifestyle Farmer,April/May 10</i>)
 
@@ -4253,7 +4253,7 @@
 
 ### dryland browntop
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### drymill
  
@@ -4969,7 +4969,7 @@
 
 ### duffing find
  
- <i>n.</i> (See [duffing](../D#duffing))
+ <i>n.</i> (See [duffing](dou-dyn.md#duffing))
 
 >  <b>"H"</b> There is no crime so great as to make a "duffing find"<i> intentionally.</i> <i>(1898,Grain of Gold, The,39</i>)
 
@@ -5456,7 +5456,7 @@
 
 ### Dunedin Sounders
  
- <i>n.</i> (See [Dunedin Sound](../D#dunedin-sound))
+ <i>n.</i> (See [Dunedin Sound](dou-dyn.md#dunedin-sound))
 
 >  Which would be more camps than the Dunedin Sounders had when they confronted the industry nearly 20 years ago. <i>(Aug 12, 2000,Listener (New Zealand Listener),36</i>)
 
@@ -5867,7 +5867,7 @@
 
 ### dunnyhouse
  
- <i>n.</i> (See [dunny](../D#dunny))
+ <i>n.</i> (See [dunny](dou-dyn.md#dunny))
 
 >  ... its window revealing a red-painted dunnyhouse under the macrocarpas. <i>(1983,Landfall,147/124</i>)
 
@@ -6057,7 +6057,7 @@
 
 ### Dutch shout
  
- <i>n.</i> a Dutch treat (See [also Parnell shout](../A#also-parnell-shout),[Yankee shout](../Y#yankee-shout))
+ <i>n.</i> a Dutch treat (See [also Parnell shout](../A#also-parnell-shout),[Yankee shout](y-yc.md#yankee-shout))
 
 ### Dutchie
  
@@ -6167,7 +6167,7 @@
 
 ### DWB
  
- <i>abbr.</i> driving while black [ORIGIN: acronym] (See [driving while black](../D#driving-while-black))
+ <i>abbr.</i> driving while black [ORIGIN: acronym] (See [driving while black](dou-dyn.md#driving-while-black))
 
 >  Some reported being frequently pulled over by police for no particular reason, dubbed the "DWB" or "driving while black" phenomenon, the students found. <i>(Oct 8, 2005,Dominion Post,A10</i>)
 
@@ -6199,7 +6199,7 @@
 
 ### dyer's eyebright
  
- <i>n.</i> (See [eyebright](../E#eyebright))
+ <i>n.</i> (See [eyebright](ens-eye.md#eyebright))
 
 ### dyer's weed
  

@@ -128,7 +128,7 @@
 
 ### rabbit camp
  
-<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](../R#rabbiters'-camp))
+<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](ra-red.md#rabbiters'-camp))
 
 >  The working men are seen no more in hut or rabbit camp, / The stockwhip never will be heard about the river swamp, / No more the mighty fleeces crown the bins like drifted snow, / No more princely rams go down, the wonder of the show ... <i>(Oct 8, 1896,Otago Witness,50</i>)
 
@@ -234,7 +234,7 @@
 
 ### rabbit fence
  
-<b>1</b> <i>n.</i> (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See [rabbit-line](../R#rabbit-line))
+<b>1</b> <i>n.</i> (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See [rabbit-line](ra-red.md#rabbit-line))
 
 >  The furry pest is not yet in the province, but has spread to the rabbit fence on the southern boundary ... <i>(Jun 15, 1883,North Otago Times,2</i>)
 
@@ -580,7 +580,7 @@
 
 ### rabbiters' camp
  
- <i>n.</i> [aka rabbit camp] (See [rabbit camp](../R#rabbit-camp))
+ <i>n.</i> [aka rabbit camp] (See [rabbit camp](ra-red.md#rabbit-camp))
 
 >  He partly recovered, and dragged himself to a rabbiters' camp, where he obtained assistance to resuscitate Uren. <i>(Jan 17, 1910,Poverty Bay Herald,4</i>)
 
@@ -893,7 +893,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a fenced laneway through farm land. (See [laneway](../L#laneway))
+<b>1</b> <i>n.</i> (Rural) a fenced laneway through farm land. (See [laneway](l-lay.md#laneway))
 
 >  <b>YEREX</b> The provision of central farm raceways enables deer to be moved from paddock to yards quickly. <i>(1982,Farming of Deer,103</i>)
 
@@ -1056,7 +1056,7 @@
 
 ### radi
  
- <i>n.</i> (See [rari](../R#rari))
+ <i>n.</i> (See [rari](ra-red.md#rari))
 
 ### radiata
  
@@ -1539,7 +1539,7 @@
 
 ### rail-sitter
  
-<b>1</b> <i>n.</i> (Rural) an observer or non-participant in farming activities. (See [gate-leaner](../G#gate-leaner))
+<b>1</b> <i>n.</i> (Rural) an observer or non-participant in farming activities. (See [gate-leaner](g-go.md#gate-leaner))
 
 >  <b>ROBERTS</b> Branding may not have been as spectacular as a Roman holiday, but it usually attracted a few rail-sitters. <i>(1856,Diary</i>) [NOTES: in Beattie (1947) Early Runholding in Otago]
 
@@ -1634,7 +1634,7 @@
 
 
  
- <i>n.</i> a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See [mohua](../M#mohua))
+ <i>n.</i> a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See [mohua](mob-mys.md#mohua))
 
 >  <i>Observations on</i> Puffinus gavius</i> (Forst.), Rain-bird,</i> (Hakoakoa), <i>their Habits and Habitats. </i> <i>(1886,TrNZI,18/9</i>) [NOTES: (Reischek)]
 
@@ -1665,7 +1665,7 @@
 
 
  
-<b>3</b> <i>n.</i> mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See [mottled petrel](../M#mottled-petrel))
+<b>3</b> <i>n.</i> mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See [mottled petrel](mob-mys.md#mottled-petrel))
 
 >  He states that the rain-bird is the only petrel seen in that locality. <i>(Feb 5, 1910,Evening Post,13</i>)
 
@@ -1829,7 +1829,7 @@
 
 ### rakapika
  
- <i>n.</i> (See [rata-piki](../R#rata-piki))
+ <i>n.</i> (See [rata-piki](ra-red.md#rata-piki))
 
 ### rakau
  
@@ -1962,7 +1962,7 @@
 
 ### rakkoo
  
- <i>v.</i> (See [rakau](../R#rakau))
+ <i>v.</i> (See [rakau](ra-red.md#rakau))
 
 ### rakkyo
  
@@ -2270,11 +2270,11 @@
 
 ### rangatara
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### rangatera
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### rangatira
  
@@ -2464,7 +2464,7 @@
 
 ### rangatiratanga
  
- <i>n.</i> chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See [tino rangatiratanga](../T#tino-rangatiratanga))
+ <i>n.</i> chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See [tino rangatiratanga](ten-tot.md#tino-rangatiratanga))
 
 >  A New Zealander's "Mana" is his "Rangatiratanga"; that is, his Influence, or his Respectability. <i>(Jun 5, 1860,Daily Southern Cross,3</i>)
 
@@ -2488,7 +2488,7 @@
 
 ### rangaturah
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### range
  
@@ -2657,7 +2657,7 @@
 
 ### ranghateeroo
  
- <i>n.</i> (See [rangatira](../R#rangatira))
+ <i>n.</i> (See [rangatira](ra-red.md#rangatira))
 
 ### rangi
  
@@ -2787,7 +2787,7 @@
 
 ### rangiterer
  
- <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See [rangatira](../R#rangatira))
+ <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See [rangatira](ra-red.md#rangatira))
 
 >  <b>MANSON</b> There is not many days but some of our rangiterers are walked to jail for debt. I hope I shall soon be a rangiterer but not go to jail. <i>(1971,I Take Up My Pen,27</i>) [NOTES: 1842 S. Retter in 1971 Manson I Take up My Pen 27]
 
@@ -2879,7 +2879,7 @@
 
 ### raooroo
  
- <i>n.</i> (See [rawaru](../R#rawaru))
+ <i>n.</i> (See [rawaru](ra-red.md#rawaru))
 
 ### raorao
  
@@ -3013,7 +3013,7 @@
 
 ### raperape
  
- <i>n.</i> (See [reperepe](../R#reperepe))
+ <i>n.</i> (See [reperepe](red-roa.md#reperepe))
 
 ### RAPID
  
@@ -3071,7 +3071,7 @@
 
 ### rarau
  
- <i>n.</i> (See [raurau](../R#raurau))
+ <i>n.</i> (See [raurau](ra-red.md#raurau))
 
 ### rare as a vegetarian shearer
  
@@ -3137,7 +3137,7 @@
 
 ### rarihi
  
- <i>n.</i> (See [rarii](../R#rarii))
+ <i>n.</i> (See [rarii](ra-red.md#rarii))
 
 ### rarii
  
@@ -3619,13 +3619,13 @@
 
 ### rat-tail knitting
  
- <i>n.</i> French knitting (See [French knitting](../F#french-knitting),[Dolly down the reel](../D#dolly-down-the-reel))
+ <i>n.</i> French knitting (See [French knitting](fly-fuz.md#french-knitting),[Dolly down the reel](dig-dou.md#dolly-down-the-reel))
 
 >  An odd [cotton] reel can be turned to useful account for making French knitting, rat-tail knitting or "Dolly down the reel", as it is frequently called. <i>(Feb 2005,NZ Memories,No. 52,  p. 19</i>)
 
 ### rata
  
- <i>n.</i> a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See [for Metrosideros spp. for tree-forms](../F#for-metrosideros-spp.-for-tree-forms),[and occas. for the liane see also IRONWOOD](../A#and-occas.-for-the-liane-see-also-ironwood),[RATA-VINE](../R#rata-vine))
+ <i>n.</i> a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See [for Metrosideros spp. for tree-forms](../F#for-metrosideros-spp.-for-tree-forms),[and occas. for the liane see also IRONWOOD](../A#and-occas.-for-the-liane-see-also-ironwood),[RATA-VINE](ra-red.md#rata-vine))
 
 >  rata : sometimes you meet with a rata, which here is one of the highest in New Zealand... <i>(1841,NZ Journal,51</i>)
 
@@ -3868,7 +3868,7 @@
 
 ### rata-tree caterpillar
  
- <i>n.</i> (See [rata-grub](../R#rata-grub))
+ <i>n.</i> (See [rata-grub](ra-red.md#rata-grub))
 
 ### ratahuihui
  
@@ -4128,7 +4128,7 @@
 
 ### rattar
  
- <i>n.</i> (See [rata](../R#rata))
+ <i>n.</i> (See [rata](ra-red.md#rata))
 
 ### rattle
  
@@ -4976,15 +4976,15 @@
 
 ### rawara
  
- <i>n.</i> (See [rawaru](../R#rawaru))
+ <i>n.</i> (See [rawaru](ra-red.md#rawaru))
 
 ### rawarawa
  
- <i>n.</i> (See [rewarewa](../R#rewarewa))
+ <i>n.</i> (See [rewarewa](red-roa.md#rewarewa))
 
 ### rawaru
  
- <i>n.</i> [ORIGIN: Maori] (See [cod](../C#cod),[blue cod](../B#blue-cod))
+ <i>n.</i> [ORIGIN: Maori] (See [cod](chi-con.md#cod),[blue cod](bla-bri.md#blue-cod))
 
 >  cod fish - rao'oroo [rawaru] <i>(1835,Boultbee Journal,113,1986 ed.</i>) [NOTES: c1826-1827 list of Maori words in c1835 Boultbee Journal (1986) 113. Also >1826-28 Boultbee Vocabulary in 1979 Begg 286 (|= macron precedes) cod-fish, ra|ooroo [rawara]]
 
@@ -5124,7 +5124,7 @@
 
 
  
-<b>2</b> <i>n.</i> [?=eagle ray see stingaree for main discussion of variants] (See [stingray](../S#stingray))
+<b>2</b> <i>n.</i> [?=eagle ray see stingaree for main discussion of variants] (See [stingray](spa-sys.md#stingray))
 
 >  [see quot elephant fish] <i>(Mar 1880,Banks Journal,2/57</i>)
 
@@ -5307,7 +5307,7 @@
 
 ### ray grass
  
- <i>n.</i> (See [grass](../G#grass),[ray grass](../R#ray-grass))
+ <i>n.</i> (See [grass](go-gra.md#grass),[ray grass](ra-red.md#ray-grass))
 
 ### razoo
  
@@ -5543,7 +5543,7 @@
 
 ### RD
  
- <i>abbr.</i> rural delivery (See [rural delivery](../R#rural-delivery))
+ <i>abbr.</i> rural delivery (See [rural delivery](roa-ruv.md#rural-delivery))
 
 >  We can still number by thousands the homes (not all of them R.D.) where meals are cooked on the wood range and where bathing the children means chopping the kindling, lighting the copper ... and bailing it out again. <i>(Oct 1949,Here & Now,17</i>)
 
@@ -6580,7 +6580,7 @@
 
 ### red kowhai
  
- <i>n.</i> kaka-beak (See [kaka-beak](../K#kaka-beak),[kowhai ngutukaka](../K#kowhai-ngutukaka))
+ <i>n.</i> kaka-beak (See [kaka-beak](k-kea.md#kaka-beak),[kowhai ngutukaka](kiw-kwi.md#kowhai-ngutukaka))
 
 >  <b>LAING & BLACKWELL</b> <i>Clianthus puniceus (The Scarlet Clianthus)... </i>This tree [shrub] is known as the <i>Red Kowhai, Parrot's Bill,</i> or <i>Kaka's Beak</i> Native name <i>Kowhai-ngutu-kaka</i>, signifying the <i>Parrot-beaked kowhai.</i> It is also called in the Urewera Country <i>Ngutu-Kakariki</i>, the <i>Parroquet's Beak.</i> <i>(1907,Plants of NZ,210,1940, p. 221 ed.</i>)
 
@@ -6602,7 +6602,7 @@
 
 ### red light
  
-<b>1</b> <i>n.</i> (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See [sixty-nine](../S#sixty-nine))
+<b>1</b> <i>n.</i> (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See [sixty-nine](sho-spa.md#sixty-nine))
 
 >  <b>PORTER</b> I [Grace Porter] used to wonder why the boys called out `Red Light' as I approached the shed ... and later found it was their signal to stop all flowery language. <i>(1970,Nor'west Arch,29</i>)
 
@@ -6780,7 +6780,7 @@
 
 ### red perch
  
- <i>n.</i> Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](../B#butterfly-perch))
+ <i>n.</i> Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](bri-byo.md#butterfly-perch))
 
 >  [species name] alfonsino .. [scientific name] <i>Beryx splendens </i>.. [other name(s)] red perch (name used by Sealord (Nelson)) <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
 

@@ -666,7 +666,7 @@
 
 ### black sugar
  
- <i>n.</i> a grade of kauri gum (See [cf. Black Joe](../B#black-joe))
+ <i>n.</i> a grade of kauri gum (See [cf. Black Joe](b-bla.md#black-joe))
 
 >  <b>SUTHERLAND</b> Some of the classifications under which gum was exported give an indication of the appearance of some of the grades: bright, rescraped bush, bright chips, black flour dust, chalk, bright seeds and black sugar are some of the names. <i>(1956,Green Kiwi,70,1960 ed.</i>)
 
@@ -790,7 +790,7 @@
 
 ### black vine
  
- <i>n.</i> <i>Rhipogonum scandens</i> = SUPPLEJACK (See [Maori vine](../M#maori-vine),[passion vine](../P#passion-vine))
+ <i>n.</i> <i>Rhipogonum scandens</i> = SUPPLEJACK (See [Maori vine](m-mar.md#maori-vine),[passion vine](p-per.md#passion-vine))
 
 >  And ... the <i>Rhipogonum scandens</i>, or Black vine,with its numerous smooth black stalks ... is also a very striking plant. <i>Ibid.</i> 1/III/50 Black vine. Rhipogonum scandens, Forst. <i>(1869,TrNZI,1/III/25</i>) [NOTES: (Buchanan Botany Otago)]
 
@@ -1267,7 +1267,7 @@
 
 ### blackcap
  
- <i>n.</i> (See [white-fronted tern](../W#white-fronted-tern),[tern](../T#tern))
+ <i>n.</i> (See [white-fronted tern](../W#white-fronted-tern),[tern](ten-tot.md#tern))
 
 >  <b>FALLA et al.</b> WHITE-FRONTED TERN<i> Sterna striata Other names:</i> Sea-swallow, Kahawai Bird, Tara, Blackcap, Grenadier, Swallowtail, Noddy (Chathams), Tikkitak (Stewart Is.) <i>(1966,Birds of New Zealand,164</i>)
 
@@ -1896,7 +1896,7 @@
 
 ### blanket-tailings
  
- <i>n.</i> (See [blanketings](../B#blanketings))
+ <i>n.</i> (See [blanketings](bla-bri.md#blanketings))
 
 ### blanketing
  
@@ -1994,7 +1994,7 @@
 
 ### bled gum
  
- <i>n.</i> (See [cf. bush-bled](../B#bush-bled))
+ <i>n.</i> (See [cf. bush-bled](bri-byo.md#bush-bled))
 
 >  <b>REED</b> Having regard to the high and increasing value of bled gum ... [sic] it may well be conceived that the real value of the kauri tree ... lies in the periodic crop of gum which may be taken from it, ... <i>(1972,Gumdiggers, The,31</i>) [NOTES: 1916 Kauri Gum Industry Report in 1972 Reed Gumdiggers 31]
 
@@ -2152,7 +2152,7 @@
 
 ### blight-bird
  
- <i>n.</i> <i>Zosterops halmaturina</i> also called blighty, silvereye, blighty, white-eye, wax-eye, tauhou (See [silvereye](../S#silvereye))
+ <i>n.</i> <i>Zosterops halmaturina</i> also called blighty, silvereye, blighty, white-eye, wax-eye, tauhou (See [silvereye](sho-spa.md#silvereye))
 
 >  ZOSTEROPS LATERALIS, <i>Lath</i>. - White-eye, Blight Bird. <i>(1886,TrNZI,18/125</i>) [NOTES: (Hamilton)]
 
@@ -2302,7 +2302,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) 1. ground easily overlooked when inspecting a flock. 2. a feature such as a gully or a spur that ends abruptly and denies access. (See [on the blind](../O#on-the-blind))
+<b>1</b> <i>n.</i> (Rural) 1. ground easily overlooked when inspecting a flock. 2. a feature such as a gully or a spur that ends abruptly and denies access. (See [on the blind](o-on.md#on-the-blind))
 
 >  <b>LOUGHNAN</b> blind: i. Ground easily overlooked unintentionally even when quietly 'looking' sheep. ii. A feature - a gully or spur which ends abruptly and so denies access beyond. <i>(1981,Loughnan Glossary,7</i>)
 
@@ -2337,7 +2337,7 @@
 
 ### blind eel
  
- <i>n.</i> <i>Eptatratus cirratus</i>, a sea-eel exuding plentiful slime when hooked; =hagfish, tuere; (See [tuere](../T#tuere))
+ <i>n.</i> <i>Eptatratus cirratus</i>, a sea-eel exuding plentiful slime when hooked; =hagfish, tuere; (See [tuere](tot-tyr.md#tuere))
 
 >  <b>WILLIAMS</b> <i>kanakana, ... 3. Blind eel or lamprey</i>. [so 1957/93 <i>Geotria australis, lamprey. = korokoro.</i>] <i>Ibid.</i> 324 <i>Pia ... 2. Blind eel. = napia. </i> <i>(1917,Dictionary of the Maori Language,110</i>)
 
@@ -3564,7 +3564,7 @@
 
 ### bloody Spaniard
  
- <i>n.</i> (See [giant Spaniard](../G#giant-spaniard),[wild Spaniard](../W#wild-spaniard))
+ <i>n.</i> (See [giant Spaniard](g-go.md#giant-spaniard),[wild Spaniard](../W#wild-spaniard))
 
 >  <b>LINDSAY</b> The larger species [of <i>Aciphylla</i>] are familiar to the settlers as `Spear-grass', or `Bayonette-grass', `Wild' or `Bloody-Spaniard', [<i>bloody</i> =?] in allusion to their very rigid, strong, poniard-like, sharp-pointed leaves ... Hence a `Spear-grass Scrub' on the hill ranges is frequently most formidable ... to men and horses, though it forms one of the favourite hunting grounds of the Wild Pig. In the Matukituki Valley, `Bayonette-grass' forms an undergrowth in a dense scrub of prickly thorn ... [50] Familiar to the shepherds of Canterbury as `Bloody Spaniard'. <i>(1868,Contributions to NZ Botany,49</i>) [NOTES: [A.Colensoi: alpine plant]]
 
@@ -3654,7 +3654,7 @@
 
 
  
- <i>v.</i> to open with explosives (See [peter](../P#peter),[tank](../T#tank))
+ <i>v.</i> to open with explosives (See [peter](per-pop.md#peter),[tank](t-ten.md#tank))
 
 
 
@@ -3898,7 +3898,7 @@
 
 ### blow through
  
- <i>v.</i> to clear out; leave (See [cf. blow out](../B#blow-out),[shoot through](../S#shoot-through))
+ <i>v.</i> to clear out; leave (See [cf. blow out](bla-bri.md#blow-out),[shoot through](sho-spa.md#shoot-through))
 
 >  <b>D. SINGE</b> I'll just blow through now. <i>(May 1941,Personal Communication</i>) [NOTES: Wellington, ca1941 Air Force]
 
@@ -4101,7 +4101,7 @@
 
 ### blubber knife
  
- <i>n.</i> (See [cf. boat knife](../B#boat-knife),[bounding knife](../B#bounding-knife))
+ <i>n.</i> (See [cf. boat knife](bla-bri.md#boat-knife),[bounding knife](bla-bri.md#bounding-knife))
 
 >  38 Irons - .. 8/- ea. ... 14 Lances - .. 8/- ea. ... 1 Cutting Spade - .. 8/- ... 2 Boat Spades - .. .16. 4 Boat axes - .. 4/- ea. ... 5 Boat Knives - .. 2/- ea. ... 3 Pughs - .. .9. ... 2 Blubber Knives - .. . 8. ... 1 [Boat] Traveller - .. .4 <i>(1837,Piraki Log,49</i>) [NOTES: List of Gear Lost]
 
@@ -4190,13 +4190,13 @@
 
 
  
-<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](../B#bludgers'-hill))
+<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](bla-bri.md#bludgers'-hill))
 
 >  <b>FULLARTON</b> He'll immediately assume that you were one of the 95% who bludged at base in Enzed or England or Yankee Land. <i>(1944,Troop Target,186</i>)
 
 ### bludger
  
- <i>n.</i> a useless person; one who avoids responsibility or lives on the back of others; a loafer, an idler [cf. dole bludger 1984 14 F E131Wgton Girls C. 10 BLUDGER [useless person]] (See [cf. dole bludger](../D#dole-bludger))
+ <i>n.</i> a useless person; one who avoids responsibility or lives on the back of others; a loafer, an idler [cf. dole bludger 1984 14 F E131Wgton Girls C. 10 BLUDGER [useless person]] (See [cf. dole bludger](dig-dou.md#dole-bludger))
 
 >  What type of skunk Costello is can be gathered from the fact that he is an individual of the bludger class, who will never attempt anything in in the form of honest hard work, and against whom the detec [check] engaged in war. <i>(Sep 8, 1906,NZ Truth,64/4/4</i>)
 
@@ -4223,7 +4223,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep or cattle dog that does not perform well. (See [follower](../F#follower))
+<b>1</b> <i>n.</i> (Rural) a sheep or cattle dog that does not perform well. (See [follower](fly-fuz.md#follower))
 
 >  <b>SINCLAIR</b> As Wonk did all my heading much better than the other two bludgers, the mustering went on a lot easier for the next couple of days. <i>(1973,Boot in the Stirrup,57</i>)
 
@@ -4301,7 +4301,7 @@
 
 ### Bludgers' Hill
  
- <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See [cf. Daffodil Hill](../D#daffodil-hill))
+ <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See [cf. Daffodil Hill](d-dif.md#daffodil-hill))
 
 >  <b>HELM</b> The hill that has since become famous in the 2 NZEF as Bludgers' Hill, or Daffodil Hill (beautiful but yellow) as it is now known. <i>(1944,Fights and Furloughs,8</i>)
 
@@ -4356,7 +4356,7 @@
 
 
  
- <i>n.</i> a bluey, a summons; also a bit of blue a criminal charge. (See [cf. blue paper](../B#blue-paper))
+ <i>n.</i> a bluey, a summons; also a bit of blue a criminal charge. (See [cf. blue paper](bla-bri.md#blue-paper))
 
 >  He is still a conductor in the tram service, and was shown the blister when Bailey was served with a bit-o'-blue. <i>(Mar 13, 1909,NZ Truth,195/5/1</i>)
 
@@ -4419,7 +4419,7 @@
 
 
  
- <i>n.</i> a convalescent soldier (See [cf. blue boy](../B#blue-boy),[blue pants](../B#blue-pants))
+ <i>n.</i> a convalescent soldier (See [cf. blue boy](bla-bri.md#blue-boy),[blue pants](bla-bri.md#blue-pants))
 
 >  <b>MACDONALD</b> [sic] <i>(1945,Away from Home,77</i>)
 
@@ -4535,7 +4535,7 @@
 
 ### blue bar
  
- <i>n.</i> (See [cf. blue bottom](../B#blue-bottom),[blue reef](../B#blue-reef))
+ <i>n.</i> (See [cf. blue bottom](bla-bri.md#blue-bottom),[blue reef](bla-bri.md#blue-reef))
 
 >  The andesites occur in bars, varying from 20ft. to 300 ft. in width, and are termed by the miners "hard country" or "blue bars". <i>(1896,AJHR,C.-3/50</i>)
 
@@ -4578,13 +4578,13 @@
 
 ### blue blister
  
- <i>n.</i> an early form of local currency (Otago) (See [bluey](../B#bluey),[blister](../B#blister))
+ <i>n.</i> an early form of local currency (Otago) (See [bluey](bla-bri.md#bluey),[blister](bla-bri.md#blister))
 
 >  <b>WILSON</b> We got no ready money as pay [for shearing] but a `blue blister', i.e., a cheque on Johnny Jones. <i>(1912,Reminiscences of Early Settlement Dunedin,68</i>) [NOTES: [early 1860's]]
 
 ### blue borage
  
- <i>n.</i> <i>Echium vulgare</i> viper's bugloss [f. its blue flower resembling the borage (<i>Borago officinalis</i>) in colour (mainly SI, esp. Marlborough and n. Cant.); also blue borage; a local (esp. Marlborough) name for the blue-flowered Eng. weed viper's bugloss. (See [viper's bugloss](../V#viper's-bugloss),[borage](../B#borage))
+ <i>n.</i> <i>Echium vulgare</i> viper's bugloss [f. its blue flower resembling the borage (<i>Borago officinalis</i>) in colour (mainly SI, esp. Marlborough and n. Cant.); also blue borage; a local (esp. Marlborough) name for the blue-flowered Eng. weed viper's bugloss. (See [viper's bugloss](../V#viper's-bugloss),[borage](bla-bri.md#borage))
 
 >  But now we can smell it. No, not the cow dung, kids, but the clear mountain air and the faint scent of blue borage wafting down the valley. <i>(May 25, 2004,Dominion Post,A10</i>)
 
@@ -4608,7 +4608,7 @@
 
 ### blue boy
  
- <i>n.</i> a wounded or convalescent soldier (See [cf. blue pants](../B#blue-pants))
+ <i>n.</i> a wounded or convalescent soldier (See [cf. blue pants](bla-bri.md#blue-pants))
 
 >  An Educational scheme is under way for the benefit of :- (1) the Blue Boys. <i>(1918,New Zealand At the Front,65</i>)
 
@@ -4887,7 +4887,7 @@
 
 ### blue ground
  
- <i>n.</i> (See [cf. blue bottom](../B#blue-bottom))
+ <i>n.</i> (See [cf. blue bottom](bla-bri.md#blue-bottom))
 
 >  The cementing medium of the deposit is finely comminuted fresh mica-schist, resembling coarsely ground cement, hence the term `cement' applied by the miners to this and similar deposits. In the zone of weathering the `cement' is a rusty-brown colour ... Below the zone of weathering lies the unaltered `cement' which forms the `blue ground' of the miners. <i>(1932,NZ Journal of Science & Technology,13/263</i>)
 
@@ -5168,7 +5168,7 @@
 
 ### blue orchid
  
- <i>n.</i> a derisive army name for RNZAF and other airforce men [ca1941 R. Clarke New Zealanders in Pacific (R. Clarke)] (See [cf. daffodil](../D#daffodil))
+ <i>n.</i> a derisive army name for RNZAF and other airforce men [ca1941 R. Clarke New Zealanders in Pacific (R. Clarke)] (See [cf. daffodil](d-dif.md#daffodil))
 
 >  <b>HENDERSON</b> ` ... oh Christ...[sic] oh whackoh! Oh boy, see that one! That'll show the greasy bastards.' `Oh you beautiful blue orchids, oh you beauties, you'll do us.' Cruuuuump! <i>(1945,Gunner Inglorious,139</i>)
 
@@ -5180,7 +5180,7 @@
 
 ### blue pants
  
- <i>n.</i> a convalescent soldier (See [cf. blue boy](../B#blue-boy))
+ <i>n.</i> a convalescent soldier (See [cf. blue boy](bla-bri.md#blue-boy))
 
 >  <b>MACDONALD</b> [sic] <i>(1945,Away from Home,83</i>)
 
@@ -5218,7 +5218,7 @@
 
 ### blue peter
  
- <i>n.</i> (See [peter](../P#peter))
+ <i>n.</i> (See [peter](per-pop.md#peter))
 
 >  Shouting colourful epithets at them, and waving a Maori kit which contained her supper in a `Blue Peter', she [the tipsy woman] chased them down the platform. <i>Ibid.</i> 125 It is doubtful if ever again [as in the 1890s] we will see ... men and women drinking beer from `square-riggers' and `blue peters' in doorways or on the sidewalks. The old Maori kit bag has gone from our midst ... <i>(1914,History of North Otago,117,1978 ed.</i>)
 
@@ -5276,7 +5276,7 @@
 
 ### blue reef
  
- <i>n.</i> [goldmining] (See [cf. blue bottom](../B#blue-bottom))
+ <i>n.</i> [goldmining] (See [cf. blue bottom](bla-bri.md#blue-bottom))
 
 >  Overlying them in a thin zone of soft decomposed rock which has been buried and preserved beneath overlying beds. This decomposed surface is the `blue reef' or `bottom' of the miners, and has been vigorously worked for gold throughout Central Otago. <i>(1938,NZ Geol. Memoir,No 4: 25/6</i>) [NOTES: (Modriniak and Marsden)]
 
@@ -5427,7 +5427,7 @@
 
 
  
- <i>n.</i> Poa colensoi (See [tussock](../T#tussock))
+ <i>n.</i> Poa colensoi (See [tussock](tot-tyr.md#tussock))
 
 >  <b>COCKAYNE</b> <i>Poa Colensoi</i> blue-tussock <i>(1908,AJHR</i>) [NOTES: Botanical Survey Tongariro National Park]
 
@@ -5548,7 +5548,7 @@
 
 ### blue-lips
  
- <i>n.</i> a Maori (See [cf. blueskin](../B#blueskin),[blue-tongue](../B#blue-tongue))
+ <i>n.</i> a Maori (See [cf. blueskin](bla-bri.md#blueskin),[blue-tongue](bla-bri.md#blue-tongue))
 
 >  <b>MEADE</b> The custom of tattooing is now falling out of fashion amongst the rising generation of both sexes, and it is to be hoped that before many years have passed, the nickname of `Blue-lips' will no longer be applicable to the native girls of New Zealand. Where the tattooing is confined to the slender lyre-shaped line on the fair one's chin, the effect is really not unpleasing; but the tattooed lip is an abomination. <i>(Dec 27, 1864,Ride Through Disturbed Districts</i>) [NOTES: 1864 Dec 27 Meade Ride through Disturbed Districts in 1959 Taylor Early Travellers 441]
 
@@ -5568,7 +5568,7 @@
 
 ### blue-tongue
  
- <i>n.</i> (informal) a Maori [ca1960's-70s Herb Wilford heard this in Wakatu Freezing Works, Hastings, as an offensive term for a Maori.] (See [cf. blue-lips](../B#blue-lips),[blueskin](../B#blueskin))
+ <i>n.</i> (informal) a Maori [ca1960's-70s Herb Wilford heard this in Wakatu Freezing Works, Hastings, as an offensive term for a Maori.] (See [cf. blue-lips](bla-bri.md#blue-lips),[blueskin](bla-bri.md#blueskin))
 
 
 
@@ -5669,7 +5669,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [native bluebell](../N#native-bluebell))
+<b>2</b> <i>n.</i> (See [native bluebell](n-new.md#native-bluebell))
 
 
 
@@ -5751,7 +5751,7 @@
 
 ### Bluecoat
  
- <i>n.</i> a convalescent soldier (See [cf. blue boy](../B#blue-boy))
+ <i>n.</i> a convalescent soldier (See [cf. blue boy](bla-bri.md#blue-boy))
 
 >  <b>HYDE</b> `Yes,' nodded a fellow blue coat, `I could do with a popgun like that myself. How does she work, Starkie?' [132] At the earliest possible moment as many of the Bluecoats as could walk departed for Alexandria. <i>(1936,Passport to Hell,131</i>)
 
@@ -5865,7 +5865,7 @@
 
 ### bluenose
  
- <i>n.</i> a deepwater fish, bluish-grey above, related to the warehou; bonita (Wellington) (See [cf. bluefish](../B#bluefish))
+ <i>n.</i> a deepwater fish, bluish-grey above, related to the warehou; bonita (Wellington) (See [cf. bluefish](bla-bri.md#bluefish))
 
 >  He says the area can be productive as many big groper, bluenose and bass, some weighing up to 10 or 15 kilos, live around the edge. <i>(Jun 6, 2000,Independent Herald (Wellington),6</i>)
 
@@ -5907,7 +5907,7 @@
 
 
  
- <i>n.</i> early whalers' nickname for a tattooed Maori (See [cf. blue-lips](../B#blue-lips),[blue-tongue](../B#blue-tongue))
+ <i>n.</i> early whalers' nickname for a tattooed Maori (See [cf. blue-lips](bla-bri.md#blue-lips),[blue-tongue](bla-bri.md#blue-tongue))
 
 >  <b>BEATTIE</b> I do not know Tommy Roundhead's Maori name, but there was a heavily tattooed Maori known to the whalers as Blueskin, and Blueskin Bay at Waitati was named after him, although Blueskin Beach at Goodwood was named because of a plant with berries with a blue skin. They were small and good to eat and were numerous there. The old chief at Blueskin Bay was very blue in his tattoo; ... <i>(1939,First White Boy Born in Otago,22</i>)
 
@@ -6169,7 +6169,7 @@
 
 ### bluey-humper
  
- <i>n.</i> a swagger (See [hump one's/the bluey](../H#hump-one's/the-bluey))
+ <i>n.</i> a swagger (See [hump one's/the bluey](hom-hyp.md#hump-one's/the-bluey))
 
 >  That is, if we wear slouchers,/ And boots a bit square-toed -/ It ain't for bluey-humpers/ To travel on his road./ <i>(1903,King Bill's Philosophy,28</i>)
 
@@ -6630,7 +6630,7 @@
 
 
  
- <i>n.</i> the boss of the shearing board (See [board](../B#board))
+ <i>n.</i> the boss of the shearing board (See [board](bla-bri.md#board))
 
 >  <b>NEWTON</b> BOARD WALKER: In some of e larger Australian sheds a man is employed just to keep his eye on the work in the shed. His main job is to patrol the board to see that the shearers are making a satisfactory job. The board is that portion of the shearing shed on which the actual shearing is done. <i>(1949,High Country Days,193,1950 ed.</i>)
 
@@ -6641,7 +6641,7 @@
 
 
  
-<b>2</b> <i>n.</i> (freezing works) (See [cit](../C#cit))
+<b>2</b> <i>n.</i> (freezing works) (See [cit](chi-con.md#cit))
 
 >  <b>GORDON</b> The <i>department-boss</i> is in charge of the <i>board-walkers </i>often promoted from the ranks, who are in charge of the chain etc.; they vary the speed the speed of the drive on the chain, which is done by a chain hanging down, giving rise to cries `Give it a pull' (i.e., speed it up) or `Pull it back' (slow down). If some are tired and he speeds it up, there are cries of `Get out you whip!' or `Bring your whip tomorrow!'. If the men are very tired to the point of <i>mutton-staggers</i> there will be cries of `Give him a drink of water.', and responses `But he had water yesterday'. <i>(May 17, 1951,Personal Communication</i>)
 
@@ -6734,11 +6734,11 @@
 
 ### boarweed
  
- <i>n.</i> rank, bad tobacco [ca1949 Havelock A store customer writes about local tobacco: `Don't send me any more boarweed.] (See [raurau](../R#raurau))
+ <i>n.</i> rank, bad tobacco [ca1949 Havelock A store customer writes about local tobacco: `Don't send me any more boarweed.] (See [raurau](ra-red.md#raurau))
 
 ### boat knife
  
- <i>n.</i> (See [cf. blubber knife](../B#blubber-knife))
+ <i>n.</i> (See [cf. blubber knife](bla-bri.md#blubber-knife))
 
 >  38 Irons - .. 8/- ea. ... 14 Lances - .. 8/- ea. ... 1 Cutting Spade - .. 8/- ... 2 Boat Spades - .. .16. 4 Boat axes - .. 4/- ea. ... 5 Boat Knives - .. 2/- ea. ... 3 Pughs - .. .9. ... 2 Blubber Knives - .. . 8. ... 1 [Boat] Traveller - .. .4. <i>(1837,Piraki Log,49,ed. Anson 1911 ed.</i>)
 
@@ -6868,7 +6868,7 @@
 
 
  
- <i>n.</i> shilling; a shilling (-piece), recorded in NZ f. 1841 to decimal coinage: see bob-day, bob-in also half-a-bob, `sixpence', two-bob-bit, `florin'; (See [cf. colonial Robert](../C#colonial-robert))
+ <i>n.</i> shilling; a shilling (-piece), recorded in NZ f. 1841 to decimal coinage: see bob-day, bob-in also half-a-bob, `sixpence', two-bob-bit, `florin'; (See [cf. colonial Robert](chi-con.md#colonial-robert))
 
 >  <b>ELKINGTON</b> You can see the huku danced for a couple of shillings, and even this is not bad, for sometimes the dancers get worked up and forget the two bob. <i>(1906,Adrift in NZ,178</i>)
 
@@ -6911,7 +6911,7 @@
 
 ### Bob Munro
  
- <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See [cf. be in](../B#be-in),[Mrs Cutts](../M#mrs-cutts))
+ <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See [cf. be in](b-bla.md#be-in),[Mrs Cutts](../M#mrs-cutts))
 
 >  <b>SLATTER</b> `Well, in ya go says Bob Munro,' he toasts and we drink some slowly and put the glasses back on the bar. <i>(1959,Gun in My Hand, A,45</i>)
 
@@ -6925,7 +6925,7 @@
 
 ### Bob Semple tank
  
- <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See [Semple tank](../S#semple-tank))
+ <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See [Semple tank](sa-sho.md#semple-tank))
 
 >  <b>PORTER</b> I had to wear [the armband] that way the next day in a big parade of the different services, following a huge Bob Semple tank, carrying a banner emblazoned with `Law and Order',.... <i>(1970,Nor'west Arch,23</i>) [NOTES: [ca1940]]
 
@@ -7019,7 +7019,7 @@
 
 
  
- <i>n.</i> - [cf. catamaran, jinker (1892)] (See [cf. catamaran](../C#catamaran),[jinker](../J#jinker))
+ <i>n.</i> - [cf. catamaran, jinker (1892)] (See [cf. catamaran](c-chi.md#catamaran),[jinker](../J#jinker))
 
 >  <b>REED</b> Curves were laid with a camber ... to prevent the cat from `pulling off', and these bends were laid with much longer skids, to widen that part of the road. At such points too, a `bobby' - a short skid extending from the bank to the road - was placed to prevent the cat from running into the bank. <i>(1953,Story of the Kauri, The,181</i>) [NOTES: [? ca1900]]
 
@@ -7197,7 +7197,7 @@
 
 ### bobby-dazzler
  
- <i>n.</i> a good or amazing person or thing (mainly children's). 1. Anything fine, superior, or outstanding of its kind; ironically, an `eccentric, curious (person)'; corker [cf. ruby-dazzler 1951 14 M 14 St Bede's, Chch 8 BOBBY(-)DAZZLER [something good] -->1951 14 M 10 Wellington H.S. 8 BOBBY DAZZLER [M2] -->1953 14-16 M A17 Thames DHS 8 BOBBY DAZZLER [M4] -->1960 18C F B12 Horowhenua C. 8 BOBBYDAZZLER [NB in ODE as Brit. dated; not in DNZE, correctly]] (See [cf. ruby-dazzler](../R#ruby-dazzler))
+ <i>n.</i> a good or amazing person or thing (mainly children's). 1. Anything fine, superior, or outstanding of its kind; ironically, an `eccentric, curious (person)'; corker [cf. ruby-dazzler 1951 14 M 14 St Bede's, Chch 8 BOBBY(-)DAZZLER [something good] -->1951 14 M 10 Wellington H.S. 8 BOBBY DAZZLER [M2] -->1953 14-16 M A17 Thames DHS 8 BOBBY DAZZLER [M4] -->1960 18C F B12 Horowhenua C. 8 BOBBYDAZZLER [NB in ODE as Brit. dated; not in DNZE, correctly]] (See [cf. ruby-dazzler](roa-ruv.md#ruby-dazzler))
 
 >  <b>HENDERSON</b> Those mosquitoes were getting busy. They were "bobby-dazzler", the biggest I've ever seen. <i>(1967,Return to Open Country,84</i>)
 
@@ -7232,7 +7232,7 @@
 
 ### bobsidie
  
- <i>n.</i> (See [bobsy-die](../B#bobsy-die))
+ <i>n.</i> (See [bobsy-die](bla-bri.md#bobsy-die))
 
 ### bobsy-die
  
@@ -7270,7 +7270,7 @@
 
 ### bocacker
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### BOD
  
@@ -7456,7 +7456,7 @@
 
 
  
- <i>v.</i> to shovel (See [cf. bogging](../B#bogging))
+ <i>v.</i> to shovel (See [cf. bogging](bla-bri.md#bogging))
 
 >  <b>McCARTHY</b> The same thing applied after the face had been `shot': before shovelling (or bogging, as it was called) the stone down the pass it had to be thoroughly drenched with water ... <i>(1973,Listen...!,51</i>)
 
@@ -7695,7 +7695,7 @@
 
 ### bogee-bogee
  
- <i>n.</i> (See [pakipaki](../P#pakipaki))
+ <i>n.</i> (See [pakipaki](p-per.md#pakipaki))
 
 ### bogek
  
@@ -7754,7 +7754,7 @@
 
 ### Bohemian
  
- <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See [cf. Dalmatian](../D#dalmatian))
+ <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See [cf. Dalmatian](d-dif.md#dalmatian))
 
 ### boil
  
@@ -7765,7 +7765,7 @@
 
 
  
- <i>n.</i> the act of making tea in a billy (See [boil-up](../B#boil-up),[boil the billy](../B#boil-the-billy))
+ <i>n.</i> the act of making tea in a billy (See [boil-up](bla-bri.md#boil-up),[boil the billy](bla-bri.md#boil-the-billy))
 
 >  <b>GILKISON</b> But the best part of the tramp on the home hills is the mid-day `boil.' ... True, on other expeditions we boil the billy ... <i>(1940,Peaks, Packs & Mountain Tracks,82</i>)
 
@@ -7831,7 +7831,7 @@
 
 ### boil out
  
- <i>v.</i> (whaling) to try out (See [cf. boil down](../B#boil-down))
+ <i>v.</i> (whaling) to try out (See [cf. boil down](bla-bri.md#boil-down))
 
 >  <b>RHODES</b> ... began to boil out. <i>Ibid </i>20 Two strange sail in sight boiling out. <i>Ibid </i> 22 At 10 began to boil out. <i>Ibid</i> 23 Employed clearing the decks and boiling out <i>(1836,Whaling Journal,17</i>)
 
@@ -7841,7 +7841,7 @@
 
 ### boil the billy
  
- <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](../B#billy),[boil n](../B#boil-n),[brew up](../B#brew-up))
+ <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](b-bla.md#billy),[boil n](../B#boil-n),[brew up](bla-bri.md#brew-up))
 
 >  <b>SIMPSON</b> No break for a smoke, no boil the billy, only your cold tea to drink at mid-day. <i>(1974,Sugarbag Years,90</i>)
 
@@ -8058,7 +8058,7 @@
 
 ### boiler room
  
- <i>n.</i> (rugby) (See [cf. engine room](../E#engine-room))
+ <i>n.</i> (rugby) (See [cf. engine room](egg-ens.md#engine-room))
 
 >  There was to be no solo tries this time but he went about his work in the boiler room efficiently. <i>(Jul 16, 2000,Sunday Star Times,B2</i>)
 
@@ -8237,7 +8237,7 @@
 
 ### boke
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### Bokkies
  
@@ -8247,7 +8247,7 @@
 
 ### boko
  
- <i>n.</i> (informal) though gen. Engl. slang for `nose' (OED2 1859), infreq. in NZ use (esp. since the 1920s), and occas. perceived as `head', (See [cf. poke](../P#poke))
+ <i>n.</i> (informal) though gen. Engl. slang for `nose' (OED2 1859), infreq. in NZ use (esp. since the 1920s), and occas. perceived as `head', (See [cf. poke](per-pop.md#poke))
 
 >  <b>GRIFFITHS</b> one hears something like this in NZ without knowing how to spell it: `bang him on the boko'; but also something like `bonko <i>(1987,Personal Communication</i>)
 
@@ -8365,13 +8365,13 @@
 
 ### bolter's chance
  
- <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](../B#bolter's-show))
+ <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](bla-bri.md#bolter's-show))
 
 >  Arguably, she was more genuine in this because, unlike most of the MPs in the House today, there was not a bolter's chance of her making Parliament at the time she signed up for Mana Motuhake. <i>(Jun 12, 1999,Listener (New Zealand Listener),15</i>)
 
 ### bolter's show
  
- <i>n.</i> (See [bolter's chance](../B#bolter's-chance))
+ <i>n.</i> (See [bolter's chance](bla-bri.md#bolter's-chance))
 
 >  Before the fight for the 2002 election began in earnest, National knew it hadn't a bolter's show, so it selected candidates for 2005. <i>(Jul 23, 2002,Dominion Post,B6</i>)
 
@@ -8526,7 +8526,7 @@
 
 ### bomb-lance
  
- <i>n.</i> (See [bomb-pole](../B#bomb-pole))
+ <i>n.</i> (See [bomb-pole](bla-bri.md#bomb-pole))
 
 ### bomb-pole
  
@@ -8567,7 +8567,7 @@
 
 ### Bombay bloomers
  
- <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](../S#smithell's-bloomers))
+ <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](sho-spa.md#smithell's-bloomers))
 
 >  <b>MARTYN</b> ... the shorts, `Bombay Bloomers', we called them. <i>(1943,Tripoli and Beyond,159</i>)
 
@@ -8714,7 +8714,7 @@
 
 ### bone
  
- <i>n.</i> gum-streak (See [cf. boney heart](../B#boney-heart))
+ <i>n.</i> gum-streak (See [cf. boney heart](bla-bri.md#boney-heart))
 
 >  BONE =GUM STREAK <i>(1952,NZ Forest Glossary</i>)
 
@@ -8904,7 +8904,7 @@
 
 
  
- <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](../A#also-boong),[boonga](../B#boonga))
+ <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](../A#also-boong),[boonga](bla-bri.md#boonga))
 
 >  <b>LELAND</b> <i>bong</i>: A term borrowed from Australia where it is used to refer to aborigines; in New Zealand, it is a derogatory reference to Maoris and occasionally Pacific Islanders. This is a fighting word; use it only if your neck is red and you enjoy a punch up. <i>(1980,Personal Kiwi-Yankee Dictionary, A,16</i>)
 
@@ -9116,7 +9116,7 @@
 
 ### bonser
  
- <i>n.</i> a great success or fine example. (See [bosker](../B#bosker),[bonzer](../B#bonzer),[bosca](../B#bosca))
+ <i>n.</i> a great success or fine example. (See [bosker](bla-bri.md#bosker),[bonzer](bla-bri.md#bonzer),[bosca](bla-bri.md#bosca))
 
 >  The men responded with their Maori war-cry, which had to be repeated, and finshed up with "He's a bonser," for their host. <i>(Mar 9, 1900,Evening Post,6</i>)
 
@@ -9135,7 +9135,7 @@
 
 
  
- <i>adj.</i> great, terrific. (See [bonzer](../B#bonzer),[bosker](../B#bosker))
+ <i>adj.</i> great, terrific. (See [bonzer](bla-bri.md#bonzer),[bosker](bla-bri.md#bosker))
 
 >  "Would you like to go to a concert tonight?" asked Miss Ross. "Concert? You bet! Bonser!" he answered eagerly. <i>(Apr 15, 1897,Otago Witness,51</i>)
 
@@ -9155,11 +9155,11 @@
 
 ### bonza
  
- <i>adj.</i> (See [bonzer](../B#bonzer))
+ <i>adj.</i> (See [bonzer](bla-bri.md#bonzer))
 
 ### bonzer
  
- <i>n.</i> a great success, a fine example (See [bonzer](../B#bonzer),[bosker](../B#bosker),[bosca](../B#bosca))
+ <i>n.</i> a great success, a fine example (See [bonzer](bla-bri.md#bonzer),[bosker](bla-bri.md#bosker),[bosca](bla-bri.md#bosca))
 
 >  There are dozens of warships, transports etc. here, including the 'Queen Elizabeth' - she is a bonzer. <i>(May 12, 1915,Internet - see Notes</i>) [NOTES: http://www.nzmr.org/garland.htm A Gallipoli soldier, Greville Garland writing home to his family.]
 
@@ -9170,7 +9170,7 @@
 
 
  
- <i>adj.</i> great, terrific (See [bonser](../B#bonser))
+ <i>adj.</i> great, terrific (See [bonser](bla-bri.md#bonser))
 
 >  <b>ANZAC</b> Had a boncer breakfast this morning. <i>(1915,On the Anzac Trail,149</i>)
 
@@ -9202,17 +9202,17 @@
 
 ### bonzie
  
- <i>n.</i> ca1964 Auckland: a big marble (See [cf. bonzer](../B#bonzer))
+ <i>n.</i> ca1964 Auckland: a big marble (See [cf. bonzer](bla-bri.md#bonzer))
 
 ### boo-ai
  
- <i>n.</i> (See [boohai](../B#boohai))
+ <i>n.</i> (See [boohai](bla-bri.md#boohai))
 
 >  There's old timers we knew, and some who shot through A hard case, drag the chain, done a bunk, As busy as a blow fly, and bugalugs - from the boo-ai The rouseabout, as drunk as a skunk. <i>(Dec 2004,NZ Memories,p18</i>)
 
 ### boo-ay
  
- <i>n.</i> (See [boohai](../B#boohai))
+ <i>n.</i> (See [boohai](bla-bri.md#boohai))
 
 ### boob
  
@@ -9261,7 +9261,7 @@
 
 ### boobhead
  
- <i>n.</i> a prison inmate, one conditioned to prison life (See [boob](../B#boob))
+ <i>n.</i> a prison inmate, one conditioned to prison life (See [boob](bla-bri.md#boob))
 
 >  Not boobhead university exactly, but just the steady influence of social workers and agencies and all that. <i>(2007,Best New Zealand Fiction, Vol 4, The,41</i>) [NOTES: 'The Feijoa is Brother to the Guava', David Eggleton, 2007]
 
@@ -9336,7 +9336,7 @@
 
 ### boohai
  
- <i>n.</i> a remote place or district; the backblocks [perhaps from North Auckland township of Puhoi]; up the boohai: confused, wrong, messy [up the boohai/booaye/boo-eye/booay is out of place, confused] (See [cf. backblocks](../B#backblocks),[bush](../B#bush),[cactus](../C#cactus),[wo(o)p-wo(o)ps](../W#wo(o)p-wo(o)ps))
+ <i>n.</i> a remote place or district; the backblocks [perhaps from North Auckland township of Puhoi]; up the boohai: confused, wrong, messy [up the boohai/booaye/boo-eye/booay is out of place, confused] (See [cf. backblocks](b-bla.md#backblocks),[bush](bri-byo.md#bush),[cactus](c-chi.md#cactus),[wo(o)p-wo(o)ps](../W#wo(o)p-wo(o)ps))
 
 >  Arthritis in the hands forced Titahi Bay artist Kerry Moore to 'paint' with words, and it has resulted in his first novel, <i>The Boo-Eye</i>. Set in 1950s New Zealand, in a town "10 miles from nowhere". (or in other words, in the boo-eye), three young men go on an odyssey of discovery that is both tragic and triumphant. <i>(Apr 8, 2004,Wellington Contact,38</i>)
 
@@ -9386,7 +9386,7 @@
 
 ### boohoy
  
- <i>n.</i> (See [boohai](../B#boohai))
+ <i>n.</i> (See [boohai](bla-bri.md#boohai))
 
 ### boojee
  
@@ -9452,7 +9452,7 @@
 
 ### bookau
  
- <i>n.</i> (See [pukahu](../P#pukahu))
+ <i>n.</i> (See [pukahu](pop-pyo.md#pukahu))
 
 ### bookie
  
@@ -9576,7 +9576,7 @@
 
 ### boonga
  
- <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](../A#also-bong),[boong](../B#boong))
+ <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](../A#also-bong),[boong](bla-bri.md#boong))
 
 >  Chinaman, boonga, slanty-eyed, fob (fresh off the boat), Sambo ... the multicultural interviewees had heard it all. <i>(Nov 23, 2002,Listener (New Zealand Listener),78</i>)
 
@@ -9600,7 +9600,7 @@
 
 ### booreedy
  
- <i>n.</i> (offensive) (See [puriri](../P#puriri))
+ <i>n.</i> (offensive) (See [puriri](pop-pyo.md#puriri))
 
 ### Booroola gene
  
@@ -9628,7 +9628,7 @@
 
 ### boot, the
  
- <i>n.</i> a kicking attack (See [cf. boots and all](../B#boots-and-all))
+ <i>n.</i> a kicking attack (See [cf. boots and all](bla-bri.md#boots-and-all))
 
 >  This he does with great danger to himself from the onslaught of the tough's `cobbers', who are not particular whether it is `the boot' (it is seldom the hands) or a stone, or even a bottle that is brought into action. <i>(Mar 23, 1907,NZ Truth,92/4/5</i>)
 
@@ -9886,11 +9886,11 @@
 
 ### boradi
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### borage
  
- <i>n.</i> a coarse, hairy, blue-flowered European herb found mainly in the North Island (See [blue borage](../B#blue-borage))
+ <i>n.</i> a coarse, hairy, blue-flowered European herb found mainly in the North Island (See [blue borage](bla-bri.md#blue-borage))
 
 >  <b>BAKER</b> She put her cup of borage tea down... <i>(2000,Kokopu Dreams,171</i>)
 
@@ -10026,7 +10026,7 @@
 
 ### border-dyke system
  
- <i>n.</i> an irrigation system (See [border-dyke irrigation](../B#border-dyke-irrigation))
+ <i>n.</i> an irrigation system (See [border-dyke irrigation](bla-bri.md#border-dyke-irrigation))
 
 >  Using a border-dyke system to partially flood his paddocks, Ted.. can irrigate 20-30 ha a day between September and April - as long as river flows hold up. <i>(Mar 2003,NZ Geographic,62/46</i>)
 
@@ -10262,7 +10262,7 @@
 
 ### boride
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### born to the purple
  
@@ -10321,7 +10321,7 @@
 
 ### borra borra
  
- <i>n.</i> (See [poroporo](../P#poroporo))
+ <i>n.</i> (See [poroporo](pop-pyo.md#poroporo))
 
 ### borrow
  
@@ -10329,7 +10329,7 @@
 
 ### borrow-pit
  
- <i>n.</i> before roads were macadamised, step-faggots [presumably as in `step(ping)-stones' HWO] were placed on one side of the road to form a footpath, and a barrow-ditch extended from and at right angles to the footpath into the road. These occurred at regular intervals, draining the surface water from the road, and also compelling carts, &c., to keep off the footpath (P.M.); Paid W. Masters for making 76 rods of Barrow ditch ... (Dec. 26, 1752). [no etym given: cf. barrow sb3 1. a hill; a heap of stones. [gen. dial. Cum to Ken and Cor]; DARE barrow ditch Also, by folk-etym. borrow ditch; rarely barrow [EDD ref.] Cf bar ditch1 1927-1973: barrow pit Also by folk-etym. borrow pit Prob, from barrow a mound of earth; for folk-etym. see quot1950 ... 1 rarely burrow pit: a roadside drainage ditch. Chiefly West, esp. Rocky Mts 1931-1973 Map shows mainly NW: 1950 quot explains folk etym: barrow `mound of earth formed when pit was dug'; barrow = `wheelbarrow'; borrow `a pit where dirt is borrowed to be used in another.] 2 a place from which material for construction has been excavated and which, esp. in the Gulf states, often fills with water (1940-1968); cf OED2 sb1 4. dial. A mound or heap 1869, 1881 Raymond Mining Gloss. Barrow (Cornw.), a heap of attle or rubbish.] (See [borrow](../B#borrow))
+ <i>n.</i> before roads were macadamised, step-faggots [presumably as in `step(ping)-stones' HWO] were placed on one side of the road to form a footpath, and a barrow-ditch extended from and at right angles to the footpath into the road. These occurred at regular intervals, draining the surface water from the road, and also compelling carts, &c., to keep off the footpath (P.M.); Paid W. Masters for making 76 rods of Barrow ditch ... (Dec. 26, 1752). [no etym given: cf. barrow sb3 1. a hill; a heap of stones. [gen. dial. Cum to Ken and Cor]; DARE barrow ditch Also, by folk-etym. borrow ditch; rarely barrow [EDD ref.] Cf bar ditch1 1927-1973: barrow pit Also by folk-etym. borrow pit Prob, from barrow a mound of earth; for folk-etym. see quot1950 ... 1 rarely burrow pit: a roadside drainage ditch. Chiefly West, esp. Rocky Mts 1931-1973 Map shows mainly NW: 1950 quot explains folk etym: barrow `mound of earth formed when pit was dug'; barrow = `wheelbarrow'; borrow `a pit where dirt is borrowed to be used in another.] 2 a place from which material for construction has been excavated and which, esp. in the Gulf states, often fills with water (1940-1968); cf OED2 sb1 4. dial. A mound or heap 1869, 1881 Raymond Mining Gloss. Barrow (Cornw.), a heap of attle or rubbish.] (See [borrow](bla-bri.md#borrow))
 
 >  <b>ANDERSON</b> Unfortunately the road at this point went `zag' and that is where we left it, and the Model A slid sideways into a ditch - or `borrow-pit' to use the correct roading term. <i>(1975,Men of the Milford Road,53</i>) [NOTES: (Griffiths Collection)]
 
@@ -10363,7 +10363,7 @@
 
 ### bosca
  
- <i>adj.</i> (See [bosker](../B#bosker))
+ <i>adj.</i> (See [bosker](bla-bri.md#bosker))
 
 ### boshee
  
@@ -10493,7 +10493,7 @@
 
 ### boss
  
- <i>n.</i> a station owner, an employer (See [cf. boss-cocky](../B#boss-cocky))
+ <i>n.</i> a station owner, an employer (See [cf. boss-cocky](bla-bri.md#boss-cocky))
 
 >  Yesterday one of the cows died and my boss brought it home and cut it up for the dogs. <i>(Dec 16, 1924,Otago Witness,71</i>)
 
@@ -10576,7 +10576,7 @@
 
 ### boss of the board
  
- <i>phr.</i> the overseer of a shearing shed (See [cf. board walker](../B#board-walker))
+ <i>phr.</i> the overseer of a shearing shed (See [cf. board walker](bla-bri.md#board-walker))
 
 >  Raddle in those days [1880s] was in great demand, and when the boss of the board was in a bad humor[sic] or perchance did not like the color of the shearer's hair he used the raddle on the sheep shorn by the shearer and the raddle sheep were counted out and the shearer not paid for them. <i>(Mar 29, 1912,Maoriland Worker,55/12/2</i>)
 
@@ -10675,7 +10675,7 @@
 
 ### bot (on)
  
- <i>v.</i> to sponge on, cadge from (See [cf. cold bot](../C#cold-bot),[bite](../B#bite))
+ <i>v.</i> to sponge on, cadge from (See [cf. cold bot](../C#cold-bot),[bite](b-bla.md#bite))
 
 >  <b>BAKER</b> <i>(1941,NZ Slang,52</i>) [NOTES: By the 1920s a bot is being used extensively for a troublesome person, for a persistent borrower, a financial parasite. By 1925 the noun bot was translated to a verb, and as a result we have to bot, to borrow money, to impose on others, and botting, the practice. To bot on a person is widely used.]
 
@@ -10685,7 +10685,7 @@
 
 ### bot ward
  
- <i>n.</i> [ca1949 Wellington Public Hospital (J. Greer)] (See [bot](../B#bot))
+ <i>n.</i> [ca1949 Wellington Public Hospital (J. Greer)] (See [bot](bla-bri.md#bot))
 
 ### bot-burglar
  
@@ -10693,11 +10693,11 @@
 
 ### bot-nursing
  
- <i>n.</i> duty in a TB ward or sanatorium [ca1949 J. Greer Wellington Public Hospital p.c. 1951] (See [cf. bot ward](../B#bot-ward))
+ <i>n.</i> duty in a TB ward or sanatorium [ca1949 J. Greer Wellington Public Hospital p.c. 1951] (See [cf. bot ward](bla-bri.md#bot-ward))
 
 ### Botany Bay language
  
- <i>n.</i> (See [cf. Australian language](../A#australian-language))
+ <i>n.</i> (See [cf. Australian language](ari-axe.md#australian-language))
 
 >  <b>HENDERSON</b> I am credibly informed that the person this letter is for, is a cattle stealer, a swindler and a bastard. ... choice Botany Bay language. <i>(1866,Otago and the Middle Island of NZ,20</i>)
 
@@ -10795,7 +10795,7 @@
 
 ### bottle shop
  
- <i>n.</i> (See [cf. bottle store](../B#bottle-store))
+ <i>n.</i> (See [cf. bottle store](bla-bri.md#bottle-store))
 
 >  ...will Smith have to make any changes to Bennett's idiomatic script for an audience unfamiliar with such peculiarly British terms as off-licences rather than bottle shops? <i>(Apr 18, 2004,Sunday Star Times,16</i>)
 
@@ -10951,7 +10951,7 @@
 
 ### bottle-washer
  
- <i>n.</i> (See [chief cook and bottle-washer](../C#chief-cook-and-bottle-washer))
+ <i>n.</i> (See [chief cook and bottle-washer](chi-con.md#chief-cook-and-bottle-washer))
 
 >  With coffee, serve Christmas cake and a big bowl of chocolate scorched almonds. Happy Christmas to the chief cook and remember the chief cook never has to be the bottlewasher. <i>(Dec 21, 2002,Dominion Post,F4</i>)
 
@@ -11162,7 +11162,7 @@
 
 
  
-<b>1</b> <i>adj.</i> (Rural) [of a sheepdog] working below his sheep on a hill. (See [bottom side head](../B#bottom-side-head))
+<b>1</b> <i>adj.</i> (Rural) [of a sheepdog] working below his sheep on a hill. (See [bottom side head](bla-bri.md#bottom-side-head))
 
 >  <b>NEWTON</b> Bottom-side work: This refers to a dog working below his sheep on hill country. <i>(1971,Ten Thousand Dogs,168 Glossary</i>)
 
@@ -11202,7 +11202,7 @@
 
 ### bottom-land
  
-<b>1</b> <i>n.</i> (Rural) riverflat. (See [bottom flat](../B#bottom-flat))
+<b>1</b> <i>n.</i> (Rural) riverflat. (See [bottom flat](bla-bri.md#bottom-flat))
 
 >  <b>HOLDEN</b> Every two years Jim Stevenson and a team of well-chosen musterers headed out for a week to round up some of the horses ranging the Waiau River bottom-lands. <i>(1993,Station Country I,49</i>)
 
@@ -11218,7 +11218,7 @@
 
 ### Bouai
  
- <i>n.</i> [idiosyncratic spelling?] (See [boohai](../B#boohai))
+ <i>n.</i> [idiosyncratic spelling?] (See [boohai](bla-bri.md#boohai))
 
 >  <b>Simpson</b> Another New Zealand expression is `Up the Bouai' (pronounced boo-eye). There was a place near Auckland city which many years ago was somewhat isolated, and it was called the Bouai. The word is not Maori, for there is no `b' and no `h' sound in the original Maori tongue. Once more I cannot tell you where the word came from, but to go `up the Bouai' has become fairly general in use. Today, if a person comes to town from any lonely place in the forests or mountains, and a friend asks him where he has been, most likely the answer will be, `Oh, I've been up the Bouai.' It is a general word for an isolated region. <i>(1945,If You'd Care to Know,101</i>)
 
@@ -11327,7 +11327,7 @@
 
 
  
-<b>2</b> <i>v.</i> to make one's way up a river bed by walking on boulders (when the banks are too steep to be tracked) (See [cf. rock-hop](../R#rock-hop))
+<b>2</b> <i>v.</i> to make one's way up a river bed by walking on boulders (when the banks are too steep to be tracked) (See [cf. rock-hop](roa-ruv.md#rock-hop))
 
 >  After tea we boulder-hopped up to the wee Macgregor moraine. <i>(1948,Canterbury Mountaineer, The,4/18/299</i>)
 
@@ -11351,7 +11351,7 @@
 
 ### boulder-hopping
  
- <i>n.</i> travelling on a riverbed by stepping from boulder to boulder [some citations below are of a verb to boulder-hop] (See [cf. boulder-scrambling](../B#boulder-scrambling),[rock-hopping](../R#rock-hopping))
+ <i>n.</i> travelling on a riverbed by stepping from boulder to boulder [some citations below are of a verb to boulder-hop] (See [cf. boulder-scrambling](bla-bri.md#boulder-scrambling),[rock-hopping](roa-ruv.md#rock-hopping))
 
 >  Beyond here is only a marked route requiring some bush-bashing and boulder-hopping beside the river, with bluffs to bypass beyond Kakapo Creek. <i>(1990,Tramping in South Island Forest Parks,119</i>)
 
@@ -11371,13 +11371,13 @@
 
 ### boulder-jumping
  
- <i>n.</i> (See [cf. rock-hopping](../R#rock-hopping))
+ <i>n.</i> (See [cf. rock-hopping](roa-ruv.md#rock-hopping))
 
 >  <b>SEVERINSEN</b> I tried to reach base by boulder-jumping and cliff-climbing along under the bluffs on the seashore. <i>(1970,Hunt the Far Mountain,116</i>)
 
 ### boulder-scrambling
  
- <i>n.</i> (See [boulder-hopping](../B#boulder-hopping))
+ <i>n.</i> (See [boulder-hopping](bla-bri.md#boulder-hopping))
 
 >  ... it was a mixture of boulder-scrambling and `bush-hiking' interspersed with a few shingle flats. <i>(1937,NZ Alpine Journal,7/24/57</i>)
 
@@ -11565,7 +11565,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a person who keeps watch of stock either within a locality on a property or between two properties. (See [boundary shepherd](../B#boundary-shepherd))
+<b>1</b> <i>n.</i> (Rural) a person who keeps watch of stock either within a locality on a property or between two properties. (See [boundary shepherd](bla-bri.md#boundary-shepherd))
 
 >  The introduction of wire fencing into the tussock sheep country had two significant results: it lessened the labour requirements of the runs by replacing shepherds and boundary keepers, and it lessened the incidence and checked the spread of scab. <i>(Oct 21, 1965,NZ Geographer,2 / 151</i>)
 
@@ -11624,7 +11624,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a boundary keeper who usually is on horseback, keeping watch on boundaries between stations or on mobs of sheep from straying from a particular area. (See [boundary keeper](../B#boundary-keeper))
+<b>1</b> <i>n.</i> (Rural) a boundary keeper who usually is on horseback, keeping watch on boundaries between stations or on mobs of sheep from straying from a particular area. (See [boundary keeper](bla-bri.md#boundary-keeper))
 
 >  <b>JOHNSTON</b> Boundary rider employed between Tamumu and Omakere at GBP74 a year. <i>(Apr 4, 1870,Johnston Diary</i>)
 
@@ -11636,7 +11636,7 @@
 
 ### boundary riding
  
- <i>n.</i> (Rural) the containment of sheep in a single mob away from snowy tops, or other natural dangers, or away from a boundary. (See [boundary keeping](../B#boundary-keeping))
+ <i>n.</i> (Rural) the containment of sheep in a single mob away from snowy tops, or other natural dangers, or away from a boundary. (See [boundary keeping](bla-bri.md#boundary-keeping))
 
 >  <b>KERR</b> In three years' boundary riding he never caught a cold, but he caught one in Dunedin and had to take to his bed for a fortnight. <i>(2000,High Times in the High Country,53</i>)
 
@@ -11660,7 +11660,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a shepherd detailed to keep stock in one place or from crossing a boundary. (See [boundary keeper](../B#boundary-keeper))
+<b>1</b> <i>n.</i> (Rural) a shepherd detailed to keep stock in one place or from crossing a boundary. (See [boundary keeper](bla-bri.md#boundary-keeper))
 
 >  <b>HOBHOUSE</b> Morally one must rejoice at the prospect of releasing boundary shepherds from their wretched and perilous isolation. <i>(Nov 4, 1859,Hobhouse Letters and Papers</i>)
 
@@ -11672,7 +11672,7 @@
 
 ### boundary stake
  
- <i>n.</i> (See [cf. boundary peg](../B#boundary-peg),[boundary post](../B#boundary-post))
+ <i>n.</i> (See [cf. boundary peg](bla-bri.md#boundary-peg),[boundary post](bla-bri.md#boundary-post))
 
 >  <b>ALEXANDER</b> A boundary stake; that is, a staff driven into the ground to mark a boundary. <i>(1873,Bush Fighting,23</i>)
 
@@ -11888,7 +11888,7 @@
 
 ### bowie
  
- <i>n.</i> [ca1953 at least: Marlborough 1953 `Universal in the Pohangina district': N.T. Moar] (See [pukeko](../P#pukeko),[bokaka](../B#bokaka))
+ <i>n.</i> [ca1953 at least: Marlborough 1953 `Universal in the Pohangina district': N.T. Moar] (See [pukeko](pop-pyo.md#pukeko),[bokaka](bla-bri.md#bokaka))
 
 
 
@@ -11900,7 +11900,7 @@
 
 
  
-<b>2</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, mainly in Marlborough and Canterbury back country. (See [bent leg](../B#bent-leg))
+<b>2</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, mainly in Marlborough and Canterbury back country. (See [bent leg](b-bla.md#bent-leg))
 
 >  Bowie has been under the notice of this Department [Agriculture] for a good many years, and as long ago as 1930 was the subject of a report to the Director .. Bowie has a fairly widespread distribution in the South Island. Bowie has been known in the Wairau Valley for some fifty years .. Such animals also recover if shifted soon enough on to topdressed paddocks on bowie properties. <i>(1954,NZ Veterinary Journal,2 118</i>)
 
@@ -11914,7 +11914,7 @@
 
 ### bowl of fruit
  
- <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. box of fruit](../B#box-of-fruit))
+ <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. box of fruit](bla-bri.md#box-of-fruit))
 
 >  <b>NEWBOLD</b> BOWL OF FRUIT (n) Suit <i>(1982,Big Huey, The,245</i>)
 
@@ -12414,7 +12414,7 @@
 
 ### box of fluffies
  
- <i>phr.</i> (See [box of fluffy ducks](../B#box-of-fluffy-ducks))
+ <i>phr.</i> (See [box of fluffy ducks](bla-bri.md#box-of-fluffy-ducks))
 
 ### box of fluffy ducks
  
@@ -12440,7 +12440,7 @@
 
 ### box of fruit
  
- <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. bowl of fruit](../B#bowl-of-fruit))
+ <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. bowl of fruit](bla-bri.md#bowl-of-fruit))
 
 >  I decked myself out in a box of fruit, with knife creased terrace of houses, polished up the mary lous, locked up the shovel and headed for the racetrack. <i>(May 21, 1963,NZ Truth,19</i>)
 
@@ -12564,7 +12564,7 @@
 
 
  
- <i>n.</i> a bowler hat (See [cf. hard hitter](../H#hard-hitter))
+ <i>n.</i> a bowler hat (See [cf. hard hitter](h-hea.md#hard-hitter))
 
 >  Started Mr and Mrs Acland and their belongings in their carriage. Mrs Harper and son in boxers [ed note bowlers, i.e., hats]. <i>(Jan 27, 1863,Chudleigh Diary,74,1950 ed.</i>)
 
@@ -12610,7 +12610,7 @@
 
 ### boxthorn
  
- <i>n.</i> <i>Lyceum ferocissimum</i>. OED: box-thorn, common name for shrubs of the genus Lycium, esp. L. barbarum. Also BOX-TREE, BOX-WOOD. (See [African boxthorn](../A#african-boxthorn))
+ <i>n.</i> <i>Lyceum ferocissimum</i>. OED: box-thorn, common name for shrubs of the genus Lycium, esp. L. barbarum. Also BOX-TREE, BOX-WOOD. (See [African boxthorn](a-all.md#african-boxthorn))
 
 >  I learnt how to eradicate the aggressive box thorn on the cliffs of Red Mercury Island (weed-killing abseilers). <i>(Jan 10, 2004,Listener (New Zealand Listener),67</i>)
 
@@ -12790,7 +12790,7 @@
 
 ### brace
  
- <i>n.</i> a platform (See [mainbrace](../M#mainbrace))
+ <i>n.</i> a platform (See [mainbrace](m-mar.md#mainbrace))
 
 >  <b>HENDERSON</b> BRACE: Type of platform around the top of a mine shaft. <i>(1961,Friends in Chains,185</i>) [NOTES: c1900-1920 A Teamster's Glossary in 1961 Henderson Friends In Chains 185]
 
@@ -12863,7 +12863,7 @@
 
 ### bracken fern
  
- <i>n.</i> (See [bracken](../B#bracken))
+ <i>n.</i> (See [bracken](bla-bri.md#bracken))
 
 >  Bracken fern (<i>Pteridium esculentum</i>) was originally widespread ... on the hill country of Hawke's Bay ... <i>(1946,NZ Journal of Science & Technology,27/432</i>)
 
@@ -13034,7 +13034,7 @@
 
 
  
- <i>n.</i> used with or without epithets, for the native <i>Rubus</i> spp., (See [cf. briar](../B#briar))
+ <i>n.</i> used with or without epithets, for the native <i>Rubus</i> spp., (See [cf. briar](bla-bri.md#briar))
 
 >  Amongst the known kinds of plants are common and rough Bindweed, Nightshade and Nettles, ... Brambles, fnh Rubus. [ed. [<i>Rubus cissoides, the `Bush-lawyer'; perhaps other spp.]]] Eyebright [fni Euphrasia. [ed. [There are a number of species; Euphrasias are generally alpines.]]] and groundsel: [fnj Senecio. [ed. [Senecio lautus, described by both Solander and George Forster.]]] but the species of each are different from any we have in Europe. There is also Polypody, Spleenwort and about twenty different sorts of ferns ... <i>(Feb 1777,Cook's Journals,3/804</i>) [NOTES: 1777 Feb Anderson's Journal in Cook Journals (1967) 3/804-805 (Queen Charlotte Sound)]
 
@@ -13281,7 +13281,7 @@
 
 ### brass razoo
  
- <i>n.</i> variant of razoo q.v. [also Australian] (See [razoo](../R#razoo))
+ <i>n.</i> variant of razoo q.v. [also Australian] (See [razoo](ra-red.md#razoo))
 
 >  In fact, despite a schedule which will take them around the world in well over 80 days, they don't receive a brass razoo from any funding agency, state or not. <i>(Jun 1, 2003,Sunday Star Times,B18</i>)
 
@@ -13307,7 +13307,7 @@
 
 ### Brass, the
  
- <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](../B#brass-monkey-(rally)))
+ <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](bla-bri.md#brass-monkey-(rally)))
 
 >  I did "the Brass" in 2000, drawn more by the lore of the event than the allure of standing around in sub-zero temperatures discussing carburettor adjustments with petrolheads. <i>(Sep 2004,NZ Geographic,No. 69/105</i>)
 
@@ -13355,7 +13355,7 @@
 
 ### bratpacker
  
- <i>n.</i> (See [brat pack](../B#brat-pack))
+ <i>n.</i> (See [brat pack](bla-bri.md#brat-pack))
 
 >  It is more likely that English and his court - which, incidentally, is rather wider than the other three Brat packers - have barely begun their attempt to reorient the government's direction and image. <i>(Jun 5, 1999,Listener (New Zealand Listener),15</i>)
 
@@ -13522,7 +13522,7 @@
 
 
  
- <i>v.</i> to take the first cuts off a log to make it into a manageable size for sawing into timber (See [breaking-down saw](../B#breaking-down-saw))
+ <i>v.</i> to take the first cuts off a log to make it into a manageable size for sawing into timber (See [breaking-down saw](bla-bri.md#breaking-down-saw))
 
 >  Stripped of their branches they could be floated down the driving creeks with the ordinary logs, and if `broken down' or cut into suitable boards for wainscoting and furniture, would be highly appreciated for their striking beauty. <i>(1875,TrNZI,7/186</i>) [NOTES: (Firth)]
 
@@ -13564,7 +13564,7 @@
 
 
  
- <i>v.</i> to clear and prepare virgin land for cultivation (See [cf. break up](../B#break-up))
+ <i>v.</i> to clear and prepare virgin land for cultivation (See [cf. break up](bla-bri.md#break-up))
 
 >  Jim and Rose Henare set out to break in a farm at Motatau that people said would never pay its way. <i>(Aug 11, 1984,Listener (New Zealand Listener),29</i>)
 
@@ -14084,7 +14084,7 @@
 
 ### breaksea devil
  
- <i>n.</i> a sound of rushing air, attibuted to a phantom bird; or the bird species (hakuwai) that causes the noise (See [hakuwai](../H#hakuwai))
+ <i>n.</i> a sound of rushing air, attibuted to a phantom bird; or the bird species (hakuwai) that causes the noise (See [hakuwai](h-hea.md#hakuwai))
 
 >  <b>TUCKETT</b> All the people frequenting this coast [sc. west coast of Otago] believe in the existence of an extraordinary bird, or phantom, which they can never see, but only hear rushing past them through the air with the rapidity of a falling rocket, and making a terrible rushing sound. The Maories declare that it is a bird possessing many joints in its wings. The whalers call them <i>break-sea-devils,</i> after the name of an island where this phenomenon is of most frequent occurrence. <i>(May 24, 1844,Diary</i>) [NOTES: 1844 May 24 Tuckett Diary in 1898 Hocken Contributions 224]
 
@@ -14168,7 +14168,7 @@
 
 ### bred to the purple
  
- <i>phr.</i> (Rural) [stock sales] well-bred. (See [cf. born to the purple](../B#born-to-the-purple))
+ <i>phr.</i> (Rural) [stock sales] well-bred. (See [cf. born to the purple](bla-bri.md#born-to-the-purple))
 
 >  <b>SINCLAIR</b> Just the other day, I took out a nine month old huntaway bitch, who's bred to the purple. <i>(1973,Boot in the Stirrup,60</i>)
 
@@ -14258,7 +14258,7 @@
 
 
  
- <i>n.</i> a drink of tea, brew up, noun and verb;as elsewhere, freq. for `(a brew of) tea', esp. made outdoors in a billy, a boil-up: also brew-up. (See [boil up](../B#boil-up))
+ <i>n.</i> a drink of tea, brew up, noun and verb;as elsewhere, freq. for `(a brew of) tea', esp. made outdoors in a billy, a boil-up: also brew-up. (See [boil up](bla-bri.md#boil-up))
 
 >  <b>DAVIN</b> Tony sitting on a jerrycan stared moodily in front of him, his half-empty mug in his hand. `Last brew on Zaafran(?), sir', said Smithy. <i>(1947,For the Rest of Our Lives,123</i>)
 
@@ -14278,7 +14278,7 @@
 
 ### brew up
  
- <i>v.</i> to make tea [brew the billy ca1946 N.C.C. Small (trampers')] (See [brew the billy](../B#brew-the-billy))
+ <i>v.</i> to make tea [brew the billy ca1946 N.C.C. Small (trampers')] (See [brew the billy](bla-bri.md#brew-the-billy))
 
 >  <b>SYDER & HODGETTS</b> `It's time to brew up, I can hear them coming - they'll be ready for a good hot cup of tea.' <i>(1974,Australian & NZ English [TS],120</i>)
 
@@ -14308,7 +14308,7 @@
 
 ### brew-can
  
- <i>n.</i> (See [brew-billy](../B#brew-billy))
+ <i>n.</i> (See [brew-billy](bla-bri.md#brew-billy))
 
 >  <b>SL,ATTER</b> ... and the black swing of the besmoked brew-can carried by the section leader for the Kiwis are in the dugouts brewing up the chai. <i>(1959,Gun in My Hand, A,235</i>)
 
@@ -14385,7 +14385,7 @@
 
 ### brickie
  
- <i>n.</i> (See [cit](../C#cit))
+ <i>n.</i> (See [cit](chi-con.md#cit))
 
 >  <b>BYCROFT LTD</b> Brickie or small flat loaf. <i>(1934,Baking in NZ,?124</i>)
 

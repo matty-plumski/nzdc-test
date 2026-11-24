@@ -82,7 +82,7 @@
 
 ### brier
  
- <i>n.</i> (See [briar](../B#briar))
+ <i>n.</i> (See [briar](bla-bri.md#briar))
 
 ### brier shark
  
@@ -301,7 +301,7 @@
 
 
  
- <i>v.</i> to bring land into cultivation or production (See [break in](../B#break-in))
+ <i>v.</i> to bring land into cultivation or production (See [break in](bla-bri.md#break-in))
 
 >  <b>CARGILL</b> Open land is covered with either fern or grass, ... and is easily brought in. <i>(1860,Otago, New Zealand,29</i>)
 
@@ -316,7 +316,7 @@
 
 
  
- <i>v.</i> (Rural) [used elsewhere, but first in NZ] to develop or tame land. (See [break in](../B#break-in))
+ <i>v.</i> (Rural) [used elsewhere, but first in NZ] to develop or tame land. (See [break in](bla-bri.md#break-in))
 
 >  Blocks of about 10 to 12 ha were brought in each year, starting with a burn, followed by stick raking and one giant discing. <i>(Jun 11, 1981,NZ Farmer,27</i>)
 
@@ -351,7 +351,7 @@
 
 ### bring your own
  
- <i>phr.</i> i.e. liquor (a suggestion that donations of liquor at a party would not be amiss; or, to patrons of a restaurant with a restricted license, that they may bring their own liquor to be consumed on the premises) (See [BYO](../B#byo))
+ <i>phr.</i> i.e. liquor (a suggestion that donations of liquor at a party would not be amiss; or, to patrons of a restaurant with a restricted license, that they may bring their own liquor to be consumed on the premises) (See [BYO](bri-byo.md#byo))
 
 >  Few are likely to revert to bring-your-own, which they see as an anachronism, a hangover from the old days. <i>(Dec 23, 1999,Dominion,8</i>)
 
@@ -414,7 +414,7 @@
 
 ### bristle
  
- <i>adj.</i> as an epithet; bristle grass, bristle moss, bristle tussock (See [grass](../G#grass),[moss](../M#moss),[tussock](../T#tussock))
+ <i>adj.</i> as an epithet; bristle grass, bristle moss, bristle tussock (See [grass](go-gra.md#grass),[moss](../M#moss),[tussock](tot-tyr.md#tussock))
 
 ### bristle fern
  
@@ -584,7 +584,7 @@
 
 ### broad-billed petrel
  
- <i>n.</i> [The Maori name oi comes from the high-pitched call the birds make during flight.] (See [oi](../O#oi))
+ <i>n.</i> [The Maori name oi comes from the high-pitched call the birds make during flight.] (See [oi](o-on.md#oi))
 
 >  The grey-faced petrel / great-winged petrel / North Island muttonbird / oi is not endangered - not by any means. <i>(Mar 2005,NZ Geographic,No 72, p.18</i>) [NOTES: The Maori name oi comes from the high-pitched call the birds make during flight.]
 
@@ -845,7 +845,7 @@
 
 ### broken-down swell
  
-<b>1</b> <i>n.</i> an `upper-class' emigrant reduced through circumstances (usu. liquor) to manual or menial labour (See [cf. paper-collared swell](../P#paper-collared-swell))
+<b>1</b> <i>n.</i> an `upper-class' emigrant reduced through circumstances (usu. liquor) to manual or menial labour (See [cf. paper-collared swell](p-per.md#paper-collared-swell))
 
 >  <b>CHAMIER</b> There was another shepherd of a very different type; he came under the category known as `broken-down swells' - a numerous class in the country at that time [ca1850-1860s]. <i>(1891,Philosopher Dick,6</i>)
 
@@ -1467,7 +1467,7 @@
 
 
  
- <i>n.</i> (Environment) alternative name for the Canterbury gecko; associated with scrubby coastal areas from Banks Peninsula as far north as Marlborough. [common gecko <i>Hoplodactylus "Canterbury"</i>] (See [common gecko](../C#common-gecko))
+ <i>n.</i> (Environment) alternative name for the Canterbury gecko; associated with scrubby coastal areas from Banks Peninsula as far north as Marlborough. [common gecko <i>Hoplodactylus "Canterbury"</i>] (See [common gecko](chi-con.md#common-gecko))
 
 >  <b>WILLIAMS</b> <i>Papa, ... 2. Dactylocnemis pacificus, tree-lizard. = moko-papa, narara-papa, teretere. </i> <i>(1917,Dictionary of the Maori Language,284</i>)
 
@@ -1479,7 +1479,7 @@
 
 ### Brown Joes
  
- <i>n.</i> The Sisters of St Joseph [-] (See [Black Joseph](../B#black-joseph))
+ <i>n.</i> The Sisters of St Joseph [-] (See [Black Joseph](b-bla.md#black-joseph))
 
 ### brown kaka
  
@@ -1722,7 +1722,7 @@
 
 ### brown velvet
  
- <i>n.</i> a Maori female or females as sexual objects [-] (See [cf. black velvet](../B#black-velvet))
+ <i>n.</i> a Maori female or females as sexual objects [-] (See [cf. black velvet](bla-bri.md#black-velvet))
 
 >  <b>BAUME</b> There's a new bank-clerk ... [who's] certain to fall for you Ngaire, though it's brown velvet he likes. [Ngaire is a `white' half-caste Maori] <i>(1933,Half Caste,64</i>)
 
@@ -2008,7 +2008,7 @@
 
 
  
- <i>n.</i> a girl or woman. esp. as a sexual object (See [cf. crow](../C#crow))
+ <i>n.</i> a girl or woman. esp. as a sexual object (See [cf. crow](con-cyp.md#crow))
 
 >  <b>SARGESON</b> I don't go looking for trouble with brushes that are under age. <i>(1941,When the Wind Blows,55</i>)
 
@@ -2062,7 +2062,7 @@
 
 ### brush-harrow
  
- <i>v.</i> to harrow with a rough or makeshift harrow made of brushwood (See [cf. bush-harrow](../B#bush-harrow))
+ <i>v.</i> to harrow with a rough or makeshift harrow made of brushwood (See [cf. bush-harrow](bri-byo.md#bush-harrow))
 
 >  <b>CRAWFORD</b> Seed should be brush harrowed in, that is wild Irishman should be interlaced in the crossbars of the harrows. <i>(1949,Sheep and Sheepmen of Canterbury,45</i>) [NOTES: 1860 August Duppa in 1949 Crawford Sheep and Sheepmen 45]
 
@@ -2095,7 +2095,7 @@
 
 ### brushwood
  
- <i>n.</i> in early occas. use for scrub: it appears to have been the early word for `scrub'. (See [cf. brush](../B#brush))
+ <i>n.</i> in early occas. use for scrub: it appears to have been the early word for `scrub'. (See [cf. brush](bri-byo.md#brush))
 
 >  <b>MARSDEN</b> ... the land is generally clear from timber, cepting small brushwood and fern, which can with little trouble be cut down and burnt off. <i>Ibid.</i> 269 We reached before dark the spot on the plain where we had lodged before and remained there all night, have made a screen of brushwood and fern to shelter us from the rain which now began to fall. <i>(1819,Letters & Journals,176,1932 ed.</i>)
 
@@ -2202,7 +2202,7 @@
 
 ### bubu
  
- <i>n.</i> a shellfish (See [pupu](../P#pupu))
+ <i>n.</i> a shellfish (See [pupu](pop-pyo.md#pupu))
 
 >  He also brought bags of kina, paua, pipi, whetikou and booboos. <i>(May 10, 2004,Dominion Post,B4</i>)
 
@@ -2210,7 +2210,7 @@
 
 ### buccateer
  
- <i>n.</i> (See [pukatea](../P#pukatea))
+ <i>n.</i> (See [pukatea](pop-pyo.md#pukatea))
 
 ### buck
  
@@ -2257,7 +2257,7 @@
 
 
  
- <i>n.</i> a young male, esp. a Maori (See [cf. buckaroo](../B#buckaroo))
+ <i>n.</i> a young male, esp. a Maori (See [cf. buckaroo](bri-byo.md#buckaroo))
 
 >  <b>BAUME</b> Four bucks from Raglan came in drunk and there was a fight. <i>(1933,Half Caste,23</i>)
 
@@ -2293,7 +2293,7 @@
 
 ### buck Maori
  
- <i>n.</i> (obsolete) a male Maori (See [cf. buck](../B#buck))
+ <i>n.</i> (obsolete) a male Maori (See [cf. buck](bri-byo.md#buck))
 
 >  <b>SCRYMGEOUR</b> Finally the College Fifteen wound up a close second in the season's fixtures, ... for a team with several big `Buck Maories' from Leeston settled all other teams in that year, and they were just too heavy, good and impossible to defeat. ... <i>(1960,Memories of Maoriland,67</i>)
 
@@ -2313,7 +2313,7 @@
 
 ### buck quartz
  
- <i>n.</i> [mining] (See [cf. buck reef](../B#buck-reef))
+ <i>n.</i> [mining] (See [cf. buck reef](bri-byo.md#buck-reef))
 
 >  The only change is that the vein of buck quartz has now changed to payable ore. <i>(Dec 18, 1896,Thames Star,4</i>)
 
@@ -2410,7 +2410,7 @@
 
 ### buckaroo
  
- <i>adj.</i> (See [pakaru](../P#pakaru),[puckeroo](../P#puckeroo))
+ <i>adj.</i> (See [pakaru](p-per.md#pakaru),[puckeroo](pop-pyo.md#puckeroo))
 
 
 
@@ -2422,7 +2422,7 @@
 
 
  
- <i>n.</i> a young male Maori [cf. buck ca1951 F. O'Brien (Wellington)] (See [cf. buck](../B#buck))
+ <i>n.</i> a young male Maori [cf. buck ca1951 F. O'Brien (Wellington)] (See [cf. buck](bri-byo.md#buck))
 
 ### buckaroos
  
@@ -2444,7 +2444,7 @@
 
 ### buckeroo
  
- <i>n.</i> (See [pakaru](../P#pakaru),[puckeroo](../P#puckeroo))
+ <i>n.</i> (See [pakaru](p-per.md#pakaru),[puckeroo](pop-pyo.md#puckeroo))
 
 ### bucket dredge
  
@@ -2741,7 +2741,7 @@
 
 
  
- <i>n.</i> (See [cf. shrapnel](../S#shrapnel))
+ <i>n.</i> (See [cf. shrapnel](sho-spa.md#shrapnel))
 
 >  <i>buckshot</i>: small bronze change <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
@@ -2753,7 +2753,7 @@
 
 ### buckytea
  
- <i>n.</i> (See [pukatea](../P#pukatea))
+ <i>n.</i> (See [pukatea](pop-pyo.md#pukatea))
 
 ### bud
  
@@ -2833,7 +2833,7 @@
 
 ### buff weka
  
- <i>n.</i> a yellowish-buff subspecies of weka, Gallirallus australis hectori , taken to the Chatham Islands in the early 20th century to avoid extinction. (See [weka](../W#weka),[buff](../B#buff))
+ <i>n.</i> a yellowish-buff subspecies of weka, Gallirallus australis hectori , taken to the Chatham Islands in the early 20th century to avoid extinction. (See [weka](../W#weka),[buff](bri-byo.md#buff))
 
 >  Lake Wanaka's buff weka have thrived so successfully since their transfer to Te Peka Karara Island (Stevenson's Island) in Lake Wanaka from the Chatham Islands in 2001 ... <i>(Jul 2005,Conservation Action,21</i>)
 
@@ -2899,7 +2899,7 @@
 
 ### bugabuga
  
- <i>n.</i> (See [pukaha](../P#pukaha))
+ <i>n.</i> (See [pukaha](pop-pyo.md#pukaha))
 
 ### bugger
  
@@ -3158,7 +3158,7 @@
 
 ### bugloss
  
- <i>n.</i> <i>Echium vulgare</i> (See [also viper's bugloss](../A#also-viper's-bugloss),[blue borage](../B#blue-borage))
+ <i>n.</i> <i>Echium vulgare</i> (See [also viper's bugloss](../A#also-viper's-bugloss),[blue borage](bla-bri.md#blue-borage))
 
 >  <b>COCKAYNE</b> But ... the bugloss, and the foxglove, to mention only a few British plants, are now wild in various places. <i>(1910,NZ Plants,135</i>)
 
@@ -3176,7 +3176,7 @@
 
 ### buhai
  
- <i>n.</i> (See [boohai](../B#boohai))
+ <i>n.</i> (See [boohai](bla-bri.md#boohai))
 
 ### build up
  
@@ -3259,7 +3259,7 @@
 
 ### buk
  
- <i>n.</i> (See [puku](../P#puku))
+ <i>n.</i> (See [puku](pop-pyo.md#puku))
 
 ### bukaka
  
@@ -3267,7 +3267,7 @@
 
 ### bukatea/bukitea
  
- <i>n.</i> (See [pukatea](../P#pukatea))
+ <i>n.</i> (See [pukatea](pop-pyo.md#pukatea))
 
 >  The bees have been doing splendidly for the last two weeks in the bush. They are bringing in pollen wholesale from the kahikatea and bukatea, which are now in blossom. <i>(Dec 11, 1883,Waikato Times,4</i>)
 
@@ -3287,11 +3287,11 @@
 
 ### bul-bul
  
- <i>n.</i> (See [bull-a-bull](../B#bull-a-bull))
+ <i>n.</i> (See [bull-a-bull](bri-byo.md#bull-a-bull))
 
 ### bulabul
  
- <i>n.</i> (See [bull-a-bull](../B#bull-a-bull))
+ <i>n.</i> (See [bull-a-bull](bri-byo.md#bull-a-bull))
 
 ### Bulgarian bug
  
@@ -3385,7 +3385,7 @@
 
 
  
- <i>n.</i> (historical) a five-shilling piece; a crown [[OED slang: crown piece (cf BULLS-EYE 11) 1812; P: late 18-19C.; W3.]] (See [half-bull](../H#half-bull),[half a bull](../H#half-a-bull))
+ <i>n.</i> (historical) a five-shilling piece; a crown [[OED slang: crown piece (cf BULLS-EYE 11) 1812; P: late 18-19C.; W3.]] (See [half-bull](h-hea.md#half-bull),[half a bull](h-hea.md#half-a-bull))
 
 >  [?wharf-loafers'] -->five shilling piece <i>(1869,Punch or the Auckland Charivari,153</i>)
 
@@ -3575,7 +3575,7 @@
 
 ### bull Maori
  
- <i>n.</i> a Maori male (See [cf. buck Maori](../B#buck-maori))
+ <i>n.</i> a Maori male (See [cf. buck Maori](bri-byo.md#buck-maori))
 
 >  <b>BAUME</b> Some bull Maori weighing over twenty stone may have tribal rights over me. <i>(1933,Half Caste,12</i>)
 
@@ -3617,7 +3617,7 @@
 
 ### bull trout
  
- <i>n.</i> [cf. bullhead, bully bull-trout, bulltrout] (See [cf. bullhead](../B#bullhead),[bully](../B#bully))
+ <i>n.</i> [cf. bullhead, bully bull-trout, bulltrout] (See [cf. bullhead](bri-byo.md#bullhead),[bully](bri-byo.md#bully))
 
 >  <b>TANCRED</b> There is also a bull-trout [in fresh water] and shoals of smelts. <i>(1856,Natural History of Canterbury,16</i>)
 
@@ -3766,7 +3766,7 @@
 
 ### bullabulla
  
- <i>n.</i> (See [bull-a-bull](../B#bull-a-bull))
+ <i>n.</i> (See [bull-a-bull](bri-byo.md#bull-a-bull))
 
 ### bullamakau
  
@@ -3942,7 +3942,7 @@
 
 ### bulley/bullie
  
- <i>n.</i> (See [bully](../B#bully))
+ <i>n.</i> (See [bully](bri-byo.md#bully))
 
 ### bullhead
  
@@ -3989,7 +3989,7 @@
 
 ### bullock
  
- <i>v.</i> tackle a job (like a bullock); go bull-at-a-gate at [cf. bullocking 1950 at least used of energetic forwards in rugby union: e.g. Three forwards bullocked their way past the twenty-five and on for a try.] (See [cf. bullocking](../B#bullocking))
+ <i>v.</i> tackle a job (like a bullock); go bull-at-a-gate at [cf. bullocking 1950 at least used of energetic forwards in rugby union: e.g. Three forwards bullocked their way past the twenty-five and on for a try.] (See [cf. bullocking](bri-byo.md#bullocking))
 
 >  <i>bullock ... 2. v.i. NZ & Austral. colloq.</i> work strenuously. <i>(1986,NZ Pocket Oxford Dictionary,93</i>) [NOTES: [Collins Concise Eng. Dict. 144]]
 
@@ -4023,7 +4023,7 @@
 
 
  
- <i>v.</i> to shift, haul etc. with bullocks (See [cf. bullocking](../B#bullocking))
+ <i>v.</i> to shift, haul etc. with bullocks (See [cf. bullocking](bri-byo.md#bullocking))
 
 >  <b>REED</b> Here Caldow and Malone worked 6 million feet, which was bullocked, and then trammed, to the mouth of the Kaimarama River near the old booms. <i>(1953,Story of the Kauri, The,255</i>) [NOTES: [?ca1900]]
 
@@ -4067,7 +4067,7 @@
 
 ### bullock dray
  
- <i>n.</i> a usu. four-wheeled vehicle, with a pole rather than shafts, drawn by a team of bullocks; a rough two-wheeled cart to which bullocks were attached by neck-yokes and chains (see Kennaway <i>Crusts</i> illustration), (See [cf. bullock wagon](../B#bullock-wagon))
+ <i>n.</i> a usu. four-wheeled vehicle, with a pole rather than shafts, drawn by a team of bullocks; a rough two-wheeled cart to which bullocks were attached by neck-yokes and chains (see Kennaway <i>Crusts</i> illustration), (See [cf. bullock wagon](bri-byo.md#bullock-wagon))
 
 >  The river was very high ..., having got over that you had to walk some way and then get into a bulock dray and cross a branch that people at home [sc. England] would look at a long time ..., the bullocks sticking up in the middle each time. <i>(Nov 4, 1865,Chudleigh Diary,203,1950 ed.</i>)
 
@@ -4212,7 +4212,7 @@
 
 ### bullock wagon
  
- <i>n.</i> a four-wheeled vehicle drawn by bullocks (See [cf. bullock dray](../B#bullock-dray))
+ <i>n.</i> a four-wheeled vehicle drawn by bullocks (See [cf. bullock dray](bri-byo.md#bullock-dray))
 
 >  <b>BARKER</b> ... bullock-waggon <i>(1873,Station Amusements in NZ,18</i>)
 
@@ -4411,7 +4411,7 @@
 
 ### bullocker
  
- <i>n.</i> a bullock-driver (See [bullocky](../B#bullocky))
+ <i>n.</i> a bullock-driver (See [bullocky](bri-byo.md#bullocky))
 
 >  <b>ARTHUR</b> I once saw ... a bullocker who was working with his team. <i>(1894,Kangaroo and Kauri,91</i>)
 
@@ -4556,7 +4556,7 @@
 
 ### bullocky's joy
  
- <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](../C#cocky's-joy))
+ <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](chi-con.md#cocky's-joy))
 
 >  <b>DUDER in GIFKIN</b> Grandfather Bill spread 'bullocky's joy' (golden syrup) on my toast. <i>(1988,Through the Looking Glass,29</i>)
 
@@ -4807,7 +4807,7 @@
 
 
  
- <i>n.</i> a bulldozer [gummy ca1949; ca1955 Marlborough Woman (R. Mason)] (See [gummy](../G#gummy))
+ <i>n.</i> a bulldozer [gummy ca1949; ca1955 Marlborough Woman (R. Mason)] (See [gummy](gra-gyp.md#gummy))
 
 >  <b>JOHNSTON</b> Anchor the bully over there and winch her across. <i>(1981,Fish Factory,156/453</i>)
 
@@ -4973,7 +4973,7 @@
 
 ### bully-bull
  
- <i>n.</i> raupo head: ?f. bully-bull + bulrush portmanteaued; ?children's use c1880-1890. (See [bull-a-bull](../B#bull-a-bull))
+ <i>n.</i> raupo head: ?f. bully-bull + bulrush portmanteaued; ?children's use c1880-1890. (See [bull-a-bull](bri-byo.md#bull-a-bull))
 
 >  <b>SUTTON-SMITH</b> The seats [of the boys' fort at Waitara, c1880-1890] had a covering of cut-down sacks and the beds had ... a sugar-bag pillow holding the soft towsled heads of the `bully-bulls', the raupo heads. <i>(1953,Unorganized Games,2/606</i>)
 
@@ -5059,13 +5059,13 @@
 
 ### bulrush flour
  
- <i>n.</i> raupo pollen used as flour (See [cf. pungapunga](../P#pungapunga))
+ <i>n.</i> raupo pollen used as flour (See [cf. pungapunga](pop-pyo.md#pungapunga))
 
 >  <b>DRUMMOND</b> [Sarah Higgins, Nelson, writes in 1843] We ate bull-a-bulls flour (bulrush flour? [ed note]) fuscsia, red pines, tetoke ... <i>(1960,Married and Gone to NZ,88</i>)
 
 ### bulrush hut
  
- <i>n.</i> (See [cf. raupo hut](../R#raupo-hut))
+ <i>n.</i> (See [cf. raupo hut](ra-red.md#raupo-hut))
 
 >  These had only bulrush huts similar to those at Paihea, so that there was no accommodation of any kind for them there. <i>(1830,Letters & Journals of Samuel Marsden,475,1932 ed.</i>)
 
@@ -5085,7 +5085,7 @@
 
 ### bulsh
  
- <i>exclam.</i> (See [bullsh](../B#bullsh))
+ <i>exclam.</i> (See [bullsh](bri-byo.md#bullsh))
 
 ### bulsies
  
@@ -5104,7 +5104,7 @@
 
 ### bum buzzard
  
- <i>n.</i> one who sits out the war on his backside [-] (See [cf. base walloper](../B#base-walloper))
+ <i>n.</i> one who sits out the war on his backside [-] (See [cf. base walloper](b-bla.md#base-walloper))
 
 >  <b>DAVIN</b> As Tony displayed his identity card to the Cypriots at the gate he savoured.. the palpable back-from-the-desert air with which he passed these base wallahs and bum buzzards, deflating the pale pigs' bladders of their importance as they flitted from office to office. <i>(1947,For the Rest of Our Lives,156</i>)
 
@@ -5153,7 +5153,7 @@
 
 ### bum-squasher
  
- <i>n.</i> (See [cf. bomb-squasher](../B#bomb-squasher))
+ <i>n.</i> (See [cf. bomb-squasher](bla-bri.md#bomb-squasher))
 
 >  <b>SUTTON-SMITH</b> Marbles had a language of its own. There were names for the marbles, the games, and all the various aspects of the play. There were terms for marbles such as `taw' or `shooter', referring to the marbles used to fire with; `dubs', `dates', `stakes', `dukes', or `changers', referring to the marbles put down to be fired at. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies ... <i>(1972,Folkgames of Children,174</i>)
 
@@ -5279,7 +5279,7 @@
 
 ### bumsquat
  
- <i>v.</i> WW2: to sit out the war at base (See [cf. bum buzzard](../B#bum-buzzard))
+ <i>v.</i> WW2: to sit out the war at base (See [cf. bum buzzard](bri-byo.md#bum-buzzard))
 
 >  <b>DAVIN</b> By God, if it isn't old Frank. What the devil are you doing here. Thought you were bumsquatting at GHQ or something. <i>(1947,For the Rest of Our Lives,288 ed.</i>)
 
@@ -5496,7 +5496,7 @@
 
 ### bunga
  
- <i>n.</i> an Islander (See [bonga](../B#bonga),[boonga](../B#boonga))
+ <i>n.</i> an Islander (See [bonga](bla-bri.md#bonga),[boonga](bla-bri.md#boonga))
 
 >  <b>O'SULLIVAN</b> [Skull'd] sunk piss with a bishop and mouthed more damns/ when the world didn't shape up than a bunga eats yams,/ <i>(1982,Rose Ballroom, The,28</i>)
 
@@ -5637,7 +5637,7 @@
 
 ### bunji jumping
  
- <i>n.</i> (See [bungy](../B#bungy))
+ <i>n.</i> (See [bungy](bri-byo.md#bungy))
 
 >  I try to produce a pithy summary of bunji jumping for those who haven't tried it "Suicide with a happy ending" or "You know it's suicide - but you bounce back." <i>(Feb 1989,North & South,39</i>)
 
@@ -5649,7 +5649,7 @@
 
 ### bunk
  
- <i>n.</i> a shelf-bed built against a wall (orig. nautical as far as NZ use goes, taken over by immigrants from sailing-ship experience (cf. berth n.), and used now esp. by trampers);nsee also Maori bunk (trampers') [1951 <i>Bunk</i> still very much in use among trampers (cf. double-bunking) where it is the usual term for rough bedstead (usually attached to wall) in a tramping hut.] (See [cf. double-bunking](../D#double-bunking))
+ <i>n.</i> a shelf-bed built against a wall (orig. nautical as far as NZ use goes, taken over by immigrants from sailing-ship experience (cf. berth n.), and used now esp. by trampers);nsee also Maori bunk (trampers') [1951 <i>Bunk</i> still very much in use among trampers (cf. double-bunking) where it is the usual term for rough bedstead (usually attached to wall) in a tramping hut.] (See [cf. double-bunking](dou-dyn.md#double-bunking))
 
 >  <b>WAKEFIELD</b> ... a `bunk', or wooden shelf, supported Colonel Wakefield's bed. 1845 <i>Ibid.</i> 1/330 For the information of those who do not know what a <i>bunk</i> is, I must explain that it is a bed place built against the wall of a house or ship. <i>(1845,Adventure in NZ,1/205</i>)
 
@@ -5753,7 +5753,7 @@
 
 ### bunnies
  
- <i>n.</i> (See [cf. bunny grass](../B#bunny-grass))
+ <i>n.</i> (See [cf. bunny grass](bri-byo.md#bunny-grass))
 
 >  <i>bunnies [=] harestail</i> [s] <i>(1969,Standard Common Names for Weeds,9</i>)
 
@@ -5804,7 +5804,7 @@
 
 ### bunny grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### bunny pants
  
@@ -5838,7 +5838,7 @@
 
 ### bur
  
- <i>n.</i> (See [burr](../B#burr))
+ <i>n.</i> (See [burr](bri-byo.md#burr))
 
 ### bur medick
  
@@ -5850,7 +5850,7 @@
 
 ### bur-reed
  
- <i>n.</i> (See [burr-reed](../B#burr-reed))
+ <i>n.</i> (See [burr-reed](bri-byo.md#burr-reed))
 
 ### burbelle
  
@@ -5999,7 +5999,7 @@
 
 ### buridi
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### burke
  
@@ -6047,7 +6047,7 @@
 
 ### burko
  
- <i>n.</i> (See [berko](../B#berko))
+ <i>n.</i> (See [berko](b-bla.md#berko))
 
 >  She threw a burko, which only added to my case. <i>(2001,Good Bastards: the larrikin's guide to success,223</i>)
 
@@ -6789,7 +6789,7 @@
 
 
  
- <i>n.</i> (See [cf. break](../B#break))
+ <i>n.</i> (See [cf. break](bla-bri.md#break))
 
 >  <b>WALLACE MURDOCH</b> ... [sic] the cattle broke away ... [sic] and this burst put any chance of my seeing and describing to you Moa Cottage that is to be at an [end]. <i>(Feb 1860,Diary</i>) [NOTES: c1860 Feb Wallace Murdock Diary quoted in 1947 Beattie Early Runholding 116]
 
@@ -6980,7 +6980,7 @@
 
 ### bush basil
  
- <i>n.</i> the pepper tree or kawakawa. (See [pepper tree](../P#pepper-tree),[kawakawa](../K#kawakawa))
+ <i>n.</i> the pepper tree or kawakawa. (See [pepper tree](p-per.md#pepper-tree),[kawakawa](k-kea.md#kawakawa))
 
 >  [heading] ON OUR PLATE. Wild foods on the world stage: *Pikopiko heads (fern frond) *Piripiri (New Zealand chili [sic]) *Kawakawa (bush basil) <i>(May 21, 2005,Dominion Post,A16</i>)
 
@@ -7123,7 +7123,7 @@
 
 ### bush boy
  
- <i>n.</i> a boy born in and bred to the bush (See [cf. bushman](../B#bushman))
+ <i>n.</i> a boy born in and bred to the bush (See [cf. bushman](bri-byo.md#bushman))
 
 >  <b>THOMSON</b> Hugh was truly a boy and a bush-boy. <i>(1905,Bush Boys of NZ,11</i>)
 
@@ -7394,7 +7394,7 @@
 
 ### bush carpenter
  
- <i>n.</i> a self-trained rough carpenter; a carpenter without formal training; a rough carpenter (See [cf. bush lawyer](../B#bush-lawyer),[bush philosopher](../B#bush-philosopher))
+ <i>n.</i> a self-trained rough carpenter; a carpenter without formal training; a rough carpenter (See [cf. bush lawyer](bri-byo.md#bush-lawyer),[bush philosopher](bri-byo.md#bush-philosopher))
 
 >  Our local "bush"-carpenters did their best. <i>(Sep 17, 1947,NZ Observer,21</i>)
 
@@ -7483,7 +7483,7 @@
 
 ### bush children
  
- <i>n.</i> (See [cf. bush boy](../B#bush-boy),[bush girl](../B#bush-girl))
+ <i>n.</i> (See [cf. bush boy](bri-byo.md#bush-boy),[bush girl](bri-byo.md#bush-girl))
 
 >  <b>BOSWELL</b> The Katui school ! ... How I adored the succession of teachers who came to impart at least the rudiments of knowledge to us `bush children'. <i>(1955,Dim Horizons,78,1956 ed.</i>)
 
@@ -7592,7 +7592,7 @@
 
 ### bush clerk
  
- <i>n.</i> a clerk who deals with kauri-milling operations in the bush (See [cf. bush boss](../B#bush-boss))
+ <i>n.</i> a clerk who deals with kauri-milling operations in the bush (See [cf. bush boss](bri-byo.md#bush-boss))
 
 >  <b>GIBSON</b> [A bush-boss c1890 speaks:] You're now a bush-clerk, and that's the Kauri analogy to a midshipman's job in the Navy. <i>(1924,That Gibbie Galoot</i>)
 
@@ -7669,7 +7669,7 @@
 
 ### bush costume
  
- <i>n.</i> early costume or outfit suitable for wear in the bush A1 or C4. [The following describe a bushman's or bush-farmer's outfit.] (See [cf. bush hat](../B#bush-hat))
+ <i>n.</i> early costume or outfit suitable for wear in the bush A1 or C4. [The following describe a bushman's or bush-farmer's outfit.] (See [cf. bush hat](bri-byo.md#bush-hat))
 
 >  In a belted, blue bush man's frock, hatchet in hand ... he looked in truth the scholar disguised as a wood chopper. <i>(1846,NZ Journal,6/171/166</i>)
 
@@ -7738,7 +7738,7 @@
 
 ### bush cow
  
- <i>n.</i> (See [bush cattle](../B#bush-cattle))
+ <i>n.</i> (See [bush cattle](bri-byo.md#bush-cattle))
 
 >  <b>GRACE</b> Now they are making every effort to reclaim their bush cows, and great numbers are milked regularly <i>(1928,Pioneer Missionary Among the Maoris, A,19</i>) [NOTES: 1852 Dec 31 T.S.Grace Report of Turanga District in 1928 Grace A Pioneer Missionary 19]
 
@@ -7800,7 +7800,7 @@
 
 ### bush devil
  
-<b>1</b> <i>n.</i> a weta (See [taipo](../T#taipo))
+<b>1</b> <i>n.</i> a weta (See [taipo](t-ten.md#taipo))
 
 
 
@@ -7865,7 +7865,7 @@
 
 ### bush dog
  
- <i>n.</i> a wild dog (living in the bush); occas. a Maori dog (See [cf. bush-bee](../B#bush-bee),[bush pig](../B#bush-pig))
+ <i>n.</i> a wild dog (living in the bush); occas. a Maori dog (See [cf. bush-bee](bri-byo.md#bush-bee),[bush pig](bri-byo.md#bush-pig))
 
 >  <b>PHARAZYN</b> ... heard the barking of a bush dog. <i>(1847,Journal,85</i>)
 
@@ -7912,7 +7912,7 @@
 
 ### bush drive
  
-<b>1</b> <i>n.</i> (Rural) a method of treefelling where trees are part-scarfed in front of one or more that are fully felled, taking the part-scarfed trees down with them. (See [Taranaki drive](../T#taranaki-drive))
+<b>1</b> <i>n.</i> (Rural) a method of treefelling where trees are part-scarfed in front of one or more that are fully felled, taking the part-scarfed trees down with them. (See [Taranaki drive](t-ten.md#taranaki-drive))
 
 >  <b>HINDMARSH</b> A 'bush drive' was contrived by cutting the trees up the slopes only partially through, then the ones at the top on the ridges were felled completely and these would carry those below down the whole hillside in a spectacular fashion. <i>(1997,Come Be a Pioneer,162</i>)
 
@@ -7995,7 +7995,7 @@
 
 ### bush face
  
- <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](../B#bush-country),[bush range(s)](../B#bush-range(s)))
+ <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](bri-byo.md#bush-country),[bush range(s)](bri-byo.md#bush-range(s)))
 
 >  <b>NEWTON</b> ... high bush faces. <i>(1947,Wayleggo,110</i>)
 
@@ -8176,7 +8176,7 @@
 
 ### bush fighter
  
- <i>n.</i> an irregular during the Land Wars, skilled at fighting in the bush (See [cf. bushranger](../B#bushranger))
+ <i>n.</i> an irregular during the Land Wars, skilled at fighting in the bush (See [cf. bushranger](bri-byo.md#bushranger))
 
 >  <b>ALEXANDER</b> Active and wiry men, of sound constitutions, are best adapted for bush-fighters. <i>(1873,Bush Fighting,1</i>)
 
@@ -8301,7 +8301,7 @@
 
 ### bush flat(s)
  
- <i>n.</i> a bushed or forested flat or flats (See [cf. bush country](../B#bush-country))
+ <i>n.</i> a bushed or forested flat or flats (See [cf. bush country](bri-byo.md#bush-country))
 
 >  Another very considerable stream running through fine bush flats. <i>(1847,NZ Journal,7/190/90</i>)
 
@@ -8353,7 +8353,7 @@
 
 ### bush flower
  
- <i>n.</i> generic term for any flowers growing in the bush, apparently occas. used by (?literary minded) botanists (See [cf. bush bee](../B#bush-bee),[bush bird](../B#bush-bird))
+ <i>n.</i> generic term for any flowers growing in the bush, apparently occas. used by (?literary minded) botanists (See [cf. bush bee](bri-byo.md#bush-bee),[bush bird](bri-byo.md#bush-bird))
 
 >  The Parroquet may be frequently observed in confinement, and the Tui ... has to exchange for the dewy nectar of bush flowers, a monotonous diet of soaked bread ... <i>(1870,TrNZI,2/44</i>) [NOTES: (Potts Birds)]
 
@@ -8438,7 +8438,7 @@
 
 ### bush girl
  
- <i>n.</i> (See [bush boy](../B#bush-boy))
+ <i>n.</i> (See [bush boy](bri-byo.md#bush-boy))
 
 >  <b>COCKAYNE</b> Very frequently, as bush boys and girls well know, their [Muehlenbeckia] rope-like stems hang swaying from the forest roof .... <i>(1910,NZ Plants</i>)
 
@@ -8499,7 +8499,7 @@
 
 ### bush hand
  
- <i>n.</i> (spec. combin.: early usage.) bushman; one experienced in bushcraft, or in rural or backblocks life (See [cf. hand](../H#hand),[old hand](../O#old-hand))
+ <i>n.</i> (spec. combin.: early usage.) bushman; one experienced in bushcraft, or in rural or backblocks life (See [cf. hand](h-hea.md#hand),[old hand](o-on.md#old-hand))
 
 >  <b>but</b> [?station hand] How many hands shall you want? We will say a couple of good bush hands, who will put up your hut and yards and wool-shed. <i>(1863,First Year in Canterbury Settlement,10/147</i>)
 
@@ -8676,7 +8676,7 @@
 
 ### bush hut
  
- <i>n.</i> a hut erected in the bush from materials taken from the bush (See [cf. bush house](../B#bush-house))
+ <i>n.</i> a hut erected in the bush from materials taken from the bush (See [cf. bush house](bri-byo.md#bush-house))
 
 >  <b>McLEAN</b> We slept at the Heu Heu posts, where Pohe erected a good bush-hut. <i>(1850,Journal,3/72</i>)
 
@@ -9074,7 +9074,7 @@
 
 ### bush limit
  
- <i>n.</i> = bushline (See [cf. bush level](../B#bush-level))
+ <i>n.</i> = bushline (See [cf. bush level](bri-byo.md#bush-level))
 
 >  <b>HARPER</b> The robin (<i>Miro albifrons</i>) is a constant companion in some localities, as far as the bush limit; ... <i>(1896,Pioneer Work in the Alps of NZ,39</i>)
 
@@ -9084,7 +9084,7 @@
 
 ### bush living
  
- <i>n.</i> (See [bush life](../B#bush-life))
+ <i>n.</i> (See [bush life](bri-byo.md#bush-life))
 
 >  <b>NESFIELD</b> It is all very fine to read about bush-living, or listen to men talking of the `dampers' that they have made ... <i>(1881,Chequered Career,40</i>)
 
@@ -9118,7 +9118,7 @@
 
 ### bush manager
  
- <i>n.</i> one who manages the `bush' side of a sawmill's operations (See [cf. bush-boss](../B#bush-boss))
+ <i>n.</i> one who manages the `bush' side of a sawmill's operations (See [cf. bush-boss](bri-byo.md#bush-boss))
 
 >  <b>REED</b> Ted Thompson, who was bush manager for the K[auri] T[imber] C[ompany] at No Gum Camp, supervised this work, and attended to the cleaning up of all the old logs in the various driving creeks. <i>(1953,Story of the Kauri, The,263</i>)
 
@@ -9242,7 +9242,7 @@
 
 ### bush oat-grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### bush orchestra
  
@@ -9274,7 +9274,7 @@
 
 ### bush painkiller
  
- <i>n.</i> (See [horopito](../H#horopito))
+ <i>n.</i> (See [horopito](hom-hyp.md#horopito))
 
 >  Two plants that furnish "bush painkiller," the pepper tree and the pepper-wood, or horopito, both with leaves that have a hot taste, have been investigated. <i>(Jan 29, 1924,Otago Witness,6</i>)
 
@@ -9368,12 +9368,12 @@
 
 
  
- <i>n.</i> a Captain Cooker : (bush-, as well as having a locative sense, strongly implies both wild (`not domestic') and fierce: (See [bush dog](../B#bush-dog),[bush-bee](../B#bush-bee))
+ <i>n.</i> a Captain Cooker : (bush-, as well as having a locative sense, strongly implies both wild (`not domestic') and fierce: (See [bush dog](bri-byo.md#bush-dog),[bush-bee](bri-byo.md#bush-bee))
 
 
 
  
-<b>1</b> <i>n.</i> (Rural) a wild pig. (See [tusker](../T#tusker),[Captain Cooker](../C#captain-cooker),[Irish merino](../I#irish-merino),[scoofler](../S#scoofler))
+<b>1</b> <i>n.</i> (Rural) a wild pig. (See [tusker](tot-tyr.md#tusker),[Captain Cooker](c-chi.md#captain-cooker),[Irish merino](../I#irish-merino),[scoofler](../S#scoofler))
 
 >  The latest addition to our urban population is a two-months-old bush pig, who, having made friends with Mr H. Walsh somewhere in the Toko regions, was brought by him into town. <i>(Oct 6, 1890,Taranaki Herald,2</i>)
 
@@ -9411,7 +9411,7 @@
 
 ### bush pigeon
  
- <i>n.</i> (Environment) (See [kereru](../K#kereru))
+ <i>n.</i> (Environment) (See [kereru](kee-kiw.md#kereru))
 
 >  I allude to the pitiable sight of well-to-do settlers, and settlers' sons, hurrying to the steamer with back-loads and horse-loads of bush pigeons for sale. <i>(Jul 10, 1875,Daily Southern Cross,5</i>)
 
@@ -9545,7 +9545,7 @@
 
 ### bush range(s)
  
- <i>n.</i> range(s) covered with bush (See [cf. bush country](../B#bush-country),[bush face](../B#bush-face))
+ <i>n.</i> range(s) covered with bush (See [cf. bush country](bri-byo.md#bush-country),[bush face](bri-byo.md#bush-face))
 
 >  <b>GUDGEON</b> The men did little but scout and forage ... allowing the Hauhaus to e a strong pah in the bush-ranges. <i>(1879,Reminiscences of the War in NZ,70</i>)
 
@@ -9771,7 +9771,7 @@
 
 ### bush scone
  
- <i>n.</i> a scone baked in the bush over the embers (See [cf. damper](../D#damper))
+ <i>n.</i> a scone baked in the bush over the embers (See [cf. damper](d-dif.md#damper))
 
 >  <b>WILSON</b> That evening we baked bush scones on sticks to the delight of our friends. <i>(1950,My First 80 Years,141</i>)
 
@@ -9783,7 +9783,7 @@
 
 ### bush section
  
- <i>n.</i> (historical) a parcel of forested land (See [cf. section](../S#section))
+ <i>n.</i> (historical) a parcel of forested land (See [cf. section](sa-sho.md#section))
 
 >  One great blessing in a bush section is the abundance of firewood. <i>(Apr 20, 1851,Richmond-Atkinson Papers,1/95,1960 ed.</i>) [NOTES: (H.R. Richmond)]
 
@@ -9860,7 +9860,7 @@
 
 ### bush shanty
  
- <i>n.</i> a place where bushmen 1 or bush hands live together [cf. bush hut note that 1857 Hammond Wild N. Scenes is a North American citation (OEDS BUSH 10c] (See [cf. bush hut](../B#bush-hut))
+ <i>n.</i> a place where bushmen 1 or bush hands live together [cf. bush hut note that 1857 Hammond Wild N. Scenes is a North American citation (OEDS BUSH 10c] (See [cf. bush hut](bri-byo.md#bush-hut))
 
 >  <b>GIBSON</b> Most bush shanties possess such a butt <i>(1924,That Gibbie Galoot,66</i>)
 
@@ -9973,7 +9973,7 @@
 
 ### bush singlet
  
-<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](../B#bushman's-singlet))
+<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](bri-byo.md#bushman's-singlet))
 
 >  Singlets. New, navy blue, all-wool athletic-type singlets for outdoor winter workers. <i>(Jul 28, 1965,Weekly News,19</i>)
 
@@ -10079,7 +10079,7 @@
 
 ### bush station
  
- <i>n.</i> a (missionary) station in the bush (See [cf. bush-missionary](../B#bush-missionary))
+ <i>n.</i> a (missionary) station in the bush (See [cf. bush-missionary](bri-byo.md#bush-missionary))
 
 >  <b>YOUNG</b> Mr Whiteley, who occupies a "bush" station ... <i>(1858,Southern World,14</i>)
 
@@ -10116,7 +10116,7 @@
 
 ### bush stretcher
  
- <i>n.</i> a rough or makeshift bedstead (stretcher) consisting of a rectangular frame covered with planks, lathes, branches or wire-netting, the whole supported by four (often folding) legs (See [cf. stretcher](../S#stretcher),[camp bed](../C#camp-bed))
+ <i>n.</i> a rough or makeshift bedstead (stretcher) consisting of a rectangular frame covered with planks, lathes, branches or wire-netting, the whole supported by four (often folding) legs (See [cf. stretcher](../S#stretcher),[camp bed](c-chi.md#camp-bed))
 
 >  <b>ANTHONY</b> I didn't have a bed, so I knocked up a bush stretcher, with some rails, and nailed sacks across. <i>Ibid.</i> 87 He knocked up a bush stretcher to sleep in. <i>(1924,Follow the Call,5,1975 ed.</i>)
 
@@ -10193,7 +10193,7 @@
 
 ### bush telegraphy
  
- <i>n.</i> (See [bush telegraph](../B#bush-telegraph))
+ <i>n.</i> (See [bush telegraph](bri-byo.md#bush-telegraph))
 
 >  <b>SEDDON</b> Bush telegraphy is a mystic phenomenon and I pondered and wondered how the news of the visit to this distant village could have reached these hospitable people when only late the night before was the visit suggested. <i>(1968,Seddons, The,119</i>)
 
@@ -10221,7 +10221,7 @@
 
 ### bush track
  
- <i>n.</i> a track through or in the bush (modern implication often a scenic track) (See [cf. bush path](../B#bush-path),[bush road](../B#bush-road),[Maori track](../M#maori-track))
+ <i>n.</i> a track through or in the bush (modern implication often a scenic track) (See [cf. bush path](bri-byo.md#bush-path),[bush road](bri-byo.md#bush-road),[Maori track](m-mar.md#maori-track))
 
 >  Another forde, another bush track. <i>(May 13, 1865,Chudleigh Diary,184,1950 ed.</i>)
 
@@ -10415,7 +10415,7 @@
 
 ### bush warfare
  
- <i>n.</i> guerilla Maori warfare in the bush (See [bush fighter](../B#bush-fighter),[bush fighting](../B#bush-fighting),[bushranger](../B#bushranger))
+ <i>n.</i> guerilla Maori warfare in the bush (See [bush fighter](bri-byo.md#bush-fighter),[bush fighting](bri-byo.md#bush-fighting),[bushranger](bri-byo.md#bushranger))
 
 >  [The natives'] present mode of <i>bush</i> or guerilla warfare <i>(1843,NZ Journal,104/327</i>)
 
@@ -10661,7 +10661,7 @@
 
 ### bush-bled
  
- <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](../G#gum-bleeding),[tap n](../T#tap-n))
+ <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](gra-gyp.md#gum-bleeding),[tap n](../T#tap-n))
 
 >  <b>REED</b> This harvest of the living [kauri] tree is called `bush-bled gum'. <i>(1948,Gumdigger, The,78</i>)
 
@@ -10734,7 +10734,7 @@
 
 ### bush-burning
  
- <i>n.</i> the process of bringing land into cultivation by clearing bush or logs by fire (See [cf. bush-firing](../B#bush-firing))
+ <i>n.</i> the process of bringing land into cultivation by clearing bush or logs by fire (See [cf. bush-firing](bri-byo.md#bush-firing))
 
 >  <b>BELL</b> The season promised to be a good one for bush-burning; and those who had bush-felled were congratulating themselves on the prospect of getting excellent `burns,' while many, who, ... had been unfortunate in getting bad `burns,' were now hopeful of clearing off much of the timber by means of a second fire. <i>(1899,In the Shadow of the Bush,198</i>)
 
@@ -10843,13 +10843,13 @@
 
 ### bush-clothed
  
- <i>adj.</i> (See [cf. bush-clad](../B#bush-clad))
+ <i>adj.</i> (See [cf. bush-clad](bri-byo.md#bush-clad))
 
 >  <b>HAY</b> So we see as much of the place as we can, ... the bush-clothed heights upon the further shore. <i>(1882,Brighter Britain,2/280</i>)
 
 ### bush-covered
  
- <i>adj.</i> (See [cf. bush-clad](../B#bush-clad),[bushy](../B#bushy))
+ <i>adj.</i> (See [cf. bush-clad](bri-byo.md#bush-clad),[bushy](bri-byo.md#bushy))
 
 >  <b>POWER</b> On two sides it was nearly perpendicular bush-covered mountain; and in front was the rising ... crest of the hill, densely covered with forest, ... <i>(1849,Sketches in NZ,19, 24</i>)
 
@@ -10950,7 +10950,7 @@
 
 ### bush-fashion
  
- <i>adj.</i> roughly (as in the bush (See [cf. bush-style](../B#bush-style))
+ <i>adj.</i> roughly (as in the bush (See [cf. bush-style](bri-byo.md#bush-style))
 
 >  <b>HODGSKIN</b> The ducks were roasted, bush fashion; . <i>(1841,Narrative of Eight Months Sojourn in NZ, A,30</i>)
 
@@ -10964,7 +10964,7 @@
 
 ### bush-fed
  
- <i>adj.</i> of cattle, allowed to feed on leaves and other green-feed from the bush A1 (See [cf. bush-feed](../B#bush-feed))
+ <i>adj.</i> of cattle, allowed to feed on leaves and other green-feed from the bush A1 (See [cf. bush-feed](bri-byo.md#bush-feed))
 
 >  <b>HAY</b> But the beef is of first-rate quality; and as bush-fed beasts are in good condition at the end of the dry season, when pasture-raised cattle are poor, we do as well by them as could be desired. <i>(1882,Brighter Britain,1/207</i>)
 
@@ -11064,7 +11064,7 @@
 
 ### bush-shooting
  
- <i>n.</i> shooting in the bush A1 (as distinct from in the open) (See [cf. bush-stalking](../B#bush-stalking))
+ <i>n.</i> shooting in the bush A1 (as distinct from in the open) (See [cf. bush-stalking](bri-byo.md#bush-stalking))
 
 >  <b>THOMSON</b> Some say the open sight is better for snap or bush shooting and the aperture more suitable for long range shooting ...<i>Ibid.</i> 44 In bush shooting our range would vary from a few yards up to seventy or eighty depending on the thickness of the undergrowth ...<i>Ibid.</i> 47 Some days you may shoot several deer while bush-shooting, and at other times you may stalk for a full day and get none... When bush-shooting, you are usually sure of the locality of the deer, as the hill slopes give you an idea of his approximate location. Some days you may shoot several deer while bush-shooting, and at other times you may stalk for a full day and get none, ... <i>Ibid.</i> 119 When bush-shooting, one has [sic] to make sure of each shot, as the deer would be gone after the first shot was fired. <i>(1952,Deer Stalker,26</i>)
 
@@ -11179,7 +11179,7 @@
 
 ### bush-travelling
  
- <i>n.</i> travelling in or through the bush (See [cf. bush-hiking](../B#bush-hiking),[-walking](../-#-walking))
+ <i>n.</i> travelling in or through the bush (See [cf. bush-hiking](bri-byo.md#bush-hiking),[-walking](../-#-walking))
 
 >  <b>HURSTHOUSE</b> Visitors and colonists `bush travelling' in New Zealand, generally provide themselves with a native attendant, as guide ... New Zealand `bush travelling' ... beats a Highland tour by a hundred per cent., ... <i>(1857,New Zealand (various authors/titles),1/252</i>)
 
@@ -11229,7 +11229,7 @@
 
 ### bush-walking
  
- <i>n.</i> walking in or through the bush (See [cf. bush-hiking](../B#bush-hiking),[-travelling](../-#-travelling))
+ <i>n.</i> walking in or through the bush (See [cf. bush-hiking](bri-byo.md#bush-hiking),[-travelling](../-#-travelling))
 
 >  We came soon by a little bush-walking ... to Okewi. <i>(1840,NZ Journal,1/18/232</i>) [NOTES: (W.D.B. Mantell)]
 
@@ -11589,7 +11589,7 @@
 
 ### bushie
  
- <i>n.</i> (informal) a bushman or forestry worker; a country person (See [bushman](../B#bushman))
+ <i>n.</i> (informal) a bushman or forestry worker; a country person (See [bushman](bri-byo.md#bushman))
 
 >  Some bushies at the back [of the Taihape theatre] objected. <i>(Aug 25, 1906,NZ Truth,62/1/4</i>)
 
@@ -11620,7 +11620,7 @@
 
 ### bushing
  
- <i>n.</i> living (or surviving) in the bush (See [cf. bush it](../B#bush-it))
+ <i>n.</i> living (or surviving) in the bush (See [cf. bush it](bri-byo.md#bush-it))
 
 >  <b>BRUNNER</b> There being no material for erecting a shelter, we had to hoist our blankets for a shed, but found a year's bushing had made a sad alteration in their waterproof qualities. <i>(Apr 12, 1848,Journal of an Expedition</i>) [NOTES: 1848 Apr 12 Brunner Exped. Middle Isd in 1959 Taylor Early Travellers 313]
 
@@ -11852,7 +11852,7 @@
 
 ### bushman's singlet
  
- <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'. ca1900 at least, the Havelock store for a long time sold `bushmen's singlets'.] (See [bush singlet](../B#bush-singlet))
+ <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'. ca1900 at least, the Havelock store for a long time sold `bushmen's singlets'.] (See [bush singlet](bri-byo.md#bush-singlet))
 
 >  <b>HENDERSON</b> We wear saddletweed trousers and the sleeveless woollen dark navy-coloured "bushmen's singlet". <i>(1974,Open Country Muster,187</i>)
 
@@ -12134,11 +12134,11 @@
 
 ### bushwack
  
- <i>n.</i> (See [bushwhack](../B#bushwhack))
+ <i>n.</i> (See [bushwhack](bri-byo.md#bushwhack))
 
 ### bushwacker
  
- <i>n.</i> (See [bushwhacker](../B#bushwhacker))
+ <i>n.</i> (See [bushwhacker](bri-byo.md#bushwhacker))
 
 ### bushwards
  
@@ -12155,7 +12155,7 @@
 
 
  
-<b>2</b> <i>v.</i> to cut or make one's way through rough bush [cf. bush-bashing ca1940 This letter has got me bushwhacked; I can't make head nor tail of it.] (See [cf. bush-bashing](../B#bush-bashing))
+<b>2</b> <i>v.</i> to cut or make one's way through rough bush [cf. bush-bashing ca1940 This letter has got me bushwhacked; I can't make head nor tail of it.] (See [cf. bush-bashing](bri-byo.md#bush-bashing))
 
 >  Since 1948 six expeditions have bushwhacked into the 685-square mile zone [in Fiordland]. <i>(Mar 1952,National Geographic Magazine,397</i>) [NOTES: Smith "Finding an Extinct' New Zealand Bird"]
 
@@ -12558,7 +12558,7 @@
 
 
  
- <i>n.</i> short form of southerly buster q.v. (See [southerly buster](../S#southerly-buster))
+ <i>n.</i> short form of southerly buster q.v. (See [southerly buster](sho-spa.md#southerly-buster))
 
 >  <b>AYTON</b> SW buster all night until ... today with hail and Snow Squalls. <i>(Nov 4, 1899,Diary,12,1982 ed.</i>)
 
@@ -12741,7 +12741,7 @@
 
 ### butt-ender
  
- <i>n.</i> (See [burster](../B#burster))
+ <i>n.</i> (See [burster](bri-byo.md#burster))
 
 >  <b>SHAW</b> In the Straits [we ran into] an opposite burster. Some of these winds come on gradually until they reach their greatest force ... others burst upon the crew with all their fury and then gradually decline. This latter has received the name `butt-ender' from its resemblance to that part of a gun which is the heaviest, strongest and broadest. <i>(1858,Gallop to the Antipodes, A,184</i>)
 
@@ -12841,7 +12841,7 @@
 
 ### buttercup
  
- <i>n.</i> a small, usually green, squash pumpkin (See [squash](../S#squash))
+ <i>n.</i> a small, usually green, squash pumpkin (See [squash](spa-sys.md#squash))
 
 
 
@@ -13037,7 +13037,7 @@
 
 
  
-<b>2</b> <i>n.</i> A large white buttercup, the largest known, found in the mountain regions of the South Island; Ranunculus insignis. (See [Mount Cook lily](../M#mount-cook-lily))
+<b>2</b> <i>n.</i> A large white buttercup, the largest known, found in the mountain regions of the South Island; Ranunculus insignis. (See [Mount Cook lily](mob-mys.md#mount-cook-lily))
 
 >  <i>(1909,AJHR,C-11</i>) [NOTES: (And)Turner Botanical Examination Higher Waimarino in AJHR]
 
@@ -13623,7 +13623,7 @@
 
 ### butterfly perch
  
- <i>n.</i> Also known as red perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka red perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](../B#butterfly-perch))
+ <i>n.</i> Also known as red perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka red perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](bri-byo.md#butterfly-perch))
 
 >  Butterfly Perch Image by Vince Kerr .. Motukaroro - Whangarei Harbour Marine Reserve. Butterfly Perch (<i>Caesioperca lepidoptera</i>) feed on plankton - mainly small crustaceans and salps in the current. The rich reef and strong current at Motukaroro provides them with ideal habitat. <i>(Jul 17, 2007,Internet - see Notes</i>) [NOTES: http://www.marinenz.org.nz/index.php/resources/image_detail/butterfly_perch4/]
 
@@ -13917,7 +13917,7 @@
 
 ### by korry/py korry
  
- <i>exclam.</i> (informal) a stage-Maori representation of 'by golly' [various spellings b/p k/c/g, rry/rri (etc.); also my korry - see below] (See [by gorry/py gorry](../B#by-gorry/py-gorry))
+ <i>exclam.</i> (informal) a stage-Maori representation of 'by golly' [various spellings b/p k/c/g, rry/rri (etc.); also my korry - see below] (See [by gorry/py gorry](bri-byo.md#by-gorry/py-gorry))
 
 >  <b>FUSSELL</b> My korry te Poneke people werry glad to see Henare Tikitanu in to noo uniform. Ibid. My korry when the ship lie down and get up again all the kai no stop inside. <i>(1917,Letter from Private Henare Tikitanu,5</i>)
 

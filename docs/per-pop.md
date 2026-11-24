@@ -8,7 +8,7 @@
 
 ### Performance-Based Research Fund
  
- <i>n.</i> (See [PBRF](../P#pbrf))
+ <i>n.</i> (See [PBRF](p-per.md#pbrf))
 
 >  ..he is also something of a poster child for the Performance-Based Research Fund, which was unveiled a year ago this month. <i>(Jun 11, 2005,Listener (New Zealand Listener),16</i>)
 
@@ -212,7 +212,7 @@
 
 ### perler
  
- <i>n.</i> (See [purler](../P#purler))
+ <i>n.</i> (See [purler](pop-pyo.md#purler))
 
 ### perlon
  
@@ -236,7 +236,7 @@
 
 ### perna
  
- <i>n.</i> the cultivated greenshell mussel (See [green-lipped mussel](../G#green-lipped-mussel))
+ <i>n.</i> the cultivated greenshell mussel (See [green-lipped mussel](gra-gyp.md#green-lipped-mussel))
 
 >  The green mussel or perna, as it is often called, is widely not known outside New Zealand so a further role of the new council will be to carry out market research and promotion outside New Zealand,. . . <i>(Dec 11, 1981,Dominion,4/1</i>)
 
@@ -261,7 +261,7 @@
 
 ### peropero
  
- <i>n.</i> a Maori dog [See also kuri, Maori dog] (See [peruperu](../P#peruperu))
+ <i>n.</i> a Maori dog [See also kuri, Maori dog] (See [peruperu](per-pop.md#peruperu))
 
 >  The Kuri or Maori dog was very much likeour own Pomeranian... It was also knownto the Maori as peropero. <i>(Apr 29, 1950,Southern Cross (Wgton),8</i>)
 
@@ -283,7 +283,7 @@
 
 ### perriri
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### persicaria
  
@@ -350,7 +350,7 @@
 
 ### Peruvian melon
  
- <i>n.</i> (See [pepino](../P#pepino))
+ <i>n.</i> (See [pepino](p-per.md#pepino))
 
 >  The Peruvian melon (Solanum muricatum) and several varieties of Japanese persimmon are being tested by the Plant Diseases Division. <i>(1942,AJHR,H-34/17</i>)
 
@@ -388,7 +388,7 @@
 
 ### pet
  
-<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into the freezing works pens. (See [decoy; Judas sheep](../D#decoy;-judas-sheep),[yard sheep](../Y#yard-sheep))
+<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into the freezing works pens. (See [decoy; Judas sheep](../D#decoy;-judas-sheep),[yard sheep](y-yc.md#yard-sheep))
 
 >  <b>LOUGHNAN</b> pets: see under Judas, which name is obvious from their grisly task of leading other sheep to a fate from which they themselves escape. But age will catch them up. <i>(1981,Loughnan Glossary,60</i>)
 
@@ -737,7 +737,7 @@
 
 ### phormium
  
- <i>n.</i> . [from scientific name Phormium tenax] -New Zealand flax (See [flax](../F#flax))
+ <i>n.</i> . [from scientific name Phormium tenax] -New Zealand flax (See [flax](fin-fly.md#flax))
 
 >  Variations of phormium will be fully investigated, also the action of different soils upon fibre production and the like. <i>(May 13, 1908,Otago Witness,10</i>)
 
@@ -855,11 +855,11 @@
 
 ### Piacky
  
- <i>n.</i> (See [Homaiacky](../H#homaiacky))
+ <i>n.</i> (See [Homaiacky](hea-hom.md#homaiacky))
 
 ### piano
  
- <i>n.</i> (See [play the piano](../P#play-the-piano))
+ <i>n.</i> (See [play the piano](per-pop.md#play-the-piano))
 
 ### picaninny
  
@@ -1014,7 +1014,7 @@
 
 ### pick up
  
- <i>v.</i> sc. fleeces (See [cf. picker-up](../P#picker-up))
+ <i>v.</i> sc. fleeces (See [cf. picker-up](per-pop.md#picker-up))
 
 >  <b>WALKER</b> My job at first was picking up fleeces <i>(Nov 10, 1862,Journal</i>)
 
@@ -1102,11 +1102,11 @@
 
 ### pickaninny
  
- <i>n.</i> (See [picaninny](../P#picaninny))
+ <i>n.</i> (See [picaninny](per-pop.md#picaninny))
 
 ### pickapo
  
- <i>n.</i> (See [pikopo](../P#pikopo))
+ <i>n.</i> (See [pikopo](per-pop.md#pikopo))
 
 ### picker
  
@@ -1450,7 +1450,7 @@
 
 ### pico
  
- <i>n.</i> (See [pikau](../P#pikau))
+ <i>n.</i> (See [pikau](per-pop.md#pikau))
 
 >  One of the natives left us at Woon's .. so we had to put the pico on the mule and trudge along. <i>(1834,McLean Papers,5/265</i>) [NOTES: (Camphell, Wanganui)]
 
@@ -1518,7 +1518,7 @@
 
 ### picture house
  
- <i>n.</i> cinema, picture theatre (See [cf. picture hall](../P#picture-hall))
+ <i>n.</i> cinema, picture theatre (See [cf. picture hall](per-pop.md#picture-hall))
 
 >  <b>HYDE</b> I hate the rotten old piano. I don't want to play in a picture-house, the stink's enough to give anyone a headache. <i>(1938,Nor the Years Condemn,83</i>)
 
@@ -1617,7 +1617,7 @@
 
 
  
- <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
+ <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](per-pop.md#pie-picker))
 
 >  <b>CARR</b> ... there is only one job that the most fastidious could refuse, and that is `picking pie'. Tuis [?=This] consist [sic] in pulling the wool off the trimmings that have been taken off by the `wool pullers' at the beam. These trimmings are ... allowed to rot until the wool comes away easily. [Pie pickers] live and eat by themselves. <i>(1913,Country Work,19</i>)
 
@@ -1645,7 +1645,7 @@
 
 ### pie on
  
- <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](../K#kapai))
+ <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](k-kea.md#kapai))
 
 >  <b>PARTRIDGE</b> very good: New Zealanders: 20c. <i>(1949,Dictionary of Slang</i>)
 
@@ -2111,7 +2111,7 @@
 
 ### pig bucket
  
- <i>n.</i> formerly, receptacle for kitchen waste to be fed to pigs; a (domestic) slop-tin for organic or food wastes, originally to be fed to pigs. [aka pig-bucket, pigs' bucket, pig's bucket] (See [pig tub](../P#pig-tub),[pig barrel](../P#pig-barrel))
+ <i>n.</i> formerly, receptacle for kitchen waste to be fed to pigs; a (domestic) slop-tin for organic or food wastes, originally to be fed to pigs. [aka pig-bucket, pigs' bucket, pig's bucket] (See [pig tub](per-pop.md#pig-tub),[pig barrel](per-pop.md#pig-barrel))
 
 >  <i>Thursday Morning, Sep. 4.</i> .. again we have biscuits .. [the shipboard authorities] have opened a new bag and in consequence [we] have not the disagreeable fusty taste the old dusty scraps (which are now swimming in the pigs' bucket) used to have. <i>(1851,Biscuit and Butter,58,1973 ed.</i>) [NOTES: 1851 Biscuit and Butter (Kennaway Journal) (1973) 58]
 
@@ -2472,7 +2472,7 @@
 
 ### pig tub
  
- <i>n.</i> a domestic slop-bucket [aka pig-tub] (See [pig bucket](../P#pig-bucket),[pig barrel](../P#pig-barrel))
+ <i>n.</i> a domestic slop-bucket [aka pig-tub] (See [pig bucket](per-pop.md#pig-bucket),[pig barrel](per-pop.md#pig-barrel))
 
 >  The most offensive slops were thrown on the garden, and other kinds put in the pig tub. <i>(Sep 3, 1883,Star, The,3</i>)
 
@@ -2860,11 +2860,11 @@
 
 ### pig-tub
  
- <i>n.</i> (See [pig-barrel](../P#pig-barrel))
+ <i>n.</i> (See [pig-barrel](per-pop.md#pig-barrel))
 
 ### pig-tucker
  
- <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](../D#dog-tucker))
+ <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](dig-dou.md#dog-tucker))
 
 >  [Helen bought eighty-five of that fruit for two shillings. No doubt peaches here will be pigs' meat in a year or two]. <i>(1848,McLean Papers,5/176</i>) [NOTES: P.S. Wilson, N.Plym.]
 
@@ -3259,7 +3259,7 @@
 
 ### pigtail standard
  
- <i>n.</i> [-] (See [pigtail](../P#pigtail))
+ <i>n.</i> [-] (See [pigtail](per-pop.md#pigtail))
 
 >  <b>Farm sundries</b> Usual large range of farm sundries including shovels, spades, forks, crowbars, draining spades .. pigtail standards, 5ftx5ft mesh & steel trailer crate ... <i>(Apr 9, 2005,Hawke's Bay Today,6,Weekend Market ed.</i>)
 
@@ -3726,7 +3726,7 @@
 
 ### pikaw
  
- <i>n.</i> (See [pikau](../P#pikau))
+ <i>n.</i> (See [pikau](per-pop.md#pikau))
 
 >  .. but all ideas of carrying anything ourselves, were dispelled by the Maoris, who speedily made up all our packages together with some of their own, into three pikaws or bundles of about 35lb each which they tied up & slung over their shoulders with strips of native flax leaf which serves for such purposes without any preparation. <i>(1851,Richmond-Atkinson Papers,1/82,1960 ed.</i>)
 
@@ -3932,7 +3932,7 @@
 
 ### piki-piki
  
- <i>n.</i> (See [pikopiko](../P#pikopiko))
+ <i>n.</i> (See [pikopiko](per-pop.md#pikopiko))
 
 >  The kiwi is passable when one is hungry, though personally I do not like him, but being more nutritious than savoury, it is not to be despised, and is almost nice when boiled with piki-piki fern and rice. <i>(1992,Quotable New Zealanders,not numbered</i>)
 
@@ -3986,11 +3986,11 @@
 
 ### pikipo
  
- <i>n.</i> (See [pikopo](../P#pikopo))
+ <i>n.</i> (See [pikopo](per-pop.md#pikopo))
 
 ### pikirangi
  
- <i>n.</i> red mistletoe (See [red mistletoe](../R#red-mistletoe))
+ <i>n.</i> red mistletoe (See [red mistletoe](ra-red.md#red-mistletoe))
 
 >  Two small red mistletoe plants, pikirangi (Peraxilla tetrapetala) have established on black beech and.. look set to continue thriving.... <i>(Oct 9, 2004,Dominion Post,E15</i>)
 
@@ -4201,7 +4201,7 @@
 
 ### pile
  
- <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](../H#house-block))
+ <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](hom-hyp.md#house-block))
 
 >  .. I was there when a piece of wood, about two foot long, such as they use for foundation piles or blocks [sic]; I said to the girl, where did you get the piece of wood from; she made no reply; I said to the girl, where did you get the piece of wood from; she made no reply; I said that piece of wood belongs to Mr. R. Davies, and it cost the man 6d. or 1s., and it is a shame that it should be burnt when he wants it for his building ... <i>(Aug 10, 1842,New Zealand Gazette & Wellington Spectator,3</i>)
 
@@ -4255,7 +4255,7 @@
 
 ### pile claim
  
- <i>n.</i> (See [cf. pile](../P#pile))
+ <i>n.</i> (See [cf. pile](per-pop.md#pile))
 
 >  I repeat again Waipori has no "pile claims," and the miner, who is searching after that New Zealand "phantom," a defined lead, would be surely disappointed here. <i>(Jun 28, 1862,Otago Witness,5</i>)
 
@@ -4533,7 +4533,7 @@
 
 ### pilot horse
  
- <i>n.</i> (See [cf. flood horse](../F#flood-horse))
+ <i>n.</i> (See [cf. flood horse](fin-fly.md#flood-horse))
 
 >  <b>D'AVIGDOR</b> When the rivers are at all high the `pilot' horse is indispensable - a clever, steady animal who spends his live in crossing and recrossing the river. It is interesting to watch the `fordman' trying for a possible crossing on his horse .... and the horse's readiness to `turn' a boulder too big to step over. <i>(1888,Antipodean Notes,188</i>)
 
@@ -4672,7 +4672,7 @@
 
 ### pimp on
  
- <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](../P#pip))
+ <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](per-pop.md#pip))
 
 ### pimpernel
  
@@ -4747,7 +4747,7 @@
 
 
  
- <i>v.</i> (of a tree being sawn down) to close tightly on (the saw) (See [snapperback](../S#snapperback))
+ <i>v.</i> (of a tree being sawn down) to close tightly on (the saw) (See [snapperback](sho-spa.md#snapperback))
 
 
 
@@ -4801,7 +4801,7 @@
 
 ### pinch time
  
-<b>1</b> <i>n.</i> (Rural) a season or part of a season when pasture feed is short. (See [feed pinch](../F#feed-pinch))
+<b>1</b> <i>n.</i> (Rural) a season or part of a season when pasture feed is short. (See [feed pinch](f69-fin.md#feed-pinch))
 
 >  It's the pinch time for most farmers now so it means I can run eight extra sheep on every acre that's not idle. <i>(Oct 10, 1974,NZ Farmer,59</i>)
 
@@ -4849,7 +4849,7 @@
 
 ### pine
  
- <i>n.</i> indigenous pine unspecified [kauri pine, screwpine, etc. In general Maori-derived names have been replacing the -pine names, at a slower rate for the South Island, and probably slower for the names of the timbers as distinct from the trees.] (See [kauri pine](../K#kauri-pine),[screwpine](../S#screwpine),[etc](../E#etc))
+ <i>n.</i> indigenous pine unspecified [kauri pine, screwpine, etc. In general Maori-derived names have been replacing the -pine names, at a slower rate for the South Island, and probably slower for the names of the timbers as distinct from the trees.] (See [kauri pine](k-kea.md#kauri-pine),[screwpine](sa-sho.md#screwpine),[etc](../E#etc))
 
 >  <b>SHEPHERD</b> [?a podocarp] Some of the timber trees are of large growth, particularly three sorts; the first is of the pine tribe and is known by the name of Pimise (Pinus??) in three varieties on the north. The second is something like the Lucombe Oack, and the third is called the Red Gum or Eucalipticus I have seen it in England. ... The three varieties of pine are very tall and handsome, and one in appearance like the Lucombe oak grows tall but not so straight, the Eucalipticy grows to a great thickeness in the stem and frequently not less than fifteen feet in girt but not more than 15 or 20 feet in height before it spreads its large branches in every direction, ... <i>(1826,Journal</i>) [NOTES: 1826 Shepherd Journal in 1940 Howard Rakiura 356]
 
@@ -5038,7 +5038,7 @@
 
 ### pineapple tree
  
- <i>n.</i> <i>Dracophyllum traversii</i>; <i>Dracophyllum latifolium</i> neinei, grass tree [-] (See [neinei](../N#neinei))
+ <i>n.</i> <i>Dracophyllum traversii</i>; <i>Dracophyllum latifolium</i> neinei, grass tree [-] (See [neinei](n-new.md#neinei))
 
 >  ... giant Grass-trees, <i>nei-neis,</i> or `pine-apple trees', as they are sometimes called. <i>(Aug 1946,Bulletin of the Wgtn Botanical Soc.,14/8</i>)
 
@@ -5143,7 +5143,7 @@
 
 ### pingae
  
- <i>n.</i> (See [pingao](../P#pingao))
+ <i>n.</i> (See [pingao](per-pop.md#pingao))
 
 ### pingao
  
@@ -5498,7 +5498,7 @@
 
 ### pinky
  
- <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](../P#purple-people-eater))
+ <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](pop-pyo.md#purple-people-eater))
 
 >  Forty `pinkies' - Christchurch Hospital nursing probationers - spent yesterday afternoon showing their parents the work done at the hospital preliminary training school. <i>(Mar 6, 1959,Christchurch Star,6</i>)
 
@@ -6386,7 +6386,7 @@
 
 ### pippi
  
- <i>n.</i> (See [pipi](../P#pipi))
+ <i>n.</i> (See [pipi](per-pop.md#pipi))
 
 ### Pippin
  
@@ -6396,7 +6396,7 @@
 
 ### pippy
  
- <i>n.</i> (See [pipi](../P#pipi))
+ <i>n.</i> (See [pipi](per-pop.md#pipi))
 
 ### pirairaka
  
@@ -6805,7 +6805,7 @@
 
 ### piss-head
  
- <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](../H#hophead))
+ <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](hom-hyp.md#hophead))
 
 >  The Sevens was apparently ruined by pissheads throwing bottles. <i>(Feb 13, 2002,Capital Times,4</i>)
 
@@ -6831,7 +6831,7 @@
 
 ### piss-wee
  
- <i>n.</i> (See [peewee](../P#peewee))
+ <i>n.</i> (See [peewee](p-per.md#peewee))
 
 >  <b>SUTTON-SMITH</b> Marbles had a language of its own. There were names for the marbles, the games, and all the various aspects of the play. There were terms for marbles such as `taw' or `shooter', referring to the marbles used to fire with; `dubs', `dates', `stakes', `dukes', or `changers', referring to the marbles put down to be fired at. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies, connies, duckies, eggies, glassies, Greeks, milkies, molly-bars, mulley-bars [mullibars: large marbles], peelies, peewees, piss-wees, pretties, Scotties, Scottish alleys, smokies, stinkies, stonies, stripies, tom-bobblers, white alleys, and in more recent years ball-bearings, chippies, plastics, and woodies. <i>(1972,Folkgames of Children,174</i>)
 
@@ -7114,7 +7114,7 @@
 
 ### pitiki
  
- <i>n.</i> (See [patiki](../P#patiki))
+ <i>n.</i> (See [patiki](p-per.md#patiki))
 
 ### pitoitoi
  
@@ -7130,11 +7130,11 @@
 
 ### pitoko
  
- <i>n.</i> (See [titoki](../T#titoki))
+ <i>n.</i> (See [titoki](ten-tot.md#titoki))
 
 ### pitoku
  
- <i>n.</i> (See [titoki](../T#titoki))
+ <i>n.</i> (See [titoki](ten-tot.md#titoki))
 
 ### Pitt Island shag
  
@@ -7595,7 +7595,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep that does not graze with other animals, but is attached to a particular place, as in a hermit sheep [mainly North Is.] (See [hermit](../H#hermit))
+<b>1</b> <i>n.</i> (Rural) a sheep that does not graze with other animals, but is attached to a particular place, as in a hermit sheep [mainly North Is.] (See [hermit](hea-hom.md#hermit))
 
 >  <b>GUTHRIE-SMITH</b> Rock, log, nettle-clump, bush, or tree-stump may, as chance determines, become the foster-parent of the 'placer'... <i>(1921,Tutira,383</i>)
 
@@ -8318,7 +8318,7 @@
 
 ### plate
  
- <i>n.</i> a plate of food contributed to a party etc. (phrase: bring a plate) (See [ladies a plate](../L#ladies-a-plate))
+ <i>n.</i> a plate of food contributed to a party etc. (phrase: bring a plate) (See [ladies a plate](l-lay.md#ladies-a-plate))
 
 >  Every one knew it was Bring a Plate, Please, and it used to be quite a spread. <i>(Jul 10, 1982,Listener (New Zealand Listener),52</i>)
 
@@ -8383,7 +8383,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a grazing area of a farm or station property. (See [milking platform](../M#milking-platform),[dairy platform](../D#dairy-platform))
+<b>1</b> <i>n.</i> (Rural) a grazing area of a farm or station property. (See [milking platform](mar-moa.md#milking-platform),[dairy platform](d-dif.md#dairy-platform))
 
 >  That [purchase of more land] allowed total concentration on creating a pasture and feed platform that would allow finishing young weaned stock through to the desired target weights .. a master plan was evolving to turn the Hawke's Bay property into a 'grass and feed platform.' <i>(Jun 28, 2002,Dominion,19</i>)
 
@@ -8659,7 +8659,7 @@
 
 
  
- <i>n.</i> cheap wine, locally in NZ often, e.g. Henderson plonk, Dally plonk (See [Dally plonk](../D#dally-plonk))
+ <i>n.</i> cheap wine, locally in NZ often, e.g. Henderson plonk, Dally plonk (See [Dally plonk](d-dif.md#dally-plonk))
 
 >  He.. brings out a bottle of this Eytie plonk. <i>(Mar 22, 1943,NZEF Times,II/91 : 10</i>)
 
@@ -8865,7 +8865,7 @@
 
 ### ploughable country
  
-<b>1</b> <i>n.</i> (Rural) hill land that can be cultivated [usually known as rolling, easy or easing to hill country.] (See [tractor country](../T#tractor-country))
+<b>1</b> <i>n.</i> (Rural) hill land that can be cultivated [usually known as rolling, easy or easing to hill country.] (See [tractor country](tot-tyr.md#tractor-country))
 
 >  <b>CONNELL & HADFIELD</b> On ploughable country the control of bracken fern presents no problem. It is on unploughable country that the control is difficult. <i>(1961,Agriculture,490</i>)
 
@@ -8914,7 +8914,7 @@
 
 
  
- <i>v.</i> (Rural) to pull wool from a dead sheep before burying the carcass. (See [peel a deader](../P#peel-a-deader))
+ <i>v.</i> (Rural) to pull wool from a dead sheep before burying the carcass. (See [peel a deader](p-per.md#peel-a-deader))
 
 >  <b>BRABAZON</b> Got in 32 sheep from reserve. One dead one. Plucked him, footrotted and bluestoned 8. <i>(Jul 1, 1893,Brabazon Diaries</i>)
 
@@ -9066,7 +9066,7 @@
 
 ### plumbers' curse
  
- <i>n.</i> taupata or any(hedge-)plant the roots of which block drains etc. [ca1930 T. Benseman Wellington ca1960 Karori Wellington for taupata] (See [taupata](../T#taupata))
+ <i>n.</i> taupata or any(hedge-)plant the roots of which block drains etc. [ca1930 T. Benseman Wellington ca1960 Karori Wellington for taupata] (See [taupata](t-ten.md#taupata))
 
 ### plumcot
  
@@ -9244,7 +9244,7 @@
 
 ### Plunket nurse
  
- <i>n.</i> (See [cf. Karitane nurse](../K#karitane-nurse))
+ <i>n.</i> (See [cf. Karitane nurse](k-kea.md#karitane-nurse))
 
 >  [Photo caption] Lady Plunket presenting the Plunket medal to Mrs. Murray (Nurse M'Kinnon), the first Plunket nurse in the Dominion. <i>(Aug 18, 1909,Otago Witness,46</i>)
 
@@ -9572,7 +9572,7 @@
 
 
  
- <i>n.</i> a pig; occas. pork (See [cf. porker](../P#porker))
+ <i>n.</i> a pig; occas. pork (See [cf. porker](pop-pyo.md#porker))
 
 >  There is no doubt of the fact that the natives will be sorely pinched for food this winter, and they are even now resorting to kinds of food that would be given to the poaka in time of plenty. <i>(May 2, 1906,Hawera & Normanby Star,8</i>)
 
@@ -9647,11 +9647,11 @@
 
 ### poatekawa
  
- <i>n.</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 ### pob-pob
  
- <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](../P#pog))
+ <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](per-pop.md#pog))
 
 ### pocket
  
@@ -9895,15 +9895,15 @@
 
 ### poenamu
  
- <i>n.</i> (See [pounamu](../P#pounamu))
+ <i>n.</i> (See [pounamu](pop-pyo.md#pounamu))
 
 ### poey bird
  
- <i>n.</i> (See [poe](../P#poe))
+ <i>n.</i> (See [poe](per-pop.md#poe))
 
 ### pog
  
- <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](../P#pob-pob))
+ <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](per-pop.md#pob-pob))
 
 >  "Pog" is.. Kiwi parlance for porridge, and "scroggin" is the mix of nuts, dried fruit and bits of choccy that trampers munch on the trail. <i>(Apr 22, 2000,Listener (New Zealand Listener),48</i>)
 
@@ -10112,7 +10112,7 @@
 
 ### pohuihui
  
- <i>n.</i> (See [pohuehue](../P#pohuehue))
+ <i>n.</i> (See [pohuehue](per-pop.md#pohuehue))
 
 ### pohute
  
@@ -10641,11 +10641,11 @@
 
 ### pokakker
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### pokako
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### Pokarekare Ana
  
@@ -10672,7 +10672,7 @@
 
 
  
- <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](../P#pokeful))
+ <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](per-pop.md#pokeful))
 
 >  <b>LEE</b> `Hullo, Milly.' `Hullo.' `Have a lollie?' he had a poke of sweets. Milly had one. <i>(1934,Children of the Poor,131,1949 ed.</i>)
 
@@ -10700,11 +10700,11 @@
 
 ### poke borax
  
- <i>n.</i> (See [borak](../B#borak),[borax](../B#borax))
+ <i>n.</i> (See [borak](../B#borak),[borax](bla-bri.md#borax))
 
 ### poke out
  
-<b>1</b> <i>v.</i> (Rural) [of stock] to stray beyond a boundary or fence. (See [poking](../P#poking))
+<b>1</b> <i>v.</i> (Rural) [of stock] to stray beyond a boundary or fence. (See [poking](per-pop.md#poking))
 
 >  <b>NEWTON</b> Anyway, in the spring these sheep used to poke out onto the lower terraces adjoining the bush. <i>(1966,Boss's Story, The,154</i>)
 
@@ -10712,7 +10712,7 @@
 
 ### poke the borax
  
- <i>phr.</i> to tease or ridicule (See [borax](../B#borax))
+ <i>phr.</i> to tease or ridicule (See [borax](bla-bri.md#borax))
 
 >  <b>SLATTER</b> Poking the borax - Hungry-gutted bastards - What a bunch of scrubbers - <i>(1968,Pagan Game, The,163</i>)
 
@@ -10760,11 +10760,11 @@
 
 ### pokekha
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### pokekker
  
- <i>n.</i> (See [pukeko](../P#pukeko))
+ <i>n.</i> (See [pukeko](pop-pyo.md#pukeko))
 
 ### poker
  
@@ -10886,7 +10886,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a branch of silver poplar or willow that will take root when placed in slipped or eroded soil areas. (See [pole-planting](../P#pole-planting))
+<b>1</b> <i>n.</i> (Rural) a branch of silver poplar or willow that will take root when placed in slipped or eroded soil areas. (See [pole-planting](per-pop.md#pole-planting))
 
 >  <b>NEWTON</b> .. I gained some insight into the practice of planting "poles" for stabilisation purposes. These poles are straight lengths of willow or silver poplar up to ten feet in length and up to two inches in diameter which are simply sharpened and pushed a couple of feet or so into the ground. The planting of poles is common practice in the Gisborne districts .. along the roadsides one sees nursery blocks devoted entirely to producing these poles ... <i>(1969,Big Country of the North Island,235</i>)
 
@@ -11235,7 +11235,7 @@
 
 ### pollie/polly
  
- <i>n.</i> (informal) a politician [also poli (pl. polis) in 6.1992 citation] (See [polie](../P#polie))
+ <i>n.</i> (informal) a politician [also poli (pl. polis) in 6.1992 citation] (See [polie](per-pop.md#polie))
 
 >  There is no way the pollies can butcher the growth profile over the next year or two. <i>(Nov 28, 1999,Sunday Star Times,E2</i>)
 
@@ -11955,7 +11955,7 @@
 
 
  
- <i>n.</i> (See [ponga fence](../P#ponga-fence))
+ <i>n.</i> (See [ponga fence](per-pop.md#ponga-fence))
 
 >  <b>BAUCKE</b> ... we came to his [sc Maori's] homestead - a ponga whare with a bark roof, stained with smoke. <i>(1905,Where the White Man Treads,123</i>)
 
@@ -12193,7 +12193,7 @@
 
 ### ponja
  
- <i>n.</i> (See [ponga](../P#ponga))
+ <i>n.</i> (See [ponga](per-pop.md#ponga))
 
 ### ponk
  
@@ -12233,7 +12233,7 @@
 
 ### pony
  
- <i>n.</i> a small glass [of beer] (See [also pony beer](../A#also-pony-beer),[pony shandy](../P#pony-shandy))
+ <i>n.</i> a small glass [of beer] (See [also pony beer](../A#also-pony-beer),[pony shandy](per-pop.md#pony-shandy))
 
 >  The normal method of address is "twoponies", "two mediums", "two longs", or"two handles." <i>(Jun 27, 1951,NZ Truth,18</i>)
 
@@ -12315,7 +12315,7 @@
 
 ### poo-ree-dee
  
- <i>n.</i> (See [puriri](../P#puriri))
+ <i>n.</i> (See [puriri](pop-pyo.md#puriri))
 
 ### poodle
  
@@ -12574,7 +12574,7 @@
 
 ### poor men's diggings
  
- <i>n.</i> (See [poor man's diggings](../P#poor-man's-diggings))
+ <i>n.</i> (See [poor man's diggings](per-pop.md#poor-man's-diggings))
 
 >  To facilitate the creation of poor men's diggings, the Government might issue instructions to resident magistrates to provide <i>bona fide</i> applicants .. with miner's rights and such tools as are necessary, together with free rations for a few months, and an extended claim as a reward in case of the discovery of a poor man's gold field capable of carrying a population of 2000 men. <i>(Mar 20, 1880,North Otago Times,2</i>)
 
@@ -12596,7 +12596,7 @@
 
 ### Poor Sally
  
- <i>n.</i> a children's game (See [Poor Jenny](../P#poor-jenny))
+ <i>n.</i> a children's game (See [Poor Jenny](per-pop.md#poor-jenny))
 
 ### poor show
  

@@ -30,7 +30,7 @@
 
 ### grazing-value
  
-<b>1</b> <i>n.</i> (Rural) the extent to which land and cover supports stock. (See [feeding-value](../F#feeding-value))
+<b>1</b> <i>n.</i> (Rural) the extent to which land and cover supports stock. (See [feeding-value](f69-fin.md#feeding-value))
 
 >  It is however, only on the more fertile aspects of hill country in general that crested dogstail presents this early spring feed and adds so to the attractive appearance and grazing-value of the pasture at that period. <i>(Oct 20, 1926,NZ Journal of Agriculture,248</i>)
 
@@ -281,7 +281,7 @@
 
 ### Great Fleet
  
- <i>n.</i> (See [Fleet](../F#fleet))
+ <i>n.</i> (See [Fleet](fin-fly.md#fleet))
 
 >  <b>LAMBERT</b> The myth of the "great Fleet" has pervaded New Zealand pre-history since late last century. <i>(1983,Illustrated History of Taranaki,15</i>)
 
@@ -387,7 +387,7 @@
 
 ### great shark
  
- <i>n.</i> great white shark (See [shark](../S#shark))
+ <i>n.</i> great white shark (See [shark](sa-sho.md#shark))
 
 >  <b>MORRIS</b> Great S.- <i>Carcharias maso. </i> <i>(1898,Austral English,412</i>)
 
@@ -481,13 +481,13 @@
 
 ### great-mokopuna
  
- <i>n.</i> great grandchild/grandchildren (See [great-moko](../G#great-moko))
+ <i>n.</i> great grandchild/grandchildren (See [great-moko](gra-gyp.md#great-moko))
 
 >  Loved nana of all her many mokopuna and great-mokopuna. <i>(Nov 29, 2005,NZ Herald,C8</i>)
 
 ### greater
  
- <i>adj.</i> as a distinguishing epithet in plant names: (See [bindweed](../B#bindweed),[convolvulus](../C#convolvulus),[plantain](../P#plantain))
+ <i>adj.</i> as a distinguishing epithet in plant names: (See [bindweed](b-bla.md#bindweed),[convolvulus](con-cyp.md#convolvulus),[plantain](per-pop.md#plantain))
 
 ### grebe
  
@@ -632,7 +632,7 @@
 
 ### green
  
- <i>adj.</i> (See [drying green](../D#drying-green))
+ <i>adj.</i> (See [drying green](dou-dyn.md#drying-green))
 
 ### green almond grass
  
@@ -714,7 +714,7 @@
 
 ### green gecko
  
- <i>n.</i> (Environment) a general name applied to any member of the Naultinus genus of native gecko species each of which has also an individual, usually toponymic, name [<i>Naultinus</i> genus, as opposed to <i>Hoplodactylus</i>.] (See [Auckland green gecko](../A#auckland-green-gecko),[Marlborough green gecko](../M#marlborough-green-gecko),[Nelson green gecko](../N#nelson-green-gecko),[North Cape green gecko](../N#north-cape-green-gecko),[Northland green gecko](../N#northland-green-gecko),[Wellington green gecko](../W#wellington-green-gecko),[West Coast green gecko](../W#west-coast-green-gecko))
+ <i>n.</i> (Environment) a general name applied to any member of the Naultinus genus of native gecko species each of which has also an individual, usually toponymic, name [<i>Naultinus</i> genus, as opposed to <i>Hoplodactylus</i>.] (See [Auckland green gecko](ari-axe.md#auckland-green-gecko),[Marlborough green gecko](mar-moa.md#marlborough-green-gecko),[Nelson green gecko](n-new.md#nelson-green-gecko),[North Cape green gecko](no-nzx.md#north-cape-green-gecko),[Northland green gecko](no-nzx.md#northland-green-gecko),[Wellington green gecko](../W#wellington-green-gecko),[West Coast green gecko](../W#west-coast-green-gecko))
 
 >  New Zealand's green geckoes are absolutely harmless. <i>(Dec 21, 1922,Auckland Weekly News,17</i>)
 
@@ -761,7 +761,7 @@
 
 ### green marble
  
- <i>n.</i> greenstone (See [marble](../M#marble))
+ <i>n.</i> greenstone (See [marble](m-mar.md#marble))
 
 >  green marble. <i>(1840,NZ Journal</i>) [NOTES: (Dillon)]
 
@@ -939,7 +939,7 @@
 
 ### green-lipped mussel
  
- <i>n.</i> a native mussel now commercially farmed and processed. (See [mussel](../M#mussel),[green-lipped](../G#green-lipped),[-->also called perna](../-#-->also-called-perna))
+ <i>n.</i> a native mussel now commercially farmed and processed. (See [mussel](mob-mys.md#mussel),[green-lipped](../G#green-lipped),[-->also called perna](../-#-->also-called-perna))
 
 >  There are green-lipped mussels with a white cream sauce. <i>(Aug 26, 2000,Listener (New Zealand Listener),94</i>)
 
@@ -1039,7 +1039,7 @@
 
 ### greenbone
  
- <i>n.</i> . [fish (Local mainly South Island.)] (See [butterfish](../B#butterfish))
+ <i>n.</i> . [fish (Local mainly South Island.)] (See [butterfish](bri-byo.md#butterfish))
 
 >  CORIDODAX PULLUS (Forster). <i>Butterfish; Marari</i>. Sold as `greenbone' or `kelp-salmon' in Dunedin. An outside fish secured in the vicinity of kelp around the northern coasts during most months of the year. ... Distribution: New Zealand coasts. <i>(Jun 1921,NZ Journal of Science & Technology,4/117</i>)
 
@@ -1700,7 +1700,7 @@
 
 ### grey warbler
  
- <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](../A#also-piripiri),[teetotum](../T#teetotum),[warchie](../W#warchie))
+ <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](../A#also-piripiri),[teetotum](t-ten.md#teetotum),[warchie](../W#warchie))
 
 >  The migratory shining cuckoo.. sometimes visits gardens where it may lay an egg in the nest of the grey warbler, another insect-eating native bird which can live and breed in the garden. <i>(May 2002,Forest & Bird,25</i>)
 
@@ -2540,7 +2540,7 @@
 
 ### grog-seller
  
- <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](../C#cf-grog-shop-keeper),[grog-vendor](../G#grog-vendor))
+ <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](../C#cf-grog-shop-keeper),[grog-vendor](gra-gyp.md#grog-vendor))
 
 >  Of the others, the most part are following the occupation of grog-selling; ... but the grog seller has decidedly the most lucrative business ... <i>(Aug 9, 1834,NZ Independent,30,1979 ed.</i>)
 
@@ -2686,7 +2686,7 @@
 
 
  
- <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](../A#also-grummet),[shepherds' grummet](../S#shepherds'-grummet))
+ <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](../A#also-grummet),[shepherds' grummet](sa-sho.md#shepherds'-grummet))
 
 ### grommie
  
@@ -2857,7 +2857,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [bass groper](../B#bass-groper))
+<b>2</b> <i>n.</i> (See [bass groper](b-bla.md#bass-groper))
 
 >  <b>PAUL et al.</b> [index to common names 283-293] groper, bass 1288-1312 <i>(1987,Fishes: A Bibliography</i>)
 
@@ -2948,7 +2948,7 @@
 
 ### grouce
  
- <i>adj.</i> (See [grouse](../G#grouse))
+ <i>adj.</i> (See [grouse](gra-gyp.md#grouse))
 
 ### ground
  
@@ -2990,7 +2990,7 @@
 
 ### ground lark
  
- <i>n.</i> (See [pipit](../P#pipit))
+ <i>n.</i> (See [pipit](per-pop.md#pipit))
 
 >  The other birds ... were ... the Fan-tail (<i>Rhipidura flabellifera</i>), the Ground-lark (<i>Anthus Novae Zelandiae</i>), the New Zealand Titmouse (<i>Certhiparus Novae Zelandiae</i>) ... <i>(1869,TrNZI,1/164</i>)
 
@@ -3654,7 +3654,7 @@
 
 ### grub
  
- <i>n.</i> grass grub <i>Odontria.</i> (See [grass grub](../G#grass-grub))
+ <i>n.</i> grass grub <i>Odontria.</i> (See [grass grub](go-gra.md#grass-grub))
 
 >  ... extra areas were rapidly turned over with the minimum of cultivation - cultivation was partially done by the `grub' ... The experience of the first sudden grub attack was sufficient to cause a considerable reduction in sheep numbers ... <i>(1943,NZ Journal of Science & Technology,23/323A</i>)
 
@@ -3751,7 +3751,7 @@
 
 
  
- <i>n.</i> (Sport) a kick in rugby which causes the ball to bounce and roll along the ground [grubber kick Rugby & Rugby League. UK, Austral., Sth Africa.] (See [grubber kick](../G#grubber-kick))
+ <i>n.</i> (Sport) a kick in rugby which causes the ball to bounce and roll along the ground [grubber kick Rugby & Rugby League. UK, Austral., Sth Africa.] (See [grubber kick](gra-gyp.md#grubber-kick))
 
 >  I was one-on-one with the fullback and I'd seen a bit of space behind, so I put the grubber through and scored it. <i>(Jul 4, 2005,Dominion Post,D1</i>)
 
@@ -3806,7 +3806,7 @@
 
 ### grubber kick
  
- <i>n.</i> [(rugby union)] (See [grubber](../G#grubber))
+ <i>n.</i> [(rugby union)] (See [grubber](gra-gyp.md#grubber))
 
 >  <b>SLATTER</b> Pemberton blocks a grubber kick from the Wellington first five ... <i>(1968,Pagan Game, The,198</i>)
 
@@ -3860,7 +3860,7 @@
 
 ### gruds
  
- <i>n.</i> underwear (See [grunds](../G#grunds))
+ <i>n.</i> underwear (See [grunds](gra-gyp.md#grunds))
 
 >  [Queen Victoria's] gusset-free gruds go on display in a town museum in Worthington, England. this month. <i>(Feb 3, 2002,Sunday Star Times,D2</i>)
 
@@ -3986,7 +3986,7 @@
 
 ### gruts
  
- <i>n.</i> underwear (See [grunds](../G#grunds))
+ <i>n.</i> underwear (See [grunds](gra-gyp.md#grunds))
 
 >  "Inspection of 'gruts' is at three. / If they're holed or unsound, would you plese turn around. / It's only the 'gruts' he should see. <i>(Mar 22, 1997,Listener (New Zealand Listener),10</i>)
 
@@ -4072,7 +4072,7 @@
 
 ### guard
  
- <i>n.</i> (See [guardfish](../G#guardfish))
+ <i>n.</i> (See [guardfish](gra-gyp.md#guardfish))
 
 >  <b>FEATON</b> The Waikato Heads provided them with an abundance of fish from the schnapper to the dainty `guard', ... <i>(1879,Waikato War,10</i>) [NOTES: (Griffiths Collection)]
 
@@ -4238,7 +4238,7 @@
 
 ### gull
  
- <i>n.</i> Short form of seagull. Any of a family of long-winged seabirds with webbed feet, often white with grey wings. [karoro, tarapunga See also black-backed, black-billed, red-billed (1947); tarapunga, karoro.] (See [karoro](../K#karoro),[tarapunga](../T#tarapunga))
+ <i>n.</i> Short form of seagull. Any of a family of long-winged seabirds with webbed feet, often white with grey wings. [karoro, tarapunga See also black-backed, black-billed, red-billed (1947); tarapunga, karoro.] (See [karoro](k-kea.md#karoro),[tarapunga](t-ten.md#tarapunga))
 
 >  Sea and water fowles of all sorts are however in no great plenty, those known in Europe are Ducks, Shags, Gannets and gulls all of which were eat by us and found exceeding good, ... <i>(Mar 31, 1770,Cook's Journals,1/276,1955 ed.</i>)
 
@@ -4583,7 +4583,7 @@
 
 
  
- <i>n.</i> As a tree-name for (mainly) Australian varieties of eucalypt, occas. for New Zealand genera; and for transf. and fig. uses (See [gum tree](../G#gum-tree))
+ <i>n.</i> As a tree-name for (mainly) Australian varieties of eucalypt, occas. for New Zealand genera; and for transf. and fig. uses (See [gum tree](gra-gyp.md#gum-tree))
 
 >  We are familiar with the blue-gum and the Pinus insignis, with the ... macrocarpa ... <i>(1894,TrNZI,26/621</i>)
 
@@ -5276,7 +5276,7 @@
 
 ### gumdigger's soap
  
- <i>n.</i> kumarahou. (lathers when rubbed on hands) [(Northland)] (See [kumarahou](../K#kumarahou))
+ <i>n.</i> kumarahou. (lathers when rubbed on hands) [(Northland)] (See [kumarahou](kiw-kwi.md#kumarahou))
 
 >  Golden Tainui or Kumarahou (Pomaderris kumeraho) - Another fast growing 2-3m high shrub, northern in origin, but certainly at home in Wellington's clay soils... Gum Diggers Soap is another name for this species. When water is added to leaves and rubbed in the hand, a lather forms. Seemingly utilised by the gum diggers of old to clean their hands. <i>(Nov 11, 1993,Evening Post,14</i>)
 
@@ -5553,7 +5553,7 @@
 
 
  
- <i>n.</i> Elliptical for gummy-shark (See [rig](../R#rig))
+ <i>n.</i> Elliptical for gummy-shark (See [rig](red-roa.md#rig))
 
 >  <i>Mustelus antarcticus</i>. Synonyms: <i>Galeus antarcticus</i> and <i>Galeorhinus antarcticus</i>. The smooth-hound, or gummy (<i>Mustelus antarcticus</i>) ... is one of the small sharks commonly taken by trawlers around new Zealand, and popularly termed `dogfish.' The family is distinguished by the blunt pavement-like teeth - hence the popular name `gummy,' in use in Australia, where the species is also common. <i>(1924,NZ Journal of Science & Technology,6/263</i>) [NOTES: (Phillipps)]
 
@@ -5640,7 +5640,7 @@
 
 ### gummy shark
  
- <i>n.</i> aka spotted gummy shark, lemon fish, flake (See [gummy](../G#gummy))
+ <i>n.</i> aka spotted gummy shark, lemon fish, flake (See [gummy](gra-gyp.md#gummy))
 
 >  The dogfish, or gummy shark, can be a metre long and has small teeth ... <i>(Jul 14, 2005,Dominion Post,A9</i>)
 
@@ -5670,7 +5670,7 @@
 
 ### gummy-gummy
  
-<b>1</b> <i>n.</i> (Rural) a short tree with palatable leaves, favoured by cattle, thought to be Nothopanax or Pseudopanax colensoi, or a corruption of the Maori kamahi (sp Weinmannia). (See [ride the gummy-gummies](../R#ride-the-gummy-gummies))
+<b>1</b> <i>n.</i> (Rural) a short tree with palatable leaves, favoured by cattle, thought to be Nothopanax or Pseudopanax colensoi, or a corruption of the Maori kamahi (sp Weinmannia). (See [ride the gummy-gummies](red-roa.md#ride-the-gummy-gummies))
 
 >  <b>BUCKINGHAM</b> The cattle used also to 'ride the gummy-gummies' which were small trees with wide shiny leaves - good feed, they loved it. They learnt to straddle these trees and push them over so that they could get at the tasty leaves. <i>(1969,From Hethersett to Quarry Hills,44</i>)
 
@@ -5847,7 +5847,7 @@
 
 ### gun-gun
  
- <i>adj.</i> (See [gun](../G#gun))
+ <i>adj.</i> (See [gun](gra-gyp.md#gun))
 
 >  <b>NEWTON</b> Gun-gun Shearer : Fast shearer <i>(1947,Wayleggo,153</i>) [NOTES: 1948 edition]
 
@@ -5867,7 +5867,7 @@
 
 ### gunga
  
- <i>n.</i> (See [gunger](../G#gunger))
+ <i>n.</i> (See [gunger](gra-gyp.md#gunger))
 
 >  <b>McGILL</b> gunga vagina or anus, in phrs. `up your gunga' or `stick it up your gunga'; ref. Lyn of Tawa on TVNZ .us Cancer Line, 11 November 1987; possibly from ANZ phr. `bung it in, Gunga Din!', a direction to go ahead, as with pouring concrete. <i>(1988,Dictionary of Kiwi Slang, A,53</i>)
 
@@ -6026,11 +6026,11 @@
 
 ### gurdy
  
- <i>n.</i> [(gumfields)] (See [hurdy-gurdy](../H#hurdy-gurdy))
+ <i>n.</i> [(gumfields)] (See [hurdy-gurdy](hom-hyp.md#hurdy-gurdy))
 
 ### guri
  
- <i>n.</i> variant of kuri (See [kuri](../K#kuri))
+ <i>n.</i> variant of kuri (See [kuri](kiw-kwi.md#kuri))
 
 >  The man who wrote such chirpy plain-folks ballads as "Talking Dog" and "Down the Hall on Saturday Night", with their frequent references to blokes, sheilas and tying up the guri, could also describe coming out of the priesthood as a "slow and somewhat bitter reconciliation to secular life in the secular world". <i>(Apr 13, 2002,Listener (New Zealand Listener),54</i>)
 
@@ -6260,7 +6260,7 @@
 
 ### guts buster
  
- <i>n.</i> [(trampers')] (See [gutbuster](../G#gutbuster))
+ <i>n.</i> [(trampers')] (See [gutbuster](gra-gyp.md#gutbuster))
 
 >  <b>TURNER</b> A steep hill on the bush track to the Wellington student's tramping club hut is (or used to be) known as the G. B. or guts buster, and the name is used for other hills by trampers. <i>(1966,English Language in Aust. & NZ, The,120</i>)
 
@@ -6388,7 +6388,7 @@
 
 ### gutzer
  
- <i>n.</i> (See [gutser](../G#gutser))
+ <i>n.</i> (See [gutser](gra-gyp.md#gutser))
 
 ### guy
  

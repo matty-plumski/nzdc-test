@@ -137,13 +137,13 @@
 
 ### Undie 500
  
- <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See [Undie Five-Hundy](../U#undie-five-hundy))
+ <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See [Undie Five-Hundy](und-up.md#undie-five-hundy))
 
 >  [heading] Goosepimples running amok, Undie 500 contestants get off to flying start <i>(Jul 8, 2005,Dominion Post,A2</i>)
 
 ### Undie Five-Hundy
  
- <i>n.</i> (See [Undie 500](../U#undie-500))
+ <i>n.</i> (See [Undie 500](und-up.md#undie-500))
 
 >  The inaugural Undie Five-Hundy race at the Auckland Domain probably sounded like a simple idea when first proposed by the Newmarket Business Association. <i>(Jul 8, 2005,Dominion Post,A2</i>)
 
@@ -193,7 +193,7 @@
 
 ### unfinancial
  
- <i>adj.</i> insolvent (See [financial](../F#financial))
+ <i>adj.</i> insolvent (See [financial](f69-fin.md#financial))
 
 ### unfinished
  
@@ -304,7 +304,7 @@
 
 ### unionise
  
- <i>v.</i> register a civil union partnership (See [civil unionise](../C#civil-unionise),[civil-ise](../C#civil-ise))
+ <i>v.</i> register a civil union partnership (See [civil unionise](chi-con.md#civil-unionise),[civil-ise](chi-con.md#civil-ise))
 
 >  I'm going to unionise several partnerships. <i>(Dec 10, 2004,Radio NZ / National Radio</i>) [NOTES: Jim Hopkins: Nine to Noon]
 
@@ -316,7 +316,7 @@
 
 ### unit
  
- <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See [one man unit](../O#one-man-unit))
+ <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See [one man unit](on-ore.md#one-man-unit))
 
 >  .. 2 dairy units estimated to carry about 53 and 55 dairy cows and replacements respectively .. and 1 fat lamb unit estimated to carry about 700-900 ewes and 50-70 cattle. <i>(Mar 24, 1953,Evening Post,4</i>)
 
@@ -331,7 +331,7 @@
 
 
  
- <i>n.</i> (Rural) an electric fence system. (See [one man unit](../O#one-man-unit))
+ <i>n.</i> (Rural) an electric fence system. (See [one man unit](on-ore.md#one-man-unit))
 
 >  <b>PETER</b> unit: articulated stock-truck or one with trailer. <i>(2000,Peter Glossary,7</i>)
 
@@ -347,7 +347,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a single farming property. (See [one man unit](../O#one-man-unit))
+<b>1</b> <i>n.</i> (Rural) a single farming property. (See [one man unit](on-ore.md#one-man-unit))
 
 >  The twinners and two-tooths are vaccinated and drenched pre-lambing and given feed priority ... <i>(Oct 1, 1998,NZ Farmer,19</i>)
 
@@ -816,7 +816,7 @@
 
 
  
- <i>adv.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London (See [north](../N#north))
+ <i>adv.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London (See [north](no-nzx.md#north))
 
 
 
@@ -931,7 +931,7 @@
 
 ### up Central
  
- <i>phr.</i> (See [Central](../C#central))
+ <i>phr.</i> (See [Central](c-chi.md#central))
 
 >  Harry and his Dad and grandfather had slipped into New Zealand for a quiet fishing trip up Central but had caused a bit of a stir with some racist comments overheard by the public ... <i>(Jan 26, 2009,Otago Daily Times,5</i>)
 

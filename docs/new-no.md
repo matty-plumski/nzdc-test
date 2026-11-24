@@ -282,7 +282,7 @@
 
 
  
- <i>n.</i> the country (See [cf MAORILAND](../C#cf-maoriland),[ENZED](../E#enzed))
+ <i>n.</i> the country (See [cf MAORILAND](../C#cf-maoriland),[ENZED](ens-eye.md#enzed))
 
 >  The name <i>New Zealand</i> is sometimes wrongly attributed to Tasman himself. <i>(Aug 2000,NZWords,4 : 1</i>)
 
@@ -380,7 +380,7 @@
 
 ### New Zealand aniseed
  
- <i>n.</i> [one entry, <i>Angelica montana</i>] (See [aniseed](../A#aniseed),[mountain aniseed](../M#mountain-aniseed))
+ <i>n.</i> [one entry, <i>Angelica montana</i>] (See [aniseed](all-ari.md#aniseed),[mountain aniseed](mob-mys.md#mountain-aniseed))
 
 >  <b>COCKAYNE</b> <i>Angelica montana</i> New Zealand aniseed <i>(1915,AJHR,c-6</i>) [NOTES: Notes on the Plant Covering of Kennedy's Bush... Canterbury]
 
@@ -396,7 +396,7 @@
 
 ### New Zealand ash
  
- <i>n.</i> occas. <i>Metrosideros excelsa</i> (See [pohutukawa](../P#pohutukawa))
+ <i>n.</i> occas. <i>Metrosideros excelsa</i> (See [pohutukawa](per-pop.md#pohutukawa))
 
 >  <b>HOCHSTETTER</b> <i>Metrosideros tomentosa</i> [NZ Ash] <i>(1867,New Zealand (Hochstetter)</i>) [NOTES: list of trees from Taylor 1848]
 
@@ -574,7 +574,7 @@
 
 ### New Zealand crow
  
- <i>n.</i> (Environment) kokako (See [kokako](../K#kokako))
+ <i>n.</i> (Environment) kokako (See [kokako](kiw-kwi.md#kokako))
 
 >  <b>YATE</b> <i>Kokako</i>; called, by some, the New-Zealand crow. ... It has a strong black beak ... and a small brilliant light-blue flap hanging down on each side, from the ear. <i>(1835,New Zealand (various authors/titles),64</i>)
 
@@ -678,7 +678,7 @@
 
 ### New Zealand emu
  
- <i>n.</i> the kiwi (See [emu](../E#emu))
+ <i>n.</i> the kiwi (See [emu](egg-ens.md#emu))
 
 >  The energy and good feeling of a Colonist from Wanganui placed at my disposal on Wednesday last, a specimen of the kiwi, or New Zealand emu ... <i>(Nov 20, 1841,NZ Gazette,2</i>)
 
@@ -746,7 +746,7 @@
 
 ### New Zealand fashion
  
- <i>n.</i> (See [cf. Maori fashion](../M#maori-fashion),[native fashion](../N#native-fashion))
+ <i>n.</i> (See [cf. Maori fashion](m-mar.md#maori-fashion),[native fashion](n-new.md#native-fashion))
 
 >  <b>ELDER</b> `In the course of this month several female scholars absent in order to get their lips and chin marked in the New Zealand fashion by an artist from Whangaroa. Each of them had to pay for the tattooing. <i>(1934,Marsden's Lieutenants,136</i>) [NOTES: 1817 Mar 25 Kendall in Elder Marsden's Lieutenants (1934) 136]
 
@@ -875,7 +875,7 @@
 
 ### New Zealand fur seal
  
- <i>n.</i> <i>Arctocephalus forsteri</i> (See [Kekeno](../K#kekeno))
+ <i>n.</i> <i>Arctocephalus forsteri</i> (See [Kekeno](kee-kiw.md#kekeno))
 
 >  Another interesting specimen is that of the New Zealand fur seal, placed in the case containing the bears, the skin being so perfect that it was thought desirable to keep it under cover; it was killed not long ago on the Ocean Beach by Mr R. Paulin. <i>(Sep 14, 1888,Otago Witness,16</i>)
 
@@ -901,7 +901,7 @@
 
 ### New Zealand grapefruit
  
- <i>n.</i> (See [goldfruit](../G#goldfruit))
+ <i>n.</i> (See [goldfruit](go-gra.md#goldfruit))
 
 >  When we were living [in South Africa] in the 1960s, we heard of a citrus orchard in Rustenberg that grew hybrod oranges named Rex Union oranges, famous for making excellent marmalade. We went to this pretty little country town and found an orchard named 'Dunedin' and bought a bag of the oranges... What surprised us was that the Rex Union oranges seemed to be identical to our New Zealand grapefruit. Many years later.. I was reading about Morrison's Orchard in Warkworth and was struck by the statement that the original grapefruit tree had come from Kawau Island and that Sir George Grey couldn't remember where he had got the plant. Grey had been Governor of Cape Province, South Africa, from 1854-1861 and was known to have brought many South African plants to New Zealand. Are 'New Zealand grapefruit', 'Rex Union oranges'? <i>(Oct 26, 2002,Listener (New Zealand Listener),40</i>) [NOTES: Letter from Jill Williamson]
 
@@ -911,7 +911,7 @@
 
 ### New Zealand grass
  
- <i>n.</i> = native grass (See [native grass](../N#native-grass),[English grass](../E#english-grass))
+ <i>n.</i> = native grass (See [native grass](n-new.md#native-grass),[English grass](egg-ens.md#english-grass))
 
 >  <b>DRURY</b> New Zealand grass (native grass) <i>(1854,Revised Sailing Directions,66</i>)
 
@@ -929,7 +929,7 @@
 
 ### New Zealand harrier
  
- <i>n.</i> (See [kahu](../K#kahu))
+ <i>n.</i> (See [kahu](k-kea.md#kahu))
 
 >  <b>HAAST</b> Its large size, more pointed wings, and dark colour distinguished it at once from the New Zealand Harrier (Circus Gouldii), so common on our plains. <i>(1879,Geology of the Provinces of Canterbury & Westland,135</i>)
 
@@ -1191,7 +1191,7 @@
 
 ### New Zealand pampas grass
  
- <i>n.</i> toetoe [also New Zealand pampas grass] (See [pampas grass](../P#pampas-grass))
+ <i>n.</i> toetoe [also New Zealand pampas grass] (See [pampas grass](p-per.md#pampas-grass))
 
 >  ... all the open ground surrounding the settlement [at Piraki] ... being covered with tussac-grass, raupo, or tohitohi (N.Z. pampas-grass). <i>IBid.</i> (Ed. Notes and corrections) [insert] BUSH. - Toe toe. New Zealand pampas-grass. <i>(1911,Piraki Log,155</i>)
 
@@ -1219,7 +1219,7 @@
 
 ### New Zealand pigeon
  
- <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See [wood pigeon](../W#wood-pigeon),[kereru](../K#kereru))
+ <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See [wood pigeon](../W#wood-pigeon),[kereru](kee-kiw.md#kereru))
 
 >  <b>FORSTER</b> In the morning ... I went ... to the Indian Cove, & shot there two new Kingfishers [[ed. fn] Now the new Zealand Kingfisher ...], some new yellow headed Flycatchers [[ed. fn] Now the Yellowhead <i>Mohoua ochrocephala</i> (Gmelin, 1789).], a fine large green and brown Pigeon [[ed. fn] Now the New Zealand pigeon ...] ..., a small Perrokeet, green with a red forehead ... [ed. fn] Now the Red-crowned Parakeet ... <i>(Apr 2, 1773,Resolution Journal of J.R. Forster, The,2/245,1982 ed.</i>) [NOTES: 1773 May 11 see also HAWK]
 
@@ -1260,7 +1260,7 @@
 
 
  
- <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See [kereru](../K#kereru))
+ <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See [kereru](kee-kiw.md#kereru))
 
 >  <b>DIEFFENBACH</b> ... the berries of which form the favourite food of the beautiful New Zealand pigeon, the plumage of which displays all the colours of the rainbow. <i>(1843,Travels in NZ,1/27</i>)
 
@@ -1419,7 +1419,7 @@
 
 ### New Zealand sandalwood
  
- <i>n.</i> maire (See [sandalwood](../S#sandalwood))
+ <i>n.</i> maire (See [sandalwood](sa-sho.md#sandalwood))
 
 >  <i>San&#769;.dal-wood&#769;.</i> (s&abreve.n&#769;.dal-w&obreve.&obreve.d&#769;.), <i>n. [Add.] New Zealand sandalwood (Bot.), Fusanus Cunninghamii</i>. See under MAIRE. <i>(1898,Merriam-Webster Third International,2030</i>)
 
@@ -1530,7 +1530,7 @@
 
 ### New Zealand strawberry
  
- <i>n.</i> (See [snowberry](../S#snowberry))
+ <i>n.</i> (See [snowberry](sho-spa.md#snowberry))
 
 >  <b>TAYLOR</b> A ground berry, called the New Zealand strawberry by the colonists, formed an agreeable but rather insipid repast to our parched list. It tastes much like the rose apple of India. [Fn. More usually called Snow-berry, <i>Gaultheria depressa</i>.] <i>(1959,Early Travellers,335</i>) [NOTES: From the 1857 Journal of John Turnbull Thomson.]
 
@@ -1542,7 +1542,7 @@
 
 ### New Zealand Superannuation
  
- <i>n.</i> (See [National Superannuation](../N#national-superannuation))
+ <i>n.</i> (See [National Superannuation](n-new.md#national-superannuation))
 
 >  The super debate of recent years has centred almost entirely on propping up state-funded New Zealand Superannuation. <i>(Aug 2, 2003,Dominion Post,C1</i>)
 
@@ -1655,7 +1655,7 @@
 
 ### New Zealand War(s)
  
-<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](../L#land-wars),[Maori War(s)](../M#maori-war(s)))
+<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](l-lay.md#land-wars),[Maori War(s)](m-mar.md#maori-war(s)))
 
 >  ...there have been, he suggests, a number of worthwhile books about the New Zealand Wars. <i>(Jul 29, 2003,Listener (New Zealand Listener),9</i>)
 
@@ -2318,7 +2318,7 @@
 
 ### ngamu
  
- <i>n.</i> a sandfly (See [namu](../N#namu))
+ <i>n.</i> a sandfly (See [namu](n-new.md#namu))
 
 >  <b>HOCHSTETTER</b> The sandflies, on the other hand, the Ngamu of the natives, small midges (Simulium), are most frequent on the sea coast. <i>(1867,New Zealand (Hochstetter),287</i>)
 
@@ -2389,7 +2389,7 @@
 
 ### ngaruru
  
- <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](../C#cook's-turban-shell))
+ <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](con-cyp.md#cook's-turban-shell))
 
 ### ngaruru-papa
  
@@ -2548,7 +2548,7 @@
 
 ### ngawaka
  
- <i>n.</i> (See [kawaka](../K#kawaka))
+ <i>n.</i> (See [kawaka](k-kea.md#kawaka))
 
 >  <b>LAING & BLACKWELL</b> <i>Libocedrus [plumosa]</i>. ... Native name <i>Kawaka</i> or <i>Ngawaka</i>, often termed <i>New Zealand Arbor Vitae</i> by the settlers. [earlier L. Doniana] <i>(1907,Plants of NZ,66,1940 p. 66 ed.</i>)
 
@@ -2799,7 +2799,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](../H#hillpole),[hillstick; mustering stick; mustering pole; rakau](../H#hillstick;-mustering-stick;-mustering-pole;-rakau))
+<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](hea-hom.md#hillpole),[hillstick; mustering stick; mustering pole; rakau](../H#hillstick;-mustering-stick;-mustering-pole;-rakau))
 
 >  <b>NEWTON</b> The high-country musterer covers a lot of dangerous country, day after day, and with nothing to aid him but his nibby or walking stick. <i>(1964,Straggle Muster,94</i>)
 
@@ -2897,7 +2897,7 @@
 
 ### nigau
  
- <i>n.</i> (See [nikau](../N#nikau))
+ <i>n.</i> (See [nikau](new-no.md#nikau))
 
 ### nigger
  
@@ -2977,7 +2977,7 @@
 
 ### nigger wig
  
- <i>n.</i> (See [niggerhead](../N#niggerhead))
+ <i>n.</i> (See [niggerhead](new-no.md#niggerhead))
 
 >  <b>MEREDEITH</b> ... the [Otago] country I had to travel was intersected in all directions with `nigger wig' swamps ... quite impassable for a horse. <i>(1898,Reminiscences and Experiences,20</i>)
 
@@ -3016,7 +3016,7 @@
 
 
  
- <i>n.</i> a swamp tuft-grass whose raised clumps turn black when dry. spg also nigger(-)head 1. the blackened tussocks of swamp-sedges of Carex spp., esp. Carex secta and C. virgata [are these synonyms?], (cf MAORIHEAD, NEGROHEAD) 1882 Poo 1900 DCO (C. virgata) 10 entries (C. secta) 1906 LB 1924 CCN. (Andersen) (See [Maorihead](../M#maorihead))
+ <i>n.</i> a swamp tuft-grass whose raised clumps turn black when dry. spg also nigger(-)head 1. the blackened tussocks of swamp-sedges of Carex spp., esp. Carex secta and C. virgata [are these synonyms?], (cf MAORIHEAD, NEGROHEAD) 1882 Poo 1900 DCO (C. virgata) 10 entries (C. secta) 1906 LB 1924 CCN. (Andersen) (See [Maorihead](m-mar.md#maorihead))
 
 >  On the way they had to cross a gully five or six feet deep and about fifteen or twenty feet wide which was filled with nigger-heads. <i>(1988,Tales of Pioneer Women,150</i>) [NOTES: Writing of 1940]
 
@@ -3144,7 +3144,7 @@
 
 ### night demon
  
- <i>n.</i> <i>Majaqueus parkinsoni</i> Bray, BLACK PETREL (See [hakuwai](../H#hakuwai))
+ <i>n.</i> <i>Majaqueus parkinsoni</i> Bray, BLACK PETREL (See [hakuwai](h-hea.md#hakuwai))
 
 >  <i>Majaqueus parkinsoni</i> Gray. (Black petrel.) ... I am quite satisfied that this bird is the `Night Demon' of our diggers. I had a live one ... from Collingwood ... On windy nights the bird would become very excited, and then it would give vent to the hysterical laugh or scream from which it takes its name. <i>(1895,TrNZI,27/122</i>) [NOTES: Buller]
 
@@ -3326,7 +3326,7 @@
 
 ### nightfill
  
- <i>n.</i> the job of filling supermarket shelves at night [Internet search Feb 2006: also used in Austral; one citation found for Canada.] (See [dayfill](../D#dayfill))
+ <i>n.</i> the job of filling supermarket shelves at night [Internet search Feb 2006: also used in Austral; one citation found for Canada.] (See [dayfill](d-dif.md#dayfill))
 
 >  [heading] <b>Nightfill Manager</b>Lower Hutt. At Countdown Lower Hutt we're setting new standards in quality and service. <i>(Sep 25, 2004,Dominion Post,H16</i>)
 
@@ -3757,7 +3757,7 @@
 
 ### nikou
  
- <i>n.</i> (See [nikau](../N#nikau))
+ <i>n.</i> (See [nikau](new-no.md#nikau))
 
 ### nimble policy
  
@@ -4100,7 +4100,7 @@
 
 ### No 8 wire ingenuity
  
- <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See [No 8/Number 8 (wire/fencing wire)](../N#no-8/number-8-(wire/fencing-wire)))
+ <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See [No 8/Number 8 (wire/fencing wire)](new-no.md#no-8/number-8-(wire/fencing-wire)))
 
 >  What Ritchie and the almost 100 other Kiwis who were chosen lacked in experience of desert conditions - .. - they made up for with No 8 wire ingenuity and hardiness born of such civilian occupations as farming. <i>(Apr 25, 2009,Listener (New Zealand Listener),28</i>)
 
@@ -4108,7 +4108,7 @@
 
 ### No 8 wire mentality
  
- <i>n.</i> (See [No 8/Number 8 (wire/fencing wire)](../N#no-8/number-8-(wire/fencing-wire)))
+ <i>n.</i> (See [No 8/Number 8 (wire/fencing wire)](new-no.md#no-8/number-8-(wire/fencing-wire)))
 
 >  However, as a result of this the drug-users retaliated with some good old-fashioned "No 8 wire mentality" and invented homebake. <i>(Jul 12, 2005,NZ Herald,B5</i>)
 
@@ -4334,7 +4334,7 @@
 
 ### no beg-pardons
  
- <i>phr.</i> (See [beg-pardon](../B#beg-pardon))
+ <i>phr.</i> (See [beg-pardon](b-bla.md#beg-pardon))
 
 ### no biggie
  

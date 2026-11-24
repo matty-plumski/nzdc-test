@@ -174,7 +174,7 @@
 
 ### baby beef
  
-<b>1</b> <i>n.</i> (Rural) a young cattle beast fattened for the beef trade. (See [beefy](../B#beefy))
+<b>1</b> <i>n.</i> (Rural) a young cattle beast fattened for the beef trade. (See [beefy](b-bla.md#beefy))
 
 >  Herefords are singularly adapted for the production of what is called 'baby beef', that is, with a little forcing, they can be turned out fat at from 2 to 2 and a half years. <i>(1919,Livestock in New Zealand,82</i>)
 
@@ -278,7 +278,7 @@
 
 
  
- <i>n.</i> small holiday home (See [crib](../C#crib))
+ <i>n.</i> small holiday home (See [crib](con-cyp.md#crib))
 
 >  When the mater returned to Dunedin after her holidays in this city, I determined to try "baching," and after having been six months in my crib at the top of the hill, I am more than ever resolved not to descend again to town level... My "bach" is perched.. about 7000ft above sea-level. <i>(Oct 9, 1912,Otago Witness,79</i>)
 
@@ -437,7 +437,7 @@
 
 ### bachelorising
  
- <i>n.</i> living independently. (See [baching](../B#baching))
+ <i>n.</i> living independently. (See [baching](b-bla.md#baching))
 
 >  Do you like bachelorising, Dot? <i>(Sep 2, 1903,Otago Witness,67</i>)
 
@@ -563,7 +563,7 @@
 
 ### back country
  
- <i>n.</i> (Rural) the high country beyond S.I. river gorges, as opposed to front down and plains land in front of the gorges and ranges. (See [backblocks](../B#backblocks))
+ <i>n.</i> (Rural) the high country beyond S.I. river gorges, as opposed to front down and plains land in front of the gorges and ranges. (See [backblocks](b-bla.md#backblocks))
 
 >  I left Christchurch in company with a sheep farmer, who owns a run in the back country, behind the Malvern hills. <i>(1860,First Year in Canterbury Settlement,47</i>) [NOTES: in BUTLER First Year (1863)]
 
@@ -576,7 +576,7 @@
 
 
  
- <i>n.</i> (Rural) remote country. (See [backblocks](../B#backblocks))
+ <i>n.</i> (Rural) remote country. (See [backblocks](b-bla.md#backblocks))
 
 >  In the North Island this type of farming [high-country farming] is confined to two small areas, on the high central plateau and on some of the high back-country in the Hawke's Bay-Poverty Bay area. <i>(Jul 16, 1945,NZ Journal of Agriculture,50</i>)
 
@@ -616,7 +616,7 @@
 
 
  
- <i>n.</i> [The hinterland of settled districts: US 1746 (OED), AND 1802; of a part 1849; of a settled dist. or station 1887.] The remoter parts of a farm or other area, away from the sea or other means of access. Also called backblocks. Compare front country. a. Usu. with def art., a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country). In later use, backblocks. [a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country).] (See [up-country](../U#up-country),[cf. front country](../F#front-country))
+ <i>n.</i> [The hinterland of settled districts: US 1746 (OED), AND 1802; of a part 1849; of a settled dist. or station 1887.] The remoter parts of a farm or other area, away from the sea or other means of access. Also called backblocks. Compare front country. a. Usu. with def art., a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country). In later use, backblocks. [a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country).] (See [up-country](../U#up-country),[cf. front country](fly-fuz.md#front-country))
 
 >  Hobson is founding a town at the Bay of Islands, but we have an assurance that there is no back-country there. <i>(1840,NZ Journal,1/16/208</i>)
 
@@ -747,7 +747,7 @@
 
 ### back of beyond
  
- <i>phr.</i> a remote area; an isolated hill-country farm or farm settlement. (See [cf. boohai](../B#boohai))
+ <i>phr.</i> a remote area; an isolated hill-country farm or farm settlement. (See [cf. boohai](bla-bri.md#boohai))
 
 >  Of course today we see the Marangae as the back-of-beyond, but you have to remember that these people believed that, within a few years, they'd be surrounded by all the intended infrastructure of a viable rural community... <i>(2006,National Geographic Magazine,#77, Jan - Feb 2006, p82</i>)
 
@@ -886,7 +886,7 @@
 
 ### back station
  
- <i>n.</i> (See [out-station](../O#out-station))
+ <i>n.</i> (See [out-station](ore-ozz.md#out-station))
 
 >  <b>KENNAWAY</b> The cattle ... were half-wild, restless brutes, imported from Australian back-stations, or bred on the equally wild ranges to the north of our own island. <i>Ibid.</i> 208 One evening, I remember a neighbouring back-station holder, after a long day's journey, rode up late along the fence-side of our home-paddocks, amidst a chorus of challenge from the sheep-dogs. <i>(1874,Crusts: a settler's fare due south,204</i>)
 
@@ -913,7 +913,7 @@
 
 ### back to the mat
  
- <i>phr.</i> in phrases: return/go back to the mat, get back on/to the mat: of a Europeanised Maori, to figuratively resume Maori dress; to return to Maori customs and way of life; to go native (cf. go back to the bush, bush) [-] (See [mat](../M#mat))
+ <i>phr.</i> in phrases: return/go back to the mat, get back on/to the mat: of a Europeanised Maori, to figuratively resume Maori dress; to return to Maori customs and way of life; to go native (cf. go back to the bush, bush) [-] (See [mat](mar-moa.md#mat))
 
 >  <b>SCANLAN</b> Some of the Maoris, educated in youth and brought up in British ways, returned in later life `to the mat'. <i>(1933,Tides of Youth,109</i>)
 
@@ -943,7 +943,7 @@
 
 ### back tray
  
-<b>1</b> <i>n.</i> (Rural) a platform on the back of a tractor that can be used to transport stock or implements. (See [tractor tray](../T#tractor-tray))
+<b>1</b> <i>n.</i> (Rural) a platform on the back of a tractor that can be used to transport stock or implements. (See [tractor tray](tot-tyr.md#tractor-tray))
 
 >  Ferguson 24 petrol tractor, runs well, tidy condition, back tray, roll bar, $1,500. <i>(Mar 21, 2002,Hawke's Bay Today,22</i>)
 
@@ -963,7 +963,7 @@
 
 
  
- <i>v.</i> of a tree being felled, to put in a back-cut with a saw; or, to open up a back-cut with a wedge, or with a second wedge driven in on the back of the first already in place. (See [back-cut](../B#back-cut),[back-scarf](../B#back-scarf))
+ <i>v.</i> of a tree being felled, to put in a back-cut with a saw; or, to open up a back-cut with a wedge, or with a second wedge driven in on the back of the first already in place. (See [back-cut](b-bla.md#back-cut),[back-scarf](b-bla.md#back-scarf))
 
 >  `Don't you hear her talkin'?' as a gentle ticking would indicate the act of partition had commenced. Then the wedges were `backed up,' and a few solid blows from the heavy mauls would complete the operation. <i>(Dec 1904,NZ Illustrated Magazine,178</i>)
 
@@ -1007,7 +1007,7 @@
 
 ### back yard
  
- <i>n.</i> an enclosure at the back of a house which may include a vegetable garden or lawn (See [cf. back](../B#back))
+ <i>n.</i> an enclosure at the back of a house which may include a vegetable garden or lawn (See [cf. back](b-bla.md#back))
 
 >  <b>HOPEFUL</b> All the surroundings of squalid houses, filthy backyards, rough streets, ... are neither calculated to refine or soften [children]. <i>(1887,Taken In,120</i>)
 
@@ -1059,7 +1059,7 @@
 
 ### back-chain
  
-<b>1</b> <i>n.</i> (Rural) a chain used to hold a cow in position during milking. (See [backing chain](../B#backing-chain))
+<b>1</b> <i>n.</i> (Rural) a chain used to hold a cow in position during milking. (See [backing chain](b-bla.md#backing-chain))
 
 >  I consider there's no argument about leg ropes, but with back-chains, there's much more room for debate. With one milker working under pressure, the odd few seconds are saved if no back-chain is used. <i>(Jun 1, 1957,NZ Dairy Exporter,66</i>)
 
@@ -1085,7 +1085,7 @@
 
 ### back-cut
  
- <i>n.</i> (See [back-scarf](../B#back-scarf))
+ <i>n.</i> (See [back-scarf](b-bla.md#back-scarf))
 
 >  <b>CRUMP</b> Always make your back-cut a bit higher than the scarf and leave plenty of wood so if she leans back you can wedge her over. <i>(1961,Hang on a Minute, Mate,47</i>)
 
@@ -1311,7 +1311,7 @@
 
 ### backblock(s)
  
- <i>n.</i> the sparsely settled hinterland of more closely-settled districts (See [back country](../B#back-country),[boohai](../B#boohai),[sticks](../S#sticks))
+ <i>n.</i> the sparsely settled hinterland of more closely-settled districts (See [back country](b-bla.md#back-country),[boohai](bla-bri.md#boohai),[sticks](spa-sys.md#sticks))
 
 >  He also brought a knowledge of the bush and back country that was invaluable to young field geologists such as myself and David Kerr, translated from urban England to work in the back-blocks of New Zealand. <i>(Mar 1994,Geological Society of NZ Newsletter,103/87</i>)
 
@@ -1573,7 +1573,7 @@
 
 ### backbone of the economy
  
- <i>phr.</i> (Rural) the agricultural sector (See [backbone of the country](../B#backbone-of-the-country))
+ <i>phr.</i> (Rural) the agricultural sector (See [backbone of the country](b-bla.md#backbone-of-the-country))
 
 >  Agriculture, the backbone of our economy, is suffering early-onset osteoporosis. <i>(Feb 7, 2009,Listener (New Zealand Listener),16</i>)
 
@@ -1626,7 +1626,7 @@
 
 ### backing
  
- <i>n.</i> (tree-felling) (See [cf. back-cut](../B#back-cut),[back up](../B#back-up))
+ <i>n.</i> (tree-felling) (See [cf. back-cut](b-bla.md#back-cut),[back up](b-bla.md#back-up))
 
 >  <b>CRUMP</b> During the next few weeks Jack learned about scarfing, backing, limbing, deeing, sniping, [etc] <i>(1961,Hang on a Minute, Mate,42</i>)
 
@@ -1819,7 +1819,7 @@
 
 ### badeek
  
- <i>n.</i> (See [patiki](../P#patiki))
+ <i>n.</i> (See [patiki](p-per.md#patiki))
 
 ### badin
  
@@ -1976,7 +1976,7 @@
 
 ### Bagel
  
- <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See [Cake Tin](../C#cake-tin))
+ <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See [Cake Tin](c-chi.md#cake-tin))
 
 >  There's been plenty of support for the Tank or the Colosseum. My favourite., though, is the Bagel. It's round, with a hole in the middle, and took a lot of dough to make. <i>(Jul 9, 1999,Evening Post,26</i>)
 
@@ -2034,7 +2034,7 @@
 
 ### baggy
  
- <i>n.</i> a worker in threshing procedure (See [baggie](../B#baggie))
+ <i>n.</i> a worker in threshing procedure (See [baggie](b-bla.md#baggie))
 
 >  'A good deal was said in Court on Tuesday during the hearing of a case about threshing-machines, and no little amusement was caused by a list given by one witness of the 'technical' names of titles of some of the workmen employed about them. 'Chaffy' and 'baggy' raised a smile merely, but 'straw walloper' tickled everybody except the witness, who glanced around with an air of pity on the laughing faces of those who were ignorant of the designation of the man who attends to the straw elevator. Some machines, it appears, boast of two 'straw wallopers', others are content with one'. <i>(Sep 6, 1884,Otago Witness,18</i>) [NOTES: Otago Witness quotes Timaru Herald 3 Sept 1884 p 2.]
 
@@ -2047,7 +2047,7 @@
 
 ### bagman
  
- <i>n.</i> (See [baggie](../B#baggie))
+ <i>n.</i> (See [baggie](b-bla.md#baggie))
 
 >  <b>CARR</b> The mills carry their own forkers, band-cutter, weigher and bagman (one man), and sewer and stacker. <i>(1913,Country Work,13</i>)
 
@@ -2233,7 +2233,7 @@
 
 ### bailer
  
- <i>n.</i> a pig dog trained to bail wild pigs (See [cf. holder](../H#holder))
+ <i>n.</i> a pig dog trained to bail wild pigs (See [cf. holder](hea-hom.md#holder))
 
 >  Pig-dog types are many ... The writer's [J.P.Lewin's] considered classification is straight finders, straight bailers, straight holders and straight killers... Inside it we have finder-bailers; bailer-holders; finder-bailer-holders; bailer-holder-killers and holder-killers. <i>(Dec 1951,Here & Now,15</i>)
 
@@ -2266,18 +2266,18 @@
 
 ### bailing dog
  
- <i>n.</i> (See [bailer](../B#bailer))
+ <i>n.</i> (See [bailer](b-bla.md#bailer))
 
 >  <b>CARR</b> Now this is where I made a big mistake. Mine were holding dogs and, when asking Tony whether his dogs would help I was thinking along the lines of holding something like an ear, a leg, or a snout. Tony, however, had only bailing dogs with him; his catching dog, Rock, was tied up at the cowshed and in saying, "Oh sure", he was meaning his dogs would dive down and keep the mob bailed up. <i>(1986,Diary of a Pig Hunter,19</i>)
 
 ### bailing up
  
- <i>n.</i> (See [bail up](../B#bail-up))
+ <i>n.</i> (See [bail up](b-bla.md#bail-up))
 
 
 
  
- <i>v.</i> (See [bail up](../B#bail-up))
+ <i>v.</i> (See [bail up](b-bla.md#bail-up))
 
 ### bailing-up
  
@@ -2517,7 +2517,7 @@
 
 ### bald-coot
  
- <i>n.</i> pukeko (See [cf. bald pate](../B#bald-pate))
+ <i>n.</i> pukeko (See [cf. bald pate](b-bla.md#bald-pate))
 
 >  <b>MEREDITH</b> The only birds [at Tolaga Bay] are wild ducks of many varieties, pheasants, and <i>pokeko</i> (bald-coots). <i>(1875,Adventuring in Maoriland in the Seventies,134,1935 ed.</i>)
 
@@ -2688,7 +2688,7 @@
 
 ### bale-brander
  
- <i>n.</i> (See [brander](../B#brander))
+ <i>n.</i> (See [brander](bla-bri.md#brander))
 
 ### baleage
  
@@ -2718,7 +2718,7 @@
 
 ### baler twine
  
- <i>n.</i> [The twine used in hay balers to tie up hay bales. This was also used by farmers as an even more flexible No. 8 wire for repairs and emergencies and for keeping up trousers as a substitute for belt or braces.] (See [binder twine](../B#binder-twine))
+ <i>n.</i> [The twine used in hay balers to tie up hay bales. This was also used by farmers as an even more flexible No. 8 wire for repairs and emergencies and for keeping up trousers as a substitute for belt or braces.] (See [binder twine](b-bla.md#binder-twine))
 
 ### Bali belly
  
@@ -2792,7 +2792,7 @@
 
 ### Ballarat lantern
  
- <i>n.</i> (See [cf. manrope lantern](../M#manrope-lantern))
+ <i>n.</i> (See [cf. manrope lantern](m-mar.md#manrope-lantern))
 
 >  <b>WOOD</b> He lit a candle, and dropped it into the Ballarat lantern, and away they went. [fn] For the benefit of the unitiated, I may explain that a `Ballarat lantern' is formed by knocking off the bottom of a bottle, and putting a candle in its neck. <i>(1875,Waiting for the Mail,21</i>)
 
@@ -2806,7 +2806,7 @@
 
 ### ballast pit
  
- <i>n.</i> (See [cf. gravel pit](../G#gravel-pit))
+ <i>n.</i> (See [cf. gravel pit](go-gra.md#gravel-pit))
 
 >  ... a hole left after excavation of metal for railway, quarter-acre gorse-infested old ballast-pit sections are to be sold by auction shortly. [check] <i>(Apr 5, 1913,Hutt Valley Independent,3</i>)
 
@@ -3036,7 +3036,7 @@
 
 ### banded perch / banded sea perch
  
- <i>n.</i> term used non-specifically and also in reference to the redbanded perch [<i>Hypoplectrodes</i> sp. B , previously <i>Ellerkeldia</i> sp.] (See [redbanded perch](../R#redbanded-perch))
+ <i>n.</i> term used non-specifically and also in reference to the redbanded perch [<i>Hypoplectrodes</i> sp. B , previously <i>Ellerkeldia</i> sp.] (See [redbanded perch](red-roa.md#redbanded-perch))
 
 >  <b>MORELAND</b> BANDED PERCH [Ellerkeldia hunti]: Probably more abundant in our northern waters than elsewhere. <i>(1967,Marine Fishes,26</i>)
 
@@ -3363,7 +3363,7 @@
 
 ### bank and ditch
  
- <i>n.</i> (See [fence](../F#fence))
+ <i>n.</i> (See [fence](f69-fin.md#fence))
 
 ### bank claim
  
@@ -3375,7 +3375,7 @@
 
 ### bank high
  
- <i>phr.</i> (See [cf. bank and bank](../B#bank-and-bank))
+ <i>phr.</i> (See [cf. bank and bank](b-bla.md#bank-and-bank))
 
 >  We are in a state of doubt about the Racia ... there is every chance of the river being bank high and not passable for a week, the first fresh is always the highest. <i>(Sep 26, 1862,Chudleigh Diary,60,1950 ed.</i>)
 
@@ -3639,7 +3639,7 @@
 
 ### baracoota
  
- <i>n.</i> (See [barracouta](../B#barracouta))
+ <i>n.</i> (See [barracouta](b-bla.md#barracouta))
 
 >  Probably it is fair to say that the spiritual home of our barracouta is in the south. I have seen hectare after hectare of flashing surface schools of them off Dunedin. <i>(Jun 2, 2002,Sunday Star Times,B7</i>)
 
@@ -3832,7 +3832,7 @@
 
 ### bare bottom haka
  
- <i>phr.</i> (See [cf. brown-eye](../B#brown-eye))
+ <i>phr.</i> (See [cf. brown-eye](bri-byo.md#brown-eye))
 
 >  The ceremonial contumely of the `bare bottom <i>haka</i>' has been often enough described. [follows a description of a woman performing it for Maui Pomare] [fn 160] e.g. by J.F. Cody, <i>Man of Two Worlds</i>, Wellington, 1953, pp.122-123. <i>(Dec 1967,Political Science,76</i>) [NOTES: (P.S. O'Connor)]
 
@@ -4099,7 +4099,7 @@
 
 ### barley grass
  
- <i>v.</i> (See [grass](../G#grass),[barley grass](../B#barley-grass))
+ <i>v.</i> (See [grass](go-gra.md#grass),[barley grass](b-bla.md#barley-grass))
 
 >  On the bare ridges and hillsides, other pests have followed the grub and taken root, such as the invasive barley grass and thistles. <i>(Jan 24, 2003,Dominion Post,C4</i>)
 
@@ -4428,7 +4428,7 @@
 
 ### barracoota
  
- <i>n.</i> (See [barracouta](../B#barracouta))
+ <i>n.</i> (See [barracouta](b-bla.md#barracouta))
 
 ### barracouda
  
@@ -4440,7 +4440,7 @@
 
 ### barracouta
  
- <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](../S#see-also-barra),[coota](../C#coota),[king barracouta](../K#king-barracouta))
+ <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](../S#see-also-barra),[coota](con-cyp.md#coota),[king barracouta](kee-kiw.md#king-barracouta))
 
 >  The barracouta is one of the few fish New Zealander anglers will encounter with teeth large or sharp enough to cut through most monofilament lines with ease. <i>(Jul 8, 1993,Evening Post,30</i>)
 
@@ -4563,7 +4563,7 @@
 
 ### barracouta loaf
  
- <i>n.</i> (See [barracouta](../B#barracouta))
+ <i>n.</i> (See [barracouta](b-bla.md#barracouta))
 
 >  barracouta loaf NZ long loaf of bread. <i>(1986,NZ Pocket Oxford Dictionary,55</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict]
 
@@ -4924,7 +4924,7 @@
 
 
  
- <i>v.</i> (See [cf. boulder bash](../B#boulder-bash),[bush bash](../B#bush-bash),[etc](../E#etc))
+ <i>v.</i> (See [cf. boulder bash](bla-bri.md#boulder-bash),[bush bash](bri-byo.md#bush-bash),[etc](../E#etc))
 
 >  I've bashed about the land some. <i>(Jan 6, 1906,NZ Truth,29/5/1</i>)
 
@@ -5110,7 +5110,7 @@
 
 ### basket fungus
  
- <i>n.</i> an unpleasant-smelling fungus, <i>Ileodictyon cibarium</i>, that expands to release a latticed structure from a white sphere (also called devil's purse or stink egg, lattice or net fungus, paruwhatitiri, thunder-dirt). (See [paruwhatitiri](../P#paruwhatitiri),[net fungus](../N#net-fungus))
+ <i>n.</i> an unpleasant-smelling fungus, <i>Ileodictyon cibarium</i>, that expands to release a latticed structure from a white sphere (also called devil's purse or stink egg, lattice or net fungus, paruwhatitiri, thunder-dirt). (See [paruwhatitiri](p-per.md#paruwhatitiri),[net fungus](n-new.md#net-fungus))
 
 >  <b>CROWE</b> Basket fungus starts off growing rather like a puffball 3-4 cm wide, but later, when the ball bursts, a white basket-like shape breaks out... The Maori ate the thick gelatinous volva or outer shell when young and before it burst. <i>(1997,Field Guide to Native Edible Plants of NZ,123</i>)
 
@@ -5168,7 +5168,7 @@
 
 ### basking shark
  
- <i>n.</i> reremai [not NZ specific] (See [reremai](../R#reremai))
+ <i>n.</i> reremai [not NZ specific] (See [reremai](red-roa.md#reremai))
 
 >  The basking shark is very large, its length ranging from thirty to thirty-five feet, and it usually gives from five to seven barrels of oil, sometimes much more. <i>(Jan 4, 1870,Daily Southern Cross,3</i>)
 
@@ -5278,7 +5278,7 @@
 
 ### bass groper
  
- <i>n.</i> (See [bass](../B#bass))
+ <i>n.</i> (See [bass](b-bla.md#bass))
 
 ### basshead
  
@@ -5351,7 +5351,7 @@
 
 
  
-<b>2</b> <i>adj.</i> (See [cod](../C#cod),[red; dory; skate; trumpeter](../R#red;-dory;-skate;-trumpeter))
+<b>2</b> <i>adj.</i> (See [cod](chi-con.md#cod),[red; dory; skate; trumpeter](../R#red;-dory;-skate;-trumpeter))
 
 
 
@@ -5722,7 +5722,7 @@
 
 
  
- <i>n.</i> In general sense of a lathe-like piece of timber, not necessarily used for fencing (for board and batten vertically timbered construction, for example); a light strip of wood for fastening or joining items such as fence wires. 2. A thin strip of wood to separate stacked timber. [cf. fillet [OED2 sb1 1. and 2. a scantling; a strip of wood 1658, 1673.]] (See [cf. fillet](../F#fillet))
+ <i>n.</i> In general sense of a lathe-like piece of timber, not necessarily used for fencing (for board and batten vertically timbered construction, for example); a light strip of wood for fastening or joining items such as fence wires. 2. A thin strip of wood to separate stacked timber. [cf. fillet [OED2 sb1 1. and 2. a scantling; a strip of wood 1658, 1673.]] (See [cf. fillet](f69-fin.md#fillet))
 
 >  Biorns and Henry in the Bush cutting battens and fencing the shed. [Feb 9] Biorns putting battens on the shed. <i>(Feb 6, 1844,Piraki Log,148,ed. Anson 1911 ed.</i>)
 
@@ -5938,7 +5938,7 @@
 
 ### battik
  
- <i>n.</i> (See [patiki](../P#patiki))
+ <i>n.</i> (See [patiki](p-per.md#patiki))
 
 ### battle
  
@@ -6152,7 +6152,7 @@
 
 ### bay grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### Bay of Islands tuna
  
@@ -6285,7 +6285,7 @@
 
 ### bayonet plant
  
- <i>n.</i> <i>Aciphylla Lyallii</i> MHG 1883, <i>Aciphylla squarrosa</i> 1885 NZ Country Journal, (Canterbury A & P Ass.) Vol I 1877-XXII 1898 (And) (See [bayonet grass](../B#bayonet-grass))
+ <i>n.</i> <i>Aciphylla Lyallii</i> MHG 1883, <i>Aciphylla squarrosa</i> 1885 NZ Country Journal, (Canterbury A & P Ass.) Vol I 1877-XXII 1898 (And) (See [bayonet grass](b-bla.md#bayonet-grass))
 
 ### Baywatch
  
@@ -6555,7 +6555,7 @@
 
 
  
- <i>n.</i> (See [cf. beach claim](../B#beach-claim))
+ <i>n.</i> (See [cf. beach claim](b-bla.md#beach-claim))
 
 >  Wilson's Beach [Wakamarina, Marlborough] <i>(1856,Evening Post,1/7/2</i>)
 
@@ -6743,7 +6743,7 @@
 
 ### beachcomber
  
- <i>n.</i> A prospector or miner who works black-sand beaches for gold, a new goldfields formation from beach n2. (cf beach claim), and comb @v and comber @n, (cf beacher); and perhaps associated with the older beachcomber 1. above. (See [blacksanding](../B#blacksanding))
+ <i>n.</i> A prospector or miner who works black-sand beaches for gold, a new goldfields formation from beach n2. (cf beach claim), and comb @v and comber @n, (cf beacher); and perhaps associated with the older beachcomber 1. above. (See [blacksanding](bla-bri.md#blacksanding))
 
 >  <b>BATEMAN</b> The small quantity of gold under the boulders, which lie on the sandy beach [on the West Coast, South Island] is generally supposed by gold prospectors, otherwise termed `beach-combers', to be due to the lifting action of the surf. <i>(1881,Colonists,36</i>)
 
@@ -7570,7 +7570,7 @@
 
 
  
- <i>adj.</i> (See [cf. beaut(y) n](../B#beaut(y)-n))
+ <i>adj.</i> (See [cf. beaut(y) n](b-bla.md#beaut(y)-n))
 
 >  <b>ANDERSON & AITKEN</b> ... the noun + y form [e.g. germy, bally] as the preferred method of forming adjectives may help to explain the use of such a word as `beauty' for `beautiful': Beauty smell, eh? Yeah, they're beauty, eh? although here, of course, the meaning of `beauty' is considerably less aesthetic than the Pakeha concept and has little connection with physical beauty or attractiveness. <i>(1965,Speech and Idiom of Maori Children,94,1963 ed.</i>)
 
@@ -7776,7 +7776,7 @@
 
 ### beech bush
  
- <i>n.</i> (See [bush](../B#bush))
+ <i>n.</i> (See [bush](bri-byo.md#bush))
 
 >  In ascending Mount Alta ... the first 2000 feet ... is covered with Beech (Fagus fusca) ... The undergrowth of this Beech bush is composed chiefly of <i>Coprosma lucida</i> ... <i>(1869,TrNZI,1/III/29</i>) [NOTES: (Buchanan Botany Otago)]
 
@@ -7802,7 +7802,7 @@
 
 ### beech fungus
  
- <i>n.</i> (See [fungus](../F#fungus))
+ <i>n.</i> (See [fungus](fly-fuz.md#fungus))
 
 >  <b>DAWSON</b> ...silver beech is the only species attacked by a fungus, <i>Cytaria</i>, whose orangey, golf-ball-like fruiting bodies may be abundant on the branches of some trees; ... <i>(1988,Forest Vines to Snow Tussocks,123</i>)
 
@@ -8237,7 +8237,7 @@
 
 ### beggars on coals
  
- <i>phr.</i> damper (See [cf. buggers afloat](../B#buggers-afloat))
+ <i>phr.</i> damper (See [cf. buggers afloat](bri-byo.md#buggers-afloat))
 
 >  <b>MONEY3</b> These and other employments, such as baking my dampers, or "beggars on coals," exploring the creeks that came tumbling down the wooded precipices on every side, snaring the wood-hens, mending and washing my clothes, kept my time fully occupied. <i>(1871,Knocking About in NZ,31</i>)
 
@@ -8355,7 +8355,7 @@
 
 ### Belgium sausage
  
- <i>n.</i> variant of Belgian sausage (See [also German sausage](../A#also-german-sausage),[luncheon sausage](../L#luncheon-sausage))
+ <i>n.</i> variant of Belgian sausage (See [also German sausage](../A#also-german-sausage),[luncheon sausage](liv-lyn.md#luncheon-sausage))
 
 >  <b>MARSHALL</b> He ate damaged cheese, ... furrowed snouts of Belgium sausage rolls that were left lying by the slicer. <i>(1984,Day Hemingway Died, The,44</i>) [NOTES: (The Spendthrift)]
 
@@ -8375,7 +8375,7 @@
 
 ### bell climber
  
- <i>n.</i> bell vine, bindweed, pohue [ca1936 (Vernac) Manawatu (Andersen) <i>Calystegia sepium </i>] (See [convolvulus](../C#convolvulus))
+ <i>n.</i> bell vine, bindweed, pohue [ca1936 (Vernac) Manawatu (Andersen) <i>Calystegia sepium </i>] (See [convolvulus](con-cyp.md#convolvulus))
 
 ### bell crusher
  
@@ -8613,7 +8613,7 @@
 
 ### bellies
  
- <i>n.</i> (See [belly](../B#belly))
+ <i>n.</i> (See [belly](b-bla.md#belly))
 
 ### bellman
  
@@ -8802,7 +8802,7 @@
 
 ### belly
  
- <i>n.</i> (Rural) the thick portion of a stockwhip, located on the middle of the lash. (See [belly-wool](../B#belly-wool))
+ <i>n.</i> (Rural) the thick portion of a stockwhip, located on the middle of the lash. (See [belly-wool](b-bla.md#belly-wool))
 
 >  Belly... The thick part of the lash of a stock whip ... <i>(Sep 9, 1933,Press, The  (Acland Glossary),15</i>)
 
@@ -8883,7 +8883,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) belly wool removed from the underside of sheep. (See [belly-wool](../B#belly-wool))
+<b>1</b> <i>n.</i> (Rural) belly wool removed from the underside of sheep. (See [belly-wool](b-bla.md#belly-wool))
 
 >  .. last year my clip, including pieces, bellies and locks, averaged gross in Timaru ... <i>(1906,Farmers' Union Advocate,9</i>)
 
@@ -8903,7 +8903,7 @@
 
 ### belly board
  
- <i>n.</i> a small surfboard (See [flutterboard](../F#flutterboard))
+ <i>n.</i> a small surfboard (See [flutterboard](fin-fly.md#flutterboard))
 
 >  Summer days were spent on flutterboards and hastily constructed wooden "belly-boards". <i>(Jun 17, 2000,Listener (New Zealand Listener),46</i>)
 
@@ -9349,13 +9349,13 @@
 
 ### bent
  
- <i>adj.</i> broke (a humorous formation on, or variant of, `broke', perhaps occas. means `slightly broke') (See [cf. bust(ed)](../B#bust(ed)))
+ <i>adj.</i> broke (a humorous formation on, or variant of, `broke', perhaps occas. means `slightly broke') (See [cf. bust(ed)](bri-byo.md#bust(ed)))
 
 >  `What ho, Jenny, how yer holding?'/ `Blime, can't yer see I'm bent?/ I haven't made enough this week/ For to pay the bloomin' rent'. <i>(1926,Transport Workers' Song Book,11</i>)
 
 ### bent leg
  
-<b>1</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, particularly in Marlborough and Canterbury back country. (See [bowie](../B#bowie))
+<b>1</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, particularly in Marlborough and Canterbury back country. (See [bowie](bla-bri.md#bowie))
 
 >  <b>NZ VET ASSN</b> Osteodystrophic diseases of sheep in New Zealand: 'bowie' or 'bent leg'. <i>(1971,Diseases of Domestic Animals in New Zealand,215</i>)
 
@@ -9466,7 +9466,7 @@
 
 ### berkers
  
- <i>adj.</i> (See [berko](../B#berko))
+ <i>adj.</i> (See [berko](b-bla.md#berko))
 
 ### Berkie
  
@@ -9754,7 +9754,7 @@
 
 ### bible
  
- <i>n.</i> [also Bible leaves, ?book of sealskins] (See [cf. book](../B#book))
+ <i>n.</i> [also Bible leaves, ?book of sealskins] (See [cf. book](bla-bri.md#book))
 
 >  ... omasums, or more commonly known as `bibles' or `books', these being the third stomach of a beast, and occur in slaughterhouse wastes. <i>(1949,Report of Royal Comm. Sheep-Farming Industry,96</i>)
 
@@ -10203,7 +10203,7 @@
 
 ### Big Blue, the
  
- <i>phr.</i> (informal) the 1951 waterfront dispute (See [blue = argument](../B#blue-=-argument),[fight](../F#fight))
+ <i>phr.</i> (informal) the 1951 waterfront dispute (See [blue = argument](../B#blue-=-argument),[fight](f69-fin.md#fight))
 
 >  For 151 days 8000 watersiders stood up to the National Government and their employers in the great 1951 waterfront lockout - the Big Blue. <i>(Feb 10, 2001,Evening Post,27</i>)
 
@@ -10298,7 +10298,7 @@
 
 
  
- <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See [BDO](../B#bdo))
+ <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See [BDO](b-bla.md#bdo))
 
 >  Every year hundreds of Wellingtonians make the pilgrimage north to Auckland to thrash their heads in the Big Day Out mosh pit, as well as soak up some northern rays... The first ever Big Day Out, in 1992, was headline by bands Smashing Pumpkin and Soundgarden and over the years many top international acts have come over. <i>(Dec 19, 2001,Capital Times,8</i>)
 
@@ -10318,7 +10318,7 @@
 
 ### big farmer
  
-<b>1</b> <i>n.</i> (Rural) a person owning and farming a large area of land. (See [big bug](../B#big-bug))
+<b>1</b> <i>n.</i> (Rural) a person owning and farming a large area of land. (See [big bug](b-bla.md#big-bug))
 
 >  Thanks to Mr Moyle's new policy, big farmers will be able to split up the farms of neighbours in trouble. <i>(Sep 1985,NZ Journal of Agriculture,44</i>)
 
@@ -10386,7 +10386,7 @@
 
 ### big huey
  
- <i>n.</i> (See [hui](../H#hui))
+ <i>n.</i> (See [hui](hom-hyp.md#hui))
 
 ### big Huey, the
  
@@ -10432,7 +10432,7 @@
 
 ### big OE
  
- <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See [OE](../O#oe))
+ <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See [OE](o-on.md#oe))
 
 >  The big OE must be one of our most enduring cliches, provoking images of grimly carousing, hazy patriotic sentiment and sweat-annotated <i>Lonely Planets</i>. <i>(Sep 2, 2000,Listener (New Zealand Listener),47</i>)
 
@@ -10628,7 +10628,7 @@
 
 ### big spit
  
- <i>n.</i> (the big spit) a vomit, a spew (See [cf. technicolour yawn](../T#technicolour-yawn))
+ <i>n.</i> (the big spit) a vomit, a spew (See [cf. technicolour yawn](t-ten.md#technicolour-yawn))
 
 >  <b>V O'SULLIVAN</b> A Maori says: `I'm going outside for the big spit'. <i>(1960,Personal Communication</i>)
 
@@ -11145,7 +11145,7 @@
 
 
  
- <i>n.</i> a billy goat, used in NZ (from 1849 and earlier in Cook?) as elsewhere in English; (See [billy goat](../B#billy-goat))
+ <i>n.</i> a billy goat, used in NZ (from 1849 and earlier in Cook?) as elsewhere in English; (See [billy goat](b-bla.md#billy-goat))
 
 >  <b>HENDERSON</b> Chaffey came over one day to Les Waghorn's dad saying: `I've brought you over a bit of young billy.' <i>(1981,Exiles of Asbestos Cottage, The,81</i>)
 
@@ -11231,7 +11231,7 @@
 
 
  
- <i>n.</i> (Rural) 1. a worker who mixes and distributes billies of burgoo or Ship's Lime to harvesting teams, working in hot, dry conditions [1850s to 1930s]. 2. a person who collects/delivers smoko materials or makes tea in shearing sheds. (See [billy time](../B#billy-time))
+ <i>n.</i> (Rural) 1. a worker who mixes and distributes billies of burgoo or Ship's Lime to harvesting teams, working in hot, dry conditions [1850s to 1930s]. 2. a person who collects/delivers smoko materials or makes tea in shearing sheds. (See [billy time](b-bla.md#billy-time))
 
 >  Here you find boys of scarce fourteen eager to take on a job as billy-boy, a by no means enviable task. <i>(May 1909,NZ Farmer,338</i>)
 
@@ -11243,7 +11243,7 @@
 
 ### billy bread
  
- <i>n.</i> bread baked in a billy over a fire, bread baked orig. in a billy using it as a kind of camp oven (See [cf. billy loaf](../B#billy-loaf))
+ <i>n.</i> bread baked in a billy over a fire, bread baked orig. in a billy using it as a kind of camp oven (See [cf. billy loaf](b-bla.md#billy-loaf))
 
 >  <b>McKAY</b> <i>BROWN BILLY BREAD </i>wheatmeal ... baking powder ... salt ... treacle ... cream and milk ... Let the mixture rise in billy ten minutes (on the rack) before baking. <i>(1929,Practical Home Cookery,176</i>)
 
@@ -11259,7 +11259,7 @@
 
 ### billy cake
  
- <i>n.</i> a cake baked in a billy (See [cf. billy sponge](../B#billy-sponge))
+ <i>n.</i> a cake baked in a billy (See [cf. billy sponge](b-bla.md#billy-sponge))
 
 >  <i>BILLY CAKE</i> ... flour ... sugar ... butter ... sultanas or currants ... baking powder ... milk ... egg ... place in billy, and bake ... until cooked. <i>(1924,Help the Babies Cookery Book,113</i>)
 
@@ -11267,7 +11267,7 @@
 
 ### billy can
  
- <i>n.</i> a billy (See [billy](../B#billy))
+ <i>n.</i> a billy (See [billy](b-bla.md#billy))
 
 >  <b>KOEBEL</b> A request for water to fill his billy-can. <i>(1907,Return of Joe,13</i>)
 
@@ -11353,7 +11353,7 @@
 
 ### billy sponge
  
- <i>n.</i> originally made in a billy (See [cf. billy cake](../B#billy-cake))
+ <i>n.</i> originally made in a billy (See [cf. billy cake](b-bla.md#billy-cake))
 
 >  <b>McCREDIE</b> BILLY SPONGE CAKE ... Have ready a 3-quart billy with buttered paper; cook with lid on 1 1/2 hours. Do not have fire too fierce and do not take lid off till the cake comes out. <i>(1915,Bungalow Recipe Book, The,67</i>)
 
@@ -11752,7 +11752,7 @@
 
 ### bindweed
  
- <i>n.</i> [OED2 1. The English name for the species of the N[atural] O[rder] <i>Convolvulus</i>; as Greater Bindweed (<i>C. sepium</i>), Lesser Bindweed (<i>C. arvensis</i>), Seaside Bindweed (<i>C. Soldanella</i>). 2. Applied dialectally or vaguely to various other climbing plants ... 3. <i>black, corn</i>, or<i> ivy bindweed</i> Polygonum Convolvulus; <i>Blue Bindweed </i>Bittersweet or Woody Nightshade. [17-18c.].] In NZ applied to various genera of climbing or .... plants, chiefly of the family Convolvulaceae, esp <i>Calystegia sepium </i> see also greater bindweed [check that this is still admitted]. [Note from ed. AND in response to query are there native bindweeds in Aust. 1986. Yes, three native (2 of which endemic) spp. of <i>Convolvulus</i>. However OED definition (`The English name for the species of the N[atural] O[rder] <i>Convolvulus'</i>) covers our use of the word, so we haven't needed to make an entry. (1 quot only Mitchell 1848; 1 fig 1965).] (See [convolvulus](../C#convolvulus))
+ <i>n.</i> [OED2 1. The English name for the species of the N[atural] O[rder] <i>Convolvulus</i>; as Greater Bindweed (<i>C. sepium</i>), Lesser Bindweed (<i>C. arvensis</i>), Seaside Bindweed (<i>C. Soldanella</i>). 2. Applied dialectally or vaguely to various other climbing plants ... 3. <i>black, corn</i>, or<i> ivy bindweed</i> Polygonum Convolvulus; <i>Blue Bindweed </i>Bittersweet or Woody Nightshade. [17-18c.].] In NZ applied to various genera of climbing or .... plants, chiefly of the family Convolvulaceae, esp <i>Calystegia sepium </i> see also greater bindweed [check that this is still admitted]. [Note from ed. AND in response to query are there native bindweeds in Aust. 1986. Yes, three native (2 of which endemic) spp. of <i>Convolvulus</i>. However OED definition (`The English name for the species of the N[atural] O[rder] <i>Convolvulus'</i>) covers our use of the word, so we haven't needed to make an entry. (1 quot only Mitchell 1848; 1 fig 1965).] (See [convolvulus](con-cyp.md#convolvulus))
 
 
 
@@ -12138,7 +12138,7 @@
 
 
  
- <i>n.</i> prisoner, jailbird (See [cf. budgie cage](../B#budgie-cage))
+ <i>n.</i> prisoner, jailbird (See [cf. budgie cage](bri-byo.md#budgie-cage))
 
 >  The `Harmy' [sc. Salvation Army] always hangs around `Prison Gates' to get hold of discharged `birds' to give them a helping hand, and by the elderly Henry if the released prisoner accepts their help he pays for it with the sweat of his brow. <i>(May 2, 1908,NZ Truth,150/1/5</i>)
 
@@ -12190,7 +12190,7 @@
 
 ### bird-catching plant
  
- <i>n.</i> parapara, <i>Heimerliodendron brunonianum</i> (See [parapara](../P#parapara),[bird-catcher](../B#bird-catcher))
+ <i>n.</i> parapara, <i>Heimerliodendron brunonianum</i> (See [parapara](p-per.md#parapara),[bird-catcher](../B#bird-catcher))
 
 >  Some mysterious person every year at this season breaks off the branches of the bird-catching tree in Pukekura Park.. so that it cannot trap birds or insects. <i>(Jul 26, 1943,NZEF Times,III/109 : 11</i>)
 
@@ -12320,7 +12320,7 @@
 
 
  
- <i>n.</i> one who catches seabirds for food. (See [cf. muttonbirder](../M#muttonbirder))
+ <i>n.</i> one who catches seabirds for food. (See [cf. muttonbirder](mob-mys.md#muttonbirder))
 
 >  Birders were going "torching" - searching for their prey in the dark - and were walking long distances to find anything. <i>(Apr 29, 2009,Southland Times,3</i>)
 
@@ -12377,7 +12377,7 @@
 
 ### birdsfoot trefoil
  
- <i>n.</i> (See [trefoil](../T#trefoil))
+ <i>n.</i> (See [trefoil](tot-tyr.md#trefoil))
 
 ### birdsmouth
  
@@ -12387,7 +12387,7 @@
 
 ### birl
  
- <i>n.</i> (informal) a spin: `let's go for a birl in the car', give it a birl, to give something a try (See [burl](../B#burl))
+ <i>n.</i> (informal) a spin: `let's go for a birl in the car', give it a birl, to give something a try (See [burl](bri-byo.md#burl))
 
 ### biscuit
  
@@ -12417,7 +12417,7 @@
 
 
  
- <i>n.</i> in early use often is `ship's biscuit'; (See [cabin biscuit](../C#cabin-biscuit),[cabin bread](../C#cabin-bread))
+ <i>n.</i> in early use often is `ship's biscuit'; (See [cabin biscuit](c-chi.md#cabin-biscuit),[cabin bread](c-chi.md#cabin-bread))
 
 >  <b>LELAND</b> Any sort or COOKIE or CRACKER is a biscuit. What you think is a biscuit is a scone. <i>(1980,Personal Kiwi-Yankee Dictionary, A,14</i>)
 
@@ -12498,7 +12498,7 @@
 
 ### bit of dirt
  
-<b>1</b> <i>n.</i> (Rural) a farm, or land. (See [bit of dirt](../B#bit-of-dirt),[get one's own](../G#get-one's-own))
+<b>1</b> <i>n.</i> (Rural) a farm, or land. (See [bit of dirt](b-bla.md#bit-of-dirt),[get one's own](../G#get-one's-own))
 
 >  <b>NEWTON</b> .. and claimed by the people of that locality to be the best bit of dirt in the country. <i>(1969,Big Country of the North Island,240</i>)
 
@@ -12657,7 +12657,7 @@
 
 ### bitsa
  
- <i>v.</i> (See [bitzer](../B#bitzer))
+ <i>v.</i> (See [bitzer](b-bla.md#bitzer))
 
 ### bitter cress
  
@@ -12750,7 +12750,7 @@
 
 ### bitty grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### bitumen
  
@@ -12822,7 +12822,7 @@
 
 ### biv
  
- <i>n.</i> (Sport, informal) a hut, or tent etc. built or used as a temporary shelter; and esp. as bivvy (or biv) freq. among outdoors people for a purpose-built rough shelter or sheltered camping place. [ORIGIN: abbreviation, Google search Nov 2006: NZ 20 , Austral 0, UK 0 hits.] (See [bivouac](../B#bivouac),[bivvy](../B#bivvy))
+ <i>n.</i> (Sport, informal) a hut, or tent etc. built or used as a temporary shelter; and esp. as bivvy (or biv) freq. among outdoors people for a purpose-built rough shelter or sheltered camping place. [ORIGIN: abbreviation, Google search Nov 2006: NZ 20 , Austral 0, UK 0 hits.] (See [bivouac](b-bla.md#bivouac),[bivvy](b-bla.md#bivvy))
 
 >  From the biv, easy travel through increasingly attractive beech forest leads down to old river terraces on the true right of the Hurunui. <i>(Sep 2008,NZ Geographic,28</i>)
 
@@ -13003,7 +13003,7 @@
 
 
  
- <i>n.</i> (See [cf. blue](../B#blue))
+ <i>n.</i> (See [cf. blue](bla-bri.md#blue))
 
 >  <b>SLATTER</b> I couldn't go back to the goods shed either. They wouldn't have me after the black I put up. <i>(1959,Gun in My Hand, A,192</i>) [NOTES: Perhaps from P5 3. `A black mark for doing something badly' -->H and P services since ca1955 `I have put up a black' PS RAF officers]
 
@@ -13173,7 +13173,7 @@
 
 ### black billy tea
  
- <i>n.</i> (See [billy](../B#billy))
+ <i>n.</i> (See [billy](b-bla.md#billy))
 
 >  Anybody who stopped by his camp was always sure of a good feed and a cup of black billy tea. <i>(1955,Authentic NZ Ballads,00</i>) [NOTES: Sleeve notes]
 
@@ -13715,13 +13715,13 @@
 
 ### black iron
  
- <i>n.</i> ungalvanised iron (wire) (See [cf. black wire](../B#black-wire))
+ <i>n.</i> ungalvanised iron (wire) (See [cf. black wire](bla-bri.md#black-wire))
 
 >  (2.) Batten and wire fence, at least 3 ft. 9 in. high, of substantial material, firmly erected, with one or more wires, not lighter than No. 8 in steel, or black or galvanised iron; battens either driven securely into the ground and securely stapled, or intertwined in wires in an upright position, and not more than 3 in. apart. <i>(1902,Settler's Handbook of NZ, The,161</i>) [NOTES: 1895 Fencing Act in 1902 Settler's Handbook of NZ 161]
 
 ### black job
  
- <i>n.</i> a dark-skinned person (Maori, Hindu, black) [ca1940 Wellington] (See [cf. blackacre](../B#blackacre),[brown job](../B#brown-job))
+ <i>n.</i> a dark-skinned person (Maori, Hindu, black) [ca1940 Wellington] (See [cf. blackacre](bla-bri.md#blackacre),[brown job](../B#brown-job))
 
 ### Black Joe
  

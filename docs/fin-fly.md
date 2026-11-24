@@ -809,7 +809,7 @@
 
 ### first farm
  
-<b>1</b> <i>n.</i> (Rural) a farming property that is in need of development and can be purchased with little capital. (See [entry level farm](../E#entry-level-farm))
+<b>1</b> <i>n.</i> (Rural) a farming property that is in need of development and can be purchased with little capital. (See [entry level farm](ens-eye.md#entry-level-farm))
 
 >  .. 38 paddocks. Ideal first farm. <i>(May 12, 1993,NZ Farmer,31</i>)
 
@@ -1589,7 +1589,7 @@
 
 ### five-fingered Jack
  
- <i>n.</i> <i>Neopanax arboreum</i> [(obs.)] (See [five-finger](../F#five-finger))
+ <i>n.</i> <i>Neopanax arboreum</i> [(obs.)] (See [five-finger](fin-fly.md#five-finger))
 
 >  Broadleaf [fn <i>Griselinia littoralis</i>.], five-fingered Jack [fn <i>Panax arboreum</i>.], lacebark [fn <i>Hoheria angustifolia</i> and <i>Plagianthus betulinus</i>.], matipo [fn <i>Pittosporum</i>.], red matipo [fn <i>Myrsine urvillei</i>.], New Zealand coffee [fn Species of <i>Coprosma</i>.], titoki or native ash [fn <i>Alectryon excelsum</i>.], and the totara pine [fn <i>Podocarpus totara</i>.] jostle one another in the dense dry bush. Five-fingered Jack (<i>Panax arborium</i>) ... <i>(1900,Canterbury Old & New,184</i>)
 
@@ -2147,7 +2147,7 @@
 
 ### flannel-leaf
  
- <i>n.</i> <i>Verbascum thapsus</i>, Aaron's rod, golden rod, mullein, native tobacco, tobacco plant, velvet, wooly mullein (See [mullein](../M#mullein))
+ <i>n.</i> <i>Verbascum thapsus</i>, Aaron's rod, golden rod, mullein, native tobacco, tobacco plant, velvet, wooly mullein (See [mullein](mob-mys.md#mullein))
 
 >  <b>HILGENDORF</b> FLANNEL LEAF (<i>Verbascum thapsus</i>) is commonly called mullein in England, and is frequently so called here as well. Its commonest local name is probably tobacco plant, or native tobacco, a name for which there is no justification in either appearance or use. Velvet mullein, woolly mullein, golden rod, and Aaron's rod are other appellations, but flannel leaf, one of the common sheep-station names is both descriptive and distinctive. The plant is found in dry soil and river beds ... in both islands. <i>(1926,Weeds of New Zealand,155,1967 ed.</i>)
 
@@ -2391,7 +2391,7 @@
 
 ### flashpackers
  
- <i>n.</i> an upmarket backpackers [-] (See [flashpacker](../F#flashpacker))
+ <i>n.</i> an upmarket backpackers [-] (See [flashpacker](fin-fly.md#flashpacker))
 
 >  Dubbed a "flashpackers", the Nomads capital aims to bridge the gap between more expensive hotels and basic backpackers' accommodation. <i>(Jun 28, 2005,Dominion Post,C3</i>)
 
@@ -2879,7 +2879,7 @@
 
 ### flattening paddock
  
-<b>1</b> <i>n.</i> (Rural) a fenced area on which scrub and fern has to be flattened by stock before cultivation. (See [hoof and tooth treatment](../H#hoof-and-tooth-treatment))
+<b>1</b> <i>n.</i> (Rural) a fenced area on which scrub and fern has to be flattened by stock before cultivation. (See [hoof and tooth treatment](hom-hyp.md#hoof-and-tooth-treatment))
 
 >  Several pens of big bullocks were yarded, but most of them had not the age or were not forward enough for the flattening paddock, and prices offered did not approach vendors' reserves. <i>(Apr 18, 1896,Hawera Star,2</i>)
 
@@ -3212,7 +3212,7 @@
 
 ### flax basket
  
- <i>n.</i> a basket made of flax (not for flax) (See [kete](../K#kete),[kit](../K#kit))
+ <i>n.</i> a basket made of flax (not for flax) (See [kete](kee-kiw.md#kete),[kit](kee-kiw.md#kit))
 
 >  <b>YATE</b> half fill their flax-baskets with stones ... Can Europeans be surprised that the New Zealanders should pay them in their own coin; that they should half fill their flax baskets with stones to increase the weight, ... <i>(1835,New Zealand (various authors/titles),31</i>) [NOTES: (Griffiths Collection)]
 
@@ -3339,7 +3339,7 @@
 
 ### flax kit
  
- <i>n.</i> (See [kete](../K#kete))
+ <i>n.</i> (See [kete](kee-kiw.md#kete))
 
 >  She carried with her a flax kit of kumaras, ... and struggled through the bush tracks, loaded with her heavy kits, taking three days to reach the school. <i>(1940,Tales of Pioneer Women,33,1988 ed.</i>)
 
@@ -3959,7 +3959,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a dry flower stem of Phormium tenax, used by Maori and early European settlers for fences, raft-making and fire building. (See [korari](../K#korari))
+<b>1</b> <i>n.</i> (Rural) a dry flower stem of Phormium tenax, used by Maori and early European settlers for fences, raft-making and fire building. (See [korari](kiw-kwi.md#korari))
 
 >  <b>WOODHOUSE</b> .. there was no boat, so they collected bundles of dry flax sticks, tied them together into a 'moki' and crossed the river on that. <i>(1988,Tales of Pioneer Women,119</i>)
 
@@ -4180,7 +4180,7 @@
 
 ### fleece picker
  
-<b>1</b> <i>n.</i> (Rural) a shedhand who picks up shorn fleeces from a shearing board. (See [picker](../P#picker))
+<b>1</b> <i>n.</i> (Rural) a shedhand who picks up shorn fleeces from a shearing board. (See [picker](per-pop.md#picker))
 
 >  <b>DEANS</b> Two fleece pickers handled the wool from the twenty shearers, a considerable feat ... <i>(1964,Pioneers on Port Cooper Plains,113</i>)
 
@@ -4487,7 +4487,7 @@
 
 
  
- <i>v.</i> to abandon, dump (See [give the flick to](../G#give-the-flick-to))
+ <i>v.</i> to abandon, dump (See [give the flick to](g-go.md#give-the-flick-to))
 
 >  That doesn't mean that you flick Changing Rooms, for example, because there is an audience for programmes like that. <i>(Feb 16, 2002,Evening Post,25</i>)
 
@@ -4663,7 +4663,7 @@
 
 
  
- <i>n.</i> a vehicle for transporting horses [horse float Jim Cameron writes: Collins gives this as <i>Austral & NZ</i>. NSOD defines <i>float</i> in this context as a broad level shallow means of transportation and also as a low bodied battery-powered vehicle for delivering milk ("also <i>milk float</i>"). The NZ horse float is a high and narrow trailer. The first NSOD definition describes what in the 309s and 40s was known to me as a milk float - a low flat horse-drawn trailer.] (See [horse float](../H#horse-float))
+ <i>n.</i> a vehicle for transporting horses [horse float Jim Cameron writes: Collins gives this as <i>Austral & NZ</i>. NSOD defines <i>float</i> in this context as a broad level shallow means of transportation and also as a low bodied battery-powered vehicle for delivering milk ("also <i>milk float</i>"). The NZ horse float is a high and narrow trailer. The first NSOD definition describes what in the 309s and 40s was known to me as a milk float - a low flat horse-drawn trailer.] (See [horse float](hom-hyp.md#horse-float))
 
 >  <b>KEITH</b> One suburban sound of the 1940s, now completely vanished from New Zealand streets, was that of food vendors: the rabbito and the whitebait seller and the clip-clopping hooves of the milko's horse-drawn float - as the milk waggon was called. <i>(1991,Lovely Day Tomorrow, A,41</i>)
 
@@ -5255,7 +5255,7 @@
 
 ### flour and sugar
  
- <i>phr.</i> (See [flour and sugar policy](../F#flour-and-sugar-policy))
+ <i>phr.</i> (See [flour and sugar policy](fin-fly.md#flour-and-sugar-policy))
 
 >  He had become the possessor of a fine new double-seated buggy, presented to him by the beneficent "flour and sugar" Government. <i>(Dec 1912,NZ Free Lance,Xmas Annual : 35</i>)
 
@@ -5269,7 +5269,7 @@
 
 ### flour and sugar policy
  
- <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](../A#also-flour-and-blanket-policy),[sugar and flour policy](../S#sugar-and-flour-policy))
+ <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](../A#also-flour-and-blanket-policy),[sugar and flour policy](spa-sys.md#sugar-and-flour-policy))
 
 >  <b>TROLLOPE</b> The flour-and-sugar-policy is the nickname given to the practice by which the Government bribes the tribes into submission. <i>(1874,New Zealand (various authors/titles),156</i>)
 
@@ -5697,7 +5697,7 @@
 
 ### fly biscuit
  
- <i>n.</i> (See [fly cemetery](../F#fly-cemetery))
+ <i>n.</i> (See [fly cemetery](fin-fly.md#fly-cemetery))
 
 >  Charles Lush, of Parnell, Auckland, on January 22, 1864, wrote in his diary about his activities that day, including, "... I also bought two penny worth of fly kooks for Martin." Alison Drummond, the editor of the <i>Waikato Journals of Vicesimus Lush</i> (Pegasus Press, 1982) in which this entry is printed, identifies "fly kooks" as "cookies, know to generations of children as 'squashed fly biscuits'" <i>(Mar 2, 2002,Listener (New Zealand Listener),9</i>)
 
@@ -6046,7 +6046,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) sheep that are bought, conditioned and sold within a short time. (See [flying stock](../F#flying-stock))
+<b>1</b> <i>n.</i> (Rural) sheep that are bought, conditioned and sold within a short time. (See [flying stock](fin-fly.md#flying-stock))
 
 >  <b>PERRY</b> Many farmers on the plains do not keep a permanent flock but what is termed a 'flying flock.' <i>(1922,Sheep Farming in NZ,10</i>)
 
@@ -6178,7 +6178,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) stock bought in to be conditioned and sold. (See [flying flock](../F#flying-flock))
+<b>1</b> <i>n.</i> (Rural) stock bought in to be conditioned and sold. (See [flying flock](fin-fly.md#flying-flock))
 
 >  <b>MCDONALD</b> When the intensive sheep farm is small and the soil good a system of 'flying stock' farming may only be pursued. <i>(1915,NZ Sheepfarming,66</i>)
 

@@ -462,7 +462,7 @@
 
 ### goa
  
- <i>n.</i> (See [kowhai](../K#kowhai))
+ <i>n.</i> (See [kowhai](kiw-kwi.md#kowhai))
 
 ### goad-boy
  
@@ -713,7 +713,7 @@
 
 ### God's own
  
- <i>n.</i> ellipsis of God's own country [also citations for full form below] (See [Godzone](../G#godzone))
+ <i>n.</i> ellipsis of God's own country [also citations for full form below] (See [Godzone](go-gra.md#godzone))
 
 >  Like the USA and Australia before it, New Zealand was more than a hundred years ago christened <i>God's Own Country</i>... (<i>DNZE</i> also records the ephemeral variants <i>God's</i> or <i>Ward's Loan Country</i> from the freely borrowing period of Seddon's immediate successor... Shortening quickly produced <i>God's Own</i>, respelt in the 1960s as <i>Godzone</i> (</i>Gordzone, God-Zone</i>, etc.), neatly reintroducing a term of place into the name. <i>(Oct 2000,NZWords,4 : 10</i>)
 
@@ -983,7 +983,7 @@
 
 ### goffy
  
- <i>n.</i> hiwihiwi, kelp fish (northern), (See [hiwihiwi](../H#hiwihiwi))
+ <i>n.</i> hiwihiwi, kelp fish (northern), (See [hiwihiwi](hea-hom.md#hiwihiwi))
 
 >  <b>NATUSCH</b> Family CHEILODACTYLIDAE. [The] goffy or hiwihiwi or norther kelp fish, Chironemus marmoratus , an olive-brown fish brindled with green, red or brown, is commonest in the far north; ... <i>(1967,Animals of NZ, The,222</i>)
 
@@ -995,7 +995,7 @@
 
 ### goi
  
- <i>adj.</i> kowhai (See [kowhai](../K#kowhai))
+ <i>adj.</i> kowhai (See [kowhai](kiw-kwi.md#kowhai))
 
 >  20,000 Bricks, Goi Coggs, Manuka and Goi House Piles. <i>(Apr 13, 1861,Otago Witness,4</i>)
 
@@ -1004,7 +1004,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) kowhai, <i>Sophora tetraptera</i> and <i>Sophora microphylla</i> [corruption of Ma. kowhai.] (See [ghoi](../G#ghoi))
+<b>1</b> <i>n.</i> (Rural) kowhai, <i>Sophora tetraptera</i> and <i>Sophora microphylla</i> [corruption of Ma. kowhai.] (See [ghoi](g-go.md#ghoi))
 
 >  <b>MURISON</b> C, D and F went and broke down and brought home dead 'Goi' enough for several days. <i>(1860,Puketoi Station Diary,08,06 ed.</i>)
 
@@ -1093,7 +1093,7 @@
 
 ### Gold Commissioner
  
- <i>n.</i> (See [Commissioner](../C#commissioner))
+ <i>n.</i> (See [Commissioner](chi-con.md#commissioner))
 
 ### gold diggings
  
@@ -1718,7 +1718,7 @@
 
 ### golden rod
  
-<b>1</b> <i>n.</i> <i>Verbascum thapsus</i> flannel leaf (See [mullein](../M#mullein))
+<b>1</b> <i>n.</i> <i>Verbascum thapsus</i> flannel leaf (See [mullein](mob-mys.md#mullein))
 
 >  <b>HILGENDORF</b> FLANNEL LEAF (Verbascum thapsus ) is commonly called mullein in England, and is frequently so called here as well. Its commonest local name is probably tobacco plant, or native tobacco, a name for which there is no justification in either appearance or use. Velvet mullein woolly mullein, golden rod, and Aaron's rod are other appellations, but flannel leaf, one of the common sheep-station names is both descriptive and distinctive. The plant is found in dry soil and river beds . . . in both islands. <i>(1926,Weeds of New Zealand,155,1967 ed.</i>)
 
@@ -1770,7 +1770,7 @@
 
 ### golden snapper
  
-<b>2</b> <i>n.</i> (Marine) (See [snapper](../S#snapper))
+<b>2</b> <i>n.</i> (Marine) (See [snapper](sho-spa.md#snapper))
 
 >  Our Port Chalmers correspondent records the capture of a strange fish off Murdering Beach, about a mile west of the Otago Heads. It is described a resembling somewhat the Golden Schnapper; it is of a bright red colour with very fine hard scales; and weighs three pounds. <i>(Aug 9, 1873,Otago Witness,14</i>)
 
@@ -2053,7 +2053,7 @@
 
 ### gone in the mouth
  
-<b>1</b> <i>phr.</i> (Rural) 1. [of stock] old and lacking teeth. 2. [a person] elderly. (See [gummy](../G#gummy))
+<b>1</b> <i>phr.</i> (Rural) 1. [of stock] old and lacking teeth. 2. [a person] elderly. (See [gummy](gra-gyp.md#gummy))
 
 >  <b>NEWTON</b> Anything gone in the mouth had been dotted and these were run off and penned on their own. 2. <i>(1949,High Country Days,117</i>)
 
@@ -2274,7 +2274,7 @@
 
 ### good keen bloke
  
- <i>n.</i> (See [good keen man](../G#good-keen-man))
+ <i>n.</i> (See [good keen man](go-gra.md#good-keen-man))
 
 >  Harold Blair, curator and panel beater, was the Good Keen Bloke of Wellington's light aircraft fraternity. <i>(Jul 1, 1999,Evening Post,5</i>)
 
@@ -2356,7 +2356,7 @@
 
 ### good oil
  
- <i>n.</i> (See [oil](../O#oil))
+ <i>n.</i> (See [oil](o-on.md#oil))
 
 ### good on you/good on ya
  
@@ -2478,7 +2478,7 @@
 
 ### good-mouth
  
- <i>n.</i> (Rural) a full-mouth sheep [attrib. use below] (See [full-mouth](../F#full-mouth))
+ <i>n.</i> (Rural) a full-mouth sheep [attrib. use below] (See [full-mouth](fly-fuz.md#full-mouth))
 
 >  Good-mouth ewes and lambs changed hands at up to 59/- <i>(Nov 8, 1951,NZ Farmer,42</i>)
 
@@ -2659,7 +2659,7 @@
 
 ### goody-o
  
- <i>exclam.</i> [1958 Feb heard at Hokitika: p.c. R. Mason] (See [good-oh](../G#good-oh))
+ <i>exclam.</i> [1958 Feb heard at Hokitika: p.c. R. Mason] (See [good-oh](go-gra.md#good-oh))
 
 >  <b>WINKS</b> `Too right' especially common in North Auckland, and `goody-oh' are two fascinating phrases [for Americans]. <i>(1954,These New Zealanders,54,1956 ed.</i>)
 
@@ -2755,7 +2755,7 @@
 
 ### goomalia
  
- <i>n.</i> (See [kumara](../K#kumara))
+ <i>n.</i> (See [kumara](kiw-kwi.md#kumara))
 
 ### goon
  
@@ -2814,7 +2814,7 @@
 
 
  
- <i>n.</i> variant of kuri (See [kuri](../K#kuri))
+ <i>n.</i> variant of kuri (See [kuri](kiw-kwi.md#kuri))
 
 >  An irredeemable ratbag was a "filthy goory". <i>(Aug 11, 2004,Capital Times,2</i>)
 
@@ -2880,7 +2880,7 @@
 
 
  
-<b>3</b> <i>n.</i> (See [colonial goose](../C#colonial-goose))
+<b>3</b> <i>n.</i> (See [colonial goose](chi-con.md#colonial-goose))
 
 ### goose egg
  
@@ -3031,7 +3031,7 @@
 
 ### Gordzone
  
- <i>n.</i> (See [Godzone](../G#godzone))
+ <i>n.</i> (See [Godzone](go-gra.md#godzone))
 
 ### gorge
  
@@ -3294,7 +3294,7 @@
 
 ### goshore
  
- <i>n.</i> (See [goashore](../G#goashore))
+ <i>n.</i> (See [goashore](go-gra.md#goashore))
 
 ### gospel-grinder
  
@@ -3347,7 +3347,7 @@
 
 ### goure
  
- <i>n.</i> (See [kuri](../K#kuri))
+ <i>n.</i> (See [kuri](kiw-kwi.md#kuri))
 
 ### goutweed
  
@@ -3419,7 +3419,7 @@
 
 ### Government head
  
- <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](../H#hogburn),[sluice head](../S#sluice-head))
+ <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](../H#hogburn),[sluice head](sho-spa.md#sluice-head))
 
 >  ... a race of .... twenty Government heads of water <i>(1870,AJHR,D/40/7</i>) [NOTES: Reports of Goldfields]
 
@@ -3591,7 +3591,7 @@
 
 ### gowai
  
- <i>n.</i> (See [kowhai](../K#kowhai))
+ <i>n.</i> (See [kowhai](kiw-kwi.md#kowhai))
 
 ### gozinters
  
@@ -3652,7 +3652,7 @@
 
 ### grabber
  
- <i>n.</i> [ca1927 Jim Edwards Senior quoted on ? Spectrum Documentary by Jim Edwards 1986 A grabber was a person who did the canvassing [for door to door sales].] (See [knocker](../K#knocker))
+ <i>n.</i> [ca1927 Jim Edwards Senior quoted on ? Spectrum Documentary by Jim Edwards 1986 A grabber was a person who did the canvassing [for door to door sales].] (See [knocker](kiw-kwi.md#knocker))
 
 ### grabbing
  
@@ -3676,7 +3676,7 @@
 
 ### grabbing muster
  
-<b>1</b> <i>n.</i> (Rural) a muster in which a known small group of sheep is gathered in, often following an earlier muster. (See [scratch muster](../S#scratch-muster))
+<b>1</b> <i>n.</i> (Rural) a muster in which a known small group of sheep is gathered in, often following an earlier muster. (See [scratch muster](sa-sho.md#scratch-muster))
 
 >  <b>TOMLINSON</b> While one errant mob was being chased others would be getting away, so often they were left. A lot of grabbing muster had to be done after the main muster, but it was not by any means easy to find all the sheep. <i>(1968,Remembered Trails,31</i>)
 
@@ -4044,7 +4044,7 @@
 
 ### grandmother of the New Zealand press
  
- <i>phr.</i> the Auckland Herald (See [Granny Herald](../G#granny-herald))
+ <i>phr.</i> the Auckland Herald (See [Granny Herald](go-gra.md#granny-herald))
 
 >  The grandmother of the New Zealand press, the `Auckland Herald,' comes to light with an amazing story, ... <i>(Jul 30, 1910,NZ Truth,266/4/6</i>)
 
@@ -4137,7 +4137,7 @@
 
 ### granite trout
  
- <i>n.</i> [granite-trout, granitetrout] (See [marblefish](../M#marblefish))
+ <i>n.</i> [granite-trout, granitetrout] (See [marblefish](m-mar.md#marblefish))
 
 >  <b>KOHERE</b> We can catch kehe whenever we choose. [fn] Kehe, granite trout. <i>(1951,Autobiography of a Maori,127</i>)
 
@@ -4320,7 +4320,7 @@
 
 ### grapefruit
  
- <i>n.</i> usu. New Zealand grapefruit, often poorman's orange [ca1938 R Mason Used from ca1938 on, replacing the older Poorman's orange, for `marmalade' orange; and later = dessert grapefruit.] (See [New Zealand grapefruit](../N#new-zealand-grapefruit))
+ <i>n.</i> usu. New Zealand grapefruit, often poorman's orange [ca1938 R Mason Used from ca1938 on, replacing the older Poorman's orange, for `marmalade' orange; and later = dessert grapefruit.] (See [New Zealand grapefruit](new-no.md#new-zealand-grapefruit))
 
 >  <b>BENNETT</b> The fruit formerly known as poor man's orange has now become New Zealand grapefruit. <i>(1943,English as it is spoken in NZ,87</i>)
 
@@ -6179,7 +6179,7 @@
 
 
  
- <i>n.</i> (See [goose grass](../G#goose-grass),[barley grass](../B#barley-grass))
+ <i>n.</i> (See [goose grass](../G#goose-grass),[barley grass](b-bla.md#barley-grass))
 
 >  <b>SWAINSON</b> `The species of which the Hawkshead pastures at this place are composed, are as follows: they amount to twenty-five - ..<i> [Bromus] mollis</i> Soft do. [broom grass] <i>(Jan 30, 1847,Letter</i>) [NOTES: 1847 Jan 30 William Swainson letter to Wellington Spectator--> in 1848 Wakefield Handbook for NZ 151]
 
@@ -7009,7 +7009,7 @@
 
 
  
-<b>4</b> <i>n.</i> from animals' intestines [(freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.] (See [open up](../O#open-up))
+<b>4</b> <i>n.</i> from animals' intestines [(freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.] (See [open up](on-ore.md#open-up))
 
 ### grass bird
  
@@ -7137,7 +7137,7 @@
 
 ### grass grub beetle
  
- <i>n.</i> aka brown beetle (See [grass grub](../G#grass-grub))
+ <i>n.</i> aka brown beetle (See [grass grub](go-gra.md#grass-grub))
 
 ### grass harrow
  
@@ -7476,7 +7476,7 @@
 
 ### grassland
  
- <i>adj.</i> as a distinguishing epithet in the names of plants: (See [buttercup](../B#buttercup),[daisy](../D#daisy),[orchid](../O#orchid))
+ <i>adj.</i> as a distinguishing epithet in the names of plants: (See [buttercup](bri-byo.md#buttercup),[daisy](d-dif.md#daisy),[orchid](on-ore.md#orchid))
 
 ### grassless
  
@@ -7637,7 +7637,7 @@
 
 ### gravy-eye
  
-<b>1</b> <i>n.</i> (Rural) mattery eye, a bacterial disease of potatoes. (See [mattery eye](../M#mattery-eye))
+<b>1</b> <i>n.</i> (Rural) mattery eye, a bacterial disease of potatoes. (See [mattery eye](mar-moa.md#mattery-eye))
 
 >  In that district [Pukekohe] great damage has recently been occasioned by a bacterial disease popularly known as 'gravy-eye' or 'mattery-eye'... <i>(May 21, 1917,NZ Journal of Agriculture,357</i>)
 
@@ -7763,7 +7763,7 @@
 
 ### graze on
  
- <i>v.</i> (Rural) to hold animals on a particular property for a lengthy time. (See [graze-on](../G#graze-on))
+ <i>v.</i> (Rural) to hold animals on a particular property for a lengthy time. (See [graze-on](go-gra.md#graze-on))
 
 >  IHC also runs a suplementary scheme where calves are grazed on for another two or three years ... <i>(Aug 10, 2000,Taranaki Daily News,17</i>)
 
@@ -7786,7 +7786,7 @@
 
 ### graze the long acre
  
- <i>phr.</i> (See [long acre](../L#long-acre))
+ <i>phr.</i> (See [long acre](liv-lyn.md#long-acre))
 
 ### graze-on
  
@@ -7839,7 +7839,7 @@
 
 
  
- <i>n.</i> (See [cf. pastoralist](../P#pastoralist))
+ <i>n.</i> (See [cf. pastoralist](p-per.md#pastoralist))
 
 >  We are so far in the country now, and consequently unable to procure fresh meat from graziers ... that we have to cater for ourselves in the way of meat, which involves some pig-hunting. <i>(Feb 17, 1850,Torlesse Papers,132,1958 ed.</i>) [NOTES: [pre-Cby Settlement]]
 
@@ -7923,6 +7923,6 @@
 
 ### grazing on
  
-<b>1</b> <i>n.</i> (Rural) the grazing of stock on a separate property. (See [graze-on](../G#graze-on))
+<b>1</b> <i>n.</i> (Rural) the grazing of stock on a separate property. (See [graze-on](go-gra.md#graze-on))
 
 >  Word among farmers at the sale was many of the hoggets would be heading south for grazing on or immediate slaughter. <i>(May 4, 1993,NZ Farmer,38</i>)

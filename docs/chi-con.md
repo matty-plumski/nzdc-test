@@ -459,7 +459,7 @@
 
 ### Chinaman stone
  
- <i>n.</i> [-] (See [China-stone](../C#china-stone))
+ <i>n.</i> [-] (See [China-stone](chi-con.md#china-stone))
 
 >  <b>SKINNER</b> ... the presence of many large `Chinaman' stones caused [the dredge's] failure as a suction machine. <i>(1947,Waitahuna Memories,70</i>) [NOTES: [ca1893] 1947 Skinner Waitahuna Memories 70]
 
@@ -485,7 +485,7 @@
 
 ### Chinese boxthorn
  
- <i>n.</i> (See [boxthorn](../B#boxthorn))
+ <i>n.</i> (See [boxthorn](bla-bri.md#boxthorn))
 
 ### Chinese cabbage
  
@@ -503,7 +503,7 @@
 
 ### Chinese fairy grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### Chinese gooseberry
  
@@ -602,7 +602,7 @@
 
 ### Chinkie
  
- <i>n.</i> a Chinese (See [cf. Chinko](../C#chinko))
+ <i>n.</i> a Chinese (See [cf. Chinko](chi-con.md#chinko))
 
 >  <b>BARRY</b> We .. had a good passage to Hong-Kong. When we arrived, the first Chinese war with Britain had broken out, and there was every appearance of plenty of fun to be shortly had with the Chinkies. <i>Ibid.</i> 284 One of the Chinkies threw a stone at me. <i>(1879,Some Ups and Downs in NZ&A,51</i>)
 
@@ -831,7 +831,7 @@
 
 ### chippie
  
- <i>n.</i> usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ: (See [chip](../C#chip))
+ <i>n.</i> usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ: (See [chip](chi-con.md#chip))
 
 >  It all started with garlic bread. "Initially we sold chippies, but then we started broadening the options to include garlic bread," says Taita College principal Murray Trenberth. <i>(Jun 12, 2002,Capital Times,20</i>)
 
@@ -903,7 +903,7 @@
 
 ### chips
  
- <i>n.</i> money (See [do/do in](../D#do/do-in))
+ <i>n.</i> money (See [do/do in](dig-dou.md#do/do-in))
 
 >  I owed him some chips. <i>(Nov 23, 1938,Auckland Weekly News,96</i>)
 
@@ -970,7 +970,7 @@
 
 ### chivoo
  
- <i>n.</i> (See [shivoo](../S#shivoo))
+ <i>n.</i> (See [shivoo](sa-sho.md#shivoo))
 
 ### chivvy
  
@@ -1073,7 +1073,7 @@
 
 ### chocker/chockers
  
- <i>adj.</i> full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980 [in ODE (chockers marked as Austral.)] (See [chocka/chokka](../C#chocka/chokka))
+ <i>adj.</i> full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980 [in ODE (chockers marked as Austral.)] (See [chocka/chokka](chi-con.md#chocka/chokka))
 
 >  Surging growth in the Chinese economy is driving a world-wide shortage in shipping freight capacity... Cosco's New Zealand manager Stuart Ferguson says: "From New Zealand to Asia everybody's chocker at the moment." <i>(Apr 18, 2004,Sunday Star Times,D3</i>)
 
@@ -1217,7 +1217,7 @@
 
 ### chokee/chokey
  
- <i>n.</i> (See [choky](../C#choky))
+ <i>n.</i> (See [choky](chi-con.md#choky))
 
 ### choker
  
@@ -1790,7 +1790,7 @@
 
 
  
- <i>n.</i> (See [chou](../C#chou))
+ <i>n.</i> (See [chou](chi-con.md#chou))
 
 ### chow chows
  
@@ -2042,7 +2042,7 @@
 
 ### chuckie
  
- <i>n.</i> (See [chookie](../C#chookie),[chooky](../C#chooky))
+ <i>n.</i> (See [chookie](chi-con.md#chookie),[chooky](../C#chooky))
 
 ### chuckie-chuck
  
@@ -2068,7 +2068,7 @@
 
 ### chucky-chucky
  
- <i>n.</i> (See [chuckie-chuck](../C#chuckie-chuck))
+ <i>n.</i> (See [chuckie-chuck](chi-con.md#chuckie-chuck))
 
 ### chud
  
@@ -2118,7 +2118,7 @@
 
 ### chuffer
  
- <i>n.</i> (See [Benghazi boiler](../B#benghazi-boiler),[thermette](../T#thermette))
+ <i>n.</i> (See [Benghazi boiler](../B#benghazi-boiler),[thermette](ten-tot.md#thermette))
 
 >  <b>HUGHES</b> A bombardier then explained that a handful of propellant from a 105mm cartridge dropped into the orifice of a portable hot water boiler (commonly known as a chuffer) is guaranteed to produce brew water in less than thirty seconds. <i>Ibid.</i> 85 These clever cylindrical devices have a hollow core where the twigs or other fuel burns. Around the heating core is a vessel that contains the water. The hollow core forms a chimney with quite a strong draught and of course nearly all the heat acts on the walls of the vessel and it boils water very efficiently in just a few minutes. <i>(1999,Shooting from the Lip,84</i>)
 
@@ -2130,7 +2130,7 @@
 
 ### chug
  
- <i>v.</i> (informal) down (an alcoholic or other drink), especially quickly or without pausing. [(also as noun the downing of a drink quickly or without pausing; a drinking bout.)] (See [chug-a-lug](../C#chug-a-lug))
+ <i>v.</i> (informal) down (an alcoholic or other drink), especially quickly or without pausing. [(also as noun the downing of a drink quickly or without pausing; a drinking bout.)] (See [chug-a-lug](chi-con.md#chug-a-lug))
 
 >  <b>McGILL</b> <i>chug</i> to drink alcohol;<i> chugalug</i> act of drinking, usually a beer, in one gulp, or a drinking bout; eg `Fancy a few chugs after work, Nobby?' ANZ. <i>(1988,Dictionary of Kiwi Slang, A,28</i>)
 
@@ -2150,13 +2150,13 @@
 
 ### chukky
  
- <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](../A#also-chucks),[chuckstones](../C#chuckstones))
+ <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](../A#also-chucks),[chuckstones](chi-con.md#chuckstones))
 
 >  West Coast miners call these [bits of stone in coal] <i>chukkies</i>, another north-country term. A chukky in the north was (and is) a pebble, and the children's game of knuckle-bones was there called chukkies or chukky-stones, played not with sheep's bones but with pebbles. It was - like skipping-ropes - a purely female sport and no six-year-old male chauvinist would touch a <i>chukky</i> - unless he wanted to use it as a projectile. <i>(May 2, 1981,Listener (New Zealand Listener),43</i>)
 
 ### chum
  
- <i>n.</i> (See [also chummy; new chum](../A#also-chummy;-new-chum),[old chum](../O#old-chum))
+ <i>n.</i> (See [also chummy; new chum](../A#also-chummy;-new-chum),[old chum](o-on.md#old-chum))
 
 >  <b>COOK</b> Who is the big, smiling chum gettin' out the luggage? ... came out to learn sheep farming, eh? <i>(1925,Far Flung,14</i>)
 
@@ -2362,7 +2362,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) [high country mustering] a steep narrow access between rocks. (See [chimney](../C#chimney),[staircase](../S#staircase),[snowchute](../S#snowchute))
+<b>1</b> <i>n.</i> (Rural) [high country mustering] a steep narrow access between rocks. (See [chimney](chi-con.md#chimney),[staircase](spa-sys.md#staircase),[snowchute](sho-spa.md#snowchute))
 
 >  <b>LOUGHNAN</b> shoot or shute: the pedantic would call it chute. A narrow, newly eroded and steep-sided gut cutting down through the tussock-clad hillside. <i>(1981,Loughnan Glossary,725</i>)
 
@@ -2462,7 +2462,7 @@
 
 ### circle
  
- <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](../M#moon))
+ <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](mob-mys.md#moon))
 
 ### circling disease
  
@@ -2632,7 +2632,7 @@
 
 ### civil-ise
  
- <i>v.</i> join in a civil union (See [unionise](../U#unionise),[civil unionise](../C#civil-unionise))
+ <i>v.</i> join in a civil union (See [unionise](und-up.md#unionise),[civil unionise](chi-con.md#civil-unionise))
 
 >  My favourite [feel-good phrase] is Brash's support for civil unions which he always champions for "couples in sincere committed relationships". This would, presumably, be as opposed to frivolous, trollopy types which might to get civil-ised just to show off? <i>(Jul 9, 2005,Listener (New Zealand Listener),21</i>)
 
@@ -2685,7 +2685,7 @@
 
 ### civilly unionise
  
- <i>v.</i> [-] (See [civil unionise](../C#civil-unionise))
+ <i>v.</i> [-] (See [civil unionise](chi-con.md#civil-unionise))
 
 >  ..kneel down, hold your breathe, gaze into your lovers eyes and propose: "Will you civilly unionise me?" <i>(Jun 2005,Tearaway,27</i>)
 
@@ -2697,11 +2697,11 @@
 
 ### claddie
  
- <i>n.</i> (See [korari](../K#korari))
+ <i>n.</i> (See [korari](kiw-kwi.md#korari))
 
 ### claddy-stick
  
- <i>n.</i> (See [korari](../K#korari))
+ <i>n.</i> (See [korari](kiw-kwi.md#korari))
 
 >  <b>HOOPER</b> `I'll show you how I used to make claddy-stick canoes.' ... Soon he had cut and hollowed a ten-inch length of claddy-stick, pointed a bow ... <i>(1981,Goat Paddock,111</i>)
 
@@ -3262,7 +3262,7 @@
 
 
  
-<b>1</b> <i>adj.</i> (Rural) [of sheep or station] free from scab. (See [clean certificate](../C#clean-certificate))
+<b>1</b> <i>adj.</i> (Rural) [of sheep or station] free from scab. (See [clean certificate](chi-con.md#clean-certificate))
 
 >  Stock inspector passed the sheep clean. <i>(May 13, 1867,Castle Station Diary,258</i>) [NOTES: in Vance (1965)]
 
@@ -3535,7 +3535,7 @@
 
 ### cleaning-up
  
- <i>n.</i> [goldmining] (See [cit](../C#cit),[see also clean up v](../S#see-also-clean-up-v))
+ <i>n.</i> [goldmining] (See [cit](chi-con.md#cit),[see also clean up v](../S#see-also-clean-up-v))
 
 >  <b>MAY</b> WASHING-UP: the whole operation of saving gold from the wash-dirt. `Cleaning up' had the same meaning. <i>(1967,West Coast Gold Rushes,528,1962 ed.</i>)
 
@@ -3645,7 +3645,7 @@
 
 ### clear the knuckles
  
- <i>exclam.</i> a freezing works cry (See [knuckles](../K#knuckles))
+ <i>exclam.</i> a freezing works cry (See [knuckles](kiw-kwi.md#knuckles))
 
 ### clear-felling
  
@@ -4076,7 +4076,7 @@
 
 ### climbing aniseed
  
- <i>n.</i> [one entry, climbing aniseed - <i>A geniculata</i>] (See [aniseed](../A#aniseed))
+ <i>n.</i> [one entry, climbing aniseed - <i>A geniculata</i>] (See [aniseed](all-ari.md#aniseed))
 
 >  <b>COCKAYNE</b> <i>Angelica geniculata</i> Climbing-aniseed <i>(1915,AJHR,C-6</i>) [NOTES: Plant Covering Kennedy's Bush in AJHR (Canterbury) (And).]
 
@@ -4933,7 +4933,7 @@
 
 
  
-<b>2</b> <i>n.</i> (See [grass](../G#grass),[knotted clover](../K#knotted-clover))
+<b>2</b> <i>n.</i> (See [grass](go-gra.md#grass),[knotted clover](../K#knotted-clover))
 
 >  <i>clover, knotted [=] striated clover [s] </i> <i>(1969,Standard Common Names for Weeds,14</i>)
 
@@ -5516,7 +5516,7 @@
 
 
  
-<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See [East Coast](../E#east-coast))
+<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See [East Coast](e-eft.md#east-coast))
 
 >  <b>C. BAKER</b> By all means leave the Coast & if possible N.Z. too. <i>(Nov 25, 1852,Letter</i>) [NOTES: 1852 Nov 25 C. Baker to Colenso in 1986 Baker Never the Faint Hearted 131]
 
@@ -6300,7 +6300,7 @@
 
 
  
- <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](../F#forty-acre-farmer))
+ <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](fly-fuz.md#forty-acre-farmer))
 
 >  Bidding adieu for a while to my friends, the village, and special settler and other, the cockatoo-ral-loos of the bush settlements, I entrain at Woodville and emerge upon the plains of Squatterdom. <i>(Aug 13, 1887,Auckland Weekly News,8</i>)
 
@@ -6475,7 +6475,7 @@
 
 ### cockatoo farmer
  
- <i>n.</i> (See [cockatoo](../C#cockatoo))
+ <i>n.</i> (See [cockatoo](chi-con.md#cockatoo))
 
 >  <b>TROLLOPE</b> ... the cockatoo farmer ... <i>(1874,New Zealand (various authors/titles),61</i>)
 
@@ -6515,7 +6515,7 @@
 
 ### cockey/cockie
  
- <i>n.</i> (Rural) variants of cocky [-] (See [cocky](../C#cocky))
+ <i>n.</i> (Rural) variants of cocky [-] (See [cocky](chi-con.md#cocky))
 
 >  Running tourists alongside merinos has saved many a cockie's bottom line. <i>(Jul 12, 2003,Listener (New Zealand Listener),18</i>)
 
@@ -6691,7 +6691,7 @@
 
 ### cocksfoot
  
- <i>n.</i> (See [grass](../G#grass),[cocksfoot](../C#cocksfoot))
+ <i>n.</i> (See [grass](go-gra.md#grass),[cocksfoot](chi-con.md#cocksfoot))
 
 ### Cocksfoot Age
  
@@ -6853,7 +6853,7 @@
 
 ### cocky's joy
  
- <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](../B#bullocky's-joy))
+ <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](bri-byo.md#bullocky's-joy))
 
 >  Served in enamel cups or pannikins and accompanied by fresh bread and cockie's joy (golden syrup), it was delicious. <i>(Feb 4, 1999,Dominion,11</i>)
 
@@ -6918,7 +6918,7 @@
 
 ### coconut
  
- <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](../R#raro))
+ <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](ra-red.md#raro))
 
 >  <b>Fiu</b> He grunted about the war, the sacrifices he and his forefathers had made, only for coconuts to take perfectly good jobs away from him and his friends. <i>(2006,Purple Heart</i>)
 
@@ -6986,7 +6986,7 @@
 
 ### coconut bomber
  
- <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](../G#glamour-boys))
+ <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](g-go.md#glamour-boys))
 
 >  [Caption] And to think I once moaned about being a "Coconut Bomber". <i>(Jan 29, 1945,NZEF Times,IV/188 : 4</i>)
 
@@ -7045,7 +7045,7 @@
 
 
  
-<b>2</b> <i>n.</i> (obsolete) hapuku (See [codfish](../C#codfish),[rock cod sense 2](../R#rock-cod-sense-2))
+<b>2</b> <i>n.</i> (obsolete) hapuku (See [codfish](chi-con.md#codfish),[rock cod sense 2](../R#rock-cod-sense-2))
 
 >  <b>TAYLOR</b> <i>Hapuku</i> or <i>whapuku</i> commonly called the cod, but a much richer fish in flavor ... <i>(1855,Te Ika a Maui,411</i>)
 
@@ -7194,7 +7194,7 @@
 
 ### cohou-cohou
  
- <i>n.</i> (See [kohukohu](../K#kohukohu))
+ <i>n.</i> (See [kohukohu](kiw-kwi.md#kohukohu))
 
 ### coiling
  
@@ -7234,7 +7234,7 @@
 
 ### cold biting/cold botting
  
- <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../B#bite-v),[bot v](../B#bot-v),[cold pigging](../C#cold-pigging))
+ <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../B#bite-v),[bot v](../B#bot-v),[cold pigging](chi-con.md#cold-pigging))
 
 >  <b>BAKER</b> Here we find that <i>cold biting</i> is rendered as a straight-out request by a tramp or dead-beat for money. On the other hand <i>cold botting</i> is a straight-out request for food at house-doors. <i>(1941,NZ Slang,52</i>)
 
@@ -7389,7 +7389,7 @@
 
 ### cole fish
  
- <i>n.</i> (See [coal fish](../C#coal-fish))
+ <i>n.</i> (See [coal fish](chi-con.md#coal-fish))
 
 ### Colenso's
  
@@ -7923,7 +7923,7 @@
 
 ### colonial hair grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### colonial halfbred
  
@@ -7939,7 +7939,7 @@
 
 ### colonial lantern
  
- <i>n.</i> (See [bush lantern](../B#bush-lantern),[digger's lantern](../D#digger's-lantern))
+ <i>n.</i> (See [bush lantern](bri-byo.md#bush-lantern),[digger's lantern](dig-dou.md#digger's-lantern))
 
 >  <b>BATHGATE</b> Every guest [at a private dance in Dunedin in 1860s] carried a parcel containing dancing footwear, ... and colonial lanterns, which consisted of a clear bottle with the bottom removed, and a candle dropped into the neck, which acted as a handle, were in common use, and were hidden in the garden ... to be picked up again ... <i>(1925,Random Recollections,18</i>)
 
@@ -8051,7 +8051,7 @@
 
 ### colonial stove
  
- <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](../C#colonial-oven))
+ <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](chi-con.md#colonial-oven))
 
 >  ... to sell by auction ... a new Colonial Stove ... <i>(Mar 15, 1851,Lyttelton Times,1</i>)
 
@@ -8259,7 +8259,7 @@
 
 ### colony
  
- <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](../S#settlement))
+ <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](sa-sho.md#settlement))
 
 >  Within the country, New Zealand was after 1840 known as <i>the Colony</i>, and subsequently as <i>the Dominion</i>, the title it carried from 1907 until the 1940s or somewhat later. Now it is simply <i>the country</i>, or more formally <i>the nation</i>, and of course <i>home</i> (as opposed to <i>Home</i>) for those Kiwis who are temporarily absent from it. <i>(Oct 2000,NZWords,4 : 2</i>)
 
@@ -8490,7 +8490,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a lower blade on a shearing handpiece. (See [cover comb](../C#cover-comb),[snowcomb](../S#snowcomb))
+<b>1</b> <i>n.</i> (Rural) a lower blade on a shearing handpiece. (See [cover comb](con-cyp.md#cover-comb),[snowcomb](../S#snowcomb))
 
 >  <b>RICHARDS</b> I now have a collection of antiques .. old handpieces, combs, cutters, droppers. <i>(1989,Pioneer's Life, A,41</i>)
 
@@ -8519,7 +8519,7 @@
 
 ### comb wheat grass
  
- <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](go-gra.md#grass))
 
 ### comb-tooth shark
  
@@ -9140,7 +9140,7 @@
 
 ### common gecko
  
- <i>n.</i> (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel. [<i>Hoplodactylus maculatus,</i> aka Matua gecko] (See [brown gecko](../B#brown-gecko))
+ <i>n.</i> (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel. [<i>Hoplodactylus maculatus,</i> aka Matua gecko] (See [brown gecko](bri-byo.md#brown-gecko))
 
 >  'So for the extensive survey, we're using a basic method of counting how many lizards are captured in a 24-hour period. It's a quick index of population size for species such as common skinks and McCann's skinks and common (brown) geckos. Unfortunately we're unlikely to detect less abundant species such as green skinks, cryptic skinks or jewelled geckos.' <i>(Mar 2009,Open Space,75/11</i>)
 
@@ -9152,7 +9152,7 @@
 
 ### common green gecko
  
- <i>n.</i> the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island. [Auckland green gecko <i>Naultinus elegans elegens</i> aka Elegant gecko <i>Naultinus elegans</i> cf green gecko] (See [Auckland green gecko](../A#auckland-green-gecko))
+ <i>n.</i> the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island. [Auckland green gecko <i>Naultinus elegans elegens</i> aka Elegant gecko <i>Naultinus elegans</i> cf green gecko] (See [Auckland green gecko](ari-axe.md#auckland-green-gecko))
 
 >  These newborn common green geckos (<i>Naultinus elegans</i>) hatched and were incubated inside their mother, an adaptation to living in a relatively cool climate - most geckos in other parts of the world lay eggs. <i>(2007,Internet - see Notes</i>) [NOTES: http://www.teara.govt.nz/TheBush/FishFrogsAndReptiles/Lizards/1/ENZ-Resources/Standard/4/en#breadcrumbtop]
 
@@ -9709,7 +9709,7 @@
 
 ### confiscation line
  
- <i>n.</i> (See [aukati](../A#aukati))
+ <i>n.</i> (See [aukati](ari-axe.md#aukati))
 
 >  <b>NORRIS</b> Although the chiefs disapproved of the murder, they would neither allow Winiata to be arrested in the King Country, nor return him over the Confiscation Line to be taken in charge by the Europeans. <i>(1964,Settlers in Depression,151</i>)
 
@@ -9721,11 +9721,11 @@
 
 ### Conjo
  
- <i>n.</i> (See [Cunning Joe](../C#cunning-joe))
+ <i>n.</i> (See [Cunning Joe](con-cyp.md#cunning-joe))
 
 ### Conjure
  
- <i>n.</i> (See [Cunning Joe](../C#cunning-joe))
+ <i>n.</i> (See [Cunning Joe](con-cyp.md#cunning-joe))
 
 ### connection
  
@@ -9845,7 +9845,7 @@
 
 ### consultation
  
- <i>n.</i> usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ. (See [Tatts](../T#tatts))
+ <i>n.</i> usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ. (See [Tatts](t-ten.md#tatts))
 
 >  A young man was much surprised because I did not know the price of horse-racing "consultation" tickets. <i>(Mar 15, 1885,Wairarapa Daily,2</i>)
 

@@ -10,7 +10,7 @@
 
 ### Zeddie
  
- <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See [Z class](../Z#z-class))
+ <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See [Z class](z-zeb.md#z-class))
 
 >  Did someone say Zeddies have watertight bulkheads? <i>(1952,Sea Spray,VII(7)/17</i>)
 
@@ -132,7 +132,7 @@
 
 ### zigzag clover
  
- <i>n.</i> (See [clover](../C#clover))
+ <i>n.</i> (See [clover](chi-con.md#clover))
 
 >  <i>clover, zigzag [s] Trifolium medium </i>L. <i>Ibid.</i> 89 <i>zigzag clover [s] Trifolium medium </i>L. <i>(1969,Standard Common Names for Weeds,14</i>)
 

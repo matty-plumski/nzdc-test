@@ -38,7 +38,7 @@
 
 ### entire-leaved beech
  
- <i>n.</i> <i>Nothofagus solandri</i> [ENTIRE-LEAVED BEECH (BIRCH)] (See [beech](../B#beech))
+ <i>n.</i> <i>Nothofagus solandri</i> [ENTIRE-LEAVED BEECH (BIRCH)] (See [beech](b-bla.md#beech))
 
 >  <b>KIRK</b> With the view of obviating the confusion caused by the misuse of the common names hitherto applied to the New Zealand beeches, I would suggest the adoption of new names based on the obvious characteristics of their foliage:- For <i>Fagus fusca</i>, tooth-leaved beech; for <i>Fagus solandri</i>, entire-leaved beech; and for <i>Fagus menziesii</i>, round-leaved beech. <i>(1875,Durability NZ Timbers,17</i>)
 
@@ -286,7 +286,7 @@
 
 ### ePakeke
  
- <i>n.</i> a computer course for adult Maori learners [.] (See [ePakeke Roa](../E#epakeke-roa))
+ <i>n.</i> a computer course for adult Maori learners [.] (See [ePakeke Roa](ens-eye.md#epakeke-roa))
 
 >  ePakeke and ePakeke Roa: ePakeke is an introductory computer course developed especially with adult learners with very few computer skills. ePakeke Roa is a follow-on course designed to consolidate and expand what you've learned in the introductory ePakeke course. <i>(Dec 2, 2005,Whakatane Beacon,10</i>)
 
@@ -294,13 +294,13 @@
 
 ### ePakeke Roa
  
- <i>n.</i> [.] (See [ePakeke](../E#epakeke))
+ <i>n.</i> [.] (See [ePakeke](ens-eye.md#epakeke))
 
 >  ePakeke Roa builds on ePakeke and also allows you to record and capture the stories of your life. <i>(Nov 17, 2006,Whakatane Beacon,13</i>)
 
 ### ePakeke Tiketike
  
- <i>n.</i> [.] (See [ePakeke](../E#epakeke),[ePakeke Roa](../E#epakeke-roa))
+ <i>n.</i> [.] (See [ePakeke](ens-eye.md#epakeke),[ePakeke Roa](ens-eye.md#epakeke-roa))
 
 >  ePakeke Tiketike is an advanced course, introducing a range of multimedia software applications and on-line databases. <i>(Nov 17, 2006,Whakatane Beacon,13</i>)
 
@@ -318,7 +318,7 @@
 
 ### eppa
  
- <i>n.</i> (See [pa](../P#pa))
+ <i>n.</i> (See [pa](p-per.md#pa))
 
 ### EQC
  
@@ -454,7 +454,7 @@
 
 ### escolar
  
- <i>n.</i> (See [oilfish](../O#oilfish))
+ <i>n.</i> (See [oilfish](o-on.md#oilfish))
 
 >  <b>WILSON</b> ESCOLAR see Oilfish <i>(1981,Fisherman's Bible,61</i>)
 
@@ -494,7 +494,7 @@
 
 ### esplanade reserve
  
- <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](../Q#queen's-chain))
+ <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](qua-que.md#queen's-chain))
 
 >  Esplanade reserves work in the reversemanner - the setting aside of one chainalong mean high water mark, the marginsof lakes, rivers and streams over a widthof 10 ft. being mandatory in the case ofsubdivisions in a County. <i>(1969,Coastal Development,120</i>)
 
@@ -544,7 +544,7 @@
 
 ### etabu
  
- <i>adj.</i> (See [tapu](../T#tapu))
+ <i>adj.</i> (See [tapu](t-ten.md#tapu))
 
 ### ethered
  
@@ -562,7 +562,7 @@
 
 ### etohora
  
- <i>n.</i> (See [tohora](../T#tohora))
+ <i>n.</i> (See [tohora](ten-tot.md#tohora))
 
 ### eucalyptus
  
@@ -705,7 +705,7 @@
 
 ### even terms
  
- <i>n.</i> Working for food only [obs.] (See [terms](../T#terms))
+ <i>n.</i> Working for food only [obs.] (See [terms](ten-tot.md#terms))
 
 >  Even Terms: `Working for his tucker' [q.v.]; a polite expression only applied to cadets. (C.) <i>(Oct 14, 1933,Press, The,15</i>) [NOTES: Acland Gloss]
 
@@ -823,7 +823,7 @@
 
 ### ewe paddock
  
-<b>1</b> <i>n.</i> (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing. (See [lambing paddock](../L#lambing-paddock))
+<b>1</b> <i>n.</i> (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing. (See [lambing paddock](l-lay.md#lambing-paddock))
 
 >  <b>GASCOIGNE</b> We were feeding hay to the cattle, which kept them off the ewe paddocks. <i>(1965,From the Top of a Hill,122</i>)
 
@@ -1339,7 +1339,7 @@
 
 
  
-<b>1</b> <i>v.</i> (Rural) to clip the wool from around the top of the head and eyes of sheep. (See [eye-wig](../E#eye-wig))
+<b>1</b> <i>v.</i> (Rural) to clip the wool from around the top of the head and eyes of sheep. (See [eye-wig](ens-eye.md#eye-wig))
 
 >  <b>MOWAT</b> Four of us went out 7 finished mustering station block, other four eyeclipping. <i>(May 28, 1908,Alexander Mowat Diaries</i>)
 
@@ -1392,7 +1392,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See [eye-wigging](../E#eye-wigging))
+<b>1</b> <i>n.</i> (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See [eye-wigging](ens-eye.md#eye-wigging))
 
 >  <b>ACLAND</b> Merino sheep .. were not handled so often for eye-clipping and so on. <i>(1930,Early Canterbury Runs,128</i>)
 

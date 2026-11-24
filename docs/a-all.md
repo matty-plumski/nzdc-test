@@ -50,7 +50,7 @@
 
 ### A and P Association
  
-<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [Agricultural and Pastoral Association](../A#agricultural-and-pastoral-association))
+<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [Agricultural and Pastoral Association](a-all.md#agricultural-and-pastoral-association))
 
 >  <b>SCOTTER</b> From the first show of the A & P Association in 1863 he was a member of the committee. <i>(1948,Run, Estate and Farm,25</i>)
 
@@ -58,7 +58,7 @@
 
 ### A and P show
  
-<b>1</b> <i>n.</i> (Rural) agricultural and pastoral association exhibition and carnival, held in many rural districts annually, and commonly known as ''the show''. (See [Agricultural and Pastoral Show](../A#agricultural-and-pastoral-show),[Agricultural and Pastoral Society](../A#agricultural-and-pastoral-society))
+<b>1</b> <i>n.</i> (Rural) agricultural and pastoral association exhibition and carnival, held in many rural districts annually, and commonly known as ''the show''. (See [Agricultural and Pastoral Show](a-all.md#agricultural-and-pastoral-show),[Agricultural and Pastoral Society](a-all.md#agricultural-and-pastoral-society))
 
 >  A & P show: ladies' horses' leaping match. <i>(Aug 12, 1888,Egmont Star,7</i>)
 
@@ -1366,7 +1366,7 @@
 
 ### African
  
- <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](../C#cape-pigeon))
+ <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](c-chi.md#cape-pigeon))
 
 >  <b>LUSH</b> ... a large tract [at Maketu] is divided out ... among some 60 families who have emigrated from Africa (the Cape) and hence called by all their neighbours `the Africans', though they are mostly Irish. <i>(May 18, 1865,Waikato Journals,51</i>) [NOTES: 1982 edition]
 
@@ -1460,7 +1460,7 @@
 
 ### after-party
  
- <i>n.</i> (See [cf. after-ball](../A#after-ball))
+ <i>n.</i> (See [cf. after-ball](a-all.md#after-ball))
 
 >  Several hundred students then moved on to a "ticketed" "after-party" at the Croatia Club (organised independently of the school), where they partied into the wee small hours. <i>(Sep 4, 2003,Dominion Post,B4</i>)
 
@@ -1635,7 +1635,7 @@
 
 
  
-<b>1</b> <i>n.</i> (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See [stock agent](../S#stock-agent))
+<b>1</b> <i>n.</i> (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See [stock agent](spa-sys.md#stock-agent))
 
 >  <b>GORDON</b> Local agents buzz around like wingless flies, trying to get all those late entries into pens before the sale starts and to put up those cards showing vendor, number and descriptions on the pens. <i>(1996,Trouble with Stock Agents, The,12</i>)
 
@@ -1711,7 +1711,7 @@
 
 ### agri-forestry
  
-<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animal grazing. (See [two-tier farming](../T#two-tier-farming))
+<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animal grazing. (See [two-tier farming](tot-tyr.md#two-tier-farming))
 
 >  <b>RENNIE</b> Where trees are grown in conjunction with pasture for animals, this is called 'two-tier' farming or agri-forestry. <i>(1988,Agriculture in NZ,11</i>)
 
@@ -1947,7 +1947,7 @@
 
 
  
- <i>n.</i> Upeneichthys porosus. (See [goatfish](../G#goatfish),[red mullet](../R#red-mullet))
+ <i>n.</i> Upeneichthys porosus. (See [goatfish](go-gra.md#goatfish),[red mullet](ra-red.md#red-mullet))
 
 >  <b>DOOGUE & MORELAND</b> RED MULLET ... Other names:<i> Upeneichthys porosus </i>; goat-fish; ahuruhuru (Maori), <i>(1966,Sea Anglers' Guide,238</i>)
 
@@ -2352,11 +2352,11 @@
 
 ### akekura
  
- <i>n.</i> (See [akakura](../A#akakura))
+ <i>n.</i> (See [akakura](a-all.md#akakura))
 
 ### akepirau
  
- <i>n.</i> (See [akepiro](../A#akepiro))
+ <i>n.</i> (See [akepiro](a-all.md#akepiro))
 
 ### akepiro
  
@@ -2398,7 +2398,7 @@
 
 ### aki
  
- <i>n.</i> (See [aka](../A#aka),[akeake](../A#akeake))
+ <i>n.</i> (See [aka](a-all.md#aka),[akeake](a-all.md#akeake))
 
 ### akiaki
  
@@ -2454,7 +2454,7 @@
 
 ### akoakoa
  
- <i>n.</i> [Cf koakoa.] (See [hakoakoa](../H#hakoakoa))
+ <i>n.</i> [Cf koakoa.] (See [hakoakoa](h-hea.md#hakoakoa))
 
 ### Al Capone
  
@@ -2579,7 +2579,7 @@
 
 
  
- <i>n.</i> (a). Alectryon excelsum. (See [titoki](../T#titoki))
+ <i>n.</i> (a). Alectryon excelsum. (See [titoki](ten-tot.md#titoki))
 
 >  While waiting here we found the curious fruit of the Alectryon excelsum - sometimes styled the New Zealand ash, to which tree the foliage bears some resemblance. Our Maoris called it the topetope, but the recognised Native name is the titoki, or tokitoki, an instance of the varying names in different districts. <i>(May 12, 1892,Otago Witness,33</i>)
 
@@ -2857,7 +2857,7 @@
 
 ### all cock and ribs, like a musterer's dog
  
- <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](../G#gumdigger's-dog))
+ <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](gra-gyp.md#gumdigger's-dog))
 
 >  <b>HULME</b> He prowls around the flat ... a tall skinny fella in tight jeans, all cock and ribs like a musterer's dog. <i>(1986,Te Kaihau,122</i>)
 
