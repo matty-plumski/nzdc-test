@@ -1,34 +1,111 @@
 
 site_name: New Zealand Dictionary Centre Database
-nav: 
-  - Overview: 'index.md'
-  - Lexicon:
-    - 'A' : 'A.md'
-    - 'B' : 'B.md'
-    - 'C' : 'C.md'
-    - 'D' : 'D.md'
-    - 'E' : 'E.md'
-    - 'F' : 'F.md'
-    - 'G' : 'G.md'
-    - 'H' : 'H.md'
-    - 'I' : 'I.md'
-    - 'J' : 'J.md'
-    - 'K' : 'K.md'
-    - 'L' : 'L.md'
-    - 'M' : 'M.md'
-    - 'N' : 'N.md'
-    - 'O' : 'O.md'
-    - 'P' : 'P.md'
-    - 'Q' : 'Q.md'
-    - 'R' : 'R.md'
-    - 'S' : 'S.md'
-    - 'T' : 'T.md'
-    - 'U' : 'U.md'
-    - 'V' : 'V.md'
-    - 'W' : 'W.md'
-    - 'X' : 'X.md'
-    - 'Y' : 'Y.md'
-    - 'Z' : 'Z.md'
+nav:
+- Overview: index.md
+- Lexicon:
+  - A:
+    - A & P – all on: a-all.md
+    - all on the board – arikiship: all-ari.md
+    - aristotelia – axemen's carnival: ari-axe.md
+  - B:
+    - B Ech. – black molly: b-bla.md
+    - black mudfish – bridle road: bla-bri.md
+    - bridle track – BYOG: bri-byo.md
+  - C:
+    - C and A Act – chicken tractor: c-chi.md
+    - chicken-walking – Continuance: chi-con.md
+    - Continuous Government – cypress-koromiko: con-cyp.md
+  - D:
+    - D & B – DIFM: d-dif.md
+    - Dig – double unit house: dig-dou.md
+    - double up – dyno: dou-dyn.md
+  - E:
+    - e hoa ma – EFTS: e-eft.md
+    - egg – ensilage: egg-ens.md
+    - ensilage-making – eyes-off operator: ens-eye.md
+  - F:
+    - F69 – fingerstones: f69-fin.md
+    - finickity – flying survey: fin-fly.md
+    - flying-camp – fuzzweed: fly-fuz.md
+  - G:
+    - G truck – go home: g-go.md
+    - go home with you – grazing on: go-gra.md
+    - grazing paddock – gypsy kettle: gra-gyp.md
+  - H:
+    - H-bug – head a nor'wester: h-hea.md
+    - head basher – home detention: hea-hom.md
+    - home farm – hypolepis: hom-hyp.md
+  - I:
+    - IA – in the nuddy: ia-in.md
+    - in the pigskin – internal assessment: in-int.md
+    - internal race cowshed – ixerba: int-ixe.md
+  - J:
+    - J class – jasmine: j-jas.md
+    - jasper – job: jas-job.md
+    - job fish – just-jobber: job-jus.md
+  - K:
+    - K engine – Keating: k-kea.md
+    - keel – KiwiRail: kee-kiw.md
+    - Kiwis – kwise: kiw-kwi.md
+  - L:
+    - L&P – lay-by: l-lay.md
+    - lay-up – live pork: lay-liv.md
+    - live stock – Lynn of Tawa: liv-lyn.md
+  - M:
+    - M-Day – marker bull: m-mar.md
+    - market umbrella – moatic: mar-moa.md
+    - Mob – mystic mitt: mob-mys.md
+  - N:
+    - N-type sheep – new chumship: n-new.md
+    - New Edinburgh – no-eyes: new-no.md
+    - no-go area – NZX: no-nzx.md
+  - O:
+    - O for awesome – on the board: o-on.md
+    - on the board/s – Orewa III: on-ore.md
+    - Orewa speech – Ozzification: ore-ozz.md
+  - P:
+    - P & T – perfing (out): p-per.md
+    - perform – pop-top trailer: per-pop.md
+    - pop-up – PYO: pop-pyo.md
+  - Q:
+    - Q-ing – quarter-acre allotment: q-qua.md
+    - quarter-acre pavlova paradise – Queen's chain: qua-que.md
+    - queenie – Quotable Value: que-quo.md
+  - R:
+    - Ra – red snapper: ra-red.md
+    - red snow – road-keeper: red-roa.md
+    - road-kill – ruva-ruva: roa-ruv.md
+  - S:
+    - Sa – shoemaker: sa-sho.md
+    - shoeman – Spanish windlass: sho-spa.md
+    - spank – System: spa-sys.md
+  - T:
+    - T and G – tenting: t-ten.md
+    - tenure review – totorra: ten-tot.md
+    - totorungu – tyre kicker: tot-tyr.md
+  - U:
+    - U-bath – Underpanter: u-und.md
+    - underscrub – up North: und-up.md
+    - up one's bum to the neck – uwhiwhero: up-uwh.md
+  - V:
+    - V – velvet: v-vel.md
+    - velvet earthstar – Vienna chair: vel-vie.md
+    - Vietnamese mint – VWP: vie-vwp.md
+  - W:
+    - W – Wendy's: w-wen.md
+    - wentletrap – wild tobacco: wen-wil.md
+    - wild turnip – WZ: wil-wz.md
+  - X:
+    - Xchurch/Xtchurch – Xchurch/Xtchurch: xch-xch.md
+    - XYZ – XYZ: xyz-xyz.md
+  - Y:
+    - Y-cutter – YC station: y-yc.md
+    - Ydub – yense: ydu-yen.md
+    - yep – Yummy Mummy car: yep-yum.md
+  - Z:
+    - Z class – Zebra: z-zeb.md
+    - zebra bird – zip-zap: zeb-zip.md
+    - zip-zap machine – zwei: zip-zwe.md
 
 theme: readthedocs
 
