@@ -50,8 +50,24 @@ jobs:
       - name: Install Node dependencies
         run: npm ci
 
-      - name: Build MkDocs site
-        run: python -m mkdocs build --clean
+      - name: Build MkDocs site and report link health
+        shell: bash
+        run: |
+          set -o pipefail
+
+          python -m mkdocs build --clean 2>&1 | tee mkdocs-build.log
+
+          echo ""
+          echo "=== NZDC LINK HEALTH ==="
+
+          echo -n "Unrecognised relative links: "
+          grep -c "unrecognized relative link" mkdocs-build.log || true
+
+          echo -n "Missing anchors: "
+          grep -Ec "there is no such anchor|does not contain an anchor" mkdocs-build.log || true
+
+          echo "========================"
+
 
       - name: Build weighted Lunr index
         run: npm run build:search
