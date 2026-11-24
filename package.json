@@ -1,0 +1,11 @@
+{
+  "name": "nzdc-mkdocs-search",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:search": "node scripts/build-search-index.mjs"
+  },
+  "dependencies": {
+    "lunr": "2.3.9"
+  }
+}
