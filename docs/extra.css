@@ -66,3 +66,58 @@ a {
     color: #0280A1;
     text-decoration: none;
 }
+
+/* Keep the NZDC search area visible while sidebar navigation scrolls */
+.wy-side-scroll {
+  overflow-y: auto;
+}
+
+/* Sidebar header/search panel */
+.wy-side-nav-search {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #343131;
+}
+
+/* Prevent dictionary navigation from drawing over the search panel */
+.wy-menu-vertical {
+  position: relative;
+  z-index: 1;
+}
+
+.wy-side-nav-search {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #343131;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.wy-side-nav-search > a.icon-home::before,
+.wy-breadcrumbs .icon-home::before {
+  content: "\f02d";
+}
+
+/* =========================================================
+   NZDC sidebar header and search
+   ========================================================= */
+
+.wy-side-nav-search {
+  background-color: #0d5f3c !important;
+  border-bottom: 1px solid #444;
+}
+
+/* Search field */
+.wy-side-nav-search input[type="text"] {
+  border: 1px solid #444 !important;
+  box-shadow: none !important;
+  outline: none;
+}
+
+/* Search field when selected */
+.wy-side-nav-search input[type="text"]:focus {
+  border-color: #333 !important;
+  box-shadow: 0 0 0 2px rgba(50, 50, 50, 0.18) !important;
+  outline: none;
+}

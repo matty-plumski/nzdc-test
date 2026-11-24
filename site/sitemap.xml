@@ -1,138 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/a-all/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/all-ari/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/ari-axe/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/b-bla/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/bla-bri/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/bri-byo/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/c-chi/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/chi-con/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/con-cyp/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/d-dif/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/dig-dou/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/dou-dyn/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/e-eft/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/egg-ens/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/ens-eye/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/f69-fin/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/fin-fly/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/fly-fuz/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/g-go/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/go-gra/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/gra-gyp/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/h-hea/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/hea-hom/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/hom-hyp/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/k-kea/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2021-09-30</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://matty-plumski.github.io/nzdc-test/kee-kiw/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/kiw-kwi/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/l-lay/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/lay-liv/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/liv-lyn/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/m-mar/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/mar-moa/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/mob-mys/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/n-new/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/new-no/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/no-nzx/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/o-on/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/on-ore/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/ore-ozz/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/p-per/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/per-pop/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/pop-pyo/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/q-qua/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/qua-que/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/que-quo/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/ra-red/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/red-roa/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/roa-ruv/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/sa-sho/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/sho-spa/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/spa-sys/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/t-ten/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/ten-tot/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/tot-tyr/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/u-und/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/und-up/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/up-uwh/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/xch-xch/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/xyz-xyz/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/y-yc/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/ydu-yen/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/yep-yum/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/z-zeb/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/zeb-zip/</loc>
+         <lastmod>2026-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://matty-plumski.github.io/nzdc-test/zip-zwe/</loc>
+         <lastmod>2026-11-24</lastmod>
     </url>
 </urlset>

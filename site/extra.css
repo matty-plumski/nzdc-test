@@ -66,12 +66,3 @@ a {
     color: #0280A1;
     text-decoration: none;
 }
-
-.wy-side-scroll {
-    width: auto;
-    overflow-y: auto;
-  }
-
-  .wy-nav-content {
-    max-width: 1200px;
-}

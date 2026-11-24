@@ -155,3 +155,7 @@ plugins:
 
 site_url: https://matty-plumski.github.io/nzdc-test/
 use_directory_urls: true
+
+extra_javascript:
+  - js/search-label.js
+  - js/nzdc-navigation.js
