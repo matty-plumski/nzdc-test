@@ -44,3 +44,9 @@ markdown_extensions:
   
  
 extra_css: [extra.css]
+
+plugins:
+  - search:
+      min_search_length: 2
+      indexing: sections
+      prebuild_index: false
