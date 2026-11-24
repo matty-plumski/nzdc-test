@@ -1,34 +1,136 @@
 
 site_name: New Zealand Dictionary Centre Database
-nav: 
-  - Overview: 'index.md'
+nav:
+  - Overview: index.md
   - Lexicon:
-    - 'A' : 'A.md'
-    - 'B' : 'B.md'
-    - 'C' : 'C.md'
-    - 'D' : 'D.md'
-    - 'E' : 'E.md'
-    - 'F' : 'F.md'
-    - 'G' : 'G.md'
-    - 'H' : 'H.md'
-    - 'I' : 'I.md'
-    - 'J' : 'J.md'
-    - 'K' : 'K.md'
-    - 'L' : 'L.md'
-    - 'M' : 'M.md'
-    - 'N' : 'N.md'
-    - 'O' : 'O.md'
-    - 'P' : 'P.md'
-    - 'Q' : 'Q.md'
-    - 'R' : 'R.md'
-    - 'S' : 'S.md'
-    - 'T' : 'T.md'
-    - 'U' : 'U.md'
-    - 'V' : 'V.md'
-    - 'W' : 'W.md'
-    - 'X' : 'X.md'
-    - 'Y' : 'Y.md'
-    - 'Z' : 'Z.md'
+      - A:
+          - "A – all": a-all.md
+          - "all – ariki": all-ari.md
+          - "ariki – axe": ari-axe.md
+
+      - B:
+          - "B – black": b-bla.md
+          - "black – brick": bla-bri.md
+          - "brick – BYO": bri-byo.md
+
+      - C:
+          - "C – chief": c-chi.md
+          - "chief – con": chi-con.md
+          - "con – cyp": con-cyp.md
+
+      - D:
+          - "D – dif": d-dif.md
+          - "dig – dough": dig-dou.md
+          - "dough – dyn": dou-dyn.md
+
+      - E:
+          - "E – eft": e-eft.md
+          - "egg – ens": egg-ens.md
+          - "ens – eye": ens-eye.md
+
+      - F:
+          - "F69 – fin": f69-fin.md
+          - "fin – fly": fin-fly.md
+          - "fly – fuzz": fly-fuz.md
+
+      - G:
+          - "G – go": g-go.md
+          - "go – gra": go-gra.md
+          - "gra – gyp": gra-gyp.md
+
+      - H:
+          - "H – hea": h-hea.md
+          - "hea – hom": hea-hom.md
+          - "hom – hyp": hom-hyp.md
+
+      - I:
+          - "IA – in": ia-in.md
+          - "in – internal": in-int.md
+          - "internal – ixerba": int-ixe.md
+
+      - J:
+          - "J – jasmine": j-jas.md
+          - "jasper – job": jas-job.md
+          - "job – just": job-jus.md
+
+      - K:
+          - "K – kea": k-kea.md
+          - "kee – kiwi": kee-kiw.md
+          - "kiwi – kwi": kiw-kwi.md
+
+      - L:
+          - "L – lay": l-lay.md
+          - "lay – liv": lay-liv.md
+          - "liv – lyn": liv-lyn.md
+
+      - M:
+          - "M – mar": m-mar.md
+          - "mar – moa": mar-moa.md
+          - "mob – mys": mob-mys.md
+
+      - N:
+          - "N – new": n-new.md
+          - "new – no": new-no.md
+          - "no – NZX": no-nzx.md
+
+      - O:
+          - "O – on": o-on.md
+          - "on – ore": on-ore.md
+          - "ore – ozz": ore-ozz.md
+
+      - P:
+          - "P – per": p-per.md
+          - "per – pop": per-pop.md
+          - "pop – pyo": pop-pyo.md
+
+      - Q:
+          - "Q – qua": q-qua.md
+          - "qua – que": qua-que.md
+          - "que – quo": que-quo.md
+
+      - R:
+          - "Ra – red": ra-red.md
+          - "red – roa": red-roa.md
+          - "roa – ruv": roa-ruv.md
+
+      - S:
+          - "Sa – sho": sa-sho.md
+          - "sho – spa": sho-spa.md
+          - "spa – sys": spa-sys.md
+
+      - T:
+          - "T – ten": t-ten.md
+          - "ten – tot": ten-tot.md
+          - "tot – tyr": tot-tyr.md
+
+      - U:
+          - "U – und": u-und.md
+          - "und – up": und-up.md
+          - "up – Uwh": up-uwh.md
+
+      - V:
+          - "V – velvet": v-vel.md
+          - "velvet – Vienna": vel-vie.md
+          - "Vietnamese – VWP": vie-vwp.md
+
+      - W:
+          - "W – Wendy's": w-wen.md
+          - "wentletrap – wild tobacco": wen-wil.md
+          - "wild turnip – WZ": wil-wz.md
+
+      - X:
+          - "Xchurch": xch-xch.md
+          - "XYZ": xyz-xyz.md
+
+      - Y:
+          - "Y – YC": y-yc.md
+          - "YDU – yen": ydu-yen.md
+          - "yep – yum": yep-yum.md
+
+      - Z:
+          - "Z – zebra": z-zeb.md
+          - "zebra – zip": zeb-zip.md
+          - "zip – Zwe": zip-zwe.md
 
 theme: 
   name: readthedocs
