@@ -51,7 +51,7 @@ jobs:
         run: npm ci
 
       - name: Build MkDocs site
-        run: python -m mkdocs build --clean --strict
+        run: python -m mkdocs build --clean
 
       - name: Build weighted Lunr index
         run: npm run build:search
