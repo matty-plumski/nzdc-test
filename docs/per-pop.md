@@ -12574,7 +12574,7 @@
 
 ### poor men's diggings
  
- <i>n.</i> (See [poor man's diggings](per-pop.md#poor-man's-diggings))
+ <i>n.</i> (See [poor man's diggings](per-pop.md#poor-mans-diggings))
 
 >  To facilitate the creation of poor men's diggings, the Government might issue instructions to resident magistrates to provide <i>bona fide</i> applicants .. with miner's rights and such tools as are necessary, together with free rations for a few months, and an extended claim as a reward in case of the discovery of a poor man's gold field capable of carrying a population of 2000 men. <i>(Mar 20, 1880,North Otago Times,2</i>)
 

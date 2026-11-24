@@ -2686,7 +2686,7 @@
 
 
  
- <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](../A#also-grummet),[shepherds' grummet](sa-sho.md#shepherds'-grummet))
+ <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](../A#also-grummet),[shepherds' grummet](sa-sho.md#shepherds-grummet))
 
 ### grommie
  

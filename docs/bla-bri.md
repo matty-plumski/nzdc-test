@@ -4190,7 +4190,7 @@
 
 
  
-<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](bla-bri.md#bludgers'-hill))
+<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](bla-bri.md#bludgers-hill))
 
 >  <b>FULLARTON</b> He'll immediately assume that you were one of the 95% who bludged at base in Enzed or England or Yankee Land. <i>(1944,Troop Target,186</i>)
 
@@ -8365,13 +8365,13 @@
 
 ### bolter's chance
  
- <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](bla-bri.md#bolter's-show))
+ <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](bla-bri.md#bolters-show))
 
 >  Arguably, she was more genuine in this because, unlike most of the MPs in the House today, there was not a bolter's chance of her making Parliament at the time she signed up for Mana Motuhake. <i>(Jun 12, 1999,Listener (New Zealand Listener),15</i>)
 
 ### bolter's show
  
- <i>n.</i> (See [bolter's chance](bla-bri.md#bolter's-chance))
+ <i>n.</i> (See [bolter's chance](bla-bri.md#bolters-chance))
 
 >  Before the fight for the 2002 election began in earnest, National knew it hadn't a bolter's show, so it selected candidates for 2005. <i>(Jul 23, 2002,Dominion Post,B6</i>)
 
@@ -8567,7 +8567,7 @@
 
 ### Bombay bloomers
  
- <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](sho-spa.md#smithell's-bloomers))
+ <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](sho-spa.md#smithells-bloomers))
 
 >  <b>MARTYN</b> ... the shorts, `Bombay Bloomers', we called them. <i>(1943,Tripoli and Beyond,159</i>)
 
@@ -13307,7 +13307,7 @@
 
 ### Brass, the
  
- <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](bla-bri.md#brass-monkey-(rally)))
+ <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](bla-bri.md#brass-monkey-rally)))
 
 >  I did "the Brass" in 2000, drawn more by the lore of the event than the allure of standing around in sub-zero temperatures discussing carburettor adjustments with petrolheads. <i>(Sep 2004,NZ Geographic,No. 69/105</i>)
 

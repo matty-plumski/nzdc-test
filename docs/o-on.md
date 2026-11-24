@@ -2298,11 +2298,11 @@
 
 ### old man's whiskers
  
- <i>n.</i> (See [old man's beard](o-on.md#old-man's-beard))
+ <i>n.</i> (See [old man's beard](o-on.md#old-mans-beard))
 
 ### old Maori's beard
  
- <i>n.</i> (See [old man's beard](o-on.md#old-man's-beard),[a lichen](../A#a-lichen))
+ <i>n.</i> (See [old man's beard](o-on.md#old-mans-beard),[a lichen](../A#a-lichen))
 
 >  <b>WILLIAMS</b> [when the rimu] tree becomes old these splendid leafs [sic] become smaller and grow in tufts... giving it the appearance of being dead, or `covered with old Mauries beards' rather than natural leafs. [Editor's Note 10,p. 117 says: usually [sic] known as Old Man's Beard, a lichen(Usnea). <i>(1844,Journal,104</i>)
 
@@ -2865,7 +2865,7 @@
 
 ### on one's lonely
  
- <i>n.</i> (See [cf. on one's pat](o-on.md#on-one's-pat))
+ <i>n.</i> (See [cf. on one's pat](o-on.md#on-ones-pat))
 
 >  <b>MANSFIELD</b> `You bet we are [going to stop]', said Jo. `So you're on your lonely, missis?' <i>(1912,Stories,111,1984 Alpers ed.</i>)
 

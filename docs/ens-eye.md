@@ -494,7 +494,7 @@
 
 ### esplanade reserve
  
- <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](qua-que.md#queen's-chain))
+ <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](qua-que.md#queens-chain))
 
 >  Esplanade reserves work in the reversemanner - the setting aside of one chainalong mean high water mark, the marginsof lakes, rivers and streams over a widthof 10 ft. being mandatory in the case ofsubdivisions in a County. <i>(1969,Coastal Development,120</i>)
 

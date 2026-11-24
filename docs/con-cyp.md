@@ -5700,7 +5700,7 @@
 
 ### cranesbill
  
- <i>n.</i> [also crane's bill] (See [dove's foot](dou-dyn.md#dove's-foot))
+ <i>n.</i> [also crane's bill] (See [dove's foot](dou-dyn.md#doves-foot))
 
 >  (Queen Charlotte Sound) Amongst the known kinds of plants are common and rough Bindweed, Nightshade and Nettles, ... and Cranes bill: [fnc Geranium. [ed. [Probably <i>Geranium sessiflorum</i>.]]] also Cudweed, [ed. fn 3 Possibly<i> Gnaphalium </i>sp. or <i>Helichrysum</i> sp.], rushes, ... <i>(Feb 1777,Cook's Journals,3/804</i>) [NOTES: 1777 Feb Anderson's Journal in Cook Journals (1967) 3/804-805]
 

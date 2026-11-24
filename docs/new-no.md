@@ -1655,7 +1655,7 @@
 
 ### New Zealand War(s)
  
-<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](l-lay.md#land-wars),[Maori War(s)](m-mar.md#maori-war(s)))
+<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](l-lay.md#land-wars),[Maori War(s)](m-mar.md#maori-wars)))
 
 >  ...there have been, he suggests, a number of worthwhile books about the New Zealand Wars. <i>(Jul 29, 2003,Listener (New Zealand Listener),9</i>)
 
@@ -2389,7 +2389,7 @@
 
 ### ngaruru
  
- <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](con-cyp.md#cook's-turban-shell))
+ <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](con-cyp.md#cooks-turban-shell))
 
 ### ngaruru-papa
  

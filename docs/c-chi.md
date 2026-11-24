@@ -1496,7 +1496,7 @@
 
 ### Californian stinkweed
  
- <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](dig-dou.md#digger's-weed))
+ <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](dig-dou.md#diggers-weed))
 
 >  <b>HILGENDORF</b> STINK WEED ([<i>Navarettia] squarrosa </i>), [formerly named <i> Gilla squarrosa </i>] and called Californian stink weed, digger's weed and yeast plant, occurs chiefly [in river beds] on dry pastures and cultivated fields in Marlborough and Otago, where it sometimes becomes dominant over all other herbage. <i>(1926,Weeds of New Zealand,139,1967 ed.</i>)
 
@@ -3642,7 +3642,7 @@
 
 ### Captain Cook's cress
  
- <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](con-cyp.md#cook's-scurvy-grass))
+ <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](con-cyp.md#cooks-scurvy-grass))
 
 >  (Nature session) Dr Cohen [says] ... Captain Cook's cress or as some people call it Captain Cook's Scurvy Grass. It is edible. <i>(Oct 31, 1951,2ZB</i>)
 
@@ -7981,7 +7981,7 @@
 
 ### Chatham Island rail
  
- <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](../A#also-little-chatham-islands-rail),[Dieffenbach's rail](d-dif.md#dieffenbach's-rail))
+ <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](../A#also-little-chatham-islands-rail),[Dieffenbach's rail](d-dif.md#dieffenbachs-rail))
 
 >  A skeleton of the extinct Chatham Island rail (Diaphorapertyx [sic] hawkinsi) has been placed in the New Zealand room at the Christchurch Museum, together with the skeletons of the extinct crow, coot, and swan from the same islands. <i>(Aug 16, 1905,Otago Witness,4</i>)
 

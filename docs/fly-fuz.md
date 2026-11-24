@@ -3631,7 +3631,7 @@
 
 ### frogs' eggs
  
- <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](fly-fuz.md#frogs'-eyes))
+ <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](fly-fuz.md#frogs-eyes))
 
 >  <b>DUDER</b> [I spent] a short time at Dio as a boarder, discovering the joys of ... `frogs-eggs-and-snot'. <i>(1988,Through the Looking Glass,32</i>)
 

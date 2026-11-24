@@ -74,7 +74,7 @@
 
 ### egg-laying skink
  
- <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](spa-sys.md#suter's-skink),[Diving skink](../D#diving-skink))
+ <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](spa-sys.md#suters-skink),[Diving skink](../D#diving-skink))
 
 >  One New Zealand skink (called the egg-laying skink) lays eggs, but all other species give birth to fully-formed young. <i>(2006,Internet - see Notes</i>) [NOTES: http://www.conservation.govt.nz/upload/documents/about-doc/concessions-and-permits/conservation-revealed/skinks-geckos-lowres.pdf]
 

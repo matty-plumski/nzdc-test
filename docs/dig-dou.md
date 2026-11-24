@@ -4338,7 +4338,7 @@
 
 ### done like a dinner
  
- <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](dig-dou.md#done-like-a-dog's-dinner))
+ <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](dig-dou.md#done-like-a-dogs-dinner))
 
 >  On the ball, warts and all, getta life, fishwife On the box seat, sitting pretty, what a winner Dinkie Di. She'll be right, a box o' birds, tonights the night Stone the crows, and done like a dinner. <i>(Dec 2004,NZ Memories,No 51, p19</i>)
 

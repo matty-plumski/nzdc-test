@@ -4556,7 +4556,7 @@
 
 ### bullocky's joy
  
- <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](chi-con.md#cocky's-joy))
+ <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](chi-con.md#cockys-joy))
 
 >  <b>DUDER in GIFKIN</b> Grandfather Bill spread 'bullocky's joy' (golden syrup) on my toast. <i>(1988,Through the Looking Glass,29</i>)
 
@@ -7995,7 +7995,7 @@
 
 ### bush face
  
- <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](bri-byo.md#bush-country),[bush range(s)](bri-byo.md#bush-range(s)))
+ <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](bri-byo.md#bush-country),[bush range(s)](bri-byo.md#bush-ranges)))
 
 >  <b>NEWTON</b> ... high bush faces. <i>(1947,Wayleggo,110</i>)
 
@@ -9973,7 +9973,7 @@
 
 ### bush singlet
  
-<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](bri-byo.md#bushman's-singlet))
+<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](bri-byo.md#bushmans-singlet))
 
 >  Singlets. New, navy blue, all-wool athletic-type singlets for outdoor winter workers. <i>(Jul 28, 1965,Weekly News,19</i>)
 

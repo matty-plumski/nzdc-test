@@ -2857,7 +2857,7 @@
 
 ### all cock and ribs, like a musterer's dog
  
- <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](gra-gyp.md#gumdigger's-dog))
+ <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](gra-gyp.md#gumdiggers-dog))
 
 >  <b>HULME</b> He prowls around the flat ... a tall skinny fella in tight jeans, all cock and ribs like a musterer's dog. <i>(1986,Te Kaihau,122</i>)
 

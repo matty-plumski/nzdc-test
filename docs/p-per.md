@@ -6938,7 +6938,7 @@
 
 ### parrot's beak
  
- <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](k-kea.md#kaka-beak),[parrot's bill](p-per.md#parrot's-bill),[parroquet's beak](p-per.md#parroquet's-beak),[red kowhai](ra-red.md#red-kowhai))
+ <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](k-kea.md#kaka-beak),[parrot's bill](p-per.md#parrots-bill),[parroquet's beak](p-per.md#parroquets-beak),[red kowhai](ra-red.md#red-kowhai))
 
 >  We stock a fine variety of healthy stock grown in the open. Titoki or N.Z.Oak, each 1s6d; .. parrot's Beak, red 1s, white,[sic] 2s ... <i>(Aug 9, 1906,Evening Post,6</i>)
 
@@ -6960,7 +6960,7 @@
 
 ### parrot's bill
  
- <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](p-per.md#parrot's-beak),[kaka beak](k-kea.md#kaka-beak),[parrakeet's beak](../P#parrakeet's-beak),[red kowhai](ra-red.md#red-kowhai))
+ <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](p-per.md#parrots-beak),[kaka beak](k-kea.md#kaka-beak),[parrakeet's beak](../P#parrakeet's-beak),[red kowhai](ra-red.md#red-kowhai))
 
 >  <b>DOMETT</b> <i>Clianthus puniceus</i> parrot-bill <i>(1872,Ranolf and Amohia</i>) [NOTES: (And)]
 

@@ -5103,7 +5103,7 @@
 
 ### kowaowao
  
- <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](hom-hyp.md#hound's-tongue-fern))
+ <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](hom-hyp.md#hounds-tongue-fern))
 
 >  <b>WiLSON</b> <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN ... Koowaowao ... Fronds glossy green, strap-shaped to variously lobed ... <i>(1982,Stewart island Plants,465</i>)
 

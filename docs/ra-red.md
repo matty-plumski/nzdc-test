@@ -128,7 +128,7 @@
 
 ### rabbit camp
  
-<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](ra-red.md#rabbiters'-camp))
+<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](ra-red.md#rabbiters-camp))
 
 >  The working men are seen no more in hut or rabbit camp, / The stockwhip never will be heard about the river swamp, / No more the mighty fleeces crown the bins like drifted snow, / No more princely rams go down, the wonder of the show ... <i>(Oct 8, 1896,Otago Witness,50</i>)
 

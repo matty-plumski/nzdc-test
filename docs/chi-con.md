@@ -6853,7 +6853,7 @@
 
 ### cocky's joy
  
- <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](bri-byo.md#bullocky's-joy))
+ <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](bri-byo.md#bullockys-joy))
 
 >  Served in enamel cups or pannikins and accompanied by fresh bread and cockie's joy (golden syrup), it was delicious. <i>(Feb 4, 1999,Dominion,11</i>)
 
@@ -7939,7 +7939,7 @@
 
 ### colonial lantern
  
- <i>n.</i> (See [bush lantern](bri-byo.md#bush-lantern),[digger's lantern](dig-dou.md#digger's-lantern))
+ <i>n.</i> (See [bush lantern](bri-byo.md#bush-lantern),[digger's lantern](dig-dou.md#diggers-lantern))
 
 >  <b>BATHGATE</b> Every guest [at a private dance in Dunedin in 1860s] carried a parcel containing dancing footwear, ... and colonial lanterns, which consisted of a clear bottle with the bottom removed, and a candle dropped into the neck, which acted as a handle, were in common use, and were hidden in the garden ... to be picked up again ... <i>(1925,Random Recollections,18</i>)
 

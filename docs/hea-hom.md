@@ -4228,7 +4228,7 @@
 
 ### Hobson's folly
  
- <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](hea-hom.md#hobson's-choice))
+ <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](hea-hom.md#hobsons-choice))
 
 >  the Hobson's folly. <i>(1840,NZ Journal,23/290</i>)
 

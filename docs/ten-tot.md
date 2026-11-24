@@ -9275,7 +9275,7 @@
 
 ### topping
  
- <i>n.</i> informing (See [cf. top (on)](ten-tot.md#top-(on)),[top off v](ten-tot.md#top-off))
+ <i>n.</i> informing (See [cf. top (on)](ten-tot.md#top-on)),[top off v](ten-tot.md#top-off))
 
 >  The complainant's fiance said `topping' was a term the gang used to describe reporting a matter to the police. <i>(Dec 24, 1973,NZ Truth,3</i>)
 

@@ -2605,7 +2605,7 @@
 
 ### get into gear
  
- <i>phr.</i> get moving (See [get one's arse into gear](g-go.md#get-one's-arse-into-gear))
+ <i>phr.</i> get moving (See [get one's arse into gear](g-go.md#get-ones-arse-into-gear))
 
 >  Doom reckoned I should go because I could run the fastest. Before any of us could get into gear, Mrs Douglas came into the woolshed ... <i>(Dec 1986,Marist Messenger,36</i>) [NOTES: Joy Cowley]
 
@@ -2643,7 +2643,7 @@
 
 ### get off one's bike
  
- <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](g-go.md#get-off-one's-horse))
+ <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](g-go.md#get-off-ones-horse))
 
 >  <b>BENNETT</b> `Don't get off your bike' (from `don't get off your horse', via a music-hall song?) means `don't get rattled, excited' <i>(1943,English as it is spoken in NZ</i>)
 

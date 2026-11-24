@@ -3712,7 +3712,7 @@
 
 ### Mount Cook lily
  
- <i>n.</i> Ranunculus lyalli (See [great mountain buttercup](../G#great-mountain-buttercup),[shepherd's lily](sa-sho.md#shepherd's-lily))
+ <i>n.</i> Ranunculus lyalli (See [great mountain buttercup](../G#great-mountain-buttercup),[shepherd's lily](sa-sho.md#shepherds-lily))
 
 >  <b>PINNEY</b> In 1879 he sent down to Campbell at Otekaieke `a few roots and seeds of the Mount Cook Lily'. <i>(1981,Early Northern Otago Runs,33</i>)
 
@@ -8055,7 +8055,7 @@
 
 ### MyBank
  
- <i>n.</i> (See [People's Bank](p-per.md#people's-bank),[Jim's Bank](../J#jim's-bank),[Kiwibank](kee-kiw.md#kiwibank))
+ <i>n.</i> (See [People's Bank](p-per.md#peoples-bank),[Jim's Bank](../J#jim's-bank),[Kiwibank](kee-kiw.md#kiwibank))
 
 >  It's not the people's bank, it's not the Kiwi Bank - it's MyBank... She slammed the proposed "MyBank" branding as a "fitting name for a bank set up solely to feed [Deputy Prime Minister] Jim Anderton's ego." <i>(Feb 17, 2001,Dominion,1</i>)
 

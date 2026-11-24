@@ -963,7 +963,7 @@
 
 ### North Island Hector's dolphin
  
- <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](mar-moa.md#maui's-dolphin))
+ <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](mar-moa.md#mauis-dolphin))
 
 >  Since 1985, at least 20 of the North Island Hector's dolphins have died. <i>(Mar 30, 2002,Listener (New Zealand Listener),26</i>)
 
@@ -3352,7 +3352,7 @@
 
 ### NZNA
  
- <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](new-no.md#new-zealand-natives'-association))
+ <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](new-no.md#new-zealand-natives-association))
 
 ### NZNO
  

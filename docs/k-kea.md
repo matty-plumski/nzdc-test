@@ -4091,7 +4091,7 @@
 
 
  
- <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](con-cyp.md#cook's-turban-shell))
+ <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](con-cyp.md#cooks-turban-shell))
 
 >  <b>PEARSON</b> [Gloss] <i>cracker</i>: Common West Coast bushman's name for a larger-leaved species of <i>Coprosma.</i> (Probably from Maori <i>karaka</i>, a very different tree whose leaves are vaguely similar. <i>(1963,Coal Flat,420</i>)
 
