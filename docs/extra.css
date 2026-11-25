@@ -99,25 +99,31 @@ a {
   content: "\f02d";
 }
 
-/* =========================================================
-   NZDC sidebar header and search
+/*/* =========================================================
+   NZDC fixed sidebar header + independently scrolling menu
    ========================================================= */
 
+/* Entire left sidebar stays fixed */
+.wy-nav-side {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  overflow: hidden !important;
+}
+
+/* NZDC title + search box remain fixed at the top */
 .wy-side-nav-search {
+  position: relative !important;
+  top: auto !important;
+  z-index: 1000;
   background-color: #0d5f3c !important;
   border-bottom: 1px solid #444;
 }
 
-/* Search field */
-.wy-side-nav-search input[type="text"] {
-  border: 1px solid #444 !important;
-  box-shadow: none !important;
-  outline: none;
-}
-
-/* Search field when selected */
-.wy-side-nav-search input[type="text"]:focus {
-  border-color: #333 !important;
-  box-shadow: 0 0 0 2px rgba(50, 50, 50, 0.18) !important;
-  outline: none;
+/* Only the dictionary navigation scrolls */
+.wy-menu-vertical {
+  height: calc(100vh - 158px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-bottom: 2rem;
 }
