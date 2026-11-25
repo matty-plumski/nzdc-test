@@ -50,17 +50,7 @@ body {
     background: #edf0f2;
 }
 
-code, .rst-content tt {
-    white-space: nowrap;
-    max-width: 100%;
-    background: #ededeb;
-    border: solid 1px #e1e4e5;
-    font-size: 75%;
-    padding: 0 5px;
-    font-family: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
-    color: #333;
-    overflow-x: auto;
-}
+
 
 a {
     color: #0280A1;
@@ -126,4 +116,56 @@ a {
   overflow-y: auto;
   overflow-x: hidden;
   padding-bottom: 2rem;
+}
+
+/* =========================================================
+   NZDC historical quotation handling
+
+   Historical source material uses backticks/apostrophes in
+   ways Markdown can interpret as inline code.
+
+   Inline code inside dictionary prose should therefore look
+   like ordinary text.
+   ========================================================= */
+
+.rst-content p code,
+.rst-content blockquote code,
+.rst-content li code,
+.rst-content p tt,
+.rst-content blockquote tt,
+.rst-content li tt {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
+
+  color: inherit !important;
+  background: transparent !important;
+
+  border: none !important;
+  border-radius: 0 !important;
+
+  padding: 0 !important;
+  margin: 0 !important;
+
+  white-space: normal !important;
+  overflow: visible !important;
+
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* Remove syntax-colour descendants from accidental inline code */
+.rst-content p code *,
+.rst-content blockquote code *,
+.rst-content li code *,
+.rst-content p tt *,
+.rst-content blockquote tt *,
+.rst-content li tt * {
+  color: inherit !important;
+  background: transparent !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
 }
