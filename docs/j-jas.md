@@ -65,7 +65,7 @@ adjective.
 [NOTES: [AND (1889) Jack of 1892] this may be purely Aust: if so delete (also at X-ref jack off).]]  
 > **SYDER & HODGETTS** >to be completely disgusted with a person or situation and break the connection. .in 4;`I was *(1974,Australian & NZ English [TS],285)*
 
-### jack of that. Heat and flies all the time and expected to work with about half the tools you should have. I was there a month, then I gave notice.'
+> jack of that. Heat and flies all the time and expected to work with about half the tools you should have. I was there a month, then I gave notice.'
   
 noun. In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.  
 > **COWAN** A good-natured soldier ... hearing him moaning something which sounded like `wai' (water), was trying to make him drink ... saying, `Here, Jack, here's  wai for you.' The soldiers always addressed the Maoris as `Jack', and the Maoris the soldiers as `Tiaki' also. *(1922,NZ Wars, The,1/209)*
@@ -86,7 +86,7 @@ verb.
 adjective. to be jack, to be aware (this is purely Aust.: check and prob. delete).  
 > **SYDER & HODGETTS** [? not used in New Zealand] To be aware of the `snags' or hidden pitfalls. .in 4;`The gears *(1974,Australian & NZ English [TS],584,(1962-63))*
 
-### slip, out it didn't worry me. After I'd driven it a while I was jack to that.'
+> slip, out it didn't worry me. After I'd driven it a while I was jack to that.'
   
 noun.  
 [NOTES: (cf US tom-turkey).]  
