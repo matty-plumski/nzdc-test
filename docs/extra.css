@@ -118,54 +118,41 @@ a {
   padding-bottom: 2rem;
 }
 
-/* =========================================================
-   NZDC historical quotation handling
-
-   Historical source material uses backticks/apostrophes in
-   ways Markdown can interpret as inline code.
-
-   Inline code inside dictionary prose should therefore look
-   like ordinary text.
+/* /* =========================================================
+   NZDC: disable accidental inline-code presentation
+   Historical quotations use backticks as quotation marks.
    ========================================================= */
 
+.rst-content code:not(pre code),
+.rst-content tt,
 .rst-content p code,
 .rst-content blockquote code,
-.rst-content li code,
-.rst-content p tt,
-.rst-content blockquote tt,
-.rst-content li tt {
+.rst-content li code {
   font-family: inherit !important;
-  font-size: inherit !important;
+  font-size: 100% !important;
   font-weight: inherit !important;
   font-style: inherit !important;
 
   color: inherit !important;
+  background-color: transparent !important;
   background: transparent !important;
 
-  border: none !important;
+  border: 0 !important;
   border-radius: 0 !important;
+  box-shadow: none !important;
 
   padding: 0 !important;
   margin: 0 !important;
 
   white-space: normal !important;
   overflow: visible !important;
-
-  box-shadow: none !important;
-  text-shadow: none !important;
 }
 
-/* Remove syntax-colour descendants from accidental inline code */
-.rst-content p code *,
-.rst-content blockquote code *,
-.rst-content li code *,
-.rst-content p tt *,
-.rst-content blockquote tt *,
-.rst-content li tt * {
+/* Override syntax colouring nested inside accidental inline code */
+.rst-content code:not(pre code) *,
+.rst-content tt * {
   color: inherit !important;
   background: transparent !important;
   font-family: inherit !important;
   font-size: inherit !important;
-  font-weight: inherit !important;
-  font-style: inherit !important;
 }
