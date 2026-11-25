@@ -8980,7 +8980,7 @@
  
  <i>n.</i>
 
->  <b>BOWEN</b> ... shearers (all you good `cobbers' that have shorn sheep) know the romance, glory, `shi-ack' and fascination of this grand job. <i>Ibid.</i> 157 SHI-ACK. The usual shed banter, from which none are excused. All in the shed from the boss to the `rousie' can be the target of good-natured teasing. This does much to make a hard job a lot easier, and all should enter into this woolshed spirit. <i>(1955,Wool Away!,2</i>)
+>  <b>BOWEN</b> ... shearers (all you good `cobbers' that have shorn sheep) know the romance, glory, `shi-ack' and fascination of this grand job. <i>Ibid.</i> 157 SHI-ACK. The usual shed banter, from which none are excused. All in the shed from the boss to the `rousie' can be the target of good-natured teasing. This does much to make a hard job a lot easier, and all should enter into this woolshed spirit. <i>(1955,Wool Away!,2</i>)</i>
 
 ### chiacking
  

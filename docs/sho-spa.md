@@ -974,7 +974,7 @@ See: -
 
 >  Inanga are the most common species, but whitebaiters may also capture the young of giant kokopu, koaro and banded kokopu. "Shortjaw and giant kokopu are described as threatened species. ..." <i>(Aug 17, 2005,Whakatane Beacon,4</i>)
 
->  <b>DENNIS</b> The juveniles of five species of galaxias make up the whitebait catch: inanga (<i>Galaxias maculatus</i>), koaro (<i>G. brevipinnis</i>), banded kokopu (<i>G. fasciatus</i>), giant kokopu (<i>G. argenteus</i>) and short-jawed kokopu (<i>G. postvectis>/i>). -- <i>(1981,Paparoas Guide,187</i>)
+>  <b>DENNIS</b> The juveniles of five species of galaxias make up the whitebait catch: inanga (<i>Galaxias maculatus</i>), koaro (<i>G. brevipinnis</i>), banded kokopu (<i>G. fasciatus</i>), giant kokopu (<i>G. argenteus</i>) and short-jawed kokopu (<i>G. postvectis>/i>). -- <i>(1981,Paparoas Guide,187</i>)</i>
 
 ### Shortland Street
 
@@ -1849,7 +1849,7 @@ See: shoveller duck
 
 >  Mr Gray laments the loss of the small-town show days and their wide range of agricultural competitions. "They are real occasions," he said, " a time when country comes to town and when we farmers get a chance to measure our progress against one another." <i>(Nov 2, 2001,Dominion,13</i>)
 
->  This week Christchurch and NorthCanterbury people will have a holiday forShow Day, the annual event at theAddington Showgrounds held by theCanterbury Agricultural and PastoralAssociation for the last 117 years. <i>(Nov 6, 1979,Press, The,20</i>)
+>  This week Christchurch and NorthCanterbury people will have a holiday forShow Day, the annual event at theAddington Showgrounds held by theCanterbury Agricultural and PastoralAssociation for the last 117 years. <i>(Nov 6, 1979,Press, The,20</i>)</i>
 
 ### show eye
 
@@ -2035,7 +2035,7 @@ See: cf. iron
 
 >  That's ten dollars and five cents. Have you got any shrapnel on you? <i>(May 17, 1997,Heard</i>) [NOTES: Checkout Clerk in Johnsonville Supermarket]
 
->  <b>MORRIESON</b> `Anything in his pockets?' `Nothing. Some matches ...And about two bob in shrapnel.' -- <i>(1974,Predicament,238,1981</i>)
+>  <b>MORRIESON</b> `Anything in his pockets?' `Nothing. Some matches ...And about two bob in shrapnel.' -- <i>(1974,Predicament,238,1981</i>)</i>
 
 ### Shrek
 
@@ -2474,7 +2474,7 @@ See: grass
 
 >  <b>MARSH</b> ... and I must say he did look a bit sick. <i>(1937,Vintage Murder,96</i>)
 
->  <b>M.E. ALCOCK</b> I list below the words I can think of [as having different meanings in Britain and NZ]: <i>N.Z. English </i> Singlet Vest Sick Sick in England means to vomit.) <i>(Dec 3, 1957,Letter</i>)
+>  <b>M.E. ALCOCK</b> I list below the words I can think of [as having different meanings in Britain and NZ]: <i>N.Z. English </i> Singlet Vest Sick Sick in England means to vomit.) <i>(Dec 3, 1957,Letter</i>)</i>
 
 ### sick as a springing heifer
 
@@ -3911,7 +3911,7 @@ See: also silver king
 
 >  <b>McGILL</b> <i> silver trumpeter elephant fish or <i> Callorhynchus milii.[G. Johnston] </i> <i>(1989,Dinkum Kiwi Dictionary, The,94</i>)
 
->  We found, however, no scarcity of ordinary fish - blue cod, trumpeter, and a sort of silver trumpeter known as "white fish" forming a conspicuous article of die [sic]; whereas at the Bluff where there was no lack of oysters of course, I found that fish was so scarce that at the principal hotel "canned fish" was one of the items on the bill of fare. <i>(Apr 28, 1892,Otago Witness,33</i>)
+>  We found, however, no scarcity of ordinary fish - blue cod, trumpeter, and a sort of silver trumpeter known as "white fish" forming a conspicuous article of die [sic]; whereas at the Bluff where there was no lack of oysters of course, I found that fish was so scarce that at the principal hotel "canned fish" was one of the items on the bill of fare. <i>(Apr 28, 1892,Otago Witness,33</i>)</i>
 
 ### Silver Tui
 
@@ -4198,7 +4198,7 @@ See: also silvery petrel
  
 <i>noun</i>.
 
->  n.-sil'ver fish n. a small wingless insect covered with silvery scales, found among books, in cupboards, etc.-sil'vertop n. a kind of eucalypus. <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,10</i>)
+>  n.-sil'ver fish n. a small wingless insect covered with silvery scales, found among books, in cupboards, etc.-sil'vertop n. a kind of eucalypus. <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,10</i>)</i>
 
 ### silverise
 
@@ -4331,7 +4331,7 @@ See: cadet; lamb
 
 >  <b>MOORE & IRWIN</b> <i>POTENTILLA ANSERINOIDES</i>. The name silverweed refers to the pale shining underside of the soft brownish leaves. <i>(1978,Oxford Book of NZ Plants,30</i>)
 
->  <b>WILSON</b> <i>Potentilla anserinoides</i> SILVERWEED ... Herb creeping by slender runners ... Leaves dark brown-green above, silvery white with appressed fine hairs beneath. <i>(1982,Stewart Island Plants,178</i>)
+>  <b>WILSON</b> <i>Potentilla anserinoides</i> SILVERWEED ... Herb creeping by slender runners ... Leaves dark brown-green above, silvery white with appressed fine hairs beneath. <i>(1982,Stewart Island Plants,178</i>)</i>
 
 ### silvery
 
@@ -5219,7 +5219,7 @@ See: cf. three-spot
 
 >  Two-tooth ewes, good line, 14s 3d; four and six-tooth ewes 9s 9d ... <i>(Jan 17, 1931,Evening Post,12</i>)
 
->  Sheep:  Light fat wethers, 33s to 34s;  prime fat maiden ewes, 34s;  light and unfinished ewes, 22s to 23s 6d;  store four- and six-tooth woolly wethers, 27s 6d ... <i>(Sep 12, 1940,Evening Post,6</i>)
+>  Sheep:  Light fat wethers, 33s to 34s;  prime fat maiden ewes, 34s;  light and unfinished ewes, 22s to 23s 6d;  store four- and six-tooth woolly wethers, 27s 6d ... <i>(Sep 12, 1940,Evening Post,6</i>)</i>
 
 ### sixty-fiver
 
@@ -7110,7 +7110,7 @@ See: skutcher, scutcher
 
 [NOTES: slang.]
 
->  <b>A 'skux' is slang for a guy who's good with the ladies. <i>(Jul 2005,Tearaway,20</i>)
+>  <b>A 'skux' is slang for a guy who's good with the ladies. <i>(Jul 2005,Tearaway,20</i>)</b>
 
 ### sky lily
 
@@ -8377,7 +8377,7 @@ See: -
 
 >  ... `ducks' breakfast,' `to float up to,' `to blow up to,' `to sleep in the Star Hotel' need no explanation. <i>(Apr 2, 1938,Press, The,18</i>) [NOTES: McNab NZ Slang]
 
->  <b>McGILL</b> <i>sleep in the star hotel</i> open-air slumber under a clear sky, in tramps' words, c.1932. <i>(1988,Dictionary of Kiwi Slang, A,104</i>)
+>  <b>McGILL</b> <i>sleep in the star hotel</i> open-air slumber under a clear sky, in tramps' words, c.1932. <i>(1988,Dictionary of Kiwi Slang, A,104</i>)</i>
 
 ### sleep with Mrs Green
 
@@ -9312,7 +9312,7 @@ See: slip-panel, slip-rail
 
 >  You'll meet me at the slip-rails when thecoach comes this evening. <i>(Nov 18, 1899,NZ Times,3</i>)
 
->  <b>SCANLON</b> For an hour Ambrose smoked his pipe as he leaned over the slip-rail behind the cow-bails. <i>(1948,Rusty Road,81</i>)
+>  <b>SCANLON</b> For an hour Ambrose smoked his pipe as he leaned over the slip-rail behind the cow-bails. <i>(1948,Rusty Road,81</i>)</i>
 
 ### slip the chain
 
@@ -13718,7 +13718,7 @@ See: cf. snitcher
 
 >  <b>EDMOND</b> Mr Brooker kept on making snaky remarks about him. He's got a snitch on our boy. <i>(1984,High Country Weather,74</i>)
 
->  <b>McGILL</b> <i> snitch on</> feeling of ill will; eg Gordon Slatter in <i>The Pagan Game </i>: `The selector had a snitch on me.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,105</i>)
+>  <b>McGILL</b> <i> snitch on</> feeling of ill will; eg Gordon Slatter in <i>The Pagan Game </i>: `The selector had a snitch on me.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,105</i>)</i>
 
 ### snitcher
 
@@ -16763,7 +16763,7 @@ See: solo mother
 
 >  "You should cut it off, sooky bubba." said Huck. <i>(Dec 28, 2002,Listener (New Zealand Listener),45</i>)
 
->  He's the most sooky dog in the world buthe looks really tough. <i>(Apr 23, 1995,Sunday Star Times,D3</i>)
+>  He's the most sooky dog in the world buthe looks really tough. <i>(Apr 23, 1995,Sunday Star Times,D3</i>)</i>
 
 ### sool
 
@@ -18884,7 +18884,7 @@ See: contrast Northerner
 
 >  [Hdg] Car and Southerner collide. Three Temuka people walked away unscathed yesterday after a collision between their car and the Southerner passenger train, north of Timaru. <i>(Feb 26, 2001,Evening Post,15</i>)
 
->  Other passenger services to end include the Silver Star, the Southerner, the Kaimai, Geyserland and Bay Express. <i>(Oct 30, 2004,Dominion Post,A1</i>)
+>  Other passenger services to end include the Silver Star, the Southerner, the Kaimai, Geyserland and Bay Express. <i>(Oct 30, 2004,Dominion Post,A1</i>)</i>
 
 ### South-Isle
 

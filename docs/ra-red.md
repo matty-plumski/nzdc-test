@@ -4880,7 +4880,7 @@
 
 
  
-<b>3</b> <i>n.</i> occas heard for unpalatable greens; unpalatable tobacco (? mistake or confusion for raurau
+<b>3</b> <i>n.</i> occas heard for unpalatable greens; unpalatable tobacco (? mistake or confusion for raurau</i>
 
 ### Raurimu spiral
  
@@ -5049,7 +5049,7 @@
  
  <i>n.</i> prayer book
 
->  It is a Maori rawiri (prayer book) still embedded with the Turkish bullet which had been heading for Hone's heart. The book was in his breast pocket. <i>(Jul 19, 1986,Dominion,1</i>)
+>  It is a Maori rawiri (prayer book) still embedded with the Turkish bullet which had been heading for Hone's heart. The book was in his breast pocket. <i>(Jul 19, 1986,Dominion,1</i>)</i>
 
 ### Rawleigh's salesman
  
@@ -5303,7 +5303,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <b>PAUL et al.</b> [index to common names 283-293] ray, electric longtailed 315 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] ray, electric longtailed 315 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### ray grass
  
@@ -6963,7 +6963,7 @@
 
 >  Mr M'Gruer prides himself a good deal on the specimen of the rimu or red pine ( <i> Dacrydium cupressinum </i> ) which he had transplanted from the bush and which is a plant very difficult to start. <i>(May 27, 1871,Otago Witness,5</i>)
 
->  <b>TUCKETT</b> [?rimu] I observed a fine stream of water, and the wood with abundance of timber - the red pine, or, as it is here [Otago, Tuckett had come from ?Nelson] called, the black ... throughout the district. <i>(Apr 19, 1844,Diary</i>) [NOTES: 1844 Apr 19 Tuckett Diary in 1898 Hocken Contributions 208]
+>  <b>TUCKETT</b> [?rimu] I observed a fine stream of water, and the wood with abundance of timber - the red pine, or, as it is here [Otago, Tuckett had come from ?Nelson] called, the black ... throughout the district. <i>(Apr 19, 1844,Diary</i>) [NOTES: 1844 Apr 19 Tuckett Diary in 1898 Hocken Contributions 208]</i>
 
 ### red piripiri
  

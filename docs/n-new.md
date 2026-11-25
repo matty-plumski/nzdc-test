@@ -3480,7 +3480,7 @@
 
 >  <b>GUTHRIE-SMITH</b> At the very head of the inlet [at the Snares] many young full fledged Nellies (<i> Ossifraga gigantea </i>) crowded together; ... . <i>Ibid.</i> 239 Here and there [in the Bounty Islands] a dark Nelly, or Stinkpot, or Giant Petrel, (<i> Ossifraga gigantea </i>) breasted in single self importance ... <i>(1936,NZ Naturalist,192</i>)
 
->  <b>BUICK</b> Awl made of distal end of tibia of nelly (<i> Ossifraga gigantea </i>) <i>(1937,Moa-Hunters of NZ,85</i>)
+>  <b>BUICK</b> Awl made of distal end of tibia of nelly (<i> Ossifraga gigantea </i>) <i>(1937,Moa-Hunters of NZ,85</i>)</i>
 
 ### nelly-birding
  

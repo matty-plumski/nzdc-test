@@ -1059,7 +1059,7 @@
 
 ### registry office
  
- <i>n.</i> the preferred NZ form to "register office" which seems to be increasingly used in the UK [NZ Catholic March 7 2004 reprints "register office" in an editorial from <i>The Tablet</8i> of London, Jan. 24, 2004.]
+ <i>n.</i> the preferred NZ form to "register office" which seems to be increasingly used in the UK [NZ Catholic March 7 2004 reprints "register office" in an editorial from <i>The Tablet</8i> of London, Jan. 24, 2004.]</i>
 
 ### rego
  
@@ -1920,7 +1920,7 @@
 
 >  <b>RICHARDS</b> <i>Selliera ... radicans ... Creeping Selliera</i>. REMU-REMU (tail feathers). <i>(1952,Chatham Islands,45</i>)
 
->  Goodieniaceae <i>Selliera radicans remuremu <i>(1975,Tane,21/8</i>) [NOTES: (Wright Vegetation Mt Maungatawhiri)]
+>  Goodieniaceae <i>Selliera radicans remuremu <i>(1975,Tane,21/8</i>) [NOTES: (Wright Vegetation Mt Maungatawhiri)]</i>
 
 ### remuster
  
@@ -2838,7 +2838,7 @@
 
 >  <b>CHEESEMAN</b> <i> K[nightia] excelsa, R.Br. ... Honeysuckle; Rewarewa. </i> <i>(1906,Manual NZ Flora,606</i>)
 
->  <b>LAING & BLACKWELL</b> <i>Knightia excelsa (The [Maori] Honey-suckle)</i> ... Maori name, <i>Rewa-rewa. It is sometimes called <i>the Bucket-of-water-tree</i>, because it is so slow of combustion. <i>(1907,Plants of NZ,146,1940 p. 150 ed.</i>)
+>  <b>LAING & BLACKWELL</b> <i>Knightia excelsa (The [Maori] Honey-suckle)</i> ... Maori name, <i>Rewa-rewa. It is sometimes called <i>the Bucket-of-water-tree</i>, because it is so slow of combustion. <i>(1907,Plants of NZ,146,1940 p. 150 ed.</i>)</i>
 
 ### rewena
  

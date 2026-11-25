@@ -2196,7 +2196,7 @@
  
  <i>n.</i>
 
->  An aute kite can be made to fly fast... There is an aute tree that was planted by me beside the wall of my house. <i>(Jun 17, 1924,Otago Witness,4</i>)
+>  An aute kite can be made to fly fast... There is an aute tree that was planted by me beside the wall of my house. <i>(Jun 17, 1924,Otago Witness,4</i>)</i>
 
 ### autetaranga
  

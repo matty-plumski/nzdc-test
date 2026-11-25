@@ -175,7 +175,7 @@
 
 >  <b>SORENSON</b> FLOUNDER (four species) (a) Scientific name: (i) <i>Rhombosolea plebeia (ii) Rhombosolea retiaria (iii) Rhombosolea tapirina (iv) Rhombosolea leporina</i>. (b) Suggested commercial name[s]: (i) Flounder (ii) Freshwater Flounder (iii) Flounder (iv) Yellowbelly Flounder. (c) Other common names: (i) Square, Dab, Plaice, Diamond or Diamond-back, Tin-plate, Three Corners. (ii) Blacks, Black Flounder (iii) Greenback [25 `Not common but occasionally taken in southern waters.'] (iv) Yellow Flounder. <i>(1970,Nomenclature of NZ Fish,24</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] flounder, yellow 2280-3 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] flounder, yellow 2280-3 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### yellow headed penguin
  

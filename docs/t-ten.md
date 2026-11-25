@@ -800,7 +800,7 @@
 
 >  <b>TREGEAR</b> The quarter-staff or sword (<i>taiaha</i> or <i>hani</i>) was made of heavy hard wood. It also served the purpose of a spear ... <i>(1904,Maori Race, The,312</i>)
 
->  The <i>Taiaha</i>, as a few New Zealanders may know, is an old-time fighting weapon of the Maori. <i>(1917,New Zealand At the Front,1</i>)
+>  The <i>Taiaha</i>, as a few New Zealanders may know, is an old-time fighting weapon of the Maori. <i>(1917,New Zealand At the Front,1</i>)</i>
 
 ### taiaha-user
  
@@ -1119,7 +1119,7 @@
 
 >  <b>REED</b> Closer inspection disclosed a curious creeper, common hereabouts [in Northland], its favourite habitat a clump of scrub, amongst which it contrives to involve itself in an inextricable tangle. ... This creeper bears the appropriate name of Taihoa (wait-a-while), ... <i>(1946,Farthest North,28</i>)
 
->  <b>REED</b> The stringy tendrils of the aptly named <i>taihoa</i>, or `wait-awhile' native creeper, tough enough to trap and hold a horse. <i>(1948,Gumdigger, The,53</i>)
+>  <b>REED</b> The stringy tendrils of the aptly named <i>taihoa</i>, or `wait-awhile' native creeper, tough enough to trap and hold a horse. <i>(1948,Gumdigger, The,53</i>)</i>
 
 ### taihoa policy
  
@@ -9362,7 +9362,7 @@
 
 >  <b>BURTON</b> Unlike the berries of the karaka, tawa (<i>Beilschmiedia tawa</i>) berries have a non-poisonous kernel. If eaten raw, however, the kernels have a distinctive, turpentine-like flavour which is unpleasant to most palates. <i>(1982,Two Hundred Years of NZ Food & Cookery,6</i>)
 
->  <i>tawa n./i a New Zealand timber tree with edible berries. [< Maori] <i>(1982,Collins Concise English Dictionary,1199</i>) [NOTES: [1986 NZPOD 788; 1985 Collins NZ Compact Dict. 493]]
+>  <i>tawa n./i a New Zealand timber tree with edible berries. [< Maori] <i>(1982,Collins Concise English Dictionary,1199</i>) [NOTES: [1986 NZPOD 788; 1985 Collins NZ Compact Dict. 493]]</i>
 
 ### tawa berry
  
@@ -9502,7 +9502,7 @@
 
 >  <i>tawaki [check]... n</i>. a N.Z. penguin [Maori]. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),20</i>)
 
->  <i>Fiordland Crested Penguin Eudyptes pachyrhynchus</i> GRAY, 1845 ... OTHER NAMES:<i>Tawaki, thick-billed penguin, crested penguin, Fiordland penguin. <i>Ibid.</i> 52 <i>Erect-crested Penguin Eudyptes sclateri </i>BULLER, 1888 ... OTHER NAMES: <i>Tawaki, big-crested penguin.</i> <i>(1985,Reader's Digest Book of NZ Birds,50</i>)
+>  <i>Fiordland Crested Penguin Eudyptes pachyrhynchus</i> GRAY, 1845 ... OTHER NAMES:<i>Tawaki, thick-billed penguin, crested penguin, Fiordland penguin. <i>Ibid.</i> 52 <i>Erect-crested Penguin Eudyptes sclateri </i>BULLER, 1888 ... OTHER NAMES: <i>Tawaki, big-crested penguin.</i> <i>(1985,Reader's Digest Book of NZ Birds,50</i>)</i>
 
 ### tawapou
  
@@ -9666,7 +9666,7 @@
 
 >  <b>CHEESEMAN</b> N. fusca <i>F. fusca, Hook.f. </i>... A noble forest-tree 60-100 ft. high; ... bark dark-brown or black in old plants, deeply furrowed, smooth and greyish-white on young trees; ... rare in Canterbury and eastern Otago. ... <i>Tawhai; Tawhai-rau-nui; Black-birch; Red-birch.</i> ... [642] Wood bark-red, ... more durable than that of other species, ... <i>(1906,Manual NZ Flora,641</i>)
 
->  <i>tawai</i> (as tawhai), a tree (Nothofagus spp.), beech; wrongly called birch; Tawai-raunui and tawai rauriki recognized as species by Maori and Pakeha alike: there are also hybrids: Also called tawhai. <i>(1946,Journal of the Polynesian Society,55/146</i>) [NOTES: Andersen Maori Words in English]
+>  <i>tawai</i> (as tawhai), a tree (Nothofagus spp.), beech; wrongly called birch; Tawai-raunui and tawai rauriki recognized as species by Maori and Pakeha alike: there are also hybrids: Also called tawhai. <i>(1946,Journal of the Polynesian Society,55/146</i>) [NOTES: Andersen Maori Words in English]</i>
 
 ### tawhai-rauriki
  
@@ -11250,7 +11250,7 @@
  
  <i>n.</i> a telephone cold-call [Renee]
 
->  <b>RENeE</b> <i>How's your day been? asks a strange voice. I might have known it. A Tele-Con. <i>(1998,Yin & Tonic,7</i>)
+>  <b>RENeE</b> <i>How's your day been? asks a strange voice. I might have known it. A Tele-Con. <i>(1998,Yin & Tonic,7</i>)</i>
 
 ### tele-conner
  
@@ -11322,7 +11322,7 @@
  
  <i>n.</i>
 
->  [caption] <B>THE UNREAL McCOY: Nick Udy (left) in the new polo shirt for temporary constables, and Constable Sione Tangi in the standard police uniform. <i>(May 31, 2006,NZ Herald,A4</i>)
+>  [caption] <B>THE UNREAL McCOY: Nick Udy (left) in the new polo shirt for temporary constables, and Constable Sione Tangi in the standard police uniform. <i>(May 31, 2006,NZ Herald,A4</i>)</b>
 
 ### tempured
  

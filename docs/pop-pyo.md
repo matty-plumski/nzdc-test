@@ -3182,7 +3182,7 @@
 
 >  She says snails, particularly the giant Powelliphanta species, are a great source of protein, so it should not be surprising that possums will seek them out, particularly in the high, less fertile montane forest where sustenance is harder to come by. <i>(Sep 27, 2003,Dominion Post,A19</i>)
 
->  The large, native carniverous land snail, <i>Powelliphanta,/i>, will often be seen on the tracks after heavy rain, feeding on equally large earthworms. <i>(1990,Tramping in South Island Forest Parks,64</i>)
+>  The large, native carniverous land snail, <i>Powelliphanta,/i>, will often be seen on the tracks after heavy rain, feeding on equally large earthworms. <i>(1990,Tramping in South Island Forest Parks,64</i>)</i>
 
 ### power board
  
@@ -5423,7 +5423,7 @@
 
 
  
-<b>2</b> <i>adj.</i> sticking out a mile ca1930's-1940's
+<b>2</b> <i>adj.</i> sticking out a mile ca1930's-1940's</i>
 
 ### Project Crimson
  
@@ -5832,7 +5832,7 @@
 
 
  
-<b>3</b> <i>n.</i> 3.as n. and attrib, esp. in <i>prospect block </i> [[no citations] 1965 Bruce Branwell T.S. of <i>Wapiti Hunters</i> (Note by Les Cleveland) [see PROSPECT v. below]]
+<b>3</b> <i>n.</i> 3.as n. and attrib, esp. in <i>prospect block </i> [[no citations] 1965 Bruce Branwell T.S. of <i>Wapiti Hunters</i> (Note by Les Cleveland) [see PROSPECT v. below]]</i>
 
 ### prospecting
  

@@ -818,7 +818,7 @@
 
 
  
-<b>2</b> <i>adj.</i> 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
+<b>2</b> <i>adj.</i> 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.</i>
 
 ### out and outer
  
@@ -2862,7 +2862,7 @@
 
 >  The Act of 1866 provided that "The word 'oyster', whenever used in this Act shall mean the under-mentioned species or varieties of the oysters that is to say:- 1. Shore oysters, excepting rock oysters between high and low water-mark .. " <i>(Nov 13, 1874,Daily Southern Cross,2</i>)
 
->  The Picton Oyster Ostrea discordia [sic] is the next, coming South, of importance. Those gathered off the banks are very fine and large. Allthough they have not been found in any great quantities still I would not be surprised to hear of the discovery of large oyster beds off Queen Charlotte's Sound or in the vicinity of Cook's Strait. <i>(Oct 13, 1892,Otago Witness,45</i>)
+>  The Picton Oyster Ostrea discordia [sic] is the next, coming South, of importance. Those gathered off the banks are very fine and large. Allthough they have not been found in any great quantities still I would not be surprised to hear of the discovery of large oyster beds off Queen Charlotte's Sound or in the vicinity of Cook's Strait. <i>(Oct 13, 1892,Otago Witness,45</i>)</i>
 
 ### oyster bird
  
@@ -2979,7 +2979,7 @@
  
 <b>2</b> <i>n.</i> <i>Haemotopus reischeki </i> (See [also torea](ten-tot.md#torea))
 
->  <b>COLENSO</b> A black and graceful species of <i>Haemotopus</i> with orange coloured bill and legs is common [near Tokomaru Bay - East Cape] ... The natives call them Torea. [FN] Presumably the black form of the North Island Oyster catcher (<i>Haemotopus reischeki</i>). <i>(1840,Excursion in the Northern Island of NZ</i>) [NOTES: 1844 Colenso Excursion North Island in1959 Taylor Early Travellers 14]
+>  <b>COLENSO</b> A black and graceful species of <i>Haemotopus</i> with orange coloured bill and legs is common [near Tokomaru Bay - East Cape] ... The natives call them Torea. [FN] Presumably the black form of the North Island Oyster catcher (<i>Haemotopus reischeki</i>). <i>(1840,Excursion in the Northern Island of NZ</i>) [NOTES: 1844 Colenso Excursion North Island in1959 Taylor Early Travellers 14]</i>
 
 ### oystering
  

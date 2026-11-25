@@ -2400,7 +2400,7 @@
 
 >  The most valuable trees are the enumerated: .. L Bidwillii, the Cedar or Pahautea... <i>(Mar 22, 1878,North Otago Times,2</i>)
 
->  Already a large English firm is using New Zealand pahautea, kohekohe, and kawakawa, and the top branches of the totara for the manufacture of lead pencils... <i>(Feb 6, 1907,Otago Witness,14</i>)
+>  Already a large English firm is using New Zealand pahautea, kohekohe, and kawakawa, and the top branches of the totara for the manufacture of lead pencils... <i>(Feb 6, 1907,Otago Witness,14</i>)</i>
 
 ### Pahia weed
  
@@ -5736,7 +5736,7 @@
 
 >  Milking the Goats cleaning the pannikins making the Tea <i>(Apr 23, 1841,Journal of Edward Ward,293,1966 ed.</i>)
 
->  Herries Beattie describes a different method: "This tussock was placed in the paraerae (sandal) and the foot inserted. Then the tussock was brought up the leg and tied above the ankle. This protection was called puru and the sandals were then known as tupuru." Patiti was also regarded as "a fine thing to put in the paraerae to keep the feet warm and if one was wading it was warmer with patiti around the feet than without it." <i>(Nov 2003,NZ Geographic,No. 11/40</i>)
+>  Herries Beattie describes a different method: "This tussock was placed in the paraerae (sandal) and the foot inserted. Then the tussock was brought up the leg and tied above the ankle. This protection was called puru and the sandals were then known as tupuru." Patiti was also regarded as "a fine thing to put in the paraerae to keep the feet warm and if one was wading it was warmer with patiti around the feet than without it." <i>(Nov 2003,NZ Geographic,No. 11/40</i>)</i>
 
 ### paraffin
  
@@ -5820,7 +5820,7 @@
 
 >  THE CHATHAM ISLANDS [From the <i>Lyttleton Times</i>.] .. The land birds now found are a large kite, the pigeon, the tui or Parson Bird, .. the parakeet (<i> Platycerus Sp.</i>[sic]) .. all identical with the birds from the same genera found in New Zealand. <i>(May 5, 1866,Taranaki Herald,5</i>)
 
->  The parakeets were caught by dropping a hat on them . . . <i>(Dec 4, 1907,Evening Post,8</i>)
+>  The parakeets were caught by dropping a hat on them . . . <i>(Dec 4, 1907,Evening Post,8</i>)</i>
 
 ### paraki
  
@@ -8235,7 +8235,7 @@
 
 >  He took them to admit that the pastoralist held in his hand a contract which the Government was both morally and legally bound to respect. <i>(May 23, 1857,Nelson Examiner and New Zealand Chronicle,3</i>)
 
->  He took up a run, and was engaged as a pastoralist for about seven years, when he returned home to Yorkshire, intending to settle down. <i>(Mar 22, 1879,Otago Witness,4</i>)
+>  He took up a run, and was engaged as a pastoralist for about seven years, when he returned home to Yorkshire, intending to settle down. <i>(Mar 22, 1879,Otago Witness,4</i>)</i>
 
 ### pasturage
  
@@ -10561,7 +10561,7 @@
  
  <i>n.</i> later called eccles cakes
 
->  <b>McCREDIE</b> <i>PEEP-BOO'S/i> ... butter ... sugar ... eggs ... ground rice ... flour ...baking powder. Divide into balls; make a hole in each ... insert ... jam; ... dip in beaten white of egg, in sugar ... bake .. They should crack and show the jam. <i>(1915,Bungalow Recipe Book, The,9</i>)
+>  <b>McCREDIE</b> <i>PEEP-BOO'S/i> ... butter ... sugar ... eggs ... ground rice ... flour ...baking powder. Divide into balls; make a hole in each ... insert ... jam; ... dip in beaten white of egg, in sugar ... bake .. They should crack and show the jam. <i>(1915,Bungalow Recipe Book, The,9</i>)</i>
 
 ### peewee
  

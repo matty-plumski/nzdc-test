@@ -411,7 +411,7 @@
 
 
  
-<b>4</b> <i>n.</i>
+<b>4</b> <i>n.</i></i>
 
 ### towel up
  
@@ -2574,7 +2574,7 @@
 
 >  <b>FEATON</b> CLEMATIS HEXASEPALA (<i>D.C.</i>) In some parts it is known as the `Traveller's Joy', a name probably due to its appearance in early spring, as a harbinger of brighter weather and sunnier skies. <i>(1889,Art Album NZ Flora,3</i>) [NOTES: (Andersen)]
 
->  <i>clematis, wild [=] traveller's joy [s] </i> <i>(1969,Standard Common Names for Weeds,14</i>)
+>  <i>clematis, wild [=] traveller's joy [s] </i> <i>(1969,Standard Common Names for Weeds,14</i>)</i>
 
 ### travelling certificate
  
@@ -4117,7 +4117,7 @@
 
 >  <b>AYLING</b> <i>LEATHERJACKET Parika scaber (Navodon scaber)</i> (Triggerfish, cream fish, kokiri) ... [314] They make excellent eating and are usually sold under the name of cream fish. <i>(1982,Collins Guide,313,1984 ed.</i>)
 
->  [species name] leatherjacket .. [scientific name] <i>Navodon scaber</i>[other name(s)] cream fish, filefish, kokiri, triggerfish <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
+>  [species name] leatherjacket .. [scientific name] <i>Navodon scaber</i>[other name(s)] cream fish, filefish, kokiri, triggerfish <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)</i>
 
 ### trigging
  
@@ -4704,7 +4704,7 @@
 
 >  Foxchase is experiencing a bad "trot," which went a further stage at Riccarton on Saturday. <i>(Aug 9, 1944,Evening Post,8</i>)
 
->  <b>McGILL</b> <i>trot </iluck, usually in `bad trot' or `good trot', mostly sport use; probably from two-up game, where a trot is a sequence of heads; eg `It's ages since I had a decent trot.' - <i>on the trot</i> a sequence, often a winning one, more usually picking a succession of horse race winners nowadays. - <i>do a trot</i> have a good run of luck. <i>trot</i> a woman, perhaps desired, as used by Gordon Slatter; probably a lightening of English word `trot', whore; c.1925. <i>(1988,Dictionary of Kiwi Slang, A,115</i>)
+>  <b>McGILL</b> <i>trot </iluck, usually in `bad trot' or `good trot', mostly sport use; probably from two-up game, where a trot is a sequence of heads; eg `It's ages since I had a decent trot.' - <i>on the trot</i> a sequence, often a winning one, more usually picking a succession of horse race winners nowadays. - <i>do a trot</i> have a good run of luck. <i>trot</i> a woman, perhaps desired, as used by Gordon Slatter; probably a lightening of English word `trot', whore; c.1925. <i>(1988,Dictionary of Kiwi Slang, A,115</i>)</i>
 
 ### trot up
  
@@ -6590,7 +6590,7 @@
 
 >  A few evenings ago we were treated to a very meritorious and musical entertainment by "The Tuis" Pierrots (mobile). <i>(Jul 5, 1918,Chronicles NZEF,IV/47 : 248</i>)
 
->  The existing pierrot troupes, "The Kiwis", "Tuis" and others, have reached such a high standard of excellence that it makes it doubly hard for a new troupe to create an impression. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 10</i>)
+>  The existing pierrot troupes, "The Kiwis", "Tuis" and others, have reached such a high standard of excellence that it makes it doubly hard for a new troupe to create an impression. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 10</i>)</i>
 
 ### tui fever
  
@@ -7010,7 +7010,7 @@
 
 >  [advertisement] <b> Chief Executive/Tumuaki Te Whare Wananga o Awanuiarangi - Whakatane Tertiary Education Sector - Leadership Role <i>(Mar 11, 2006,Dominion Post,H6</i>)
 
->  I am also informed by the gentleman I formerly alluded to, and who has indeed great experience in what is called "native affairs," that members of parliament, <i>Tumuaki</i>; or, as my friend the old settler says, the word translates "top knots," have, by established usage, the right to kill anyone they are able, on any pretence or none, as they choose, and that this old custom from immemorial usage has all the force of law, and that it would be both impolitic and dangerous to interfere with it ... <i>(Jun 27, 1862,Daily Southern Cross,4</i>)
+>  I am also informed by the gentleman I formerly alluded to, and who has indeed great experience in what is called "native affairs," that members of parliament, <i>Tumuaki</i>; or, as my friend the old settler says, the word translates "top knots," have, by established usage, the right to kill anyone they are able, on any pretence or none, as they choose, and that this old custom from immemorial usage has all the force of law, and that it would be both impolitic and dangerous to interfere with it ... <i>(Jun 27, 1862,Daily Southern Cross,4</i>)</b>
 
 ### tuna
  
@@ -8349,7 +8349,7 @@
 
 >  <b>DENNIS</b> It is frequently made difficult by thick patches of hardy leatherwood and turpentine scrub (<i>Dracophyllum longifolium</i> and <i>D. uniflorum</i>) although respite is provided by ... the flowering of mountain heath. <i>(1981,Paparoas Guide,164</i>)
 
->  <b>WILSON</b> <i>Dracophyllum longifolium</i> INAKA ... Turpentine scrub ...Erect shrub or small tr<i>ee. <i>(1982,Stewart Island Plants,80</i>)
+>  <b>WILSON</b> <i>Dracophyllum longifolium</i> INAKA ... Turpentine scrub ...Erect shrub or small tr<i>ee. <i>(1982,Stewart Island Plants,80</i>)</i>
 
 ### turpentine shrub
  
@@ -10849,7 +10849,7 @@
 
 >  <b>NEWTON</b> I.. also took out a hundred or so old ewes and a handful of cull two-tooths. <i>(1966,Boss's Story, The,88</i>)
 
->  FIFTY MERINO RAMS, comprising six-tooth. four-tooth, two-tooth sheep, and ten-month-old ram lambs, for SALE in the Wairau. <i>(Mar 23, 1850,Nelson Examiner and New Zealand Chronicle,13</i>)
+>  FIFTY MERINO RAMS, comprising six-tooth. four-tooth, two-tooth sheep, and ten-month-old ram lambs, for SALE in the Wairau. <i>(Mar 23, 1850,Nelson Examiner and New Zealand Chronicle,13</i>)</i>
 
 ### two-up
  

@@ -2965,7 +2965,7 @@
 
 >  Skuas are predaceous birds, related to the gulls. Some of the species are great wanderers, like the Arctic skua, which visits at least the northern parts of New Zealand every summer, but does not breed here. <i>(Dec 5, 1925,Evening Post,13</i>)
 
->  One of the greatest travellers in the world is the arctic tern, and only two years ago a bird of this species was obtained in the Manawatu district. .. The arctic skua, too, which regularly visits New Zealand, performs almost an equally long flight. <i>(Jun 23, 1934,Evening Post,17</i>)
+>  One of the greatest travellers in the world is the arctic tern, and only two years ago a bird of this species was obtained in the Manawatu district. .. The arctic skua, too, which regularly visits New Zealand, performs almost an equally long flight. <i>(Jun 23, 1934,Evening Post,17</i>)</i>
 
 ### are you there?
  
@@ -3018,7 +3018,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <b>AYLING</b> <i>SLENDER ARGENTINE Microstoma microstoma ... </i> <i>(1982,Collins Guide,107,1984 ed.</i>)
+>  <b>AYLING</b> <i>SLENDER ARGENTINE Microstoma microstoma ... </i> <i>(1982,Collins Guide,107,1984 ed.</i>)</i>
 
 ### Argentine ant
  

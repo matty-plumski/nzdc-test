@@ -883,7 +883,7 @@
  
  <i>n.</i> plant of genus Logania
 
->  NL, fr. <i>James Logan</i> 1751 Irish botanist + NL <i>-ia] 1 cap</i> : the type genus of the family Loganiaceae comprising Australian and New Zealand herbs and subshrubs that are sometimes cultivated for their clusters of pentamerous white to flesh-colored flowers 2 -s : any plant of the genus <i>Logania <i>(1961,Merriam-Webster Third International,1330</i>)
+>  NL, fr. <i>James Logan</i> 1751 Irish botanist + NL <i>-ia] 1 cap</i> : the type genus of the family Loganiaceae comprising Australian and New Zealand herbs and subshrubs that are sometimes cultivated for their clusters of pentamerous white to flesh-colored flowers 2 -s : any plant of the genus <i>Logania <i>(1961,Merriam-Webster Third International,1330</i>)</i>
 
 ### logger
  
@@ -1844,7 +1844,7 @@
 
 >  <b>AYLING</b> <i>LONG-SNOUTED PIPEFISH Stigmatophora macropterygia (Stigmatophora longirostris)</i> ... Long-snouted pipefish are found throughout New Zealand but are nowhere as common as the short-snouted species. <i>(1982,Collins Guide,194,1984 ed.</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] pipefish, longsnouted 1137-61 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] pipefish, longsnouted 1137-61 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### long-spelled
  
@@ -2037,7 +2037,7 @@
 
 >  [species name] pink maomao .. [scientific name] <i> Caprodon longimanus .. [other name(s)] longfin, pinkfish <i>(Mar 27, 1986,Codes for Species in NZ Waters</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] longfin 1260, 1266 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] longfin 1260, 1266 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### longfin(ned) eel
  
@@ -2963,7 +2963,7 @@
 
 >  <b>NEWBOLD</b> Being silent is doing you no good at all because when the shit hits the fan, boy, it's you who's going to get lumbered <i>(1982,Big Huey, The,23</i>)
 
->  <b>WILSON</b> `I can lumber you, Jack, any time I want to. ... I can pot yer like a sitting duck.' <i>(1957,Strip Jack Naked,29</i>)
+>  <b>WILSON</b> `I can lumber you, Jack, any time I want to. ... I can pot yer like a sitting duck.' <i>(1957,Strip Jack Naked,29</i>)</b>
 
 ### lump
  

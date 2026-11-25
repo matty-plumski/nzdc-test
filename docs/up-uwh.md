@@ -784,7 +784,7 @@
 
 >  `Fern-bird' is rather a misnomer nowadays, for, whatever the habit of theutick may have been, I have never yet, though riding over hundreds of miles of fern-country ..., observed the bird in this kind of herbage. <i>(1895,TrNZI,28/373</i>)
 
->  Our utick, or fern-bird, heard everywhere in swampy ground ... has become very rare. <i>(1908,TrNZI,40/491</i>)
+>  Our utick, or fern-bird, heard everywhere in swampy ground ... has become very rare. <i>(1908,TrNZI,40/491</i>)</i>
 
 ### utility
  

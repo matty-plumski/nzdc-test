@@ -2034,7 +2034,7 @@
  
  <i>n.</i> painter's mate
 
->  <b>PAINTER painter/Brush Hand Required <i>(Feb 18, 2006,Hawke's Bay Today,15,Weekend Market ed.</i>)
+>  <b>PAINTER painter/Brush Hand Required <i>(Feb 18, 2006,Hawke's Bay Today,15,Weekend Market ed.</i>)</b>
 
 ### brush harrow
  
@@ -13176,7 +13176,7 @@
 
 >  <b>HILGENDORF & CALDER</b> GIANT BUTTERCUP (<i>Ranunculus acris</i> syn. <i>R. acer</i>). Also called field buttercup. Flowering stems up to 2 ft., basal leaves long stalked, leaves deeply and sharply lobed, dark green, pilose. <i>(1967,Weeds of New Zealand,9,[nf 1926] ed.</i>)
 
->  <i>Ranunculus acaulis </i> <i>(1907,AJHR</i>) [NOTES: (And) Cockayne Report on a Botanical Survey of Kapiti Island]
+>  <i>Ranunculus acaulis </i> <i>(1907,AJHR</i>) [NOTES: (And) Cockayne Report on a Botanical Survey of Kapiti Island]</i>
 
 ### butterfat
  

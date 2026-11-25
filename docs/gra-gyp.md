@@ -1538,7 +1538,7 @@
 
 >  <b>MIKAERE</b> There were putakitaki (paradise ducks), parera (grey ducks), tataa (brown ducks) and whio (blue ducks). ... The pukeko (swamphen) were caught only as a last resort, because their flesh was stringy and tough. <i>(1988,Te Maiharoa,75</i>)
 
->  ... the light-eyed Teal slunk silently from view; or ... the little Grebe with rosy breast, dived and sported with restless activity; close by a group of sober Grey Ducks; whilst the watchful Paradise Drake basked on the sunny bank above ... <i>(1870,TrNZI,2/47</i>) [NOTES: (Potts Birds)]
+>  ... the light-eyed Teal slunk silently from view; or ... the little Grebe with rosy breast, dived and sported with restless activity; close by a group of sober Grey Ducks; whilst the watchful Paradise Drake basked on the sunny bank above ... <i>(1870,TrNZI,2/47</i>) [NOTES: (Potts Birds)]</i>
 
 ### grey gull
  
@@ -1684,7 +1684,7 @@
  
  <i>n.</i>
 
->  <b>BULLER</b> <i>STERNA ANTARCTICA. (GREY \{BLACK-FRONTED\} TERN.) ... <i>Native name.</i>- Tara. ... This ... Tern is very common in every part of the South island, but is only occasionally met with \{is not so plentiful\} on the north side of Cook's Strait. <i>(1873,Birds of Australia,282</i>) [NOTES: in 1873 only; black-fronted in 1888 edn]
+>  <b>BULLER</b> <i>STERNA ANTARCTICA. (GREY \{BLACK-FRONTED\} TERN.) ... <i>Native name.</i>- Tara. ... This ... Tern is very common in every part of the South island, but is only occasionally met with \{is not so plentiful\} on the north side of Cook's Strait. <i>(1873,Birds of Australia,282</i>) [NOTES: in 1873 only; black-fronted in 1888 edn]</i>
 
 ### grey ternlet
  
@@ -3049,7 +3049,7 @@
  
  <i>n.</i>
 
->  [Maui] changed into the shape of a ground lark. <i>(Feb 12, 1924,Otago Witness,7</i>)
+>  [Maui] changed into the shape of a ground lark. <i>(Feb 12, 1924,Otago Witness,7</i>)</i>
 
 ### ground lice
  
@@ -6136,7 +6136,7 @@
 
 >  <b>GRAHAM</b> GURNARD <i>Lepidotrigla brachyoptera</i> Hutton <i>(1956,NZ Fishes: An Identification Guide,363,2nd ed.</i>)
 
->  <b>PARROTT</b> THE GURNARD <i>Lepidotrigla brachyoptera</i> (Hutton) <i>Ibid..</i> 168 Usually taken by trawl the Red Gurnard, [?Ch. kumu] together with the Gurnard, [?L. brachyoptera] are sold in the shops under the general name of `Gurnard'. <i>(1957,Sea Anglers' Fishes of NZ,165</i>)
+>  <b>PARROTT</b> THE GURNARD <i>Lepidotrigla brachyoptera</i> (Hutton) <i>Ibid..</i> 168 Usually taken by trawl the Red Gurnard, [?Ch. kumu] together with the Gurnard, [?L. brachyoptera] are sold in the shops under the general name of `Gurnard'. <i>(1957,Sea Anglers' Fishes of NZ,165</i>)</i>
 
 ### gut
  

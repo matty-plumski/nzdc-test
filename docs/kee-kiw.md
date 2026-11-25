@@ -1420,7 +1420,7 @@
  
  <i>exclam.</i> [ORIGIN: Maori, kia mataara = look alive; wide awake http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary]
 
->  <b>Ngati Manawa E tu! oho!, Kia mataara! <i>(Jul 25, 2006,Dominion Post,C10</i>)
+>  <b>Ngati Manawa E tu! oho!, Kia mataara! <i>(Jul 25, 2006,Dominion Post,C10</i>)</b>
 
 ### kia ora
  
@@ -1573,7 +1573,7 @@
 
 >  For the shilling<i> bob</i> was the most common nickname in use, but also recorded is <i>deener</i>. This latter name was used more widely in New Zealand and Australia than in Britain. The sixpence attracted many slang terms - <i>tizzy, tanner, sprat, bender</i>, and a <i>kick. </> <i>(Oct 1977,NZ Numismatic Journal,15</i>)
 
->  He told how the wool growers could get four and a "kick" for their wool. <i>(Oct 6, 1917,NZ Truth,6</i>)
+>  He told how the wool growers could get four and a "kick" for their wool. <i>(Oct 6, 1917,NZ Truth,6</i>)</i>
 
 ### kick about
  
@@ -5049,7 +5049,7 @@
  
  <i>n.</i> (Sport) a nickname for New Zealand sports supporters (literally 'Kiwi tribe')
 
->  <b>Come on you supporters of the BARMY ARMY and KiWi iWi We have a Great Selelction [sic] of flags, hats ... <i>(Jun 28, 2005,Wairarapa Midweek,29</i>)
+>  <b>Come on you supporters of the BARMY ARMY and KiWi iWi We have a Great Selelction [sic] of flags, hats ... <i>(Jun 28, 2005,Wairarapa Midweek,29</i>)</b>
 
 ### Kiwi joker
  

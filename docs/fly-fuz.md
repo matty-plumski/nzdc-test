@@ -2308,7 +2308,7 @@
  
  <i>n.</i> see cit. [1958 Tararua 12/27 ; 1966 Turner]
 
->  The two main varieties of packs are the <i>frame pack</i> and the <i>frameless pack,</i> sometimes called a <i>flat pack. The frameless pack of course receives that name only on formal occasions, being more familiarly known by that elegant term, <i>kidney-rotter</i>, or less frequently as<i> kidney-buster, kidney-crusher, kidney-sweater or kidney-rider. </i> <i>(Sep 1958,Tararua,27</i>) [NOTES: Ruth Mason `Track and Trail']
+>  The two main varieties of packs are the <i>frame pack</i> and the <i>frameless pack,</i> sometimes called a <i>flat pack. The frameless pack of course receives that name only on formal occasions, being more familiarly known by that elegant term, <i>kidney-rotter</i>, or less frequently as<i> kidney-buster, kidney-crusher, kidney-sweater or kidney-rider. </i> <i>(Sep 1958,Tararua,27</i>) [NOTES: Ruth Mason `Track and Trail']</i>
 
 ### franchise farm
  
@@ -4126,7 +4126,7 @@
 
 >  The landing beach.. seems to be a nursery for kingfish and frost-fish. <i>(Mar 9, 1922,Auckland Weekly News,15</i>)
 
->  I suppose you have seen plenty of frostfish... They usually come ashore at high tide on a frosty morning. <i>(Dec 7, 1920,Otago Witness,57</i>)
+>  I suppose you have seen plenty of frostfish... They usually come ashore at high tide on a frosty morning. <i>(Dec 7, 1920,Otago Witness,57</i>)</i>
 
 ### frostfish, slender
  

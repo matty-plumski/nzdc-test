@@ -263,7 +263,7 @@
  
  <i>n.</i> paddle-weed, octopus-weed
 
->  <b>MARTIN</b> <i>Oar-weed, Paddle-weed, or Octopus-weed, (<i>Ecklonia radiata</i>) ... It ranges to Otago, but is uncommon save on North Isalnd coasts ... <i>(1961,Flora NZ,11,1929 p. 3 ed.</i>)
+>  <b>MARTIN</b> <i>Oar-weed, Paddle-weed, or Octopus-weed, (<i>Ecklonia radiata</i>) ... It ranges to Otago, but is uncommon save on North Isalnd coasts ... <i>(1961,Flora NZ,11,1929 p. 3 ed.</i>)</i>
 
 ### oarfish
  

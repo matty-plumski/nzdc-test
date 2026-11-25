@@ -1970,7 +1970,7 @@ See: Nelson cave spider; cave spider
 
 >  <b>HILGENDORF</b> SPIDERWORT (<i>Leycesteria formosa </i>), [or Himalaya honeysuckle.] is common as a garden escape, establishing itself as a weed in Taranaki, Wellington, Canterbury, and Marlborough. [and West Coast.] <i>(1926,Weeds of New Zealand,165</i>)
 
->  <i>spiderwort [=] Himalaya honeysuckle </i>[s] <i>(1969,Standard Common Names for Weeds,73</i>)
+>  <i>spiderwort [=] Himalaya honeysuckle </i>[s] <i>(1969,Standard Common Names for Weeds,73</i>)</i>
 
 ### spiderwort
 
@@ -17222,7 +17222,7 @@ See: sooner
 
 >  <b>MAF</b> Sundowner: Dog that leaves its work, especially when hot and noisy. A lazy dog. <i>(1982,MAF Agricultural Glossary,25</i>)
 
->  <b>SCURR</b> Sundowner:- A dog that won't work in the sun. [sun-downer] <i>(2000,Rabbiters' Glossary,2</i>)
+>  <b>SCURR</b> Sundowner:- A dog that won't work in the sun. [sun-downer] <i>(2000,Rabbiters' Glossary,2</i>)</i>
 
 ### sunfish
 

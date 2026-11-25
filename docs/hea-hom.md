@@ -1661,7 +1661,7 @@
 
 >  <b>COCKAYNE</b> A certain number of tropical plants have reached the Kermadecs ... Amongst these are -...<i> Ageratum conyxioides </i>(which bears the name of cherry-pie, or wild heliotrope), ... <i> Ageratum conyzioides </i> <i>(1910,NZ Plants,125</i>)
 
->  <b>COCKAYNE</b> (And) <i> Ageratum conyzioides </i> <i>(1919,NZ Plants & Their Story,2nd ed.</i>)
+>  <b>COCKAYNE</b> (And) <i> Ageratum conyzioides </i> <i>(1919,NZ Plants & Their Story,2nd ed.</i>)</i>
 
 ### hell and hogan to pay
  
@@ -2546,7 +2546,7 @@
 
 >  <b>WiLSON</b> BAiTFiSH, RED <i>Emmelichthys nitidus</i>: A less common species in New Zealand waters this fish turns up unpredictably in vast schools that give the water a red appearance - and the fish its name. Grow up to about 16 inches and known also as picarel, pearl fish and red herring. Colours light pink to dark red. <i>(1981,Fisherman's Bible,35</i>)
 
->  [index to common names 283-293] herring, red 1446 <i>(1987,Fishes: A Bibliography</i>)
+>  [index to common names 283-293] herring, red 1446 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### herring mullet
  

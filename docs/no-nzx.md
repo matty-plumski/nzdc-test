@@ -888,7 +888,7 @@
 
 >  Ornate skink (Gradual Decline), North Cape Pacific gecko (Gradual Decline), Matapia gecko (Gradual Decline), North Cape green gecko (Sparse), Cyclodina levidensa (regionally significant), shore skink, and common gecko. <i>(1997,Internet - see Notes</i>) [NOTES: http://www.conservation.govt.nz/upload/documents/conservation/land-and-freshwater/land/te-paki-ecological-district/te-paki-shrublands-n02-003.pdf]
 
->  This is one of the last large remaining contiguous habitats in Northland for a distinct form of the endemic North Cape green gecko ... <i>(1997,Internet - see Notes</i>) [NOTES: http://www.conservation.govt.nz/upload/documents/conservation/land-and-freshwater/land/te-paki-ecological-district/te-paki-shrublands-n02-003.pdf]
+>  This is one of the last large remaining contiguous habitats in Northland for a distinct form of the endemic North Cape green gecko ... <i>(1997,Internet - see Notes</i>) [NOTES: http://www.conservation.govt.nz/upload/documents/conservation/land-and-freshwater/land/te-paki-ecological-district/te-paki-shrublands-n02-003.pdf]</i>
 
 ### North Cape Pacific gecko
  
@@ -1514,7 +1514,7 @@
 
 >  Most interesting are the varieties of albatross - Gibson's, Northern royals and Southern royals. <i>(Nov 2003,AA Directions,No. 58/46</i>)
 
->  <b>Northern royal albatross</b> <i>Diomedea sanfordi</i> Slightly smaller than the Southern royal, this species breeds on the Chathams and at Taiaroa Head, Otago--the only "mainland" breeding colony of albatrosses in the Southern Hemisphere. <i>(2007,NZ Geographic Poster,No 84 Mar-Apr</i>)
+>  <b>Northern royal albatross</b> <i>Diomedea sanfordi</i> Slightly smaller than the Southern royal, this species breeds on the Chathams and at Taiaroa Head, Otago--the only "mainland" breeding colony of albatrosses in the Southern Hemisphere. <i>(2007,NZ Geographic Poster,No 84 Mar-Apr</i>)</i>
 
 ### northern spiny dogfish
  
@@ -2073,7 +2073,7 @@
 
 >  <b>HOOKER</b> Arenaria media, L., ... <i>Nat. name, `Note-noho'[e-acute], D'Urville. <./I> <i>(1853,Flora NZ,I Flowering Plants 26</i>)
 
->  <b>HOOKER</b> Note[acute]-noho, <i>D'Urville. Arenaria media. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
+>  <b>HOOKER</b> Note[acute]-noho, <i>D'Urville. Arenaria media. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)</i>
 
 ### noter
  

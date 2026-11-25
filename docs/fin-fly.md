@@ -444,7 +444,7 @@
  
  <i>n.</i> a track through bush or scrub to provide access for firefighting. [Jim Cameron writes : Collins gives <i>fire trail (Austral).]
 
->  <b>SUTTON-SMITH</b> The men would chase Gormie and they would all have to run for their lives down the fire-tracks. <i>(1950,Our Street,54</i>) [NOTES: check cite]
+>  <b>SUTTON-SMITH</b> The men would chase Gormie and they would all have to run for their lives down the fire-tracks. <i>(1950,Our Street,54</i>) [NOTES: check cite]</i>
 
 ### fire, fire
  
@@ -2825,7 +2825,7 @@
 
 >  <b>DOOGUE & MORELAND</b> STARGAZER ... Other names: <i>Leptoscopus macropygus</i>; river gurnard, mud gurnard, flat-head gurnard, mud grubber. <i>(1966,Sea Anglers' Guide,262</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] gurnard, flathead 1814 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] gurnard, flathead 1814 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### flatland
  
@@ -3743,7 +3743,7 @@
 
 >  ... the dry conditions and accumulation of dead leaves are favourable as well to the flax-grub. <i>Ibid.</i>.283 Kirk, T.W. and Cockayne, A.H. The Pests and diseases of NZ Phormium. NZ Dept Ag Ann Report 1909 pp286-289 <i>Ibid.</i> Cockayne, A.H.: The Flax-grub. N.Z. Jour. Agric., x, pp. 1-7 (1915). <i>(1930,NZ Journal of Science & Technology,11/280</i>)
 
->  <b>GILLESPIE</b> The ones attracting most attention were the owlet moths, the caterpillars of which destroyed the first pastures and cereal and root crops. There were also porina moths (<i>Oxycanus</i> spp.) whose caterpillars also destroyed pastures; the bag moth (<i>Oeceticus omnivorus</i>) which left cigar-shaped cocoons hanging from shrubs and tree [sic]; and the ghost-like white moth ... of the flax grub (<i>Orthoclydon praefectata</i>) which eats longitudinal slits on the surface of [flax] leaves ... <i>(1958,South Canterbury,10,1971 ed.</i>)
+>  <b>GILLESPIE</b> The ones attracting most attention were the owlet moths, the caterpillars of which destroyed the first pastures and cereal and root crops. There were also porina moths (<i>Oxycanus</i> spp.) whose caterpillars also destroyed pastures; the bag moth (<i>Oeceticus omnivorus</i>) which left cigar-shaped cocoons hanging from shrubs and tree [sic]; and the ghost-like white moth ... of the flax grub (<i>Orthoclydon praefectata</i>) which eats longitudinal slits on the surface of [flax] leaves ... <i>(1958,South Canterbury,10,1971 ed.</i>)</i>
 
 ### flax-hook
  
@@ -3755,7 +3755,7 @@
  
  <i>n.</i>
 
->  <b>POLACK</b> and a flax-house at [186] Uwoua, eighty feet long by twenty-four broad and forty feet high to the ridge-pole, was built by a chief and a large company of natives for a small keg of powder 25lbs. in weight. The house was extremely water-tight and warm, and several streams and marshes had been denuded of their rushes (raupo) to cover the roof and sides; ... <i>Ibid. 1/210-211 The largest public works undertaken are those of flax-houses, some of which are above one hundred [211] feet in length, thirty feet in width, and forty feet in height. These are built less for ornament than being durable and water-tight, as any rain pouring on the flax would discolour and finally rot it. <i>(1840,Manners & Customs of the NZers,1/185</i>)
+>  <b>POLACK</b> and a flax-house at [186] Uwoua, eighty feet long by twenty-four broad and forty feet high to the ridge-pole, was built by a chief and a large company of natives for a small keg of powder 25lbs. in weight. The house was extremely water-tight and warm, and several streams and marshes had been denuded of their rushes (raupo) to cover the roof and sides; ... <i>Ibid. 1/210-211 The largest public works undertaken are those of flax-houses, some of which are above one hundred [211] feet in length, thirty feet in width, and forty feet in height. These are built less for ornament than being durable and water-tight, as any rain pouring on the flax would discolour and finally rot it. <i>(1840,Manners & Customs of the NZers,1/185</i>)</i>
 
 ### flax-leaf
  

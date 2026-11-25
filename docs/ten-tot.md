@@ -2876,7 +2876,7 @@
 
 >  277. <i>a. Philesturnus carunculatus rufusater</i> (Lesson, 1828) <i>North Island Saddleback [(Tieke)] </i> <i>(1970,Annotated Checklist of Birds of NZ,72,1980 ed.</i>)
 
->  <i>Saddleback Philesturnus carunculatus</i> (GMELIN, 1789) ... <i>North Island Saddleback P.c. rufusater</i> (LESSON, 1828). <i>South Island Saddleback P.c. carunculatus </i>(GMELIN, 1789). ... OTHER NAME: <i>Tieke. </i> <i>(1985,Reader's Digest Book of NZ Birds,302</i>)
+>  <i>Saddleback Philesturnus carunculatus</i> (GMELIN, 1789) ... <i>North Island Saddleback P.c. rufusater</i> (LESSON, 1828). <i>South Island Saddleback P.c. carunculatus </i>(GMELIN, 1789). ... OTHER NAME: <i>Tieke. </i> <i>(1985,Reader's Digest Book of NZ Birds,302</i>)</i>
 
 ### tier
  
@@ -3614,7 +3614,7 @@
 
 >  It is owing to the thick coating of woolly hairs found on the flower-stalks and under the leaves that the name "cotton plant" is given to it. By the Maoris it was named Tikumu, which it is thought that they gave to all large-flowered celmisias. <i>(Jul 1, 1908,Otago Witness,82</i>)
 
->  Passing round a spur in the gully I came on a large patch of ground completely covered with the tikumu (<i>Celmisia coriacea). <i>(Mar 13, 1875,Otago Witness,7</i>)
+>  Passing round a spur in the gully I came on a large patch of ground completely covered with the tikumu (<i>Celmisia coriacea). <i>(Mar 13, 1875,Otago Witness,7</i>)</i>
 
 ### tile-drain
  
@@ -6989,7 +6989,7 @@
 
 >  It was not so very long ago that I heard these two gentlemen characterized in this Chamber as political tohungas. That term was applied to them by the late Premier, and I have not read in <i>Hansard </i>any contradiction by either of these two gentlemen of that term so applied to them, so I suppose it sticks down to the present time. <i>(Jul 19, 1907,NZ Parliamentary Debates,139/518</i>) [NOTES: (Apirana Ngata on the Tohunga Suppression Bill)]
 
->  Tawhiao, who appeared, as did the other natives present, greatly impressed with the method adopted, said if the Pakeha "Tohunga" had proposed to rectify the cast in his eye, or to change his hair from grey to a dark color, he would not have agreed, as people knew him by these signs, but that it was good for the "Tohunga" to take away the pains of his limbs. <i>(Oct 30, 1884,Poverty Bay Herald,2</i>)
+>  Tawhiao, who appeared, as did the other natives present, greatly impressed with the method adopted, said if the Pakeha "Tohunga" had proposed to rectify the cast in his eye, or to change his hair from grey to a dark color, he would not have agreed, as people knew him by these signs, but that it was good for the "Tohunga" to take away the pains of his limbs. <i>(Oct 30, 1884,Poverty Bay Herald,2</i>)</i>
 
 ### tohungaess
  
@@ -7097,7 +7097,7 @@
 
 >  Storytelling, warmth and humour combine as students of the Toi Whakaari: NZ Drama School acting and enternainment technology courses present the New Zealand premiere of Lanford Wilson's <i>Book of Days" at Te Whaea in Newtown at 8pm tonight. <i>(Oct 28, 2003,Dominion Post,A6</i>)
 
->  [Advt] Toi Whakaari new zealand drama school congratulates our grads on their nominations <i>(Dec 4, 2003,Dominion Post,B5</i>)
+>  [Advt] Toi Whakaari new zealand drama school congratulates our grads on their nominations <i>(Dec 4, 2003,Dominion Post,B5</i>)</i>
 
 ### toi-grass
  
@@ -8088,7 +8088,7 @@
 
 >  <b>PAUL et al.</b> [index to common names 283-293] tommyfish 1798 TOMMYFISHES 1798-9 <i>(1987,Fishes: A Bibliography</i>)
 
->  The biggest paddock in my [King Country] section is chock-full of `tomos'. A `tomo', let me explain, is a deep natural well in the limestone formation, formed in the course of centuries, maybe by surface drainage. <i>(May 10, 1920,Quick March,39</i>)
+>  The biggest paddock in my [King Country] section is chock-full of `tomos'. A `tomo', let me explain, is a deep natural well in the limestone formation, formed in the course of centuries, maybe by surface drainage. <i>(May 10, 1920,Quick March,39</i>)</i>
 
 ### tommyhawk
  
@@ -8688,7 +8688,7 @@
 
 >  The chameleon nature of the ferocious-looking toothed lancewood (Pseudopanax ferox) fascinates him for the same reason. As a juvenile, this unusual tree resembles an anorexic stick insect with thin, leathery leaves drooping pitifully from a single puny stem. <i>(Sep 15, 2002,Sunday Star Times,D9</i>)
 
->  The spindly, prehistoric-looking toothed lancewood <i>Pseudopanax ferox</i> is always a talking point. It undergoes a radical transformation as an adolescent, shedding its stiff, jagged, juvenile leaves to become a fairly ordinary dark green tree. <i>(Oct 31, 2004,Sunday (Sunday Star Times Magazine),47</i>)
+>  The spindly, prehistoric-looking toothed lancewood <i>Pseudopanax ferox</i> is always a talking point. It undergoes a radical transformation as an adolescent, shedding its stiff, jagged, juvenile leaves to become a fairly ordinary dark green tree. <i>(Oct 31, 2004,Sunday (Sunday Star Times Magazine),47</i>)</i>
 
 ### toothfish
  
@@ -9385,7 +9385,7 @@
 
 >  The map showed that the far side of the valley would soon have farmland in behind the bushed tops. <i>(Nov 17, 2002,Sunday Star Times,C9</i>)
 
->  They knew which way each gate opened, how to saddle up, whether it was a stray sheep on the Tops or that plant thing. <i>(Nov 26, 1988,Listener (New Zealand Listener),58</i>)
+>  They knew which way each gate opened, how to saddle up, whether it was a stray sheep on the Tops or that plant thing. <i>(Nov 26, 1988,Listener (New Zealand Listener),58</i>)</i>
 
 ### topside run
  
@@ -9705,7 +9705,7 @@
  
 <b>3</b> <i>n.</i>
 
->  <i>(Dec 1958,NZ Timber Journal,73/1</i>)
+>  <i>(Dec 1958,NZ Timber Journal,73/1</i>)</i>
 
 ### toroa
  
@@ -10255,7 +10255,7 @@
 
 >  There was a long bridge on the main road,.. the piles of which, totara rickers, had rotted away. <i>(Sep 13, 1879,Auckland Weekly News,7</i>)
 
->  <b>FORDYCE & MACLEHN</b> In 1890 Mariano built wharves at Paremata and Mansa Island from totara posts washed down from floods in the Manawatu and Rangitikei. <i>(2000,Bay, The : A History of Community at Titahi Bay,31</i>)
+>  <b>FORDYCE & MACLEHN</b> In 1890 Mariano built wharves at Paremata and Mansa Island from totara posts washed down from floods in the Manawatu and Rangitikei. <i>(2000,Bay, The : A History of Community at Titahi Bay,31</i>)</i>
 
 ### totara bark
  

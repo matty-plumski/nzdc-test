@@ -308,7 +308,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <b>GRAHAM</b> South Island Galaxias <i>Galaxias huttoni </i> Regan <i>(1955,NZ Fishes: An Identification Guide,399</i>) [NOTES: 1955 Whitley Namelist in 1956 Graham NZ Fishes 399]
+>  <b>GRAHAM</b> South Island Galaxias <i>Galaxias huttoni </i> Regan <i>(1955,NZ Fishes: An Identification Guide,399</i>) [NOTES: 1955 Whitley Namelist in 1956 Graham NZ Fishes 399]</i>
 
 ### galaxiid
  
@@ -1927,7 +1927,7 @@
 
 >  The mountain gentians, with their handsome yellow or purplish flowers, are amongst the most attractive of the genus. <i>(1872,TrNZI,4/255</i>) [NOTES: Kirk Brit. and NZ Floras]
 
->  <b>COCKAYNE</b> <i>Gentiana bellidifolia</i> <i>(1919,NZ Plants & Their Story</i>) [NOTES: (And)]
+>  <b>COCKAYNE</b> <i>Gentiana bellidifolia</i> <i>(1919,NZ Plants & Their Story</i>) [NOTES: (And)]</i>
 
 ### Gentle Annie
  

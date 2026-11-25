@@ -486,7 +486,7 @@
 
 >  <b>WAKEFIELD</b> West of Akaroa harbour, there are two or three whaling stations on the coast - Hikurangi, Pirangi, and Oihoa (Go-ashore). <i>(1848,Handbook for New Zealand, The,337</i>)
 
->  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)
+>  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)</i>
 
 ### goashore
  

@@ -446,7 +446,7 @@
 
 >  [species name] seal shark .. [scientific name] <i>Dalatias licha</i> .. [other name(s)] black shark <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
 
->  Duncan Cameron the Coxswain of one of the Government boats, reports, that when returning from the visit to the Sugar Loaves on Tuesday last, and when close into the shore opposite Ward's bay, a black shark very nearly thirty feet long, seized his steer oar and nearly wrested it from his hands ... <i>(Dec 24, 1864,Taranaki Herald,3</i>)
+>  Duncan Cameron the Coxswain of one of the Government boats, reports, that when returning from the visit to the Sugar Loaves on Tuesday last, and when close into the shore opposite Ward's bay, a black shark very nearly thirty feet long, seized his steer oar and nearly wrested it from his hands ... <i>(Dec 24, 1864,Taranaki Herald,3</i>)</i>
 
 ### black singlet
  
@@ -1236,7 +1236,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <i>blackberry, Himalaya</i> [s] <i>Rubus rugosus</i> Sm. var.<i> thwaitesii </i>Focke <i>Ibid.</i> 38 <i>Himalaya blackberry</i> [s] <i>Rubus rugosus</i> Sm. var.<i> thwaitesii</i> Focke <i>(1969,Standard Common Names for Weeds,6</i>)
+>  <i>blackberry, Himalaya</i> [s] <i>Rubus rugosus</i> Sm. var.<i> thwaitesii </i>Focke <i>Ibid.</i> 38 <i>Himalaya blackberry</i> [s] <i>Rubus rugosus</i> Sm. var.<i> thwaitesii</i> Focke <i>(1969,Standard Common Names for Weeds,6</i>)</i>
 
 ### blackberry man
  
@@ -1383,7 +1383,7 @@
  
 <b>3</b> <i>n.</i>
 
->  Bob McLurg tryed out blackfish oil, a nice job for a cold day. <i>(Jul 10, 1895,Chudleigh Diary,391,1950 ed.</i>)
+>  Bob McLurg tryed out blackfish oil, a nice job for a cold day. <i>(Jul 10, 1895,Chudleigh Diary,391,1950 ed.</i>)</i>
 
 ### blackfoot
  
@@ -5266,7 +5266,7 @@
 
 >  <b>PAUL</b> <i>Blue shark Prionace glauca Alternatively blue pointer, blue whaler. <i>(1986,NZ Fishes: An Identification Guide,26</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] shark, blue pointer 145-53 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] shark, blue pointer 145-53 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### blue pugaree
  
@@ -9056,7 +9056,7 @@
  
 <b>2</b> <i>n.</i> <i>Sarda chiliensis.</i>
 
->  <b>SPEIGHT</b> The only true mackerels recorded from Canterbury are the Pacific Bonito (<i>Sarda chiliensis </i>) and the large-scaled Tunny (<i>Gasterochisma melampus </i>) which may reach a length of 6 feet; but a related family includes the well-known Barracouta (<i>Thyrsites atun </i>), the King Barracouta, <i>Jordanidia solandrii </i> (often known locally as Kingfish, but not to be confused with the North Island Kingfish which is a form or Yellowtail) and the elongated, silvery-hued frost fish (<i>Lepidopus caudatus </i>) whose curious stranding habits can hardly yet be said to be satisfactorily explained. <i>(1927,Natural History of Canterbury,199</i>) [NOTES: 1927 Archey `Native Fishes of Canterbury' in Speight et al. Natural History of Canterbury 199]
+>  <b>SPEIGHT</b> The only true mackerels recorded from Canterbury are the Pacific Bonito (<i>Sarda chiliensis </i>) and the large-scaled Tunny (<i>Gasterochisma melampus </i>) which may reach a length of 6 feet; but a related family includes the well-known Barracouta (<i>Thyrsites atun </i>), the King Barracouta, <i>Jordanidia solandrii </i> (often known locally as Kingfish, but not to be confused with the North Island Kingfish which is a form or Yellowtail) and the elongated, silvery-hued frost fish (<i>Lepidopus caudatus </i>) whose curious stranding habits can hardly yet be said to be satisfactorily explained. <i>(1927,Natural History of Canterbury,199</i>) [NOTES: 1927 Archey `Native Fishes of Canterbury' in Speight et al. Natural History of Canterbury 199]</i>
 
 ### bonito shark
  
@@ -10671,7 +10671,7 @@
 
 >  <i>bot n. NZ & Austral. sl. 1. n</i>. scrounger, cadger; unspecified minor ailment <i>(have the bot). 2. v.i. bot on cadge from, impose on. [orig. = parasitic worm, f. LG] </i> <i>(1986,NZ Pocket Oxford Dictionary,81</i>) [NOTES: [cf. 1982 Collins Concise Eng. Dict. 125]]
 
->  <b>McGILL</b> <i>bot </i>a germ, originally in 1920s a TB patient, latterly a minor ailment, usually cold or flu; probably derived from the botfly, whose larvae feed beneath the skin, an afflicter of horses. - <i>to have the bot</i> to feel unwell or irritable. - <i>how're the bots biting? a humorous greeting. - <i>on the bot</i> to cadge. NZA. <i>(1988,Dictionary of Kiwi Slang, A,19</i>)
+>  <b>McGILL</b> <i>bot </i>a germ, originally in 1920s a TB patient, latterly a minor ailment, usually cold or flu; probably derived from the botfly, whose larvae feed beneath the skin, an afflicter of horses. - <i>to have the bot</i> to feel unwell or irritable. - <i>how're the bots biting? a humorous greeting. - <i>on the bot</i> to cadge. NZA. <i>(1988,Dictionary of Kiwi Slang, A,19</i>)</i>
 
 ### bot (on)
  
@@ -13874,7 +13874,7 @@
  
  <i>n.</i> the sawmill worker who operates the breakdown bench; breaker-down.
 
->  <b>MALFROY</b> <i>The <i>breakdown benchman</i> should be able to keep his own saws, and break the logs down to suit the cutting at the sawyer's bench. <i>(1923,Small Sawmills,28</i>)
+>  <b>MALFROY</b> <i>The <i>breakdown benchman</i> should be able to keep his own saws, and break the logs down to suit the cutting at the sawyer's bench. <i>(1923,Small Sawmills,28</i>)</i>
 
 ### breakdown man
  

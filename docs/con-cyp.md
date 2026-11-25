@@ -1427,7 +1427,7 @@
 
 >  <i>Copper Maori NZ hist.</i> hangi or Maori earth-oven, in which food is cooked on heated stones and covered with flax and earth. [M <i>kapura</i> fire] <i>(1986,NZ Pocket Oxford Dictionary,163</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
 
->  <b>GREY</b> It was intimated to us that the copper-maori was ready for consumption. ... [It] consisted of kumeras ... Indian corn, mullet etc. <i>(1879,His Island Home,21</i>) [NOTES: (Northland)]
+>  <b>GREY</b> It was intimated to us that the copper-maori was ready for consumption. ... [It] consisted of kumeras ... Indian corn, mullet etc. <i>(1879,His Island Home,21</i>) [NOTES: (Northland)]</i>
 
 ### copper moki
  
@@ -1443,7 +1443,7 @@
 
 >  <b>AYLING</b> Five species [of trumpeter] are recorded from New Zealand but there appears to be some confusion regarding ... the bastard trumpeter <i>Latridopsis forsteri</i> and the copper moki <i>Latridopsis aerosa</i>. Though officially recognised, the bastard trumpeter appears to be identical to the young blue moki ... On the other hand the copper moki sems to be a valid species - although referred to here as <i>Latridopsis forsteri</i>. <i>Ibid.</i> 247 <i>COPPER MOKI</ik> (Bastard trumpeter) <i>Latridopsis forsteri (Latridopsis aerosa)</i> ... The body is silvery with four fine zig-zag horizontal bands of pink or olive tinged pink along the back ... They are most abundant around Stewart Island and become progressively less common further north ... <i>(1982,Collins Guide,246,1984 ed.</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] moki, copper 1611 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] moki, copper 1611 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### copper skink
  
@@ -2306,7 +2306,7 @@
  
 <b>3</b> <i>n.</i>
 
->  <i>Little Pied Cormorant Phalacrocorax melanoleucos </i>(VIEILLOT, 1817) ... OTHER NAMES: <i>Kawaupaka, white-throated shag, frilled shag, little river shag, little cormorant, little shag. </i> <i>(1985,Reader's Digest Book of NZ Birds,117</i>)
+>  <i>Little Pied Cormorant Phalacrocorax melanoleucos </i>(VIEILLOT, 1817) ... OTHER NAMES: <i>Kawaupaka, white-throated shag, frilled shag, little river shag, little cormorant, little shag. </i> <i>(1985,Reader's Digest Book of NZ Birds,117</i>)</i>
 
 ### corn
  
@@ -2988,7 +2988,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <b>LEVY</b> [Table 2] Silver cottonwood <i>(1951,Grasslands of NZ,89,1970 ed.</i>)
+>  <b>LEVY</b> [Table 2] Silver cottonwood <i>(1951,Grasslands of NZ,89,1970 ed.</i>)</i>
 
 ### cotty
  
@@ -5902,7 +5902,7 @@
  
  <i>adj.</i>
 
->  <b>McGILL</b> <i>crash hot! excellent. NZA. <i>(1988,Dictionary of Kiwi Slang, A,31</i>)
+>  <b>McGILL</b> <i>crash hot! excellent. NZA. <i>(1988,Dictionary of Kiwi Slang, A,31</i>)</i>
 
 ### crash rugby
  
@@ -7487,7 +7487,7 @@
 
 >  <b>HILGENDORF</b> TWIN CRESS (<i>Coronopus didymus</i>) ... is also called swine cress, hog cress, scurvy grass and land cress. <i>Ibid.</i> 103 This weed [TWIN CRESS (<i>Coronopus didymus</i>)] is also called swine cress, hog cress, scurvy grass, and land cress. <i>(1926,Weeds of New Zealand,101,1967 ed.</i>)
 
->  <i>cress, land [=] twin cress [s]</i> <i>Ibid.</i> 43 <i>land cress [=] twin cress [s] </i> <i>(1969,Standard Common Names for Weeds,18</i>)
+>  <i>cress, land [=] twin cress [s]</i> <i>Ibid.</i> 43 <i>land cress [=] twin cress [s] </i> <i>(1969,Standard Common Names for Weeds,18</i>)</i>
 
 ### cresset
  

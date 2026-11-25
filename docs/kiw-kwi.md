@@ -83,7 +83,7 @@
 
 >  in reference to the Kiwis, our orchestra was handed over to the Division over 18 months ago. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 35</i>)
 
->  The third and last group of returned soldier entertainers, popularly known as the Kiwis, Brigade Entertainers, late N.Z.E.F. , will appear in the Municipal Theatre, Hastings, on Monday and Tuesday. <i>(Feb 14, 1920,Hawke's Bay Herald,2</i>)
+>  The third and last group of returned soldier entertainers, popularly known as the Kiwis, Brigade Entertainers, late N.Z.E.F. , will appear in the Municipal Theatre, Hastings, on Monday and Tuesday. <i>(Feb 14, 1920,Hawke's Bay Herald,2</i>)</i>
 
 ### Kiwis Care
  
@@ -2725,7 +2725,7 @@
 
 >  <b>SiMPSON</b> [The jogger's] rival is the konake, akin to the jogger, but with iron or wooden wheels and sometimes a sledge runner in front, and it may be drawn by oxen instead of horses. <i>(1950,Chatham Exiles,145</i>)
 
->  <b>HOLM3ES</b> Only four vehicles were in use on the island up until this time but by 1952 over 100 were in use. [59] Before the coming of motorised transport, the mode of transportation was the `Chatham island Truck' (Konake), a wooden flat-decked horse or bullock-drawn vehicle, with iron or wooden wheels at the back and sledge runners on the front. Also in use was the `jogger' a cartlike vehicle with two pneumatic-tyred wheels, seating about three people and drawn by two horses attached to a shaft. They worked on the principle of the African Cape Cart. The pole (shaft) was attached to the collars of the horses. Tom McClurg of Te Whakuru made the first `jogger' in Chathams, about 1940. <i>(1984,Chatham islands,58,1948 ed.</i>)
+>  <b>HOLM3ES</b> Only four vehicles were in use on the island up until this time but by 1952 over 100 were in use. [59] Before the coming of motorised transport, the mode of transportation was the `Chatham island Truck' (Konake), a wooden flat-decked horse or bullock-drawn vehicle, with iron or wooden wheels at the back and sledge runners on the front. Also in use was the `jogger' a cartlike vehicle with two pneumatic-tyred wheels, seating about three people and drawn by two horses attached to a shaft. They worked on the principle of the African Cape Cart. The pole (shaft) was attached to the collars of the horses. Tom McClurg of Te Whakuru made the first `jogger' in Chathams, about 1940. <i>(1984,Chatham islands,58,1948 ed.</i>)</i>
 
 ### konini
  
@@ -4652,7 +4652,7 @@
 
 >  <i>kotuku n.</i> large white NZ heron. [M] <i>(1986,NZ Pocket Oxford Dictionary,416</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 274]]
 
->  <b>HOOKER</b> Fuchsia <i>excorticata,</i> Linn. fil. ... Nat. name, `Kotuku-tuku', <i>Cunn</i>.; of the berry `Konini', <i>Lyall. </i> <i>(1853,Flora NZ,i Flowering Plants 56</i>)
+>  <b>HOOKER</b> Fuchsia <i>excorticata,</i> Linn. fil. ... Nat. name, `Kotuku-tuku', <i>Cunn</i>.; of the berry `Konini', <i>Lyall. </i> <i>(1853,Flora NZ,i Flowering Plants 56</i>)</i>
 
 ### kotata
  
@@ -5623,7 +5623,7 @@
 
 >  <i>New Zealand Pigeon Hemiphaga novaeseelandiae</i> GMELiN, 1789) ... [239] <i>Chatham island Pigeon H.n. chathamensis</i> (ROTHSCHiLD, 1891) OTHER NAMES: <i>Kereru, kuku, kukupa. </i> <i>(1985,Reader's Digest Book of NZ Birds,238</i>)
 
->  <i>kuku n.</i> = KERERU. [M] <i>(1986,NZ Pocket Oxford Dictionary,417</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
+>  <i>kuku n.</i> = KERERU. [M] <i>(1986,NZ Pocket Oxford Dictionary,417</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]</i>
 
 ### kukupa
  
@@ -6261,7 +6261,7 @@
 
 >  <b>PARROTT</b> THE SPRAT <i>Maugeclupea antipodum</i> (Hector) ... <i>(1957,Sea Anglers' Fishes of NZ,26</i>)
 
->  <b>RiCHARDS</b> They taught me how to catch eels, kupai, and koura (crawlies) out of nearby streams ... <i>(1986,Off the Sheep's Back,22</i>)
+>  <b>RiCHARDS</b> They taught me how to catch eels, kupai, and koura (crawlies) out of nearby streams ... <i>(1986,Off the Sheep's Back,22</i>)</i>
 
 ### kupapa
  

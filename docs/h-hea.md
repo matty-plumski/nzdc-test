@@ -2397,7 +2397,7 @@
 
 >  <b>TAYLOR</b> <i>Zygoena, (mangepare)</i>, hammer-headed shark, a very dangerous fish, and held in great dread by the natives. <i>(1870,Te ika a Maui,626</i>)
 
->  <b>WiLLiAMS</b> <i>Mangoo-pare</i>, n. 1.<i> hammer-headed shark. </i> <i>(1871,Dictionary of the NZ Language,75</i>)
+>  <b>WiLLiAMS</b> <i>Mangoo-pare</i>, n. 1.<i> hammer-headed shark. </i> <i>(1871,Dictionary of the NZ Language,75</i>)</i>
 
 ### hammock
  
@@ -4626,7 +4626,7 @@
 
 >  it is likely that <i>Harpagornis</i> was a forest eagle, which did not engage in sustained long-distance flight. <i>(Aug 2000,NZWords,No. 4 : 5</i>) [NOTES: Original cite from Brazier et al. <i>The Great New Zealand Fossil Book</i>.]
 
->  Another covenant at Craigmore protects a cave with a clear charcoal-and-ochre rendition of what is conceivably a giant <i>Harpagornis</i> eagle, its wings outstretched. <i>(Nov 2003,NZ Geographic,No. 66/94</i>)
+>  Another covenant at Craigmore protects a cave with a clear charcoal-and-ochre rendition of what is conceivably a giant <i>Harpagornis</i> eagle, its wings outstretched. <i>(Nov 2003,NZ Geographic,No. 66/94</i>)</i>
 
 ### Harpic
  

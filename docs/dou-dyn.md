@@ -6139,7 +6139,7 @@
 
 >  <b>COCKAYNE</b> (And). <i>Sophora prostrata </i> <i>(1915,AJHR,C-6</i>) [NOTES: Plant Covering Kennedy's Bush (Canterbury)]
 
->  <i> dwarf kowhai [=] prostrate kowhai [s] <i>Ibid.</i> 42<i> kowhai, dwarf [=] prostrate kowhai [s] </i> <i>(1969,Standard Common Names for Weeds,23</i>)
+>  <i> dwarf kowhai [=] prostrate kowhai [s] <i>Ibid.</i> 42<i> kowhai, dwarf [=] prostrate kowhai [s] </i> <i>(1969,Standard Common Names for Weeds,23</i>)</i>
 
 ### dwarf mistletoe
  

@@ -694,7 +694,7 @@
 
 >  <b>PARROTT</b> THE PILCHARD <i>Sardinops neopilchardus (Steindachner)</i> ... Maori name: MOHIMOHI. <i>(1957,Sea Anglers' Fishes of NZ,29</i>)
 
->  ...<i> large numbers of aua or kataha (Agonostoma forsteri); about 60 lb. ... weight of pilchard or mohimohi (Clupea sagax), two varieties; ... hundreds of young red-cod, rarii (<i>Lotella bacchus</i>), and what I believe are young rock-cod, or kokopu or rawaru (<i>Percis colias</i>). The red-cod were from 3 in. to 4 in. in length, and the rawaru, or, as the natives here call them, `toitoi' or `panepane', from 2 in. to 6 in. long. <i>(1903,TrNZI,35/319</i>) [NOTES: Mair Fish in Piako River]
+>  ...<i> large numbers of aua or kataha (Agonostoma forsteri); about 60 lb. ... weight of pilchard or mohimohi (Clupea sagax), two varieties; ... hundreds of young red-cod, rarii (<i>Lotella bacchus</i>), and what I believe are young rock-cod, or kokopu or rawaru (<i>Percis colias</i>). The red-cod were from 3 in. to 4 in. in length, and the rawaru, or, as the natives here call them, `toitoi' or `panepane', from 2 in. to 6 in. long. <i>(1903,TrNZI,35/319</i>) [NOTES: Mair Fish in Piako River]</i>
 
 ### mohiotanga
  
@@ -1862,7 +1862,7 @@
 
 >  Both major parties seem to have adopted Selwyn Toogood as their spiritual leader - though at this rate of vaulting bribery, we'll get the money and the bag, whichever party we choose. <i>(Sep 3, 2005,Listener (New Zealand Listener),20</i>)
 
->  She kept a nation on the edge of its seat, wondering whether she'd get the money or the boot. <i>(Jul 28, 2001,Listener (New Zealand Listener),77</i>)
+>  She kept a nation on the edge of its seat, wondering whether she'd get the money or the boot. <i>(Jul 28, 2001,Listener (New Zealand Listener),77</i>)</b>
 
 ### money side
  
@@ -3145,7 +3145,7 @@
  
  <i>n.</i>
 
->  <b>MARTIN</b> Seaweeds of the intertidal belt, Stewart Island, here consisting mainly of Bull-Kelp (<i>Durvillea</i>), Strap-weed (<i>Xiphophora</i>), Moss-weed (<i>Bostrychia</i>), Neptune's Necklace (<i>Hormosira</), and Sea Bombs [sic] (Adenochystis). <i>Ibid.</i> 23 Commonest of all such [red algae] is the MOSS-WEED <i>(Bostrychia arbuscula</i>) ... . <i>(1961,Flora NZ,4 Fig.1.</i>)
+>  <b>MARTIN</b> Seaweeds of the intertidal belt, Stewart Island, here consisting mainly of Bull-Kelp (<i>Durvillea</i>), Strap-weed (<i>Xiphophora</i>), Moss-weed (<i>Bostrychia</i>), Neptune's Necklace (<i>Hormosira</), and Sea Bombs [sic] (Adenochystis). <i>Ibid.</i> 23 Commonest of all such [red algae] is the MOSS-WEED <i>(Bostrychia arbuscula</i>) ... . <i>(1961,Flora NZ,4 Fig.1.</i>)</i>
 
 ### mossbank
  
@@ -5916,7 +5916,7 @@
  
  <i>n.</i>
 
->  <i>mullumba: going with; in love; loved one <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: Goldie Brown Collection)]
+>  <i>mullumba: going with; in love; loved one <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: Goldie Brown Collection)]</i>
 
 ### multi
  

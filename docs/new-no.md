@@ -2159,7 +2159,7 @@
 
 >  Another [development] was the increasingly vociferous protest groups, like Nga Tamatoa, who marched, demonstrated, picketed, petitioned Parliament and harried the media - all in a bid to have Maori concerns attended to. <i>(Dec 1996,Mana,No. 14 : 20</i>)
 
->  According to founding member, Syd Jackson, Nga Tamatoa "demanded the right to be Maori ... without fear"... For Paul Smith, a New Zealand <i>Herald</i> reporter at the time, Nga Tamatoa were "warrior intellectuals" who declared war on a state of mind, namely Pakeha apathy for the Treaty. <i>(Apr 28, 2001,Listener (New Zealand Listener),64</i>)
+>  According to founding member, Syd Jackson, Nga Tamatoa "demanded the right to be Maori ... without fear"... For Paul Smith, a New Zealand <i>Herald</i> reporter at the time, Nga Tamatoa were "warrior intellectuals" who declared war on a state of mind, namely Pakeha apathy for the Treaty. <i>(Apr 28, 2001,Listener (New Zealand Listener),64</i>)</i>
 
 ### nga taonga takaro
  
@@ -2744,7 +2744,7 @@
 
 >  <b>DOMETT</b> Kowhai (scarlet) ..... O. Leguminosae; G. Clianthus; S. C. puniceus. `One of the most beautiful plants known.' Long fringes of crimson flowers, like lobster-claws (boiled), or in the natives' eyes, parrots' bills, so they call it <i>`gnutu-kaka'</i> [sic] the parrot-billed. <i>(1883,Ranolf and Amohia,1/302</i>)
 
->  <i> ngutukaka</i>, a tree (Clianthus puniceus), kaka-beak, parrots-bill see kowhai-ngutukaka. <i>(1946,Journal of the Polynesian Society,55/154</i>) [NOTES: Andersen Maori Words in English]
+>  <i> ngutukaka</i>, a tree (Clianthus puniceus), kaka-beak, parrots-bill see kowhai-ngutukaka. <i>(1946,Journal of the Polynesian Society,55/154</i>) [NOTES: Andersen Maori Words in English]</i>
 
 ### ngutukura
  

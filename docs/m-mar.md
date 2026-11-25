@@ -613,7 +613,7 @@
 
 >  <b>PARTRIDGE</b> <i>Mad money</i>. A girl's return fare, carried lest her soldier friend got `mad', i.e. too amorous for her: New Zealand soldiers': 1916-18. Mostly a legend, and concerning only English girls. -->[Supplement] Has, since ca1918, meant money that a girl carries as a precaution against any such quarrel with her boy friend as might leave her monetarily stranded, and been widely used also in Australia and Canada. <i>(1938,Dictionary of Slang,503</i>)
 
->  <b>McGILL</b> <i>mad money</i> splurge money; originally return ship fare WWI soldiers believed English girls brought with them in case their Kiwi soldier boy went mad, ie acted with excessive freedom. <i>[Baker] <.i> <i>(1988,Dictionary of Kiwi Slang, A,71</i>)
+>  <b>McGILL</b> <i>mad money</i> splurge money; originally return ship fare WWI soldiers believed English girls brought with them in case their Kiwi soldier boy went mad, ie acted with excessive freedom. <i>[Baker] <.i> <i>(1988,Dictionary of Kiwi Slang, A,71</i>)</i>
 
 ### mad-dog
  
@@ -854,7 +854,7 @@
  
 <b>3</b> <i>n.</i>
 
->  <b>McGILL</b> <i>like a maggot on a hot plate</i> incessant wriggling about; eg `After three hours of listening to <i>Die Walku"re on the hideously uncomfortable wooden seats, he was beside himself with restlessness, like a maggot on a hot plate.' <i>[Jim Henderson] </i> <i>(1988,Dictionary of Kiwi Slang, A,69</i>)
+>  <b>McGILL</b> <i>like a maggot on a hot plate</i> incessant wriggling about; eg `After three hours of listening to <i>Die Walku"re on the hideously uncomfortable wooden seats, he was beside himself with restlessness, like a maggot on a hot plate.' <i>[Jim Henderson] </i> <i>(1988,Dictionary of Kiwi Slang, A,69</i>)</i>
 
 ### maggot magnet
  
@@ -3421,7 +3421,7 @@
 
 >  <i>The Man Alone - And Two Other Guys</i> plays on the image of the classic Kiwi bloke of John Mulgan's novel <i>Man Alone</i> - the book that was said to define our national identity. <i>(Jan 25, 2004,Sunday Star Times,A8</i>)
 
->  Brad was talking about the man alone thing, too, which I didn't know ... The New Zealand idea of the stoic man. <i>(Apr 3, 2004,Listener (New Zealand Listener),11</i>)
+>  Brad was talking about the man alone thing, too, which I didn't know ... The New Zealand idea of the stoic man. <i>(Apr 3, 2004,Listener (New Zealand Listener),11</i>)</i>
 
 ### man drought
  
@@ -3770,7 +3770,7 @@
 
 >  <b>MORELAND</b> SEAHORSE [<i>Hippocampus abdominalis</i>] ... The Maori name manaia refers to the spiral tail. <i>(1967,Marine Fishes,16</i>)
 
->  <b>DOOGUE & MORELAND</b> SEAHORSE ... <i>Other names: Hippocampus abdominalis</i>; manaia (Maori). <i>(1966,Sea Anglers' Guide,202</i>)
+>  <b>DOOGUE & MORELAND</b> SEAHORSE ... <i>Other names: Hippocampus abdominalis</i>; manaia (Maori). <i>(1966,Sea Anglers' Guide,202</i>)</i>
 
 ### Manaia cake
  
@@ -5918,7 +5918,7 @@
 
 >  [=native aj; or ?collocated Maori Kingfisher] Take, for instance, the common Maori kingfisher <i>(Halcyon vagans</i>=Kotaretare). <i>(1897,TrNZI,29/140</i>) [NOTES: (Colenso, Presidential Address)]
 
->  Maori used as an adjective synonymous with <i>native </i>except that it seems slightly contemptuous. We admire native bush, pasture or game; but Maori hens (woodhens), Maori cabbage [European cabbage run wild, A Wall] and Maori onion (Chrysobactron hookeri] are caricatures of their English namesales. <i>(1933,Press, The</i>) [NOTES: Acland]
+>  Maori used as an adjective synonymous with <i>native </i>except that it seems slightly contemptuous. We admire native bush, pasture or game; but Maori hens (woodhens), Maori cabbage [European cabbage run wild, A Wall] and Maori onion (Chrysobactron hookeri] are caricatures of their English namesales. <i>(1933,Press, The</i>) [NOTES: Acland]</i>
 
 ### Maori (race) meeting
  
@@ -6412,7 +6412,7 @@
  
  <i>n.</i> (Rural) a blight-resistant strain of potato.
 
->  Maori Chief is the best blight-resister we have. <i>(Sep 20, 1916,NZ Journal of Agriculture,250</i>)
+>  Maori Chief is the best blight-resister we have. <i>(Sep 20, 1916,NZ Journal of Agriculture,250</i>)</i>
 
 ### Maori chord
  
@@ -7580,7 +7580,7 @@
 
 >  <b>AYSON</b> He was riding Frank full tilt down a ridge when the pony went bang into a Maori oven covered with rubbish. <i>(1937,Thomas,115</i>)
 
->  <b>BARRY</b> If he came to a maori oven or swampy patch, he would lift the lantern above his head, as a signal to stop. <i>(1966,In the Lee of the Hokonuis,372</i>)
+>  <b>BARRY</b> If he came to a maori oven or swampy patch, he would lift the lantern above his head, as a signal to stop. <i>(1966,In the Lee of the Hokonuis,372</i>)</i>
 
 ### Maori overdrive
  
@@ -9579,7 +9579,7 @@
 
 >  <b>FRAME</b> Then they get restless, they want to be somewhere else, they've had Maoritanga for the time being, thank you, and yet if you happen to be among a group of people at a function you hear the same people holding forth about having 'been on the marae' and how wonderful it is. <i>(1988,Carpathians, The,84</i>)
 
->  "One of the mums at kohanga was telling me that her seven year old has become really obsessed with her appearance." <i>(2003,Huia 5: Contemp. Maori Fiction,19</i>)
+>  "One of the mums at kohanga was telling me that her seven year old has become really obsessed with her appearance." <i>(2003,Huia 5: Contemp. Maori Fiction,19</i>)</b>
 
 ### marae atea
  

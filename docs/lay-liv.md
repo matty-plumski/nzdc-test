@@ -670,7 +670,7 @@
 
 >  <b>PICKERING</b> [caption] A closely grown mat of leafs from a high alpine shrub known as `leatherwood' or `leatherleaf'. Ruahines. <i>(1988,Hills, The,40</i>)
 
->  <b>DAWSON</b> Some of the other shrub species with relatively large thick leaves are <i> Griselinia littoralis </i> (broadleaf), <i> Pseudopanax colensoi </i> (mountain five-finger) and <i> Olearia colensoi </i> (leatherwood). <i>(1988,Forest Vines to Snow Tussocks,166</i>)
+>  <b>DAWSON</b> Some of the other shrub species with relatively large thick leaves are <i> Griselinia littoralis </i> (broadleaf), <i> Pseudopanax colensoi </i> (mountain five-finger) and <i> Olearia colensoi </i> (leatherwood). <i>(1988,Forest Vines to Snow Tussocks,166</i>)</i>
 
 ### leave-train
  
@@ -3226,7 +3226,7 @@
 
 >  LING (<i>Genypterus Blacodes</i>), Hokarari of the Maoris, grows up to 4 feet in length, with a weight of 30 lbs, and looks just like a giant tadpole. <i>(1947,Native Animals of NZ,72</i>)
 
->  <b>174</b> <i>ling </i>: edible fish. <i>(1947,Reeds' School Dictionary: NZ Suppl.</i>)
+>  <b>174</b> <i>ling </i>: edible fish. <i>(1947,Reeds' School Dictionary: NZ Suppl.</i>)</i>
 
 ### linger
  
@@ -3286,7 +3286,7 @@
 
 >  <i> linseed, New Zealand [=] rauhuia [s] Ibid. 53 <i> New Zealand linseed [=] rauhuia [s] </i> <i>(1969,Standard Common Names for Weeds</i>)
 
->  <i> linseed, wild [=] Australian flax [s] </i> <i>Ibid.</i> 86 <i> wild linseed [=] Australian flax: rauhuia [s] </i> <i>(1969,Standard Common Names for Weeds,44</i>)
+>  <i> linseed, wild [=] Australian flax [s] </i> <i>Ibid.</i> 86 <i> wild linseed [=] Australian flax: rauhuia [s] </i> <i>(1969,Standard Common Names for Weeds,44</i>)</i>
 
 ### lint
  

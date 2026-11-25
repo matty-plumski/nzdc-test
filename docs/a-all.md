@@ -2060,7 +2060,7 @@
  
  <i>adj.</i> falling off your bike
 
->  "Falling off is nature's way of telling you you've found your limit," is a philosophical definition of a very pertinent problem to readers of <i>Classic New Zealand Mountain Bike Rides</i>..." Other expressions for the same event, listed in the glossary, are <i>airborne</i> and <i>bail-out. <i>(Jan 15, 1994,Listener (New Zealand Listener),54</i>)
+>  "Falling off is nature's way of telling you you've found your limit," is a philosophical definition of a very pertinent problem to readers of <i>Classic New Zealand Mountain Bike Rides</i>..." Other expressions for the same event, listed in the glossary, are <i>airborne</i> and <i>bail-out. <i>(Jan 15, 1994,Listener (New Zealand Listener),54</i>)</i>
 
 ### airgraph
  
@@ -2853,7 +2853,7 @@
 
 >  <b>PALENSKI</b> Just as Gallipoli added the word Anzac tothe English lexicon, so the tour by theOriginals added the words "All Blacks", aname to opponents that invokes aforbidding feeling and a name to whichevery young New Zealand rugby-playing boyat some stage aspires. <i>(1992,Our National Game,28</i>)
 
->  The matter of an alleged military defaulter being included in the "All Blacks" team was discussed and a sub-committee was set-up to investigate the matter. <i>(Jun 17, 1924,Otago Witness,4</i>)
+>  The matter of an alleged military defaulter being included in the "All Blacks" team was discussed and a sub-committee was set-up to investigate the matter. <i>(Jun 17, 1924,Otago Witness,4</i>)</i>
 
 ### all cock and ribs, like a musterer's dog
  

@@ -218,7 +218,7 @@
 
 >  <b>COCKAYNE</b> The yellow kowhai (<i> Sophora grandiflora</i> and <i> S. microphylla</i>) has been fitly termed the New Zealand laburnum. <i>(1910,NZ Plants,37</i>)
 
->  <b>LAING $ BLACKWELL</b> The tree is sometimes called the New Zealand Laburnum. <i>(1940,Plants of NZ,225</i>)
+>  <b>LAING $ BLACKWELL</b> The tree is sometimes called the New Zealand Laburnum. <i>(1940,Plants of NZ,225</i>)</i>
 
 ### lace
  
@@ -740,7 +740,7 @@
 
 >  <b>BULLER</b> PHALCROCORAX BREVIROSTRIS.(WHITE-THROATED SHAG.) ...<i> Native name.- Kawau-paka. ... The White-throated Shag, which appears to be confined to New Zealand and the Chatham Islands, frequents the freshwater rivers and lagoons in all parts of the country. <i>(1873,Birds of New Zealand,330,1888 2nd edn 2/168 ed.</i>)
 
->  <b>REEVES</b> On the other hand, `lagoon' has replaced the English `pond', except in the case of artificial water. <i>(1898,Long White Cloud, The,403</i>)
+>  <b>REEVES</b> On the other hand, `lagoon' has replaced the English `pond', except in the case of artificial water. <i>(1898,Long White Cloud, The,403</i>)</i>
 
 ### lagoon washing
  
@@ -1457,7 +1457,7 @@
 
 >  <b>McLINTOCK</b> Lamprey .. .. korokoro, pihapiharau, piharau, pipiharau .. .. <i>Geotria australis </i> <i>(1966,Encyclopaedia of New Zealand, An,3/705-12</i>)
 
->  <b>WILSON</b> LAMPREY see <i>Hagfish </i> <i>(1981,Fisherman's Bible,142</i>)
+>  <b>WILSON</b> LAMPREY see <i>Hagfish </i> <i>(1981,Fisherman's Bible,142</i>)</i>
 
 ### lamprey eel
  

@@ -2996,7 +2996,7 @@
  
 <b>2</b> <i>n.</i> Weinmannia silvicola
 
->  <b>FEATON</b> WEiNMANNiA SiLViCOLA (<i>Banks & Sol</i>.) ... The `TOWAi'.- ... The wood is similar in quality to its ally <i>W. racemosa,</i> is denser, and of finer grain; ... [136] This tree is sometimes called Tawhero, or Kamai, and is not unusually confounded with <i>W. racemosa,</i> the Tawhero pr Kamai proper. in the same manner the tawhero is confused with this species by the uninitiated. <i>(1889,Art Album NZ Flora,135</i>)
+>  <b>FEATON</b> WEiNMANNiA SiLViCOLA (<i>Banks & Sol</i>.) ... The `TOWAi'.- ... The wood is similar in quality to its ally <i>W. racemosa,</i> is denser, and of finer grain; ... [136] This tree is sometimes called Tawhero, or Kamai, and is not unusually confounded with <i>W. racemosa,</i> the Tawhero pr Kamai proper. in the same manner the tawhero is confused with this species by the uninitiated. <i>(1889,Art Album NZ Flora,135</i>)</i>
 
 ### kamakama
  
@@ -3468,7 +3468,7 @@
 
 >  He has a good outlet for the kanuka sawdust for smoking fish! <i>(May 1989,NZ Gardener,27</i>)
 
->  The manuka and kanuka scrub littering New Zealand farnmland could be turned into an export industry after a government official's reinterpretation of a section of the Forests Act. <i>(May 27, 2004,Dominion Post,C7</i>)
+>  The manuka and kanuka scrub littering New Zealand farnmland could be turned into an export industry after a government official's reinterpretation of a section of the Forests Act. <i>(May 27, 2004,Dominion Post,C7</i>)</i>
 
 ### kao
  
@@ -5673,7 +5673,7 @@
 
 >  <b>MORRiS</b> <i>Cowdie</i> an early variant of <i>Kauri</i> (q.v.), with other spellings. <i>ibid.</i> 243 <i>Kauri,</i> or <i>Cowry</i>, or <i>Kauri-Pine, n.</i> Maori name for the tree <i>Agathis australis</i>, Sal. (formerly <i>Dammarae</i>A.), N.O. <i>Coniferae</i>. Variously spelt, and earlier often called <i>Cowdie</i>. in `Lee's New Zealand Vocabulary,' 1820, the spelling <i>Kaudi</i> appears. Although this tree is usually called by the generic name of <i>Dammara</i>(see quotation, 1832), it is properly referred to the genus <i>Agathis </i>an earlier name already given to it by Salisbury. There is a Queensland Kauri (<i>Dammara robusta</i>, F. v. M.). See <i>Pine. </i> <i>(1898,Austral English,103</i>)
 
->  <b>CRUiSE</b> <i>(1823,Journal of Ten Months' Residence in NZ,145</i>) [NOTES: also 1852 Mundy, 1860 Bennett, 1867 Hochstetter, 1874 Ed Crewe, 1875, 1883, 1886, 1889, 1890]]
+>  <b>CRUiSE</b> <i>(1823,Journal of Ten Months' Residence in NZ,145</i>) [NOTES: also 1852 Mundy, 1860 Bennett, 1867 Hochstetter, 1874 Ed Crewe, 1875, 1883, 1886, 1889, 1890]]</i>
 
 ### kauri bug
  

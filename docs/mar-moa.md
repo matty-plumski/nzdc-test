@@ -1224,7 +1224,7 @@
 
 >  Despite the decrepit charm of Apia, village life is still the basis of Samoan life, the <i>matai</i>, or chief, holding sway over s strict system of <i>aiga</i>-(extended family)based justice, social protocol, housing and a descending hierarchy of village title-holders. <i>(Jan 31, 2004,Listener (New Zealand Listener),46</i>)
 
->  At home the top is to work and become a matai but here the top is to be a lawyer or something. <i>(Jun 12, 1982,Listener (New Zealand Listener),23</i>)
+>  At home the top is to work and become a matai but here the top is to be a lawyer or something. <i>(Jun 12, 1982,Listener (New Zealand Listener),23</i>)</i>
 
 ### matai beer
  
@@ -4189,7 +4189,7 @@
 
 >  <b>PFAFF</b> It would have been a `cold day' [at Hokitika] for the four who removed [the Fenian martyr's] cross could the `Mickies' have discovered their identity ... <i>(1914,Diggers' Story, The,24</i>)
 
->  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)
+>  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)</i>
 
 ### micky
  
@@ -4411,7 +4411,7 @@
 
 >  <b>TAYLOR</b> WILD MIGNONETTE (<i>Reseda luteola</i>) ... introduced from Eurasia, is common in Central Otago and Marlborough south of Blenheim ... <i>(1981,Weeds of Roadsides,169</i>)
 
->  <i>mignonette, vine</i> [s] <i>Boussingaultia cordifolia</i> Ten. <i>(1969,Standard Common Names for Weeds,49</i>)
+>  <i>mignonette, vine</i> [s] <i>Boussingaultia cordifolia</i> Ten. <i>(1969,Standard Common Names for Weeds,49</i>)</i>
 
 ### mignonette vine
  

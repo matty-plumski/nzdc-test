@@ -1176,7 +1176,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <b>PAUL et al.</b> [index to common names 283-293] rockling, bearded 816 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] rockling, bearded 816 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### Rockwood lily
  
@@ -1184,7 +1184,7 @@
 
 >  <b>POTTS</b> (And) <i> Ranunculus Lyallii Rockwood lily *Probably through being found on the Rockwood run in the Malvern Hills, Canterbury. See POO, p. 76. <i>(1882,Out in the Open</i>)
 
->  During Victorian times Ranunculus lyalli, the Mt Cook or Mountain Buttercup, was known in England as the "Rockwood Lily."... The exact connection between the "Rockwood Lily" and a Canterbury sheep station presents an interesting puzzle... Rockwood Station, owned by Henry Phillips, was one of the earliest established homesteads... However, the precise connection with Rockwood.. has yet to be discovered. <i>(Feb 11, 1988,Press, The,10</i>)
+>  During Victorian times Ranunculus lyalli, the Mt Cook or Mountain Buttercup, was known in England as the "Rockwood Lily."... The exact connection between the "Rockwood Lily" and a Canterbury sheep station presents an interesting puzzle... Rockwood Station, owned by Henry Phillips, was one of the earliest established homesteads... However, the precise connection with Rockwood.. has yet to be discovered. <i>(Feb 11, 1988,Press, The,10</i>)</i>
 
 ### rocky
  
@@ -6069,7 +6069,7 @@
 
 >  <b>COWAN</b> Boiled flax-root water poured on the wounds, and also dock-root (<i>runa</i>), well scraped and boiled, were our favourite remedies for gunshot and bayonet wounds. <i>(1922,NZ Wars, The,2/26,1983 ed.</i>)
 
->  <b>WILSON</b> <i>Rumex flexuosus </i>NATIVE DOCK ...Runa ... Leaves brown-green. <i>(1982,Stewart Island Plants,164</i>)
+>  <b>WILSON</b> <i>Rumex flexuosus </i>NATIVE DOCK ...Runa ... Leaves brown-green. <i>(1982,Stewart Island Plants,164</i>)</i>
 
 ### runanga
  

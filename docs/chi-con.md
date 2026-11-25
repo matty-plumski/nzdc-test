@@ -2920,7 +2920,7 @@
 
 >  <b>HOWARD</b> Incoming skins are sorted to arbitrary standards -wigs (old males), clap-matches (females), bulls, yearlings, grey or silver pups (under one year), black pups. <i>(1940,Rakiura,40</i>)
 
->  <b>BEATTIE</b> Beattie comments `the explanation of <i>our own usage</i> of wigs and clapmatches is not meant for refined ears.' <i>(1950,Far-Famed Fiordland,2</i>)
+>  <b>BEATTIE</b> Beattie comments `the explanation of <i>our own usage</i> of wigs and clapmatches is not meant for refined ears.' <i>(1950,Far-Famed Fiordland,2</i>)</i>
 
 ### clapping
  
@@ -3965,7 +3965,7 @@
 
 
  
-<b>3</b> <i>n.</i>
+<b>3</b> <i>n.</i></i>
 
 ### clemmed
  
@@ -5011,7 +5011,7 @@
  
 <b>2</b> <i>n.</i>
 
->  <i> clover, Alsike [s] Trifolium hybridum</i> L. <i>(1969,Standard Common Names for Weeds,14</i>)
+>  <i> clover, Alsike [s] Trifolium hybridum</i> L. <i>(1969,Standard Common Names for Weeds,14</i>)</i>
 
 ### clover casebearer
  
@@ -6675,7 +6675,7 @@
  
 <b>2</b> <i>n.</i> <i>Nemocardium pulchellum. </i>
 
->  Locally the only true cockle is the strawberry cockle. It belongs, like all true cockles, to the cardiiae family, not the veneridae. Its proper name is nemocardium pulchellum and it is small and not common. <i>(Jun 22, 1984,Marlborough Express,23</i>)
+>  Locally the only true cockle is the strawberry cockle. It belongs, like all true cockles, to the cardiiae family, not the veneridae. Its proper name is nemocardium pulchellum and it is small and not common. <i>(Jun 22, 1984,Marlborough Express,23</i>)</i>
 
 ### cockle-cruncher
  
@@ -7016,7 +7016,7 @@
 
 >  <i>COCOANUT ILLUSIONS </i>Whites of 2 eggs beaten ... white sugar ... dessicated cocoanut ... cornflour ... <i>(1915,Our Boys Cookery Book,96</i>)
 
->  <i>COCOANUT DELUSIONS </i>... whites of 2 eggs to a stiff froth ... castor sugar ... cocoanut; ... bake in moderate oven ... <i>(1932,St Andrew's Cookery Book,182</i>)
+>  <i>COCOANUT DELUSIONS </i>... whites of 2 eggs to a stiff froth ... castor sugar ... cocoanut; ... bake in moderate oven ... <i>(1932,St Andrew's Cookery Book,182</i>)</i>
 
 ### coconut tackle
  

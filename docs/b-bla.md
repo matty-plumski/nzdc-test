@@ -2217,7 +2217,7 @@
  
  <i>n.</i> falling off a bike
 
->  "Falling off is nature's way of telling you you've found your limit," is a philosophical definition of a very pertinent problem to readers of <i>Classic New Zealand Mountain Bike Rides</i>..." Other expressions for the same event, listed in the glossary, are <i>airborne</i> and <i>bail-out. <i>(Jan 15, 1994,Listener (New Zealand Listener),54</i>)
+>  "Falling off is nature's way of telling you you've found your limit," is a philosophical definition of a very pertinent problem to readers of <i>Classic New Zealand Mountain Bike Rides</i>..." Other expressions for the same event, listed in the glossary, are <i>airborne</i> and <i>bail-out. <i>(Jan 15, 1994,Listener (New Zealand Listener),54</i>)</i>
 
 ### bail-up
  
@@ -2891,7 +2891,7 @@
  
 <b>2</b> <i>n.</i> <i>Microlaena polynoda.</i>
 
->  <b>McLINTOCK</b> Coastal cliffs are the habitat of the straggling New Zealand Bamboo, <i>Microlaena polynoda, </>... <i>(1966,Encyclopaedia of New Zealand, An,1/872</i>)
+>  <b>McLINTOCK</b> Coastal cliffs are the habitat of the straggling New Zealand Bamboo, <i>Microlaena polynoda, </>... <i>(1966,Encyclopaedia of New Zealand, An,1/872</i>)</i>
 
 ### bamfoozle
  
@@ -10644,7 +10644,7 @@
  
  <i>n.</i> a long rainy spell [more Australian than NZ]
 
->  [headline]<b>Big wet set to continue <i>(Apr 30, 2006,Sunday Star Times,A2</i>)
+>  [headline]<b>Big wet set to continue <i>(Apr 30, 2006,Sunday Star Times,A2</i>)</b>
 
 ### big-eye cardinal fish
  
@@ -11914,7 +11914,7 @@
  
 <b>3</b> <i>n.</i> <i>Calystegia soldanella.</i>
 
->  <i>(1907,AJHR</i>) [NOTES: Cockayne Report on a Botanical Survey of Kapiti Island (And)]
+>  <i>(1907,AJHR</i>) [NOTES: Cockayne Report on a Botanical Survey of Kapiti Island (And)]</i>
 
 ### binge-booze
  
@@ -12062,7 +12062,7 @@
 
 >  <b>PEARSON</b> [Gloss] birch: Common West Coast bushman's name for two kinds of tree, the <i>kaamahi</i> and the New Zealand beech. <i>(1963,Coal Flat,420</i>)
 
->  The hills along the shores of the [Pelorus] sound will, for many years, furnish birch sleepers. <i>(1902,Settler's Handbook of NZ, The,17</i>)
+>  The hills along the shores of the [Pelorus] sound will, for many years, furnish birch sleepers. <i>(1902,Settler's Handbook of NZ, The,17</i>)</i>
 
 ### birch country
  
@@ -12653,7 +12653,7 @@
 
 >  <b>McGILL</b> <i>bite your bum get lost! eg `I'm sick of you, go bite your bum!' NZA. <i>Ibid.</i> 51<i> go bite your bum! </i>get lost! You're not wanted here. NZA. <i>(1988,Dictionary of Kiwi Slang, A,15</i>)
 
->  <b>HENDERSON</b> &#65279;"Go bite your bum." <i>(1983,Down from Marble Mountain,239</i>)
+>  <b>HENDERSON</b> &#65279;"Go bite your bum." <i>(1983,Down from Marble Mountain,239</i>)</i>
 
 ### bitsa
  

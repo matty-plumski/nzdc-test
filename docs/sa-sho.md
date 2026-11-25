@@ -2000,7 +2000,7 @@ See: -
 
 >  I reckon he's a sandwich short of a picnic, she said. He's sunning himself with his mouth open. You could fart in his face and he'd still look at the mountains. <i>(Nov 6, 1993,Listener (New Zealand Listener),34</i>)
 
->  <b>McGILL</b> <i>sandwich short of a picnic, a<./i> a brick short of a load. <i>(1988,Dictionary of Kiwi Slang, A,96</i>)
+>  <b>McGILL</b> <i>sandwich short of a picnic, a<./i> a brick short of a load. <i>(1988,Dictionary of Kiwi Slang, A,96</i>)</i>
 
 ### sandwort
 
@@ -4693,7 +4693,7 @@ See: also school dental nurse
 
 >  [species name] school shark .. [scientific name] <i>Galeorhinus australis</i>  .. [other name(s)] tope, big boys, greyboys, flake, grey shark, soupfin, sandshark <i>(Jul 23, 1986,Codes for Species in NZ Waters</i>)
 
->  <b>PAUL et al.</b> [index to common names 283-293] shark, school 201-4, 218-9, 228 <i>(1987,Fishes: A Bibliography</i>)
+>  <b>PAUL et al.</b> [index to common names 283-293] shark, school 201-4, 218-9, 228 <i>(1987,Fishes: A Bibliography</i>)</i>
 
 ### school snapper
 
@@ -6069,7 +6069,7 @@ See: cf. scrag
  
 <i>noun</i>.
 
->  <b>McGILL</b> <i>scratch cat</.i> sour-tempered female; c.1910. <i>(1988,Dictionary of Kiwi Slang, A,97</i>)
+>  <b>McGILL</b> <i>scratch cat</.i> sour-tempered female; c.1910. <i>(1988,Dictionary of Kiwi Slang, A,97</i>)</i>
 
 ### scratch factor
 
@@ -6534,7 +6534,7 @@ See: cf. timber-jack
 
 >  <b>COCKAYNE</b> <i>Freycinetia Banksii</i> New Zealand screw-pine <i>(1919,NZ Plants & Their Story</i>) [NOTES: (And)]
 
->  The same can be said of century plants, some varieties of cactus, such foliage plants as Grevillia robusta, Pandanus utilis or screw pine, Phormium tenax and many of the Dutch bulbs. <i>(Jul 10, 1897,Hawke's Bay Herald,5</i>)
+>  The same can be said of century plants, some varieties of cactus, such foliage plants as Grevillia robusta, Pandanus utilis or screw pine, Phormium tenax and many of the Dutch bulbs. <i>(Jul 10, 1897,Hawke's Bay Herald,5</i>)</i>
 
 ### screws
 
@@ -8571,7 +8571,7 @@ See: -
 
 >  <b>THOMAS</b> Mussels, paua, sea eggs and the whole range of there near and distant cousins were there for the taking. <i>(1970,Way Up North,54</i>)
 
->  <b>GRUNDY</b> The lagoon was rich with flounders, or flatties as the [Chatham] islanders call them, while the beach offered pauas and sea-eggs. <i>(1968,Who'd Marry a Doctor?,51</i>)
+>  <b>GRUNDY</b> The lagoon was rich with flounders, or flatties as the [Chatham] islanders call them, while the beach offered pauas and sea-eggs. <i>(1968,Who'd Marry a Doctor?,51</i>)</i>
 
 ### sea elephant
 
@@ -10536,7 +10536,7 @@ See: also grass
 
 >  <i>sedge, umbrella [=] cyperus eragrostis</i> [s] <i>Carex litorosa </i> <i>Ibid.</i> 82 <i>umbrella sedge [=] cyperus eragrostis</i> [s] <i>(1969,Standard Common Names for Weeds,82</i>)
 
->   <i>(1969,Standard Common Names for Weeds,68</i>) [NOTES: (And) 1909 Cockayne Report on a Botanical Survey of Stewart Island .]
+>   <i>(1969,Standard Common Names for Weeds,68</i>) [NOTES: (And) 1909 Cockayne Report on a Botanical Survey of Stewart Island .]</i>
 
 ### see through
 
@@ -12873,7 +12873,7 @@ See: cf. half a shake
 
 >  This week's mail from the other side brought the news that in the near future Albert Lloyd, the heavyweight, who was over about four years ago, is making tracks back to the Shaky Isles. <i>(Nov 29, 1924,NZ Truth,10</i>)
 
->  She took an engagement in New Zealand, and while she was in the Shaky Isles, she said, she sent Carey some of her salary to support him. <i>(Nov 20, 1930,NZ Truth,8</i>)
+>  She took an engagement in New Zealand, and while she was in the Shaky Isles, she said, she sent Carey some of her salary to support him. <i>(Nov 20, 1930,NZ Truth,8</i>)</i>
 
 ### Shaky Town
 

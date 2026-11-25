@@ -133,7 +133,7 @@
 
 >  <b>McLINTOCK</b> Periwinkle or mud snail .. .. takarepo, titiko, whetiko .. .. <i>Amphibola crenata </i> <i>(1966,Encyclopaedia of New Zealand, An,3/705-712</i>)
 
->  <b>KING</b> The sea also brought them snapper, mullet, parore and flounder; whitebait in season; and oysters, pipi and karahu (periwinkles). <i>(1983,Whina,38</i>)
+>  <b>KING</b> The sea also brought them snapper, mullet, parore and flounder; whitebait in season; and oysters, pipi and karahu (periwinkles). <i>(1983,Whina,38</i>)</i>
 
 ### perk
  
@@ -2050,7 +2050,7 @@
 
 >  <i>Tit Petroica macrocephala</i> (GMELIN, 1789) ... <i>Pied Tit P.m. toitoi (LESSON, 1828). <i>(1985,Reader's Digest Book of NZ Birds,284</i>)
 
->  Mr. Boult's list includes the following species:- Rifleman (one small flock only, well up in the bush), silver-eye, pied tit, goldfinch ... <i>(Feb 2, 1929,Evening Post,17</i>)
+>  Mr. Boult's list includes the following species:- Rifleman (one small flock only, well up in the bush), silver-eye, pied tit, goldfinch ... <i>(Feb 2, 1929,Evening Post,17</i>)</i>
 
 ### pieing
  
@@ -3968,7 +3968,7 @@
 
 >  <b>LAING & BLACKWELL</b> <i>Clematis indivisa (The Entire-leaved Clematis) ... Maori names, <i>Pua-wananga, Pikiarero. </i> <i>(1907,Plants of NZ,164,1940 p. 173 ed.</i>)
 
->  <i>pikiarero,</i> a climbing plant (Clematis hexasepala); pua-wa[a]nanga is C. indivisa. <i>(1946,Journal of the Polynesian Society,55/155</i>) [NOTES: Andersen Maori Words in English]
+>  <i>pikiarero,</i> a climbing plant (Clematis hexasepala); pua-wa[a]nanga is C. indivisa. <i>(1946,Journal of the Polynesian Society,55/155</i>) [NOTES: Andersen Maori Words in English]</i>
 
 ### Pikikiruna schist
  
@@ -4251,7 +4251,7 @@
 
 >  They will repay the steady, persevering miner with wages and from that to `a pile' occasionally. <i>(1862,Otago: Its Goldfields and Resources,27</i>)
 
->  <b>MITCHELL</b> I afterwards heard that a party of men drove a tunnel into the terrace ..., and got a pile out of it. <i>(1889,Rhymes and Rambles,19</i>)
+>  <b>MITCHELL</b> I afterwards heard that a party of men drove a tunnel into the terrace ..., and got a pile out of it. <i>(1889,Rhymes and Rambles,19</i>)</i>
 
 ### pile claim
  
@@ -4898,7 +4898,7 @@
  
 <b>3</b> <i>n.</i> a pineapple [[check Constable edition text here; and check Aloe text]]
 
->  <b>MANSFIELD</b> At the Chinaman's shop next door he bought a pineapple in the pink of condition, and noticing a basket of fresh black cherries he told John to put him in a pound of those as well. The oysters and pine he stowed away in the box under the front seat, but the cherries he kept in his hand. <i>(1920,Stories,240,1984 Alpers ed.</i>) [NOTES: [cf 1916 Mansfield The Aloe (1982 O'Sullivan) 95]
+>  <b>MANSFIELD</b> At the Chinaman's shop next door he bought a pineapple in the pink of condition, and noticing a basket of fresh black cherries he told John to put him in a pound of those as well. The oysters and pine he stowed away in the box under the front seat, but the cherries he kept in his hand. <i>(1920,Stories,240,1984 Alpers ed.</i>) [NOTES: [cf 1916 Mansfield The Aloe (1982 O'Sullivan) 95]</i>
 
 ### pine beer
  
@@ -5814,7 +5814,7 @@
 
 >  The.. following native birds should be saved, if possible.. Piopio: A thrush. Has a short bill, red tail, yellow breast, and brown back. <i>(Apr 8, 1867,Daily Southern Cross,5</i>)
 
->  The natural history specimens shown included specimens of the fast disappearing native thrush or piopio (<i>Tanagra hectori</i>). <i>(Oct 17, 1900,Evening Post,5</i>)
+>  The natural history specimens shown included specimens of the fast disappearing native thrush or piopio (<i>Tanagra hectori</i>). <i>(Oct 17, 1900,Evening Post,5</i>)</i>
 
 ### pip
  
@@ -6382,7 +6382,7 @@
 
 >  Judging from the description of the bird.. I presume it is the "Shining Cuckoo" - native name "pipiwarauroa" - which appears in New Zealand only as a summer visitor. <i>(Mar 3, 1885,Taranaki Herald,2</i>)
 
->  I have read your nature notes with much interest, especially when they deal with birds of passage, like the shining cuckoo or pipiwharauroa, the silver eye, and the godwit. <i>(Jul 14, 1909,Otago Witness,13</i>)
+>  I have read your nature notes with much interest, especially when they deal with birds of passage, like the shining cuckoo or pipiwharauroa, the silver eye, and the godwit. <i>(Jul 14, 1909,Otago Witness,13</i>)</i>
 
 ### pippi
  
@@ -6781,7 +6781,7 @@
  
  <i>adv.</i> as an intensifying derogative prefix, placed usu. before (usu. a polysyllabic) aj, and possibly formed onpiss-poorP8 1. pennil;ess, hence 2. RAF abominable, hence 3. general services, to describe anything bad, feeble, ineffective, disgusting, etc still current 1975. P8 does not give any other examples of the usage, nor does it give <i>poor as piss, </i> possibly a re-formation. NZEng <i>piss-awful</i> a common usage; but cf the general structural use: Too piss-clever for his boots; Too piss-beautiful for words; etc. <i>piss-good, piss bad</i> doesn't seem to work. <i>piss-poor</i> I associate with University in the 1940s; <i>piss
 
->  <b>McGILL</b> <i>piss weak</i> inadequate or mean or cowardly; eg `That halfback is piss weak, guarantee it. One good tackle on him and the game's as good as ours.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,84</i>)
+>  <b>McGILL</b> <i>piss weak</i> inadequate or mean or cowardly; eg `That halfback is piss weak, guarantee it. One good tackle on him and the game's as good as ours.' NZA. <i>(1988,Dictionary of Kiwi Slang, A,84</i>)</i>
 
 ### piss-awful
  
@@ -10108,7 +10108,7 @@
 
 >  47. <i> Scorpaena percoides </i> Richardson. Sea Perch. Maori: Pohuiakaroa <i>(1929,TrNZI,61149</i>) [NOTES: (Young)]
 
->  Their Maori name is Pohui-akaroa, and their scientific name Sebastes percoldes [sic]; but no fisherman could use such a name as that, so we call them "Stuarts," because that is the sort of colours they generally wear... <i>(Apr 23, 1902,Otago Witness,56</i>)
+>  Their Maori name is Pohui-akaroa, and their scientific name Sebastes percoldes [sic]; but no fisherman could use such a name as that, so we call them "Stuarts," because that is the sort of colours they generally wear... <i>(Apr 23, 1902,Otago Witness,56</i>)</i>
 
 ### pohuihui
  
@@ -10555,7 +10555,7 @@
 
 >  <b>ACTON-ADAMS</b> <i>Robertson. He has failed to do the Rainbow poisoning, he has failed to keep the boundary fences up. <i>(May 6, 1905,Letter</i>) [NOTES: 1905 May 6 Acton-Adams Lett. in 1969 McCaskill Molesworth 92]
 
->  Poisoning with phosphorised oats is not quite as general as is desirable. <i>(Aug 6, 1881,Otago Witness,18</i>)
+>  Poisoning with phosphorised oats is not quite as general as is desirable. <i>(Aug 6, 1881,Otago Witness,18</i>)</i>
 
 ### poisoning gang
  
@@ -10637,7 +10637,7 @@
 
 >  Pokako (Elaeocarpus Hookerianus). A large round-headed tree, near Dunedin; common also on the west coast. <i>Ibid.</i> 40 Pokako. Elaeocarpus Hookerianus, Raoul. <i>(1869,TrNZI,1/iii/34</i>) [NOTES: (Buchanan Botany Otago)]
 
->  The pokaka tree is a tall tree with a dark green leaf ... The pokaka wood makes very good posts. <i>(Feb 26, 1891,Otago Witness,35</i>)
+>  The pokaka tree is a tall tree with a dark green leaf ... The pokaka wood makes very good posts. <i>(Feb 26, 1891,Otago Witness,35</i>)</i>
 
 ### pokakker
  
